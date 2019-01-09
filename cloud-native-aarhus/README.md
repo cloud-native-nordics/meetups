@@ -39,5 +39,5 @@
   * "A way to micro services" - Torben B Haagh, Stibo Systems
   * "Kubernetes" - Henrik Høegh, Praqma
 * [Cloud Native Aarhus #1](https://www.meetup.com/Cloud-Native-Aarhus/events/239352311/)
-  * "Lunar Way and the Cloud Native Stack" - Kasper Nissen, Lunar Way 
+  * "Lunar Way and the Cloud Native Stack" - Kasper Nissen, Lunar Way ([pdf](2017/cloud-native-aarhus-1/lunar-way-cloud-native-aarhus-may-2017.pdf))
   * "Empowering your local environment with containers" - Daniel Fly, Smartweb
