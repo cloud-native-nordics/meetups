@@ -1,2 +1,2 @@
 # presentations
-Repository to gather all presentations from Cloud Native Aarhus meetups
+Repository to gather all presentations from Cloud Native Nordic meetups
