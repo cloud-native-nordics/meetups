@@ -1,0 +1,40 @@
+plan: git://git@bitbucket.org:LunarWay/lw-shuttle-go-plan.git
+
+vars:
+  service: subscription
+  squad: nasa
+  docker:
+    builder-image: golang:1.10.2
+    cmds:
+    - duplicate_subscriptions
+  db: true
+  rabbitmq: true
+  s3:
+    public: true
+    private: true
+  ingress: true
+  tests:
+    db: true
+  k8s:
+    local:
+      replicas: 1
+      db:
+        base64Password: c3Vic2NyaXB0aW9u
+      env:
+        authentication.middleware.mocked.user.id: 'mockedUserId'
+        # ...
+    dev:
+      replicas: 1
+      env:
+        execute.plan.switch.job: 'true'
+        # ...
+    staging:
+      replicas: 1
+      env:
+        execute.plan.switch.job: 'false'
+        # ...
+    prod:
+      replicas: 2
+      env:
+        execute.plan.switch.job: 'true'
+        # ...
