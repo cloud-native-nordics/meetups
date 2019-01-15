@@ -1,0 +1,4 @@
+@Library("jenkins-pipeline-scripts") _
+
+// Use the shuttle pipeline defined in lunar-way-jenkins-pipeline-scripts
+shuttlePipeline {}%

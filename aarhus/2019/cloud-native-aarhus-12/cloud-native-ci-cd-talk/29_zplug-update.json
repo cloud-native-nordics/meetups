@@ -1,0 +1,4034 @@
+{
+  "version": 1,
+  "width": 236,
+  "height": 57,
+  "duration": 47.864701,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.463131,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.526484,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[39m\u001b[0m\u001b[49m\u001b[47m \u001b[30m  \u001b[39m\u001b[30m07:31:54 \u001b[44m\u001b[37m \u001b[37m \u001b[39m\u001b[37mastrochimp \u001b[48;5;26m\u001b[34m \u001b[37m⎈ \u001b[39m\u001b[37mdocker-for-desktop \u001b[43m\u001b[38;5;26m \u001b[30m  \u001b[39m\u001b[30m master   \u001b[49m\u001b[33m\u001b[39m \r\n╰─ \u001b[K\u001b[232C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[K\u001b[00m\u001b[1B\u001b[232D"
+    ],
+    [
+      0.000224,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000151,
+      "\u001b[?2004h"
+    ],
+    [
+      2.199387,
+      "\u001b[32mz\u001b[39m"
+    ],
+    [
+      0.139686,
+      "\b\u001b[1m\u001b[31mz\u001b[1m\u001b[31mp\u001b[0m\u001b[39m"
+    ],
+    [
+      0.070944,
+      "\b\b\u001b[1m\u001b[31mz\u001b[1m\u001b[31mp\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.384389,
+      "\b\u001b[1m\u001b[31ml\u001b[1m\u001b[31mu\u001b[0m\u001b[39m"
+    ],
+    [
+      0.290149,
+      "\b\b\b\b\u001b[0m\u001b[32mz\u001b[0m\u001b[32mp\u001b[0m\u001b[32ml\u001b[0m\u001b[32mu\u001b[32mg\u001b[39m"
+    ],
+    [
+      0.395952,
+      "\b\b\b\b\b\u001b[1m\u001b[31mz\u001b[1m\u001b[31mp\u001b[1m\u001b[31ml\u001b[1m\u001b[31mu\u001b[1m\u001b[31mg\u001b[1m\u001b[31mu\u001b[0m\u001b[39m"
+    ],
+    [
+      0.425153,
+      "\b\b\b\b\b\b\u001b[0m\u001b[32mz\u001b[0m\u001b[32mp\u001b[0m\u001b[32ml\u001b[0m\u001b[32mu\u001b[0m\u001b[32mg\u001b[39m\u001b[0m\u001b[39m \b"
+    ],
+    [
+      0.136797,
+      " "
+    ],
+    [
+      0.202294,
+      "u"
+    ],
+    [
+      0.247234,
+      "p"
+    ],
+    [
+      0.158073,
+      "d"
+    ],
+    [
+      0.0802,
+      "a"
+    ],
+    [
+      0.281217,
+      "t"
+    ],
+    [
+      0.101014,
+      "e"
+    ],
+    [
+      0.447387,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000232,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.016367,
+      "\u001b[?25l"
+    ],
+    [
+      0.018818,
+      "[zplug] Start to update 15 plugins in parallel\r\n\r\n"
+    ],
+    [
+      1.003822,
+      "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+    ],
+    [
+      2.9e-05,
+      "\r\n\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.107249,
+      "\u001b[17A"
+    ],
+    [
+      0.000723,
+      " \u001b[37m⠙\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000496,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000481,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000431,
+      " \u001b[37m⠙\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000438,
+      " \u001b[37m⠙\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000422,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000436,
+      " \u001b[37m⠙\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000408,
+      " \u001b[37m⠙\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000435,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000438,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000371,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000365,
+      " \u001b[37m⠙\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000356,
+      " \u001b[37m⠙\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000382,
+      " \u001b[37m⠙\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000318,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000257,
+      "\r\n"
+    ],
+    [
+      0.015037,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107971,
+      "\u001b[17A"
+    ],
+    [
+      0.000643,
+      " \u001b[37m⠹\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000496,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000378,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000363,
+      " \u001b[37m⠹\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000362,
+      " \u001b[37m⠹\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000334,
+      " \u001b[37m⠹\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000386,
+      " \u001b[37m⠹\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000368,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000357,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.00036,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000349,
+      " \u001b[37m⠹\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000356,
+      " \u001b[37m⠹\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000326,
+      " \u001b[37m⠹\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000369,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000145,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.015986,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.105827,
+      "\u001b[17A"
+    ],
+    [
+      0.000714,
+      " \u001b[37m⠸\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.00056,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000553,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000532,
+      " \u001b[37m⠸\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000547,
+      " \u001b[37m⠸\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000436,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000427,
+      " \u001b[37m⠸\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000417,
+      " \u001b[37m⠸\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.00042,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000405,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000434,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000415,
+      " \u001b[37m⠸\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000416,
+      " \u001b[37m⠸\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000375,
+      " \u001b[37m⠸\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000346,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000261,
+      "\r\n"
+    ],
+    [
+      0.014722,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.108253,
+      "\u001b[17A"
+    ],
+    [
+      0.000503,
+      " \u001b[37m⠼\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.00042,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000361,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.00035,
+      " \u001b[37m⠼\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000355,
+      " \u001b[37m⠼\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000347,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000325,
+      " \u001b[37m⠼\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000343,
+      " \u001b[37m⠼\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000336,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000343,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000342,
+      " \u001b[37m⠼\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000339,
+      " \u001b[37m⠼\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000345,
+      " \u001b[37m⠼\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000341,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.00015,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000233,
+      "\r\n"
+    ],
+    [
+      0.014928,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.108113,
+      "\u001b[17A"
+    ],
+    [
+      0.000899,
+      " \u001b[37m⠴\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000565,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000536,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.00053,
+      " \u001b[37m⠴\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.00047,
+      " \u001b[37m⠴\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000414,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.00042,
+      " \u001b[37m⠴\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000413,
+      " \u001b[37m⠴\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000399,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000417,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000428,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000426,
+      " \u001b[37m⠴\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000414,
+      " \u001b[37m⠴\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000354,
+      " \u001b[37m⠴\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000448,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000162,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000237,
+      "\r\n"
+    ],
+    [
+      0.01464,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.108093,
+      "\u001b[17A"
+    ],
+    [
+      0.000427,
+      " \u001b[37m⠦\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000363,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000339,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000343,
+      " \u001b[37m⠦\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000331,
+      " \u001b[37m⠦\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000326,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000364,
+      " \u001b[37m⠦\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000336,
+      " \u001b[37m⠦\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000302,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000351,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.00034,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000332,
+      " \u001b[37m⠦\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000323,
+      " \u001b[37m⠦\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.00033,
+      " \u001b[37m⠦\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000332,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000117,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000216,
+      "\r\n"
+    ],
+    [
+      0.015814,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.10893,
+      "\u001b[17A"
+    ],
+    [
+      0.000494,
+      " \u001b[37m⠧\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000425,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000338,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000386,
+      " \u001b[37m⠧\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000333,
+      " \u001b[37m⠧\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000342,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000312,
+      " \u001b[37m⠧\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000311,
+      " \u001b[37m⠧\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000329,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000317,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.00032,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000324,
+      " \u001b[37m⠧\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000346,
+      " \u001b[37m⠧\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000284,
+      " \u001b[37m⠧\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.00014,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000246,
+      "\r\n"
+    ],
+    [
+      0.013761,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106031,
+      "\u001b[17A"
+    ],
+    [
+      0.000427,
+      " \u001b[37m⠇\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000319,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000407,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.00034,
+      " \u001b[37m⠇\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000381,
+      " \u001b[37m⠇\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000339,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠇\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000364,
+      " \u001b[37m⠇\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000316,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000299,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000304,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000341,
+      " \u001b[37m⠇\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000289,
+      " \u001b[37m⠇\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000329,
+      " \u001b[37m⠇\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000298,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000145,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000174,
+      "\r\n"
+    ],
+    [
+      0.014232,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106606,
+      "\u001b[17A"
+    ],
+    [
+      0.000392,
+      " \u001b[37m⠏\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000304,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000292,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000245,
+      " \u001b[37m⠏\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000316,
+      " \u001b[37m⠏\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000353,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000251,
+      " \u001b[37m⠏\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.0003,
+      " \u001b[37m⠏\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000346,
+      " \u001b[37m⠏\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000368,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000279,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000318,
+      " \u001b[37m⠏\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠏\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000372,
+      " \u001b[37m⠏\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000287,
+      " \u001b[37m⠏\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000224,
+      "\r\n"
+    ],
+    [
+      0.013526,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107103,
+      "\u001b[17A"
+    ],
+    [
+      0.000551,
+      " \u001b[37m⠋\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.00046,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000338,
+      " \u001b[37m⠋\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.00034,
+      " \u001b[37m⠋\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000327,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000355,
+      " \u001b[37m⠋\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000337,
+      " \u001b[37m⠋\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.00032,
+      " \u001b[37m⠋\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000332,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000318,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000319,
+      " \u001b[37m⠋\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000317,
+      " \u001b[37m⠋\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000321,
+      " \u001b[37m⠋\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000327,
+      " \u001b[37m⠋\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000143,
+      "\u001b[2K\r"
+    ],
+    [
+      0.00021,
+      "\r\n"
+    ],
+    [
+      0.015722,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107049,
+      "\u001b[17A"
+    ],
+    [
+      0.000676,
+      " \u001b[37m⠙\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000548,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000496,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000569,
+      " \u001b[37m⠙\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000682,
+      " \u001b[37m⠙\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000594,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000563,
+      " \u001b[37m⠙\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000495,
+      " \u001b[37m⠙\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000459,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000462,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000534,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000501,
+      " \u001b[37m⠙\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000456,
+      " \u001b[37m⠙\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000409,
+      " \u001b[37m⠙\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000451,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000213,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000345,
+      "\r\n"
+    ],
+    [
+      0.015626,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106007,
+      "\u001b[17A"
+    ],
+    [
+      0.000446,
+      " \u001b[37m⠹\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000478,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000458,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000436,
+      " \u001b[37m⠹\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000484,
+      " \u001b[37m⠹\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000412,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000531,
+      " \u001b[37m⠹\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000514,
+      " \u001b[37m⠹\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000532,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000567,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000519,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000471,
+      " \u001b[37m⠹\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000457,
+      " \u001b[37m⠹\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000418,
+      " \u001b[37m⠹\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.00048,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b[2K\r"
+    ],
+    [
+      0.00029,
+      "\r\n"
+    ],
+    [
+      0.020561,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.105268,
+      "\u001b[17A"
+    ],
+    [
+      0.000545,
+      " \u001b[37m⠸\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000485,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000373,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000414,
+      " \u001b[37m⠸\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000406,
+      " \u001b[37m⠸\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000371,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000471,
+      " \u001b[37m⠸\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000422,
+      " \u001b[37m⠸\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000383,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000595,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000455,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000442,
+      " \u001b[37m⠸\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000464,
+      " \u001b[37m⠸\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠸\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000423,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.0002,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.01824,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.105271,
+      "\u001b[17A"
+    ],
+    [
+      0.000515,
+      " \u001b[37m⠼\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000353,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000459,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000434,
+      " \u001b[37m⠼\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000352,
+      " \u001b[37m⠼\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000324,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000341,
+      " \u001b[37m⠼\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000362,
+      " \u001b[37m⠼\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000329,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000356,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000351,
+      " \u001b[37m⠼\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000349,
+      " \u001b[37m⠼\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠼\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000313,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000143,
+      "\u001b[2K\r"
+    ],
+    [
+      0.00023,
+      "\r\n"
+    ],
+    [
+      0.018401,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.105139,
+      "\u001b[17A"
+    ],
+    [
+      0.000644,
+      " \u001b[37m⠴\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000385,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000405,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000497,
+      " \u001b[37m⠴\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000492,
+      " \u001b[37m⠴\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.00042,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000414,
+      " \u001b[37m⠴\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000548,
+      " \u001b[37m⠴\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000386,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000435,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000483,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000571,
+      " \u001b[37m⠴\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000383,
+      " \u001b[37m⠴\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000505,
+      " \u001b[37m⠴\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000481,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.00018,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000235,
+      "\r\n"
+    ],
+    [
+      0.018261,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.104439,
+      "\u001b[17A"
+    ],
+    [
+      0.000543,
+      " \u001b[37m⠦\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000443,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000378,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000364,
+      " \u001b[37m⠦\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000362,
+      " \u001b[37m⠦\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000406,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000378,
+      " \u001b[37m⠦\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000456,
+      " \u001b[37m⠦\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000567,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000555,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000288,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000418,
+      " \u001b[37m⠦\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000506,
+      " \u001b[37m⠦\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000585,
+      " \u001b[37m⠦\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000373,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000173,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000268,
+      "\r\n"
+    ],
+    [
+      0.016795,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107252,
+      "\u001b[17A"
+    ],
+    [
+      0.000587,
+      " \u001b[37m⠧\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.00043,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000482,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000392,
+      " \u001b[37m⠧\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000378,
+      " \u001b[37m⠧\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000468,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000433,
+      " \u001b[37m⠧\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000392,
+      " \u001b[37m⠧\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000373,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000326,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000347,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000391,
+      " \u001b[37m⠧\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000316,
+      " \u001b[37m⠧\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000418,
+      " \u001b[37m⠧\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000518,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000198,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000328,
+      "\r\n"
+    ],
+    [
+      0.016255,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107834,
+      "\u001b[17A"
+    ],
+    [
+      0.000419,
+      " \u001b[37m⠇\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000354,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000484,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000342,
+      " \u001b[37m⠇\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.00034,
+      " \u001b[37m⠇\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000433,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000424,
+      " \u001b[37m⠇\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000303,
+      " \u001b[37m⠇\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000369,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000456,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000393,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000477,
+      " \u001b[37m⠇\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000437,
+      " \u001b[37m⠇\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000356,
+      " \u001b[37m⠇\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000187,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000223,
+      "\r\n"
+    ],
+    [
+      0.016932,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107973,
+      "\u001b[17A"
+    ],
+    [
+      0.000533,
+      " \u001b[37m⠏\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000681,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000552,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000513,
+      " \u001b[37m⠏\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000525,
+      " \u001b[37m⠏\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000507,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000452,
+      " \u001b[37m⠏\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000424,
+      " \u001b[37m⠏\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000479,
+      " \u001b[37m⠏\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000479,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000476,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000514,
+      " \u001b[37m⠏\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000441,
+      " \u001b[37m⠏\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000481,
+      " \u001b[37m⠏\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000482,
+      " \u001b[37m⠏\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000196,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000283,
+      "\r\n"
+    ],
+    [
+      0.018489,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.105124,
+      "\u001b[17A"
+    ],
+    [
+      0.000596,
+      " \u001b[37m⠋\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000437,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000365,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.00037,
+      " \u001b[37m⠋\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000372,
+      " \u001b[37m⠋\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000359,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.184902,
+      " \u001b[37m⠋\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000179,
+      " \u001b[37m⠋\u001b[00m  Updating...           LunarWay/lw-zsh\r\n \u001b[37m⠋\u001b[00m  Updating...           plugins/z\r\n \u001b[37m⠋\u001b[00m  Updating...           lib/theme-and-appearance\r\n \u001b[37m⠋\u001b[00m  Updating...           lib/history\r\n \u001b[37m⠋\u001b[00m  Updating...           lunarway/lw-zsh\r\n \u001b[37m⠋\u001b[00m  Updating...           zplug/zplug\r\n \u001b[37m⠋\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n \u001b[37m⠋\u001b[00m  Updating...           plugins/git\r\n\u001b[2K\r\r\nFinished: 0/15 plugins\r\n\u001b[17A \u001b[37m⠙\u001b[00m  Updating...           mafredri/zsh-async\r\n \u001b[37m⠙\u001b[00m  Updating...           lib/clipboard\r\n \u001b[37m⠙\u001b[00m  Updating...           lib/directories\r\n \u001b[37m⠙\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n \u001b[37m⠙\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n \u001b[37m⠙\u001b[00m  Updating...           lib/completion\r\n \u001b[37m⠙\u001b[00m  Updating...           junegunn/fzf\r\n \u001b[37m⠙\u001b[00m  Updating...           LunarWay/lw-zsh\r\n \u001b[37m⠙\u001b[00m  Updating...           plugins/z\r\n \u001b[37m⠙\u001b[00m  Updating...       "
+    ],
+    [
+      3.5e-05,
+      "    lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000597,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000432,
+      " \u001b[37m⠙\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000379,
+      " \u001b[37m⠙\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000437,
+      " \u001b[37m⠙\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000513,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000217,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000317,
+      "\r\n"
+    ],
+    [
+      0.020069,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106532,
+      "\u001b[17A"
+    ],
+    [
+      0.000451,
+      " \u001b[37m⠹\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000336,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000332,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000328,
+      " \u001b[37m⠹\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000364,
+      " \u001b[37m⠹\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000296,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.00034,
+      " \u001b[37m⠹\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠹\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000286,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000339,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000301,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000331,
+      " \u001b[37m⠹\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000307,
+      " \u001b[37m⠹\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠹\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000327,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000184,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000185,
+      "\r\n"
+    ],
+    [
+      0.014718,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.1039,
+      "\u001b[17A"
+    ],
+    [
+      0.000419,
+      " \u001b[37m⠸\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000337,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000331,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000319,
+      " \u001b[37m⠸\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000322,
+      " \u001b[37m⠸\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000314,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000311,
+      " \u001b[37m⠸\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000315,
+      " \u001b[37m⠸\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000318,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000324,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.00035,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000319,
+      " \u001b[37m⠸\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000315,
+      " \u001b[37m⠸\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000312,
+      " \u001b[37m⠸\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000324,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000212,
+      "\r\n"
+    ],
+    [
+      0.014417,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106405,
+      "\u001b[17A"
+    ],
+    [
+      0.000358,
+      " \u001b[37m⠼\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000315,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000304,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000278,
+      " \u001b[37m⠼\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000281,
+      " \u001b[37m⠼\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000277,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000276,
+      " \u001b[37m⠼\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000282,
+      " \u001b[37m⠼\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000278,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000259,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000269,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000331,
+      " \u001b[37m⠼\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000264,
+      " \u001b[37m⠼\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000387,
+      " \u001b[37m⠼\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000249,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.00016,
+      "\u001b[2K\r"
+    ],
+    [
+      0.0004,
+      "\r\n"
+    ],
+    [
+      0.013548,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106004,
+      "\u001b[17A"
+    ],
+    [
+      0.000391,
+      " \u001b[37m⠴\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.00032,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000321,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000321,
+      " \u001b[37m⠴\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000309,
+      " \u001b[37m⠴\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000392,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000337,
+      " \u001b[37m⠴\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000312,
+      " \u001b[37m⠴\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000329,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000335,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000317,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000302,
+      " \u001b[37m⠴\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000322,
+      " \u001b[37m⠴\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.00033,
+      " \u001b[37m⠴\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000322,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000208,
+      "\r\n"
+    ],
+    [
+      0.013955,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107156,
+      "\u001b[17A"
+    ],
+    [
+      0.000398,
+      " \u001b[37m⠦\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000342,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000333,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000334,
+      " \u001b[37m⠦\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000341,
+      " \u001b[37m⠦\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000326,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000327,
+      " \u001b[37m⠦\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000328,
+      " \u001b[37m⠦\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000335,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000314,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000322,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000356,
+      " \u001b[37m⠦\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000309,
+      " \u001b[37m⠦\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠦\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000315,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.014159,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106456,
+      "\u001b[17A"
+    ],
+    [
+      0.000446,
+      " \u001b[37m⠧\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000375,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000372,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000415,
+      " \u001b[37m⠧\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000414,
+      " \u001b[37m⠧\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000391,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000386,
+      " \u001b[37m⠧\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000341,
+      " \u001b[37m⠧\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000366,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000385,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.00037,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000442,
+      " \u001b[37m⠧\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000401,
+      " \u001b[37m⠧\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000371,
+      " \u001b[37m⠧\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000375,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000195,
+      "\u001b[2K\r"
+    ],
+    [
+      0.00025,
+      "\r\n"
+    ],
+    [
+      0.01601,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107523,
+      "\u001b[17A"
+    ],
+    [
+      0.000483,
+      " \u001b[37m⠇\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000509,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000549,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000363,
+      " \u001b[37m⠇\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000394,
+      " \u001b[37m⠇\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.00035,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠇\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000409,
+      " \u001b[37m⠇\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000405,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000377,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000375,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000363,
+      " \u001b[37m⠇\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠇\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.0004,
+      " \u001b[37m⠇\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000449,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000166,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.015164,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107996,
+      "\u001b[17A"
+    ],
+    [
+      0.000545,
+      " \u001b[37m⠏\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000509,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000408,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000381,
+      " \u001b[37m⠏\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.00037,
+      " \u001b[37m⠏\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000379,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000379,
+      " \u001b[37m⠏\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.0004,
+      " \u001b[37m⠏\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000438,
+      " \u001b[37m⠏\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.00044,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000449,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000499,
+      " \u001b[37m⠏\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000551,
+      " \u001b[37m⠏\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000526,
+      " \u001b[37m⠏\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000531,
+      " \u001b[37m⠏\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000191,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000266,
+      "\r\n"
+    ],
+    [
+      0.017004,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106162,
+      "\u001b[17A"
+    ],
+    [
+      0.000639,
+      " \u001b[37m⠋\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000454,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000485,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.00046,
+      " \u001b[37m⠋\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000381,
+      " \u001b[37m⠋\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000358,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000376,
+      " \u001b[37m⠋\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000355,
+      " \u001b[37m⠋\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000336,
+      " \u001b[37m⠋\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000499,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000229,
+      " \u001b[37m⠋\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000352,
+      " \u001b[37m⠋\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000367,
+      " \u001b[37m⠋\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000375,
+      " \u001b[37m⠋\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000242,
+      "\r\n"
+    ],
+    [
+      0.018926,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107931,
+      "\u001b[17A"
+    ],
+    [
+      0.000438,
+      " \u001b[37m⠙\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000395,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000372,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000351,
+      " \u001b[37m⠙\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠙\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000354,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.00035,
+      " \u001b[37m⠙\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000328,
+      " \u001b[37m⠙\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000341,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000369,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000332,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000396,
+      " \u001b[37m⠙\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000372,
+      " \u001b[37m⠙\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000356,
+      " \u001b[37m⠙\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000369,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000144,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      0.015343,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107816,
+      "\u001b[17A"
+    ],
+    [
+      0.000718,
+      " \u001b[37m⠹\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000434,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000421,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000445,
+      " \u001b[37m⠹\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000405,
+      " \u001b[37m⠹\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000382,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000337,
+      " \u001b[37m⠹\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000335,
+      " \u001b[37m⠹\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000377,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000424,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000364,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000361,
+      " \u001b[37m⠹\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.00035,
+      " \u001b[37m⠹\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000334,
+      " \u001b[37m⠹\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000331,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000165,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000197,
+      "\r\n"
+    ],
+    [
+      0.015983,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106388,
+      "\u001b[17A"
+    ],
+    [
+      0.000704,
+      " \u001b[37m⠸\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000439,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000429,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.00043,
+      " \u001b[37m⠸\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000401,
+      " \u001b[37m⠸\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000416,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000436,
+      " \u001b[37m⠸\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000346,
+      " \u001b[37m⠸\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000346,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000357,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000338,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.00034,
+      " \u001b[37m⠸\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000343,
+      " \u001b[37m⠸\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000347,
+      " \u001b[37m⠸\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000353,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000134,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.015178,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107903,
+      "\u001b[17A"
+    ],
+    [
+      0.00045,
+      " \u001b[37m⠼\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000396,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.00037,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000401,
+      " \u001b[37m⠼\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000361,
+      " \u001b[37m⠼\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000366,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000372,
+      " \u001b[37m⠼\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000339,
+      " \u001b[37m⠼\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000514,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000361,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000342,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.00037,
+      " \u001b[37m⠼\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000343,
+      " \u001b[37m⠼\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000365,
+      " \u001b[37m⠼\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000347,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.00016,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000234,
+      "\r\n"
+    ],
+    [
+      0.015033,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.107653,
+      "\u001b[17A"
+    ],
+    [
+      0.000464,
+      " \u001b[37m⠴\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000362,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000364,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000337,
+      " \u001b[37m⠴\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000374,
+      " \u001b[37m⠴\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000317,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000381,
+      " \u001b[37m⠴\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000342,
+      " \u001b[37m⠴\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000333,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000362,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000353,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000365,
+      " \u001b[37m⠴\u001b[00m  Updating...           lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000342,
+      " \u001b[37m⠴\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000354,
+      " \u001b[37m⠴\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000326,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000147,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000225,
+      "\r\n"
+    ],
+    [
+      0.015669,
+      "Finished: 0/15 plugins\r\n"
+    ],
+    [
+      0.106424,
+      "\u001b[17A"
+    ],
+    [
+      0.000611,
+      " \u001b[37m⠦\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000434,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.00043,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.00043,
+      " \u001b[37m⠦\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000435,
+      " \u001b[37m⠦\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000449,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000377,
+      " \u001b[37m⠦\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000327,
+      " \u001b[37m⠦\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000376,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000352,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000343,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.008788,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000606,
+      " \u001b[37m⠦\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000406,
+      " \u001b[37m⠦\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000368,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000138,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.014989,
+      "Finished: 1/15 plugins\r\n"
+    ],
+    [
+      0.107244,
+      "\u001b[17A"
+    ],
+    [
+      0.000436,
+      " \u001b[37m⠧\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000375,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.00036,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000359,
+      " \u001b[37m⠧\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000353,
+      " \u001b[37m⠧\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000355,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000322,
+      " \u001b[37m⠧\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000381,
+      " \u001b[37m⠧\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000379,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000354,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000352,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000379,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000365,
+      " \u001b[37m⠧\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.00036,
+      " \u001b[37m⠧\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000347,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000226,
+      "\r\n"
+    ],
+    [
+      0.016707,
+      "Finished: 1/15 plugins\r\n"
+    ],
+    [
+      0.107845,
+      "\u001b[17A"
+    ],
+    [
+      0.000584,
+      " \u001b[37m⠇\u001b[00m  Updating...           mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000467,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000384,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000342,
+      " \u001b[37m⠇\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000355,
+      " \u001b[37m⠇\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000367,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000404,
+      " \u001b[37m⠇\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000339,
+      " \u001b[37m⠇\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000453,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000364,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000414,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000429,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.00039,
+      " \u001b[37m⠇\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.00036,
+      " \u001b[37m⠇\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000354,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000154,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000254,
+      "\r\n"
+    ],
+    [
+      0.016052,
+      "Finished: 1/15 plugins\r\n"
+    ],
+    [
+      0.108524,
+      "\u001b[17A"
+    ],
+    [
+      0.010477,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000439,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000351,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000331,
+      " \u001b[37m⠏\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000388,
+      " \u001b[37m⠏\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000377,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000323,
+      " \u001b[37m⠏\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000406,
+      " \u001b[37m⠏\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000352,
+      " \u001b[37m⠏\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000416,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000586,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000442,
+      " \u001b[37m⠏\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000407,
+      " \u001b[37m⠏\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000368,
+      " \u001b[37m⠏\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000199,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000418,
+      "\r\n"
+    ],
+    [
+      0.015538,
+      "Finished: 2/15 plugins\r\n"
+    ],
+    [
+      0.105341,
+      "\u001b[17A"
+    ],
+    [
+      0.000481,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.00042,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.00045,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000371,
+      " \u001b[37m⠋\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000378,
+      " \u001b[37m⠋\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000359,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000354,
+      " \u001b[37m⠋\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000347,
+      " \u001b[37m⠋\u001b[00m  Updating...           LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000355,
+      " \u001b[37m⠋\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000348,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000385,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000406,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000396,
+      " \u001b[37m⠋\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000368,
+      " \u001b[37m⠋\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000369,
+      " \u001b[37m⠋\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000313,
+      "\r\n"
+    ],
+    [
+      0.017968,
+      "Finished: 2/15 plugins\r\n"
+    ],
+    [
+      0.105381,
+      "\u001b[17A"
+    ],
+    [
+      0.000578,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000388,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000365,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000363,
+      " \u001b[37m⠙\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000459,
+      " \u001b[37m⠙\u001b[00m  Updating...           zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000366,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000376,
+      " \u001b[37m⠙\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.009369,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.00047,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000336,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000398,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000395,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000368,
+      " \u001b[37m⠙\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000452,
+      " \u001b[37m⠙\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000338,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000165,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000295,
+      "\r\n"
+    ],
+    [
+      0.015468,
+      "Finished: 3/15 plugins\r\n"
+    ],
+    [
+      0.107859,
+      "\u001b[17A"
+    ],
+    [
+      0.000506,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000392,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000402,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000412,
+      " \u001b[37m⠹\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.009429,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000548,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000355,
+      " \u001b[37m⠹\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000463,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000432,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000374,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000313,
+      " \u001b[37m⠹\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.00047,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000375,
+      " \u001b[37m⠹\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000332,
+      " \u001b[37m⠹\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000408,
+      " \u001b[37m⠹\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000167,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000376,
+      "\r\n"
+    ],
+    [
+      0.016302,
+      "Finished: 4/15 plugins\r\n"
+    ],
+    [
+      0.107472,
+      "\u001b[17A"
+    ],
+    [
+      0.000606,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000493,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000541,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000434,
+      " \u001b[37m⠸\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000435,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.00054,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000401,
+      " \u001b[37m⠸\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000481,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000466,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000434,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000474,
+      " \u001b[37m⠸\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000464,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000369,
+      " \u001b[37m⠸\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000374,
+      " \u001b[37m⠸\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000346,
+      " \u001b[37m⠸\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000146,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000327,
+      "\r\n"
+    ],
+    [
+      0.015008,
+      "Finished: 4/15 plugins\r\n"
+    ],
+    [
+      0.105844,
+      "\u001b[17A"
+    ],
+    [
+      0.000542,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000404,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000339,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000359,
+      " \u001b[37m⠼\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000386,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000364,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.00036,
+      " \u001b[37m⠼\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000413,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000441,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000345,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000344,
+      " \u001b[37m⠼\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000388,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.00037,
+      " \u001b[37m⠼\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000347,
+      " \u001b[37m⠼\u001b[00m  Updating...           sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000385,
+      " \u001b[37m⠼\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000147,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000288,
+      "\r\n"
+    ],
+    [
+      0.017237,
+      "Finished: 4/15 plugins\r\n"
+    ],
+    [
+      0.107446,
+      "\u001b[17A"
+    ],
+    [
+      0.000477,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000405,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000376,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000361,
+      " \u001b[37m⠴\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000389,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000382,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000346,
+      " \u001b[37m⠴\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000435,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.00046,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000341,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000356,
+      " \u001b[37m⠴\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000392,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000366,
+      " \u001b[37m⠴\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.009808,
+      " \u001b[37m✔\u001b[00m  Up-to-date            sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000421,
+      " \u001b[37m⠴\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000163,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000303,
+      "\r\n"
+    ],
+    [
+      0.015514,
+      "Finished: 5/15 plugins\r\n"
+    ],
+    [
+      0.105985,
+      "\u001b[17A"
+    ],
+    [
+      0.0005,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000379,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000334,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000376,
+      " \u001b[37m⠦\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000383,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000361,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000346,
+      " \u001b[37m⠦\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.00044,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000413,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000328,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000329,
+      " \u001b[37m⠦\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000418,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000399,
+      " \u001b[37m⠦\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000365,
+      " \u001b[37m✔\u001b[00m  Up-to-date            sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000329,
+      " \u001b[37m⠦\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000121,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000298,
+      "\r\n"
+    ],
+    [
+      0.018028,
+      "Finished: 5/15 plugins\r\n"
+    ],
+    [
+      0.107984,
+      "\u001b[17A"
+    ],
+    [
+      0.000553,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000473,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/clipboard\r\n"
+    ],
+    [
+      0.000451,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/directories\r\n"
+    ],
+    [
+      0.000512,
+      " \u001b[37m⠧\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000545,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000615,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.000779,
+      " \u001b[37m⠧\u001b[00m  Updating...           junegunn/fzf\r\n"
+    ],
+    [
+      0.000708,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000535,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.000479,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000486,
+      " \u001b[37m⠧\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000518,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.00048,
+      " \u001b[37m⠧\u001b[00m  Updating...           zplug/zplug\r\n"
+    ],
+    [
+      0.000508,
+      " \u001b[37m✔\u001b[00m  Up-to-date            sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000461,
+      " \u001b[37m⠧\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.00022,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000397,
+      "\r\n"
+    ],
+    [
+      0.023426,
+      "Finished: 5/15 plugins\r\n"
+    ],
+    [
+      0.109811,
+      "\u001b[17A"
+    ],
+    [
+      0.000508,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.009106,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lib/clipboard\r\n"
+    ],
+    [
+      0.009847,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/directories\r\n"
+    ],
+    [
+      0.000489,
+      " \u001b[37m⠇\u001b[00m  Updating...           bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000431,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000384,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.011536,
+      "\u001b[2K\r"
+    ],
+    [
+      0.00107,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  junegunn/fzf --> hook-build: \u001b[32msuccess\u001b[00m\r\n"
+    ],
+    [
+      0.000829,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000657,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/z\r\n"
+    ],
+    [
+      0.011414,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000433,
+      " \u001b[37m⠇\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000811,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.011332,
+      " \u001b[37m✔\u001b[00m  Up-to-date            zplug/zplug\r\n"
+    ],
+    [
+      0.000459,
+      " \u001b[37m✔\u001b[00m  Up-to-date            sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000368,
+      " \u001b[37m⠇\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000485,
+      "\r\n"
+    ],
+    [
+      0.016223,
+      "Finished: 10/15 plugins\r\n"
+    ],
+    [
+      0.108553,
+      "\u001b[17A"
+    ],
+    [
+      0.000454,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000416,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lib/clipboard\r\n"
+    ],
+    [
+      0.000381,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/directories\r\n"
+    ],
+    [
+      0.008486,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000419,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000358,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/completion\r\n"
+    ],
+    [
+      0.00036,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000468,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  junegunn/fzf --> hook-build: \u001b[32msuccess\u001b[00m\r\n"
+    ],
+    [
+      0.000475,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.009754,
+      " \u001b[37m✔\u001b[00m  Up-to-date            plugins/z\r\n"
+    ],
+    [
+      0.000414,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.00035,
+      " \u001b[37m⠏\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000427,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000425,
+      " \u001b[37m✔\u001b[00m  Up-to-date            zplug/zplug\r\n"
+    ],
+    [
+      0.000411,
+      " \u001b[37m✔\u001b[00m  Up-to-date            sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000367,
+      " \u001b[37m⠏\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000117,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000518,
+      "\r\n"
+    ],
+    [
+      0.014174,
+      "Finished: 12/15 plugins\r\n"
+    ],
+    [
+      0.107385,
+      "\u001b[17A"
+    ],
+    [
+      0.00048,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000399,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lib/clipboard\r\n"
+    ],
+    [
+      0.000372,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/directories\r\n"
+    ],
+    [
+      0.000294,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000273,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.008182,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lib/completion\r\n"
+    ],
+    [
+      0.000378,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000425,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  junegunn/fzf --> hook-build: \u001b[32msuccess\u001b[00m\r\n"
+    ],
+    [
+      0.000412,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000424,
+      " \u001b[37m✔\u001b[00m  Up-to-date            plugins/z\r\n"
+    ],
+    [
+      0.000338,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.00031,
+      " \u001b[37m⠋\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.00034,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000373,
+      " \u001b[37m✔\u001b[00m  Up-to-date            zplug/zplug\r\n"
+    ],
+    [
+      0.000388,
+      " \u001b[37m✔\u001b[00m  Up-to-date            sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000322,
+      " \u001b[37m⠋\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000112,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000703,
+      "\r\n"
+    ],
+    [
+      0.014175,
+      "Finished: 13/15 plugins\r\n"
+    ],
+    [
+      0.108145,
+      "\u001b[17A"
+    ],
+    [
+      0.000446,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000411,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lib/clipboard\r\n"
+    ],
+    [
+      0.00036,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/directories\r\n"
+    ],
+    [
+      0.000357,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000389,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000365,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lib/completion\r\n"
+    ],
+    [
+      0.000388,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000406,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  junegunn/fzf"
+    ],
+    [
+      2e-05,
+      " --> hook-build: \u001b[32msuccess\u001b[00m\r\n"
+    ],
+    [
+      0.00038,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000413,
+      " \u001b[37m✔\u001b[00m  Up-to-date            plugins/z\r\n"
+    ],
+    [
+      0.000345,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.000329,
+      " \u001b[37m⠙\u001b[00m  Updating...           lib/history\r\n"
+    ],
+    [
+      0.000353,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000395,
+      " \u001b[37m✔\u001b[00m  Up-to-date            zplug/zplug\r\n"
+    ],
+    [
+      0.000403,
+      " \u001b[37m✔\u001b[00m  Up-to-date            sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.000309,
+      " \u001b[37m⠙\u001b[00m  Updating...           plugins/git\r\n"
+    ],
+    [
+      0.000142,
+      "\u001b[2K\r"
+    ],
+    [
+      0.000702,
+      "\r\n"
+    ],
+    [
+      0.014746,
+      "Finished: 13/15 plugins\r\n"
+    ],
+    [
+      0.104074,
+      "\u001b[17A"
+    ],
+    [
+      0.000563,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  mafredri/zsh-async\r\n"
+    ],
+    [
+      0.000465,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lib/clipboard\r\n"
+    ],
+    [
+      0.000389,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/directories\r\n"
+    ],
+    [
+      0.000384,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  bhilburn/powerlevel9k\r\n"
+    ],
+    [
+      0.000402,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  zsh-users/zsh-syntax-highlighting\r\n"
+    ],
+    [
+      0.000372,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lib/completion\r\n"
+    ],
+    [
+      0.000396,
+      "\u001b[2K\r"
+    ],
+    [
+      0.00049,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  junegunn/fzf --> hook-build: \u001b[32msuccess\u001b[00m\r\n"
+    ],
+    [
+      0.000435,
+      " \u001b[37m✔\u001b[00m  Up-to-date            LunarWay/lw-zsh\r\n"
+    ],
+    [
+      0.000443,
+      " \u001b[37m✔\u001b[00m  Up-to-date            plugins/z\r\n"
+    ],
+    [
+      0.000362,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/theme-and-appearance\r\n"
+    ],
+    [
+      0.009977,
+      " \u001b[37m✔\u001b[00m  Up-to-date            lib/history\r\n"
+    ],
+    [
+      0.000475,
+      " \u001b[01;37m✔\u001b[00m  \u001b[32mUpdated!            \u001b[00m  lunarway/lw-zsh\r\n"
+    ],
+    [
+      0.000451,
+      " \u001b[37m✔\u001b[00m  Up-to-date            zplug/zplug\r\n"
+    ],
+    [
+      0.000459,
+      " \u001b[37m✔\u001b[00m  Up-to-date            sobolevn/wakatime-zsh-plugin\r\n"
+    ],
+    [
+      0.009543,
+      " \u001b[37m✔\u001b[00m  Up-to-date            plugins/git\r\n"
+    ],
+    [
+      0.00018,
+      "\u001b[2K\r"
+    ],
+    [
+      0.001493,
+      "\u001b[2K\r"
+    ],
+    [
+      2.3e-05,
+      "\r\n"
+    ],
+    [
+      0.013821,
+      "[zplug] Elapsed time: 7.9533 sec.\r\n"
+    ],
+    [
+      0.000785,
+      "\u001b[01;39m ==> Updating finished successfully!\u001b[00m\r\n"
+    ],
+    [
+      0.016755,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001191,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                           \r \r"
+    ],
+    [
+      0.229395,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J╭─\u001b[39m\u001b[0m\u001b[49m\u001b[47m \u001b[30m  \u001b[39m\u001b[30m07:32:07 \u001b[44m\u001b[37m \u001b[37m \u001b[39m\u001b[37mastrochimp \u001b[48;5;26m\u001b[34m \u001b[37m⎈ \u001b[39m\u001b[37mdocker-for-desktop \u001b[43m\u001b[38;5;26m \u001b[30m  \u001b[39m\u001b[30m master   \u001b[49m\u001b[33m\u001b[39m \r\n╰─ \u001b[K\u001b[232C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[K\u001b[00m\u001b[1B\u001b[232D"
+    ],
+    [
+      0.000122,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000127,
+      "\u001b[?2004h"
+    ]
+  ]
+}
