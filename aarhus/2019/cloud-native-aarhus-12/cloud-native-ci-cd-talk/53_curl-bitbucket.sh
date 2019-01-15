@@ -1,0 +1,63 @@
+curl -X POST -u "<username>:<token>" https://api.bitbucket.org/2.0/teams/LunarWay/hooks --data-binary '{
+  "description": "Jenkins Dev (Global Webhook - Do not edit or delete)",
+  "url": "https://jenkins.dev.lunarway.com/bitbucket-scmsource-hook/notify",
+  "type": "webhook_subscription",
+  "active": true,
+  "events": [
+    "repo:push",
+    "repo:fork",
+    "repo:updated",
+    "repo:commit_comment_created",
+    "repo:commit_status_created",
+    "repo:commit_status_updated",
+    "pullrequest:created",
+    "pullrequest:updated",
+    "pullrequest:approved",
+    "pullrequest:unapproved",
+    "pullrequest:fulfilled",
+    "pullrequest:rejected",
+    "pullrequest:comment_created",
+    "pullrequest:comment_updated",
+    "pullrequest:comment_deleted",
+    "issue:created",
+    "issue:updated",
+    "issue:comment_created",
+    "project:updated",
+    "repo:created",
+    "repo:deleted",
+    "repo:imported",
+    "repo:transfer"
+  ]
+}'
+
+curl -X POST -u "<username>:<token>" https://api.bitbucket.org/2.0/teams/LunarWay/hooks --data-binary '{
+  "description": "Jenkins Prod (Global Webhook - Do not edit or delete)",
+  "url": "https://jenkins.prod.lunarway.com/bitbucket-scmsource-hook/notify",
+  "type": "webhook_subscription",
+  "active": true,
+  "events": [
+    "repo:push",
+    "repo:fork",
+    "repo:updated",
+    "repo:commit_comment_created",
+    "repo:commit_status_created",
+    "repo:commit_status_updated",
+    "pullrequest:created",
+    "pullrequest:updated",
+    "pullrequest:approved",
+    "pullrequest:unapproved",
+    "pullrequest:fulfilled",
+    "pullrequest:rejected",
+    "pullrequest:comment_created",
+    "pullrequest:comment_updated",
+    "pullrequest:comment_deleted",
+    "issue:created",
+    "issue:updated",
+    "issue:comment_created",
+    "project:updated",
+    "repo:created",
+    "repo:deleted",
+    "repo:imported",
+    "repo:transfer"
+  ]
+}'
