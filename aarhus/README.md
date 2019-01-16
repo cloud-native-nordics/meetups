@@ -1,12 +1,24 @@
 # Cloud Native Aarhus
 
-## 2019
+## The leadership team
+
+ - Kasper Nissen ([@kaspernissen](https://github.com/kaspernissen)), CNCF Ambassador, Cloud Architect / SRE @lunarway, [kubecloud.io](https://kubecloud.io), kaspernissen@gmail.com
+ - Rasmus Steiniche, Software Architect, DevOps and Cloud Native @ BESTSELLER
+ - Henrik Høegh, Certified Kubernetes Administrator at Praqma.net
+ - Daniel Fly Nygaard, System Developer at SmartWeb.dk
+
+## Next Meetup
+
+[Cloud Native Aarhus 13: Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects](https://www.meetup.com/Cloud-Native-Aarhus/events/257138158/)
+
+## Past Meetups
+### 2019
 
 * [Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD](https://www.meetup.com/Cloud-Native-Aarhus/events/257106811/)  
-  * "Cloud Native CI/CD at Lunar Way" - Emil Krog Ingeslev, Lunar Way
+  * "Cloud Native CI/CD at Lunar Way" - Emil Krog Ingeslev, Lunar Way [[pdf](2019/cloud-native-aarhus-12/slides.pdf)]
   *  "A Cloud Native data platform in both batch and real-time for Business Intelligence, Data Science and system-integrations." - Christian Selch, Berlingske Media
 
-## 2018
+### 2018
 * [From Mainframe to Kubernetes / CloudNativeCon+KubeCon Keynotes Live Stream](https://www.meetup.com/Cloud-Native-Aarhus/events/256345753/)  
   * "From Mainframe to Kubernetes" - Jeppe Johansen, Whyyy [[pdf](2018/cloud-native-aarhus-11/From-Mainframe-to-Kubernetes.pdf)]
 * [10th Meet-up Anniversary Edition: Cloud Native with Zalando and Uber](https://www.meetup.com/Cloud-Native-Aarhus/events/255632833/)  
