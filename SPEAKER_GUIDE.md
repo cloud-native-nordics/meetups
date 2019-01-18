@@ -14,17 +14,14 @@ or to talk badly about competitors. This is a good place to say that _all our me
 
 #### Before the meetup
 
- - Apply to speak at a Finnish CNCF & Kubernetes meetup at: https://bit.ly/k8sfin-cfp
- - The organizers will get back to you via email and confirm your speaking slot if it
-   made it into the agenda.
+ - Apply to speak at Cloud Native Nordics meetup, currently depends on the individual group. Click on the specific group to find out how to apply. 
  - Discuss any outstanding questions with the organizer and accept the speaking slot,
    preferably the title and short abstract shall be available around a week before the meetup.
 
 #### At the meetup
 
- - Arrive at least 15 minutes before the meetup starts (most often 6pm)
- - Normal presentation speaking slots are 20-30 minutes, lightning talks around 10 minutes,
-   including Q&A. The venue host presentation is around 5 minutes.
+ - Arrive at least 15 minutes before the meetup starts
+ - Presentation speaking slots vary, and may be 45 minutes, 20-30 minutes or lightning talks for around 10 minutes including Q&A. The venue host presentation is around 5-10 minutes.
  - Preferably, bring your own laptop. If you don't, let the organizers know in beforehand.
  - (Optional) Bring your company's or favorite project's swag, e.g. stickers to the "swag table".
  - (Optional) Let the organizers know your Twitter handle, and they will tweet about your talk
@@ -33,9 +30,7 @@ or to talk badly about competitors. This is a good place to say that _all our me
 #### After the meetup
 
  - If you had any specific feedback around how the meetup felt, let the organizers know
- - Please upload your presentation so that it is publicly accessible afterwards, e.g. using
-   [Speakerdeck](https://speakerdeck.com) or [Google Drive](https://drive.google.com).
-
+ - Please upload your presentation so that it is publicly accessible afterwards. Create a PR for this repo adding you presentation, and preferably a link to your presentation for the meetup groups page.
 
 Again, thank you for speaking at our meetup!
 
