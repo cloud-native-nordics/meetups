@@ -11,7 +11,7 @@
  - Date: 23rd of January, 2019 at 6pm - 9pm
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/256936479/
  - Livestream / video: TBA
- - Attendees (according to meetup.com): TBA
+ - Attendees (according to meetup.com): 114
  - Venue sponsor: [Accenture](https://accenture.com)
  - Food / drinks sponsor: [Accenture](https://accenture.com)
  - General meetup sponsors: [CNCF](https://cncf.io) & [luxas labs](https://luxaslabs.com)
@@ -20,13 +20,17 @@
 
  - 18:00 - 18:15: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
  - 18:15 - 18:20: Welcome from the organizers
+    - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-january-2019
  - 18:20 - 18:25: Introductionary words from the venue sponsor for this time, Accenture
  - 18:30 - 19:00: Update from KubeCon Seattle 2018
     - Jörg Schad, Mesosphere
+    - Slides: https://docs.google.com/presentation/d/1_1NpDUiejmEYdpplIqOEtepv7V6Yc0G2uFp4dVaQ70k/edit#slide=id.g4c8185cd42_0_0
  - 19:05 - 19:35: A journey towards Kubernetes at scale on remote unattended sites
     - Niklas Wik, Nokia
+    - Slides: https://speakerdeck.com/salkin/kubernetes-at-scale-on-remote-sites
  - 19:40 - 20:10: How to make your company start contributing to open source
     - Oscar Renalias, Accenture
+    - Slides: https://www.slideshare.net/oscarrenalias/enterprise-open-source
  - 20:15 - 20:50: Networking time & optional Accenture lab prototypes
 
 
