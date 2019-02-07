@@ -15,7 +15,7 @@
 ### 2019
 
 * [Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD](https://www.meetup.com/Cloud-Native-Aarhus/events/257106811/)  
-  * "Cloud Native CI/CD at Lunar Way" - Emil Krog Ingeslev, Lunar Way [[pdf](2019/cloud-native-aarhus-12/slides.pdf)]
+  * "Cloud Native CI/CD at Lunar Way" - Emil Krog Ingeslev, Lunar Way [[pdf](2019/cloud-native-aarhus-12/cloud-native-ci-cd-talk/slides.pdf)]
   *  "A Cloud Native data platform in both batch and real-time for Business Intelligence, Data Science and system-integrations." - Christian Selch, Berlingske Media
 
 ### 2018
