@@ -1,0 +1,105 @@
+companies:
+- id: luxaslabs
+  name: luxas labs
+  websiteURL: https://luxaslabs.com
+- id: futurice
+  name: Futurice
+  websiteURL: https://www.futurice.com/
+- id: kontena
+  name: Kontena
+  websiteURL: https://kontena.io
+- id: cybercom
+  name: Cybercom
+  websiteURL: https://www.cybercom.com/
+- id: accenture
+  name: Accenture
+  websiteURL: https://accenture.com
+- id: netum
+  name: Netum
+  websiteURL: https://www.netum.fi/
+- id: eficode
+  name: Eficode
+  websiteURL: https://www.eficode.com/home
+- id: cncf
+  name: Cloud Native Computing Foundation (CNCF)
+  websiteURL: https://www.cncf.io/
+
+speakers:
+- id: luxas
+  name: Lucas Käldström
+  github: luxas
+  title: CNCF Ambassador
+  company: luxaslabs
+  email: lucas@luxaslabs.com
+- id: netumoliver
+  name: Oliver Joggerst
+  github: oliverjoggerst
+  company: netum
+- id: jnummelin
+  name: Jussi Nummelin
+  github: jnummelin
+  company: kontena
+- id: poutanen
+  name: Ilkka Poutanen
+  company: futurice
+- id: ylenius
+  name: Toni Ylenius
+  company: cybercom
+- id: hoisko
+  name: Sakari Hoisko
+  company: eficode
+
+meetupGroups:
+- name: CNCF & Kubernetes Tampere
+  meetupURL: https://www.meetup.com/Kubernetes-Tampere
+  city: Tampere
+  organizers:
+  - luxas
+  - netumoliver
+  - jnummelin
+  - hoisko
+  meetups:
+  - name: First Kubernetes and CNCF Tampere Meetup
+    id: 257164934
+    dateInternal: 17th of January, 2019 at 6pm - 9pm
+    attendees: 50
+    address: Pakkahuoneenaukio 2, 33100 Tampere, Finland
+    recording: https://youtu.be/PvrFMc9bZ-k
+    sponsors:
+      venue: cybercom  
+      other:
+      - luxaslabs
+      - cncf
+    presentations:
+    - startTime: 18:00
+      endTime: 18:15
+      title: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
+    - startTime: 18:15
+      endTime: 18:20
+      title: Welcome from the organisers
+    - startTime: 18:20
+      endTime: 18:25
+      title: Introductionary words from the venue sponsor for this time, Cybercom
+    - startTime: 18:30
+      endTime: 19:00
+      title: Introduction to the cloud-native world of Kubernetes & CNCF
+      slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019
+      speaker: luxas
+    - startTime: 19:05
+      endTime: 19:30
+      title: Setting up a Kubernetes cluster and getting started
+      slides: https://speakerdeck.com/jnummelin/geting-started-with-kubernetes
+      speaker: jnummelin
+    - startTime: 19:35
+      endTime: 20:00
+      title: Moving from Heroku to AKS
+      slides: https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing
+      speaker: poutanen
+    - startTime: 20:05
+      endTime: 20:30
+      title: Experiences of different Pipelines and Development workflows on Kubernetes
+      slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
+      speaker: ylenius
+    - startTime: 20:30
+      endTime: 21:00
+      title: Networking

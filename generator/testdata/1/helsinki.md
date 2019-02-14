@@ -1,22 +1,19 @@
-## Meetups organized in Tampere
+## Meetups organized in Helsinki
 
 #### Organizers
 
  - Lucas Käldström ([@luxas])(https://github.com/luxas), CNCF Ambassador, luxas labs, lucas@luxaslabs.com
- - Oliver Joggerst ([@oliverjoggerst])(https://github.com/oliverjoggerst), Netum
- - Jussi Nummelin ([@jnummelin])(https://github.com/jnummelin), Kontena
- - Sakari Hoisko, Eficode
+ - Annie Talvasto, Student
 
-### First Kubernetes and CNCF Tampere Meetup
+### Winter Kubernetes Meetup
 
- - Date: 17th of January, 2019 at 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/257164934/
- - Recording: https://youtu.be/PvrFMc9bZ-k
- - Attendees (according to meetup.com): 50
- - Venue sponsor: [Cybercom](https://www.cybercom.com/)
+ - Date: 1st of January 2019, 6pm - 9pm
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/1234/
+ - Recording: http://youtu.be/foobar
+ - Attendees (according to meetup.com): 100
+ - Venue sponsor: [Accenture](https://accenture.com)
  - Meetup sponsors:
    - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
