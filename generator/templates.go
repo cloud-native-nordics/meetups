@@ -6,8 +6,9 @@ const (
 #### Organizers
 
 {{ range .Organizers }} - {{ .Name }}{{if .Github }} ([@{{ .Github }}])(https://github.com/{{ .Github }}){{end}}{{if .Title }}, {{ .Title }}{{end}}{{if .Company }}, {{ .Company.Name }}{{end}}{{if .Email }}, {{ .Email }}{{end}}
-{{end}}
-{{ range .Meetups }}### {{ .Name }}
+{{end}}{{ range .Meetups }}
+
+### {{ .Name }}
 
  - Date: {{ .DateInternal }}
  - Meetup link: {{ $.MeetupURL }}/events/{{ .ID }}/
@@ -21,6 +22,7 @@ const (
 
 {{ range .Presentations }} - {{ .StartTime }} - {{ .EndTime }}: {{ .Title }} {{ if .Speaker }}
    - {{ .Speaker.Name }}{{ if .Speaker.Title }}, {{ .Speaker.Title }}{{end}}{{ if .Speaker.Company }}, {{ .Speaker.Company.Name }}{{end}}{{end}}{{ if .Slides }}
-   - Slides: {{ .Slides }}{{end}}
+   - Slides: {{ .Slides }}{{end}}{{ if .Recording }}
+   - Recording: {{ .Recording }}{{end}}
 {{end}}{{end}}`
 )
