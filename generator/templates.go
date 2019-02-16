@@ -7,7 +7,6 @@ const (
 
 {{ range .Organizers }} - {{ .Name }}{{if .Github }} ([@{{ .Github }}])(https://github.com/{{ .Github }}){{end}}{{if .Title }}, {{ .Title }}{{end}}{{if .Company }}, {{ .Company.Name }}{{end}}{{if .Email }}, {{ .Email }}{{end}}
 {{end}}{{ range .Meetups }}
-
 ### {{ .Name }}
 
  - Date: {{ .DateInternal }}
