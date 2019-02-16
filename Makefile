@@ -5,6 +5,9 @@ all: generate
 generate: generator/bin/generator
 	generator/bin/generator --config meetups.yaml --dry-run=false
 
+dry-run: generator/bin/generator
+	generator/bin/generator --config meetups.yaml --dry-run=true
+
 validate: generator/bin/generator
 	generator/bin/generator --config meetups.yaml --validate
 
