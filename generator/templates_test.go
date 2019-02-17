@@ -9,7 +9,7 @@ import (
 )
 
 func TestParse(t *testing.T) {
-	for i := 1; i <= 1; i++ {
+	for i := 1; i <= 2; i++ {
 		inpath := fmt.Sprintf("testdata/%d/in.yaml", i)
 		t.Run(inpath, func(t2 *testing.T) {
 			in, err := ioutil.ReadFile(inpath)
