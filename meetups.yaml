@@ -53,10 +53,10 @@ companies:
   name: Qvik
   websiteUrl: https://www.qvik.com
 - id: redhat
-  name: Redhat
+  name: Red Hat
   websiteUrl: https://www.redhat.com
 - id: nordea
-  name: nordea
+  name: Nordea
   websiteUrl: https://www.nordea.fi
 - id: sshcom
   name: SSH.COM

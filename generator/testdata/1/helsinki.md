@@ -5,7 +5,6 @@
  - Lucas Käldström ([@luxas])(https://github.com/luxas), CNCF Ambassador, luxas labs, lucas@luxaslabs.com
  - Annie Talvasto, Student
 
-
 ### Winter Kubernetes Meetup
 
  - Date: 1st of January 2019, 6pm - 9pm
