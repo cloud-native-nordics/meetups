@@ -36,46 +36,46 @@ companies:
   name: Student
 - id: tuxera
   name: Tuxera Oy
-  websiteUrl: https://www.tuxera.com
+  websiteURL: https://www.tuxera.com
 - id: microsoft
   name: Microsoft
-  websiteUrl: https://www.microsoft.com
+  websiteURL: https://www.microsoft.com
 - id: vincit
   name: Vincit
-  websiteUrl: https://www.vincit.fi
+  websiteURL: https://www.vincit.fi
 - id: unity
   name: Unity
-  websiteUrl: https://www.unity.com
+  websiteURL: https://www.unity.com
 - id: elisa
   name: Elisa
-  websiteUrl: https://www.elisa.com
+  websiteURL: https://www.elisa.com
 - id: qvik
   name: Qvik
-  websiteUrl: https://www.qvik.com
+  websiteURL: https://www.qvik.com
 - id: redhat
   name: Red Hat
-  websiteUrl: https://www.redhat.com
+  websiteURL: https://www.redhat.com
 - id: nordea
   name: Nordea
-  websiteUrl: https://www.nordea.fi
+  websiteURL: https://www.nordea.fi
 - id: sshcom
   name: SSH.COM
-  websiteUrl: https://www.ssh.com/
+  websiteURL: https://www.ssh.com/
 - id: maria01
   name: Maria 01
-  websiteUrl: https://maria.io/
+  websiteURL: https://maria.io/
 - id: upcloud
   name: UpCloud
-  websiteUrl: https://upcloud.com/
+  websiteURL: https://upcloud.com/
 - id: intel
   name: Intel
-  websiteUrl: https://www.intel.com
+  websiteURL: https://www.intel.com
 - id: kompozure
   name: Kompozure
-  websiteUrl: https://www.kompozure.com
+  websiteURL: https://www.kompozure.com
 - id: zalando
   name: Zalando
-  websiteUrl: https://www.zalando.com
+  websiteURL: https://www.zalando.com
 
 speakers:
 - id: luxas

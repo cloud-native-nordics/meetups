@@ -2,7 +2,7 @@
 
 #### Organizers
 
- - Lucas Käldström ([@luxas])(https://github.com/luxas), CNCF Ambassador, luxas labs, lucas@luxaslabs.com
+ - Lucas Käldström ([@luxas](https://github.com/luxas)), CNCF Ambassador, [luxas labs](https://luxaslabs.com), lucas@luxaslabs.com
  - Annie Talvasto, Student
 
 ### Winter Kubernetes Meetup
