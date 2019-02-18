@@ -500,4 +500,60 @@ meetupGroups:
     - startTime: 20:30
       endTime: 21:00
       title: Feel free to hang out with the people for the rest of the evening, do some Q&A with the speakers, etc.
-    
+- name: Cloud Native Aarhus
+  meetupURL: https://www.meetup.com/Cloud-Native-Aarhus/
+  city: Aarhus, Denmark
+  organizers:
+  - Kasper Nissen ([@kaspernissen](https://github.com/kaspernissen)), CNCF Ambassador, Cloud Architect / SRE @lunarway, [kubecloud.io](https://kubecloud.io), kaspernissen@gmail.com 
+  - Rasmus Steiniche, Software Architect, DevOps and Cloud Native @ BESTSELLER
+  - Henrik Høegh, Certified Kubernetes Administrator at Praqma.net
+  - Daniel Fly Nygaard, System Developer at SmartWeb.dk
+  meetups:
+  - name: Winter Kubernetes Meetup
+    id: 257138158
+    dateInternal: 12 of February, 2019 at 5pm - 8pm
+    attendees: 85
+    address: INCUBA, Åbogade, Aarhus N 
+    recording: none
+    sponsors:
+      venue: Praqma  
+    presentations:
+    - startTime: 17:00
+      endTime: 17:05
+      title: Welcome to Cloud Native Aarhus
+      speaker: Daniel Fly
+    - startTime: 17:05
+      endTime: 17:15
+      title: Welcome from Praqma
+      speaker: Henrik Høegh
+    - startTime: 17:15
+      endTime: 17:30
+      title: Virtual Kubelet
+      speaker: Mike Rostermund
+    - startTime: 17:30
+      endTime: 17:45
+      title: NATS
+      speaker: Benjamin Nørgaard
+      slides: aarhus/2019/cloud-native-aarhus-13/nats.pdf
+    - startTime: 17:45
+      endTime: 18:00
+      title: Rook
+      speaker: Michael Vittrup Larsen
+      slides: aarhus/2019/cloud-native-aarhus-13/ROOK-Storage-the-Cloud-Native-Way.pdf
+    - startTime: 18:00
+      endTime: 18:30
+      title: Food and break
+    - startTime: 18:30
+      endTime: 18:45
+      title: Envoy
+      speaker: Martin Jensen
+      slides: aarhus/2019/cloud-native-aarhus-13/envoy-proxy-introduction.pdf
+    - startTime: 18:30
+      endTime: 18:45
+      title: Linkerd
+      speaker: Bjørn Sørensen
+      slides: aarhus/2019/cloud-native-aarhus-13/linkerd-2-introduction.pdf
+    - startTime: 19:00
+      endTime: 20:00
+      title: Discussions and networking
+  ## TODO: add the rest of the meetups
