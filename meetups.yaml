@@ -76,6 +76,21 @@ companies:
   - id: zalando
     name: Zalando
     websiteURL: https://www.zalando.com
+  - id: praqma
+    name: Praqma
+    websiteURL: https://www.praqma.com
+  - id: lunarway
+    name: Lunar Way A/S
+    websiteURL: https://www.lunarway.com
+  - id: schneiderelectric
+    name: Schneider Electric
+    websiteURL: https://www.se.com
+  - id: lix
+    name: Lix Technologies
+    websiteURL: https://www.lix.com/en
+  - id: zitcom
+    name: Zitcom
+    websiteURL: https://www.zitcom.dk/
 
 speakers:
   - id: luxas
@@ -153,6 +168,27 @@ speakers:
   - id: michael
     name: Michael Duergner
     company: zalando
+  - id: henrikhoegh
+    name: Henrik Høegh
+    company: praqma
+  - id: michaelvittruplarsen
+    name: Michael Vittrup Larsen
+    company: praqma
+  - id: martinjensen
+    name: Martin Jensen
+    company: lunarway
+  - id: bjornsorensen
+    name: Bjørn Sørensen
+    company: lunarway
+  - id: mikerostermund
+    name: Mike Rostermund
+    company: schneiderelectric
+  - id: benjaminnorgaard
+    name: Benjamin Nørgaard
+    company: lix
+  - id: danielfly
+    name: Daniel Fly
+    company: zitcom
 
 meetupGroups:
   - name: CNCF & Kubernetes Tampere
@@ -516,29 +552,29 @@ meetupGroups:
         address: INCUBA, Åbogade, Aarhus N
         recording: none
         sponsors:
-          venue: Praqma
+          venue: praqma
         presentations:
           - startTime: 17:00
             endTime: 17:05
             title: Welcome to Cloud Native Aarhus
-            speaker: Daniel Fly
+            speaker: danielfly
           - startTime: 17:05
             endTime: 17:15
             title: Welcome from Praqma
-            speaker: Henrik Høegh
+            speaker: henrikhoegh
           - startTime: 17:15
             endTime: 17:30
             title: Virtual Kubelet
-            speaker: Mike Rostermund
+            speaker: mikerostermund
           - startTime: 17:30
             endTime: 17:45
             title: NATS
-            speaker: Benjamin Nørgaard
+            speaker: benjaminnorgaard
             slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/nats.pdf
           - startTime: 17:45
             endTime: 18:00
             title: Rook
-            speaker: Michael Vittrup Larsen
+            speaker: michaelvittruplarsen
             slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/ROOK-Storage-the-Cloud-Native-Way.pdf
           - startTime: 18:00
             endTime: 18:30
@@ -546,12 +582,12 @@ meetupGroups:
           - startTime: 18:30
             endTime: 18:45
             title: Envoy
-            speaker: Martin Jensen
+            speaker: martinjensen
             slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/envoy-proxy-introduction.pdf
           - startTime: 18:30
             endTime: 18:45
             title: Linkerd
-            speaker: Bjørn Sørensen
+            speaker: bjornsorensen
             slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/linkerd-2-introduction.pdf
           - startTime: 19:00
             endTime: 20:00
