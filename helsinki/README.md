@@ -2,9 +2,9 @@
 
 #### Organizers
 
- - Lucas Käldström ([@luxas])(https://github.com/luxas), CNCF Ambassador, luxas labs, lucas@luxaslabs.com
- - Annie Talvasto, Student
- - Teemu Heikkilä, Emblica
+ - Lucas Käldström ([@luxas](https://github.com/luxas)), CNCF Ambassador, [luxas labs](https://luxaslabs.com), lucas@luxaslabs.com
+ - Annie Talvasto, [Student]()
+ - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 
 ### Winter Kubernetes Meetup
 
@@ -89,7 +89,7 @@
    - Jerry Jalava, Qvik
    - Slides: https://www.slideshare.net/jerryjalava/kubernetes-security-journey
  - 19:35 - 19:55: Lessons learned when building a Kubernetes distribution 
-   - Marek Jelen, Redhat
+   - Marek Jelen, Red Hat
    - Slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
  - 20:00 - 20:20: Orchestrate VMs on top of Kubernetes 
    - Severi Haverila
@@ -102,7 +102,7 @@
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/250712383/
  - Recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
  - Attendees (according to meetup.com): 110
- - Venue sponsor: [nordea](https://www.nordea.fi)
+ - Venue sponsor: [Nordea](https://www.nordea.fi)
  - Meetup sponsors:
    - [luxas labs](https://luxaslabs.com)
    - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
