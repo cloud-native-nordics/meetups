@@ -106,7 +106,12 @@ companies:
 - id: berlingskemedia
   name: Berlingske Media
   websiteURL: https://www.berlingskemedia.dk/
-
+- id: trifork
+  name: Trifork A/S
+  websiteURL: https://trifork.com/
+- id: whyyy
+  name: Whyyy
+  websiteURL: https://whyyy.dk/
 
 speakers:
 - id: luxas
@@ -235,6 +240,10 @@ speakers:
 - id: christianselech
   name: Christian Selch
   company: berlingskemedia
+- id: jeppejohansen
+  name: Jeppe Johansen
+  company: whyyy
+  title: Head of Software Engineering & Lead Software Developer
 
 meetupGroups:
 - name: CNCF & Kubernetes Tampere
@@ -700,3 +709,35 @@ meetupGroups:
     - startTime: 19:15
       endTime: 20:00
       title: Discussions and networking
+  - name: From Mainframe to Kubernetes / CloudNativeCon+KubeCon Keynotes Live Stream
+    id: 256345753
+    dateInternal: 11 of December, 2018 at 4:30pm - 8pm
+    attendees: 49
+    address: Trifork A/S, Dokk1, Hack Kampmanns Plads 2, Plan 3, 8000 Aarhus
+    recording: none
+    sponsors:
+      venue: trifork
+    presentations:
+    - startTime: 16:30
+      endTime: 16:45
+      title: Doors open
+    - startTime: 16:45
+      endTime: 16:50
+      title: Welcome to Cloud Native Aarhus
+      speaker: kaspernissen
+    - startTime: 16:50
+      endTime: 17:00
+      title: Welcome to Trifork by Morten Kjær Pedersen
+    - startTime: 17:00
+      endTime: 17:45
+      title: From Mainframe to Kubernetes
+      speaker: jeppejohansen
+    - startTime: 17:45
+      endTime: 18:00
+      title: Food and Christmas Beers
+    - startTime: 18:00
+      endTime: 19:30
+      title: Day 1 Keynote Live Stream from CloudNativeCon+KubeCon Nort America
+    - startTime: 19:30
+      endTime: 20:00
+      title: Discussions and networking 
