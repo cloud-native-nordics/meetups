@@ -648,7 +648,7 @@ meetupGroups:
       title: Feel free to hang out with the people for the rest of the evening, do some Q&A with the speakers, etc.
 - name: Cloud Native Aarhus
   meetupURL: https://www.meetup.com/Cloud-Native-Aarhus/
-  city: Aarhus, Denmark
+  city: aarhus
   organizers:
   - kaspernissen
   - rasmussteiniche
