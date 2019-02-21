@@ -94,6 +94,12 @@ companies:
 - id: zitcom
   name: Zitcom
   websiteURL: https://www.zitcom.dk/
+- id: sparnordbank
+  name: Spar Nord Bank
+  websiteURL: https://www.sparnord.dk/
+- id: tv2play
+  name: TV2 Play
+  websiteURL: https://play.tv2.dk/
 
 speakers:
 - id: luxas
@@ -192,6 +198,29 @@ speakers:
 - id: danielfly
   name: Daniel Fly
   company: zitcom
+- id: kaspernissen
+  name: Kasper Nissen
+  company: lunarway
+  github: kaspernissen
+  title: Cloud Architect/SRE, CNCF Ambassador
+  email: kaspernissen@gmail.com
+  twitter: phennex
+- id: rasmussteiniche
+  company: BESTSELLER
+  title: Software Architect, DevOps and Cloud Native
+  name: Rasmus Steiniche
+- id: camillalarsen
+  company: sparnordbank
+  name: Camilla Larsen
+  title: Systems Engineer
+- id: rasmusroemer
+  company: sparnordbank
+  name: Rasmus Rømer
+  title: Systems Engineer
+- id: martinvillumsen
+  name: Martin Villumsen
+  title: Software Developer & Site Reliability Engineer
+  company: tv2play
 
 meetupGroups:
 - name: CNCF & Kubernetes Tampere
@@ -543,11 +572,43 @@ meetupGroups:
   meetupURL: https://www.meetup.com/Cloud-Native-Aarhus/
   city: Aarhus, Denmark
   organizers:
-  - Kasper Nissen ([@kaspernissen](https://github.com/kaspernissen)), CNCF Ambassador, Cloud Architect / SRE @lunarway, [kubecloud.io](https://kubecloud.io), kaspernissen@gmail.com
-  - Rasmus Steiniche, Software Architect, DevOps and Cloud Native @ BESTSELLER
-  - Henrik Høegh, Certified Kubernetes Administrator at Praqma.net
-  - Daniel Fly Nygaard, System Developer at SmartWeb.dk
+  - kaspernissen
+  - rasmussteiniche
+  - henrikhoegh
+  - danielfly
   meetups:
+  - name: "Cloud Native Stories: TV 2 Play & Spar Nord Bank"
+    id: 258287765
+    dateInternal: 5 of March, 2019 at 5pm - 8pm
+    attendees:
+    address: Spar Nord Bank, Ceresbyen 75, 8000 Aarhus
+    recording: none
+    sponsors:
+      venue: sparnordbank
+    presentations:
+    - startTime: 17:00
+      endTime: 17:05
+      title: Welcome to Cloud Native Aarhus
+      speaker: kaspernissen
+    - startTime: 17:05
+      endTime: 17:15
+      title: Welcome from Spar Nord Bank
+    - startTime: 17:15
+      endTime: 18:00
+      title: The DevOps story, from Spar Nord Bank. A glimpse, of the success stories and detours we have experienced, during the past years
+      speaker:
+      - camillalarsen
+      - rasmusroemer
+    - startTime: 18:00
+      endTime: 18:30
+      title: Food and break
+    - startTime: 18:30
+      endTime: 19:15
+      title: TV 2 Play’s Journey to the Cloud
+      speaker: martinvillumsen
+    - startTime: 19:15
+      endTime: 20:00
+      title: Discussions and networking
   - name: Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects
     id: 257138158
     dateInternal: 12 of February, 2019 at 5pm - 8pm
