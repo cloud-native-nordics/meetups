@@ -674,9 +674,7 @@ meetupGroups:
     - startTime: 17:15
       endTime: 18:00
       title: The DevOps story, from Spar Nord Bank. A glimpse, of the success stories and detours we have experienced, during the past years
-      speaker:
-      - camillalarsen
-      - rasmusroemer
+      speaker: camillalarsen
     - startTime: 18:00
       endTime: 18:30
       title: Food and break
