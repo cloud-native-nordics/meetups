@@ -124,6 +124,9 @@ companies:
 - id: humio
   name: Humio
   websiteURL: https://humio.com
+- id: boligportal
+  name: BoligPortal
+  websiteURL: https://boligportal.dk
 
 
 speakers:
@@ -274,6 +277,9 @@ speakers:
   company: bestseller
 - id: thomasboeghfangel
   name: Thomas Bøgh Fangel
+  company: lunarway
+- id: nicolaikobber
+  name: Nicolai Kobber
   company: lunarway
 
 meetupGroups:
@@ -900,6 +906,36 @@ meetupGroups:
       endTime: 19:15
       title: Our road to microservices - or how we learned to love async events
       speaker: thomasboeghfangel
+    - startTime: 19:15
+      endTime: 20:00
+      title: Networking
+  - name: "Cloud Native Aarhus #6: Prometheus & Helm"
+    id: 246895606
+    dateInternal: 28 of February, 2018 at 5:00pm - 8pm
+    attendees: 53
+    address: Paludan-Müllers Vej 40 B, 8200 Aarhus N
+    recording: none
+    sponsors:
+      venue: boligportal
+    presentations:
+    - startTime: 17:00
+      endTime: 17:05
+      title: Welcome
+      speaker: kaspernissen
+    - startTime: 17:05
+      endTime: 17:15
+      title: Welcome to BoligPortal by Karsten Røjkær Børglum
+    - startTime: 17:15
+      endTime: 18:00
+      title: Prometheus 101 - How to get started
+      speaker: rasmussteiniche
+    - startTime: 18:00
+      endTime: 18:30
+      title: Break and food
+    - startTime: 18:30
+      endTime: 19:15
+      title: Introduction to Helm - The Kubernetes Package Manager
+      speaker: nicolaikobber
     - startTime: 19:15
       endTime: 20:00
       title: Networking
