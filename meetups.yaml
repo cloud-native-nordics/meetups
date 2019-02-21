@@ -112,6 +112,12 @@ companies:
 - id: whyyy
   name: Whyyy
   websiteURL: https://whyyy.dk/
+- id: uberaarhus
+  name: Uber
+  websiteURL: https://uber.com
+- id: firstagenda
+  name: First Agenda
+  websiteURL: https://firstagenda.com
 
 speakers:
 - id: luxas
@@ -244,6 +250,15 @@ speakers:
   name: Jeppe Johansen
   company: whyyy
   title: Head of Software Engineering & Lead Software Developer
+- id: magnusvinther
+  name: Magnus Vinther
+  company: uberaarhus
+- id: mikkeloscarlarsen
+  name: Mikkel Oscar Lyderik Larsen
+  company: zalando
+- id: gustavkaleta
+  name: Gustav Kaleta
+  company: microsoft
 
 meetupGroups:
 - name: CNCF & Kubernetes Tampere
@@ -741,3 +756,70 @@ meetupGroups:
     - startTime: 19:30
       endTime: 20:00
       title: Discussions and networking 
+  - name: "10th Meet-up Anniversary Edition: Cloud Native with Zalando and Uber"
+    id: 255632833
+    dateInternal: 6 of November, 2018 at 5:00pm - 8pm
+    attendees: 88
+    address: Uber, Åboulevarden 37, 5th floor, 8000 Aarhus
+    recording: none
+    sponsors:
+      venue: uberaarhus
+    presentations:
+    - startTime: 17:00
+      endTime: 17:05
+      title: Welcome to Cloud Native Aarhus
+      speaker: rasmussteiniche
+    - startTime: 17:05
+      endTime: 17:15
+      title: Welcome to Uber by Kåre Kjelstrøm
+    - startTime: 17:15
+      endTime: 17:45
+      title: How we store blobs at Uber
+      speaker: magnusvinther
+    - startTime: 17:45
+      endTime: 18:15
+      title: Break and food
+    - startTime: 18:15
+      endTime: 18:45
+      title: Cloud Native Infrastructure @ Zalando
+      speaker: mikkeloscarlarsen
+    - startTime: 18:45
+      endTime: 19:15
+      title: "StackSets: Simplifying application management in Kubernetes"
+      speaker: mikkeloscarlarsen
+    - startTime: 19:15
+      endTime: 19:20
+      title: 10th Meet-up Anniversary Raffle (there will be swag)
+    - startTime: 19:20
+      endTime: 20:00
+      title: Discussions and networking 
+  - name: A Cloud Native Evening with Microsoft
+    id: 253946193
+    dateInternal: 20 of September, 2018 at 5:00pm - 8pm
+    attendees: 72
+    address: First Agenda, Søren Frichs Vej 44, 8000 Aarhus
+    recording: none
+    sponsors:
+      venue: firstagenda
+    presentations:
+    - startTime: 17:00
+      endTime: 17:05
+      title: Welcome to Cloud Native Aarhus
+      speaker: kaspernissen
+    - startTime: 17:05
+      endTime: 17:20
+      title: Welcome to First Agenda by CTO Peter Kondrup
+    - startTime: 17:20
+      endTime: 18:00
+      title: Part 1
+      speaker: gustavkaleta
+    - startTime: 18:00
+      endTime: 18:20
+      title: Break and food
+    - startTime: 18:20
+      endTime: 19:00
+      title: Part 2
+      speaker: gustavkaleta
+    - startTime: 19:00
+      endTime: 20:00
+      title: Discussions and networking
