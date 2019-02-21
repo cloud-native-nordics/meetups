@@ -100,6 +100,13 @@ companies:
 - id: tv2play
   name: TV2 Play
   websiteURL: https://play.tv2.dk/
+- id: bestseller
+  name: BESTSELLER
+  websiteURL: https://bestseller.com/
+- id: berlingskemedia
+  name: Berlingske Media
+  websiteURL: https://www.berlingskemedia.dk/
+
 
 speakers:
 - id: luxas
@@ -206,7 +213,7 @@ speakers:
   email: kaspernissen@gmail.com
   twitter: phennex
 - id: rasmussteiniche
-  company: BESTSELLER
+  company: bestseller
   title: Software Architect, DevOps and Cloud Native
   name: Rasmus Steiniche
 - id: camillalarsen
@@ -221,6 +228,13 @@ speakers:
   name: Martin Villumsen
   title: Software Developer & Site Reliability Engineer
   company: tv2play
+- id: emilingerslev
+  name: Emil Ingerslev
+  title: Cloud Architect/SRE
+  company: lunarway
+- id: christianselech
+  name: Christian Selch
+  company: berlingskemedia
 
 meetupGroups:
 - name: CNCF & Kubernetes Tampere
@@ -656,5 +670,33 @@ meetupGroups:
     - startTime: 19:00
       endTime: 20:00
       title: Discussions and networking
-    ## TODO: add the rest of the meetups
-   
+  - name: "Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD"
+    id: 257106811
+    dateInternal: 8 of January, 2019 at 5pm - 8pm
+    attendees: 81
+    address: BESTSELLER, Inge Lehmanns Gade 2, 8000 Aarhus
+    recording: none
+    sponsors:
+      venue: bestseller
+    presentations:
+    - startTime: 17:00
+      endTime: 17:05
+      title: Welcome to Cloud Native Aarhus
+      speaker: rasmussteiniche
+    - startTime: 17:05
+      endTime: 17:15
+      title: Welcome to BESTSELLER by Paul Skarregaard
+    - startTime: 17:15
+      endTime: 18:00
+      title: Cloud Native CI/CD at Lunar Way
+      speaker: emilingerslev
+    - startTime: 18:00
+      endTime: 18:30
+      title: Food and break
+    - startTime: 18:30
+      endTime: 19:15
+      title: A Cloud Native data platform in both batch and real-time for Business Intelligence, Data Science and system-integrations
+      speaker: christianselech
+    - startTime: 19:15
+      endTime: 20:00
+      title: Discussions and networking
