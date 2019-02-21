@@ -118,6 +118,13 @@ companies:
 - id: firstagenda
   name: First Agenda
   websiteURL: https://firstagenda.com
+- id: systematic
+  name: Systematic
+  websiteURL: https://systematic.com
+- id: humio
+  name: Humio
+  websiteURL: https://humio.com
+
 
 speakers:
 - id: luxas
@@ -259,6 +266,15 @@ speakers:
 - id: gustavkaleta
   name: Gustav Kaleta
   company: microsoft
+- id: petermechlenborg
+  name: Peter Mechlenborg
+  company: humio
+- id: peterbroendum
+  name: Peter Brøndum
+  company: bestseller
+- id: thomasboeghfangel
+  name: Thomas Bøgh Fangel
+  company: lunarway
 
 meetupGroups:
 - name: CNCF & Kubernetes Tampere
@@ -823,3 +839,67 @@ meetupGroups:
     - startTime: 19:00
       endTime: 20:00
       title: Discussions and networking
+  - name: "Cloud Native Aarhus #8: Humio + k8s, Minecraft + k8s, and Observability Panel"
+    id: 251508540
+    dateInternal: 21 of June, 2018 at 5:00pm - 8pm
+    attendees: 33
+    address: Systematic, Søren Frichs Vej 39, 8000 Aarhus
+    recording: none
+    sponsors:
+      venue: systematic
+    presentations:
+    - startTime: 17:00
+      endTime: 17:05
+      title: Welcome to Cloud Native Aarhus
+      speaker: kaspernissen
+    - startTime: 17:05
+      endTime: 17:15
+      title: Welcome to Systematic
+    - startTime: 17:15
+      endTime: 17:50
+      title: Shipping logs from k8s to Humio
+      speaker: petermechlenborg
+    - startTime: 17:50
+      endTime: 18:00
+      title: Short break
+    - startTime: 18:00
+      endTime: 18:30
+      title: Minecraft server in Kubernetes
+      speaker: henrikhoegh
+    - startTime: 18:30
+      endTime: 19:00
+      title: Observability Panel Discussion and Q&A
+    - startTime: 19:00
+      endTime: 20:00
+      title: Food and networking
+  - name: "Cloud Native Aarhus #7: Transition to Cloud Native & Microservices"
+    id: 248922498
+    dateInternal: 24 of April, 2018 at 5:00pm - 8pm
+    attendees: 78
+    address: Inge Lehmanns Gade 2, 8000 Aarhus
+    recording: none
+    sponsors:
+      venue: bestseller
+    presentations:
+    - startTime: 17:00
+      endTime: 17:05
+      title: Welcome to Cloud Native Aarhus
+      speaker: kaspernissen
+    - startTime: 17:05
+      endTime: 17:15
+      title: Welcome to BESTSELLER
+      speaker: rasmussteiniche
+    - startTime: 17:15
+      endTime: 18:00
+      title: Traditional Ops to Cloud Native
+      speaker: peterbroendum
+    - startTime: 18:00
+      endTime: 18:30
+      title: Break and food
+    - startTime: 18:30
+      endTime: 19:15
+      title: Our road to microservices - or how we learned to love async events
+      speaker: thomasboeghfangel
+    - startTime: 19:15
+      endTime: 20:00
+      title: Networking
