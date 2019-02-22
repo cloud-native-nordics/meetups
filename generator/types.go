@@ -14,33 +14,27 @@ var (
 type CompanyID string
 type SpeakerID string
 
-type Companies struct {
-	NoopMG    interface{} `json:"meetupGroups"`
-	NoopS     interface{} `json:"speakers"`
-	Companies []Company   `json:"companies"`
+type CompaniesFile struct {
+	Companies []Company `json:"companies"`
 }
 
-func (c *Companies) SetGlobalMap() {
+func (c *CompaniesFile) SetGlobalMap() {
 	for i, co := range c.Companies {
 		globalCompanyMap[co.ID] = &c.Companies[i]
 	}
 }
 
-type Speakers struct {
-	NoopMG   interface{} `json:"meetupGroups"`
-	NoopC    interface{} `json:"companies"`
-	Speakers []Speaker   `json:"speakers"`
+type SpeakersFile struct {
+	Speakers []Speaker `json:"speakers"`
 }
 
-func (s *Speakers) SetGlobalMap() {
+func (s *SpeakersFile) SetGlobalMap() {
 	for i, sp := range s.Speakers {
 		globalSpeakerMap[sp.ID] = &s.Speakers[i]
 	}
 }
 
-type MeetupGroups struct {
-	NoopC        interface{}   `json:"companies"`
-	NoopS        interface{}   `json:"speakers"`
+type MeetupGroupsFile struct {
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
 }
 
