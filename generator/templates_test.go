@@ -1,23 +1,19 @@
 package main
 
 import (
-	"bytes"
 	"fmt"
-	"io/ioutil"
-	"strings"
+	"path/filepath"
 	"testing"
 )
 
-func TestParse(t *testing.T) {
+func TestGenerate(t *testing.T) {
 	for i := 1; i <= 2; i++ {
-		inpath := fmt.Sprintf("testdata/%d/in.yaml", i)
-		t.Run(inpath, func(t2 *testing.T) {
-			in, err := ioutil.ReadFile(inpath)
-			if err != nil {
-				t.Fatal(err)
-			}
+		indir := fmt.Sprintf("testdata/%d", i)
+		t.Run(indir, func(t2 *testing.T) {
+			speakersFile := filepath.Join(indir, "speakers.yaml")
+			companiesFile := filepath.Join(indir, "companies.yaml")
 
-			cfg, err := load([]byte(in))
+			cfg, err := load(companiesFile, speakersFile, indir)
 			if err != nil {
 				t.Fatal(err)
 			}
@@ -25,15 +21,8 @@ func TestParse(t *testing.T) {
 			if err != nil {
 				t.Fatal(err)
 			}
-			for city, content := range out {
-				outpath := fmt.Sprintf("testdata/%d/%s.md", i, strings.ToLower(city))
-				expected, err := ioutil.ReadFile(outpath)
-				if err != nil {
-					t.Fatal(err)
-				}
-				if !bytes.Equal(content, expected) {
-					t.Errorf("%s: actual: %s, expected: %s", outpath, content, expected)
-				}
+			if err := validate(out, indir); err != nil {
+				t.Errorf("generation and validation failed: %v", err)
 			}
 		})
 	}

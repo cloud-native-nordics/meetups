@@ -1,0 +1,57 @@
+name: CNCF & Kubernetes Tampere
+meetupURL: https://www.meetup.com/Kubernetes-Tampere
+city: Tampere
+organizers:
+- luxas
+- netumoliver
+- jnummelin
+- hoisko
+meetups:
+- name: First Kubernetes and CNCF Tampere Meetup
+  id: 257164934
+  dateInternal: 17th of January, 2019 at 6pm - 9pm
+  attendees: 50
+  address: Pakkahuoneenaukio 2, 33100 Tampere, Finland
+  recording: https://youtu.be/PvrFMc9bZ-k
+  sponsors:
+    venue: cybercom  
+    other:
+    - luxaslabs
+    - cncf
+  presentations:
+  - startTime: 18:00
+    endTime: 18:15
+    title: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
+  - startTime: 18:15
+    endTime: 18:20
+    title: Welcome from the organisers
+  - startTime: 18:20
+    endTime: 18:25
+    title: Introductionary words from the venue sponsor for this time, Cybercom
+  - startTime: 18:30
+    endTime: 19:00
+    title: Introduction to the cloud-native world of Kubernetes & CNCF
+    slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019
+    speakers: 
+    - luxas
+  - startTime: 19:05
+    endTime: 19:30
+    title: Setting up a Kubernetes cluster and getting started
+    slides: https://speakerdeck.com/jnummelin/geting-started-with-kubernetes
+    speakers: 
+    - jnummelin
+  - startTime: 19:35
+    endTime: 20:00
+    title: Moving from Heroku to AKS
+    slides: https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing
+    speakers: 
+    - poutanen
+  - startTime: 20:05
+    endTime: 20:30
+    title: Experiences of different Pipelines and Development workflows on Kubernetes
+    slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
+    speakers: 
+    - ylenius
+  - startTime: 20:30
+    endTime: 21:00
+    title: Networking

@@ -1,0 +1,76 @@
+speakers:
+- id: luxas
+  name: Lucas Käldström
+  github: luxas
+  title: CNCF Ambassador
+  company: luxaslabs
+  email: lucas@luxaslabs.com
+- id: netumoliver
+  name: Oliver Joggerst
+  github: oliverjoggerst
+  company: netum
+- id: jnummelin
+  name: Jussi Nummelin
+  github: jnummelin
+  company: kontena
+- id: poutanen
+  name: Ilkka Poutanen
+  company: futurice
+- id: ylenius
+  name: Toni Ylenius
+  company: cybercom
+- id: hoisko
+  name: Sakari Hoisko
+  company: eficode
+- id: teemu
+  name: Teemu Heikkilä
+  company: emblica
+- id: annie
+  name: Annie Talvasto
+  company: student
+- id: jörg
+  name: Jörg Schad
+  company: mesosphere
+- id: niklas
+  name: Niklas Wik
+  company: nokia
+- id: oscar
+  name: Oscar Renalias
+  company: accenture
+- id: christina
+  name: Christina Warren
+  company: microsoft
+- id: mikko
+  name: Mikko Hällfors
+  company: vincit
+- id: anoop
+  name: Anoop Vijayan
+  company: tuxera
+- id: rasmus
+  name: Rasmus Selsmark
+  company: unity
+- id: tommi
+  name: Tommi Berg
+  compamny: elisa
+- id: jerry
+  name: Jerry Jalava
+  company: qvik
+- id: marek
+  name: Marek Jelen
+  company: redhat
+- id: severi
+  name: Severi Haverila
+  compamny: eficode
+- id: markku
+  name: Markku Rossi
+  title: CTO
+  company: sshcom
+- id: alexander
+  name: Alexander Kanevskiy
+  company: intel
+- id: karl
+  name: Karl Ots
+  company: kompozure
+- id: michael
+  name: Michael Duergner
+  company: zalando
