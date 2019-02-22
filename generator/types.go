@@ -130,12 +130,12 @@ type Meetup struct {
 }
 
 type Presentation struct {
-	StartTime string   `json:"startTime"`
-	EndTime   string   `json:"endTime"`
-	Title     string   `json:"title"`
-	Slides    string   `json:"slides"`
-	Recording string   `json:"recording"`
-	Speaker   *Speaker `json:"speaker"`
+	StartTime string     `json:"startTime"`
+	EndTime   string     `json:"endTime"`
+	Title     string     `json:"title"`
+	Slides    string     `json:"slides"`
+	Recording string     `json:"recording"`
+	Speakers  []*Speaker `json:"speakers"`
 }
 
 type Sponsors struct {

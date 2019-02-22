@@ -19,8 +19,8 @@ const (
 {{end}}{{end}}
 #### Agenda
 
-{{ range .Presentations }} - {{ .StartTime }} - {{ .EndTime }}: {{ .Title }} {{ if .Speaker }}
-   - {{ .Speaker.Name }}{{ if .Speaker.Title }}, {{ .Speaker.Title }}{{end}}{{ if .Speaker.Company }}, {{ .Speaker.Company.Name }}{{end}}{{end}}{{ if .Slides }}
+{{ range .Presentations }} - {{ .StartTime }} - {{ .EndTime }}: {{ .Title }} {{ range .Speakers }}
+   - {{ .Name }}{{ if .Title }}, {{ .Title }}{{end}}{{ if .Company }}, {{ .Company.Name }}{{end}}{{end}}{{ if .Slides }}
    - Slides: {{ .Slides }}{{end}}{{ if .Recording }}
    - Recording: {{ .Recording }}{{end}}
 {{end}}{{end}}`
