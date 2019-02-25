@@ -1,0 +1,132 @@
+companies:
+- id: luxaslabs
+  name: luxas labs
+  websiteURL: https://luxaslabs.com
+- id: futurice
+  name: Futurice
+  websiteURL: https://www.futurice.com/
+- id: kontena
+  name: Kontena
+  websiteURL: https://kontena.io
+- id: cybercom
+  name: Cybercom
+  websiteURL: https://www.cybercom.com/
+- id: accenture
+  name: Accenture
+  websiteURL: https://accenture.com
+- id: netum
+  name: Netum
+  websiteURL: https://www.netum.fi/
+- id: eficode
+  name: Eficode
+  websiteURL: https://www.eficode.com/home
+- id: cncf
+  name: Cloud Native Computing Foundation (CNCF)
+  websiteURL: https://www.cncf.io/
+- id: emblica
+  name: Emblica
+  websiteURL: https://www.emblica.fi/
+- id: mesosphere
+  name: Mesosphere
+  websiteURL: https://www.mesosphere.com/
+- id: nokia
+  name: Nokia
+  websiteURL: https://www.nokia.fi/
+- id: student
+  name: Student
+- id: tuxera
+  name: Tuxera Oy
+  websiteURL: https://www.tuxera.com
+- id: microsoft
+  name: Microsoft
+  websiteURL: https://www.microsoft.com
+- id: vincit
+  name: Vincit
+  websiteURL: https://www.vincit.fi
+- id: unity
+  name: Unity
+  websiteURL: https://www.unity.com
+- id: elisa
+  name: Elisa
+  websiteURL: https://www.elisa.com
+- id: qvik
+  name: Qvik
+  websiteURL: https://www.qvik.com
+- id: redhat
+  name: Red Hat
+  websiteURL: https://www.redhat.com
+- id: nordea
+  name: Nordea
+  websiteURL: https://www.nordea.fi
+- id: sshcom
+  name: SSH.COM
+  websiteURL: https://www.ssh.com/
+- id: maria01
+  name: Maria 01
+  websiteURL: https://maria.io/
+- id: upcloud
+  name: UpCloud
+  websiteURL: https://upcloud.com/
+- id: intel
+  name: Intel
+  websiteURL: https://www.intel.com
+- id: kompozure
+  name: Kompozure
+  websiteURL: https://www.kompozure.com
+- id: zalando
+  name: Zalando
+  websiteURL: https://www.zalando.com
+- id: praqma
+  name: Praqma
+  websiteURL: https://www.praqma.com
+- id: lunarway
+  name: Lunar Way A/S
+  websiteURL: https://www.lunarway.com
+- id: schneiderelectric
+  name: Schneider Electric
+  websiteURL: https://www.se.com
+- id: lix
+  name: Lix Technologies
+  websiteURL: https://www.lix.com/en
+- id: zitcom
+  name: Zitcom
+  websiteURL: https://www.zitcom.dk/
+- id: sparnordbank
+  name: Spar Nord Bank
+  websiteURL: https://www.sparnord.dk/
+- id: tv2play
+  name: TV2 Play
+  websiteURL: https://play.tv2.dk/
+- id: bestseller
+  name: BESTSELLER
+  websiteURL: https://bestseller.com/
+- id: berlingskemedia
+  name: Berlingske Media
+  websiteURL: https://www.berlingskemedia.dk/
+- id: trifork
+  name: Trifork A/S
+  websiteURL: https://trifork.com/
+- id: whyyy
+  name: Whyyy
+  websiteURL: https://whyyy.dk/
+- id: uberaarhus
+  name: Uber
+  websiteURL: https://uber.com
+- id: firstagenda
+  name: First Agenda
+  websiteURL: https://firstagenda.com
+- id: systematic
+  name: Systematic
+  websiteURL: https://systematic.com
+- id: humio
+  name: Humio
+  websiteURL: https://humio.com
+- id: boligportal
+  name: BoligPortal
+  websiteURL: https://boligportal.dk
+- id: itminds
+  name: IT Minds
+  websiteURL: https://itminds.dk
+- id: stibosystems
+  name: Stibo Systems
+  websiteURL: https://www.stibosystems.com

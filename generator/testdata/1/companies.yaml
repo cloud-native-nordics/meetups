@@ -1,0 +1,16 @@
+companies:
+- id: luxaslabs
+  name: luxas labs
+  websiteURL: https://luxaslabs.com
+- id: futurice
+  name: Futurice
+  websiteURL: https://www.futurice.com/
+- id: kontena
+  name: Kontena
+  websiteURL: https://kontena.io
+- id: cybercom
+  name: Cybercom
+  websiteURL: https://www.cybercom.com/
+- id: accenture
+  name: Accenture
+  websiteURL: https://accenture.com

@@ -13,7 +13,9 @@ import (
 	"sigs.k8s.io/yaml"
 )
 
-var configFile = pflag.String("config", "meetups.yaml", "Point to the meetups")
+var speakersFile = pflag.String("speakers-file", "speakers.yaml", "Point to the speakers.yaml file")
+var companiesFile = pflag.String("companies-file", "companies.yaml", "Point to the companies.yaml file")
+var rootDir = pflag.String("meetups-dir", ".", "Point to the directory that has all meetup groups as subfolders, each with a meetup.yaml file")
 var dryRun = pflag.Bool("dry-run", true, "Whether to actually apply the changes or not")
 var validateFlag = pflag.Bool("validate", false, "Whether to validate the current state of the repo content with the spec")
 
@@ -26,14 +28,7 @@ func main() {
 
 func run() error {
 	pflag.Parse()
-	if len(*configFile) == 0 {
-		return fmt.Errorf("--config is a required argument")
-	}
-	b, err := ioutil.ReadFile(*configFile)
-	if err != nil {
-		return err
-	}
-	cfg, err := load(b)
+	cfg, err := load(*companiesFile, *speakersFile, *rootDir)
 	if err != nil {
 		return err
 	}
@@ -42,30 +37,64 @@ func run() error {
 		return err
 	}
 	if *validateFlag {
-		return validate(out)
+		return validate(out, *rootDir)
 	}
 	return apply(out)
 }
 
-func load(b []byte) (*Config, error) {
-	companiesObj := &Companies{}
-	if err := yaml.UnmarshalStrict(b, companiesObj); err != nil {
+func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
+	companiesObj := &CompaniesFile{}
+	companiesContent, err := ioutil.ReadFile(companiesPath)
+	if err != nil {
+		return nil, err
+	}
+	if err := yaml.UnmarshalStrict(companiesContent, companiesObj); err != nil {
 		return nil, err
 	}
 	companiesObj.SetGlobalMap()
-	speakersObj := &Speakers{}
-	if err := yaml.UnmarshalStrict(b, speakersObj); err != nil {
+	speakersObj := &SpeakersFile{}
+	speakersContent, err := ioutil.ReadFile(speakersPath)
+	if err != nil {
+		return nil, err
+	}
+	if err := yaml.UnmarshalStrict(speakersContent, speakersObj); err != nil {
 		return nil, err
 	}
 	speakersObj.SetGlobalMap()
-	meetupGroupsObj := &MeetupGroups{}
-	if err := yaml.UnmarshalStrict(b, meetupGroupsObj); err != nil {
+	meetupGroups := []MeetupGroup{}
+
+	err = filepath.Walk(meetupsDir, func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if !info.IsDir() {
+			return nil
+		}
+		meetupsFile := filepath.Join(path, "meetup.yaml")
+		if _, err := os.Stat(meetupsFile); os.IsNotExist(err) {
+			return nil
+		} else if err != nil {
+			return err
+		}
+		mg := MeetupGroup{}
+		mgContent, err := ioutil.ReadFile(meetupsFile)
+		if err != nil {
+			return err
+		}
+		if err := yaml.UnmarshalStrict(mgContent, &mg); err != nil {
+			return err
+		}
+		meetupGroups = append(meetupGroups, mg)
+		return nil
+	})
+	if err != nil {
 		return nil, err
 	}
+
 	return &Config{
 		Speakers:     speakersObj.Speakers,
 		Companies:    companiesObj.Companies,
-		MeetupGroups: meetupGroupsObj.MeetupGroups,
+		MeetupGroups: meetupGroups,
 	}, nil
 }
 
@@ -79,9 +108,9 @@ func apply(files map[string][]byte) error {
 	return nil
 }
 
-func validate(files map[string][]byte) error {
+func validate(files map[string][]byte, meetupsDir string) error {
 	for city, fileContent := range files {
-		readmePath := filepath.Join(strings.ToLower(city), "README.md")
+		readmePath := filepath.Join(meetupsDir, strings.ToLower(city), "README.md")
 		actual, err := ioutil.ReadFile(readmePath)
 		if err != nil {
 			return err
@@ -90,6 +119,7 @@ func validate(files map[string][]byte) error {
 			return fmt.Errorf("%s differs from expected state. expected: \"%s\", actual: \"%s\"", readmePath, fileContent, actual)
 		}
 	}
+	fmt.Println("Validation succeeded!")
 	return nil
 }
 

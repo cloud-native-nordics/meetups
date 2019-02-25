@@ -2,10 +2,10 @@
 
 #### Organizers
 
- - Lucas Käldström ([@luxas])(https://github.com/luxas), CNCF Ambassador, luxas labs, lucas@luxaslabs.com
- - Oliver Joggerst ([@oliverjoggerst])(https://github.com/oliverjoggerst), Netum
- - Jussi Nummelin ([@jnummelin])(https://github.com/jnummelin), Kontena
- - Sakari Hoisko, Eficode
+ - Lucas Käldström ([@luxas](https://github.com/luxas)), CNCF Ambassador, [luxas labs](https://luxaslabs.com), lucas@luxaslabs.com
+ - Oliver Joggerst ([@oliverjoggerst](https://github.com/oliverjoggerst)), [Netum](https://www.netum.fi/)
+ - Jussi Nummelin ([@jnummelin](https://github.com/jnummelin)), [Kontena](https://kontena.io)
+ - Sakari Hoisko, [Eficode](https://www.eficode.com/home)
 
 ### First Kubernetes and CNCF Tampere Meetup
 

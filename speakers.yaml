@@ -1,0 +1,164 @@
+speakers:
+- id: luxas
+  name: Lucas Käldström
+  github: luxas
+  title: CNCF Ambassador
+  company: luxaslabs
+  email: lucas@luxaslabs.com
+- id: netumoliver
+  name: Oliver Joggerst
+  github: oliverjoggerst
+  company: netum
+- id: jnummelin
+  name: Jussi Nummelin
+  github: jnummelin
+  company: kontena
+- id: poutanen
+  name: Ilkka Poutanen
+  company: futurice
+- id: ylenius
+  name: Toni Ylenius
+  company: cybercom
+- id: hoisko
+  name: Sakari Hoisko
+  company: eficode
+- id: teemu
+  name: Teemu Heikkilä
+  company: emblica
+- id: annie
+  name: Annie Talvasto
+  company: student
+- id: jörg
+  name: Jörg Schad
+  company: mesosphere
+- id: niklas
+  name: Niklas Wik
+  company: nokia
+- id: oscar
+  name: Oscar Renalias
+  company: accenture
+- id: christina
+  name: Christina Warren
+  company: microsoft
+- id: mikko
+  name: Mikko Hällfors
+  company: vincit
+- id: anoop
+  name: Anoop Vijayan
+  company: tuxera
+- id: rasmus
+  name: Rasmus Selsmark
+  company: unity
+- id: tommi
+  name: Tommi Berg
+  compamny: elisa
+- id: jerry
+  name: Jerry Jalava
+  company: qvik
+- id: marek
+  name: Marek Jelen
+  company: redhat
+- id: severi
+  name: Severi Haverila
+  compamny: eficode
+- id: markku
+  name: Markku Rossi
+  title: CTO
+  company: sshcom
+- id: alexander
+  name: Alexander Kanevskiy
+  company: intel
+- id: karl
+  name: Karl Ots
+  company: kompozure
+- id: michael
+  name: Michael Duergner
+  company: zalando
+- id: henrikhoegh
+  name: Henrik Høegh
+  company: praqma
+- id: michaelvittruplarsen
+  name: Michael Vittrup Larsen
+  company: praqma
+- id: martinjensen
+  name: Martin Jensen
+  company: lunarway
+- id: bjornsorensen
+  name: Bjørn Sørensen
+  company: lunarway
+- id: mikerostermund
+  name: Mike Rostermund
+  company: schneiderelectric
+- id: benjaminnorgaard
+  name: Benjamin Nørgaard
+  company: lix
+- id: danielfly
+  name: Daniel Fly
+  company: zitcom
+- id: kaspernissen
+  name: Kasper Nissen
+  company: lunarway
+  github: kaspernissen
+  title: Cloud Architect/SRE, CNCF Ambassador
+  email: kaspernissen@gmail.com
+  twitter: phennex
+- id: rasmussteiniche
+  company: bestseller
+  title: Software Architect, DevOps and Cloud Native
+  name: Rasmus Steiniche
+- id: camillalarsen
+  company: sparnordbank
+  name: Camilla Larsen
+  title: Systems Engineer
+- id: rasmusroemer
+  company: sparnordbank
+  name: Rasmus Rømer
+  title: Systems Engineer
+- id: martinvillumsen
+  name: Martin Villumsen
+  title: Software Developer & Site Reliability Engineer
+  company: tv2play
+- id: emilingerslev
+  name: Emil Ingerslev
+  title: Cloud Architect/SRE
+  company: lunarway
+- id: christianselech
+  name: Christian Selch
+  company: berlingskemedia
+- id: jeppejohansen
+  name: Jeppe Johansen
+  company: whyyy
+  title: Head of Software Engineering & Lead Software Developer
+- id: magnusvinther
+  name: Magnus Vinther
+  company: uberaarhus
+- id: mikkeloscarlarsen
+  name: Mikkel Oscar Lyderik Larsen
+  company: zalando
+- id: gustavkaleta
+  name: Gustav Kaleta
+  company: microsoft
+- id: petermechlenborg
+  name: Peter Mechlenborg
+  company: humio
+- id: peterbroendum
+  name: Peter Brøndum
+  company: bestseller
+- id: thomasboeghfangel
+  name: Thomas Bøgh Fangel
+  company: lunarway
+- id: nicolaikobber
+  name: Nicolai Kobber
+  company: lunarway
+- id: mathiasbakberthelsen
+  name: Mathias Bak Berthelsen
+  company: uberaarhus
+- id: jeppehansen
+  name: Jeppe Hansen
+  company: uberaarhus
+- id: davidchristensen
+  name: David Christensen
+  company: praqma
+- id: torbenhaagh
+  name: Torben Haagh
+  company: stibosystems
