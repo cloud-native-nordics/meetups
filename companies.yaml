@@ -130,3 +130,18 @@ companies:
 - id: stibosystems
   name: Stibo Systems
   websiteURL: https://www.stibosystems.com
+- id: twentythree
+  name: TwentyThreeTM
+  websiteURL: https://www.twentythree.net/
+- id: falconio
+  name: Falcon.io
+  websiteURL: https://www.falcon.io/
+- id: trifork
+  name: Trifork
+  websiteURL: https://trifork.com/
+- id: republikken
+  name: Republikken
+  websiteURL: https://republikken.net/
+- id: simcorp
+  name: SimCorp
+  websiteURL: https://www.simcorp.com/
