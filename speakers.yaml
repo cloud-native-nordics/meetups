@@ -164,37 +164,37 @@ speakers:
   company: stibosystems
 - id: ewelina
   name: Ewelina Wilkosz
-  company: Praqma
+  company: praqma
 - id: laszlo
   name: Laszlo Fogas
-  company: Independent consultant
+  company: laszlocloud
 - id: david
   name: David Christensen
-  company: Praqma
+  company: praqma
 - id: martin
   name: Martin Westergaard Lassen
-  company: Humio
+  company: humio
 - id: hans
   name: Hans Duedal
-  company: E-conomic
+  company: economic
 - id: ihor
   name: Ihor Dvoretskyi
-  company: The Linux Foundation & CNCF
+  company: cncf
 - id: guus
   name: Guus van Weelden
-  company: Loodse Developer
+  company: loodse
 - id: sami
   name: Sami Alajrami
-  company: Praqma
+  company: praqma
 - id: justin
   name: Justin Luk
-  company: Microsoft
+  company: microsoft
 - id: craig
   name: Craig Peters
-  company: Jfrog
+  company: jfrog
 - id: jeppe
   name: Jeppe Johansen
-  company: Whyyy
+  company: whyyy
 - id: jasmine
   name: Jasmine Crozier
-  company: Praqma
+  company: praqma

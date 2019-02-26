@@ -145,3 +145,24 @@ companies:
 - id: simcorp
   name: SimCorp
   websiteURL: https://www.simcorp.com/
+- id: praqma
+  name: Praqma
+  websiteURL: https://www.praqma.com/
+- id: laszlocloud
+  name: Laszlo Cloud
+  websiteURL: https://laszlo.cloud
+- id: humio
+  name: Humio
+  websiteURL: https://humio.com/
+- id: economic
+  name: E-conomic
+  websiteURL: https://www.e-conomic.dk/
+- id: loodse
+  name: Loodse
+  websiteURL: https://www.loodse.com/
+- id: jfrog
+  name: Jfrog
+  websiteURL: https://jfrog.com/
+- id: whyyy
+  name: Whyyy
+  websiteURL: https://whyyy.dk/
