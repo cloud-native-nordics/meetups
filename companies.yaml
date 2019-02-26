@@ -76,3 +76,57 @@ companies:
 - id: zalando
   name: Zalando
   websiteURL: https://www.zalando.com
+- id: praqma
+  name: Praqma
+  websiteURL: https://www.praqma.com
+- id: lunarway
+  name: Lunar Way A/S
+  websiteURL: https://www.lunarway.com
+- id: schneiderelectric
+  name: Schneider Electric
+  websiteURL: https://www.se.com
+- id: lix
+  name: Lix Technologies
+  websiteURL: https://www.lix.com/en
+- id: zitcom
+  name: Zitcom
+  websiteURL: https://www.zitcom.dk/
+- id: sparnordbank
+  name: Spar Nord Bank
+  websiteURL: https://www.sparnord.dk/
+- id: tv2play
+  name: TV2 Play
+  websiteURL: https://play.tv2.dk/
+- id: bestseller
+  name: BESTSELLER
+  websiteURL: https://bestseller.com/
+- id: berlingskemedia
+  name: Berlingske Media
+  websiteURL: https://www.berlingskemedia.dk/
+- id: trifork
+  name: Trifork A/S
+  websiteURL: https://trifork.com/
+- id: whyyy
+  name: Whyyy
+  websiteURL: https://whyyy.dk/
+- id: uberaarhus
+  name: Uber
+  websiteURL: https://uber.com
+- id: firstagenda
+  name: First Agenda
+  websiteURL: https://firstagenda.com
+- id: systematic
+  name: Systematic
+  websiteURL: https://systematic.com
+- id: humio
+  name: Humio
+  websiteURL: https://humio.com
+- id: boligportal
+  name: BoligPortal
+  websiteURL: https://boligportal.dk
+- id: itminds
+  name: IT Minds
+  websiteURL: https://itminds.dk
+- id: stibosystems
+  name: Stibo Systems
+  websiteURL: https://www.stibosystems.com

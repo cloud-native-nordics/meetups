@@ -74,3 +74,91 @@ speakers:
 - id: michael
   name: Michael Duergner
   company: zalando
+- id: henrikhoegh
+  name: Henrik Høegh
+  company: praqma
+- id: michaelvittruplarsen
+  name: Michael Vittrup Larsen
+  company: praqma
+- id: martinjensen
+  name: Martin Jensen
+  company: lunarway
+- id: bjornsorensen
+  name: Bjørn Sørensen
+  company: lunarway
+- id: mikerostermund
+  name: Mike Rostermund
+  company: schneiderelectric
+- id: benjaminnorgaard
+  name: Benjamin Nørgaard
+  company: lix
+- id: danielfly
+  name: Daniel Fly
+  company: zitcom
+- id: kaspernissen
+  name: Kasper Nissen
+  company: lunarway
+  github: kaspernissen
+  title: Cloud Architect/SRE, CNCF Ambassador
+  email: kaspernissen@gmail.com
+  twitter: phennex
+- id: rasmussteiniche
+  company: bestseller
+  title: Software Architect, DevOps and Cloud Native
+  name: Rasmus Steiniche
+- id: camillalarsen
+  company: sparnordbank
+  name: Camilla Larsen
+  title: Systems Engineer
+- id: rasmusroemer
+  company: sparnordbank
+  name: Rasmus Rømer
+  title: Systems Engineer
+- id: martinvillumsen
+  name: Martin Villumsen
+  title: Software Developer & Site Reliability Engineer
+  company: tv2play
+- id: emilingerslev
+  name: Emil Ingerslev
+  title: Cloud Architect/SRE
+  company: lunarway
+- id: christianselech
+  name: Christian Selch
+  company: berlingskemedia
+- id: jeppejohansen
+  name: Jeppe Johansen
+  company: whyyy
+  title: Head of Software Engineering & Lead Software Developer
+- id: magnusvinther
+  name: Magnus Vinther
+  company: uberaarhus
+- id: mikkeloscarlarsen
+  name: Mikkel Oscar Lyderik Larsen
+  company: zalando
+- id: gustavkaleta
+  name: Gustav Kaleta
+  company: microsoft
+- id: petermechlenborg
+  name: Peter Mechlenborg
+  company: humio
+- id: peterbroendum
+  name: Peter Brøndum
+  company: bestseller
+- id: thomasboeghfangel
+  name: Thomas Bøgh Fangel
+  company: lunarway
+- id: nicolaikobber
+  name: Nicolai Kobber
+  company: lunarway
+- id: mathiasbakberthelsen
+  name: Mathias Bak Berthelsen
+  company: uberaarhus
+- id: jeppehansen
+  name: Jeppe Hansen
+  company: uberaarhus
+- id: davidchristensen
+  name: David Christensen
+  company: praqma
+- id: torbenhaagh
+  name: Torben Haagh
+  company: stibosystems
