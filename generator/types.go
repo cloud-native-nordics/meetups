@@ -96,7 +96,11 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 	}
 	sid := SpeakerID("")
 	if err := json.Unmarshal(b, &sid); err == nil {
-		*s = *globalSpeakerMap[sid]
+		speaker, ok := globalSpeakerMap[sid]
+		if !ok {
+			return fmt.Errorf("speaker reference not found: %s", sid)
+		}
+		*s = *speaker
 		return nil
 	}
 	return fmt.Errorf("couldn't marshal speaker")
