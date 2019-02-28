@@ -2,7 +2,7 @@ name: Cloud Native Copenhagen
 meetupURL: https://www.meetup.com/Cloud-Native-Copenhagen/
 city: Copenhagen
 organizers:
-- lazlo
+- laszlo
 - jasmine
 - jeppe
 meetups:
@@ -29,7 +29,7 @@ meetups:
     title: What is Cloud Native?
     slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
     speakers:
-    - lazlo
+    - laszlo
   - startTime: 18:10
     endTime: 18:40
     title: Food break - group discussions
@@ -64,7 +64,7 @@ meetups:
     endTime: 18:30
     title: "First session: foundations of Kubernetes and its primitives"
     speakers:
-    - lazlo
+    - laszlo
     - david
   - startTime: 18:30
     endTime: 19:00
@@ -73,7 +73,7 @@ meetups:
     endTime: 20:00
     title: "Second session: let's deploy"
     speakers:
-    - lazlo
+    - laszlo
     - david
   - startTime: 20:00
     endTime: 20:00
