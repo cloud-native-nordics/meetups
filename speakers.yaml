@@ -162,3 +162,39 @@ speakers:
 - id: torbenhaagh
   name: Torben Haagh
   company: stibosystems
+- id: ewelina
+  name: Ewelina Wilkosz
+  company: praqma
+- id: laszlo
+  name: Laszlo Fogas
+  company: laszlocloud
+- id: david
+  name: David Christensen
+  company: praqma
+- id: martin
+  name: Martin Westergaard Lassen
+  company: humio
+- id: hans
+  name: Hans Duedal
+  company: economic
+- id: ihor
+  name: Ihor Dvoretskyi
+  company: cncf
+- id: guus
+  name: Guus van Weelden
+  company: loodse
+- id: sami
+  name: Sami Alajrami
+  company: praqma
+- id: justin
+  name: Justin Luk
+  company: microsoft
+- id: craig
+  name: Craig Peters
+  company: jfrog
+- id: jeppe
+  name: Jeppe Johansen
+  company: whyyy
+- id: jasmine
+  name: Jasmine Crozier
+  company: praqma

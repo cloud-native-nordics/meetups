@@ -4,7 +4,7 @@
 
  - Kasper Nissen ([@kaspernissen](https://github.com/kaspernissen)), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way A/S](https://www.lunarway.com), kaspernissen@gmail.com
  - Rasmus Steiniche, Software Architect, DevOps and Cloud Native, [BESTSELLER](https://bestseller.com/)
- - Henrik Høegh, [Praqma](https://www.praqma.com)
+ - Henrik Høegh, [Praqma](https://www.praqma.com/)
  - Daniel Fly, [Zitcom](https://www.zitcom.dk/)
 
 ### Cloud Native Stories: TV 2 Play & Spar Nord Bank
@@ -34,7 +34,7 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/257138158/
  - Recording: none
  - Attendees (according to meetup.com): 85
- - Venue sponsor: [Praqma](https://www.praqma.com)
+ - Venue sponsor: [Praqma](https://www.praqma.com/)
 
 #### Agenda
 
@@ -85,7 +85,7 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/256345753/
  - Recording: none
  - Attendees (according to meetup.com): 49
- - Venue sponsor: [Trifork A/S](https://trifork.com/)
+ - Venue sponsor: [Trifork](https://trifork.com/)
 
 #### Agenda
 
@@ -210,7 +210,7 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/246454051/
  - Recording: none
  - Attendees (according to meetup.com): 24
- - Venue sponsor: [Praqma](https://www.praqma.com)
+ - Venue sponsor: [Praqma](https://www.praqma.com/)
 
 #### Agenda
 
