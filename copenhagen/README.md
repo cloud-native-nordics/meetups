@@ -16,18 +16,18 @@
 
 #### Agenda
 
- - 17:00 - 17:20: Doors open
- - 17:20 - 17:30: Welcome from Cloud Native Copenhagen
- - 17:30 - 17:40: Welcome from TwentyThree
- - 17:40 - 18:10: What is Cloud Native?
+ - 17:00 - 17:20: Doors open 
+ - 17:20 - 17:30: Welcome from Cloud Native Copenhagen 
+ - 17:30 - 17:40: Welcome from TwentyThree 
+ - 17:40 - 18:10: What is Cloud Native? 
    - Laszlo Fogas, Laszlo Cloud
    - Slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
- - 18:10 - 18:40: Food break - group discussions
- - 18:40 - 19:10: Jenkins as Code
+ - 18:10 - 18:40: Food break - group discussions 
+ - 18:40 - 19:10: Jenkins as Code 
    - Ewelina Wilkosz, Praqma
    - Slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf
- - 19:10 - 20:00: Group discussions - continued
- - 20:00 - 20:00: Gates close
+ - 19:10 - 20:00: Group discussions - continued 
+ - 20:00 - 20:00: Gates close 
 
 ### Lab session: How to Kubernetes?
 
@@ -39,16 +39,16 @@
 
 #### Agenda
 
- - 17:00 - 17:30: Doors open
- - 17:30 - 17:45: Welcome
- - 17:45 - 18:30: First session: foundations of Kubernetes and its primitives
+ - 17:00 - 17:30: Doors open 
+ - 17:30 - 17:45: Welcome 
+ - 17:45 - 18:30: First session: foundations of Kubernetes and its primitives 
    - Laszlo Fogas, Laszlo Cloud
    - David Christensen, Praqma
- - 18:30 - 19:00: Food break and socializing
- - 19:00 - 20:00: Second session: let's deploy
+ - 18:30 - 19:00: Food break and socializing 
+ - 19:00 - 20:00: Second session: let's deploy 
    - Laszlo Fogas, Laszlo Cloud
    - David Christensen, Praqma
- - 20:00 - 20:00: Goodbye
+ - 20:00 - 20:00: Goodbye 
 
 ### Expert night: bare metal and chaos engineering
 
@@ -60,15 +60,15 @@
 
 #### Agenda
 
- - 17:00 - 17:30: Gates open
- - 17:30 - 17:35: Welcome
- - 17:35 - 18:15: Network Services on Kubernetes on-premise
+ - 17:00 - 17:30: Gates open 
+ - 17:30 - 17:35: Welcome 
+ - 17:35 - 18:15: Network Services on Kubernetes on-premise 
    - Hans Duedal, E-conomic
    - Slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf
- - 18:15 - 18:30: Break
- - 18:30 - 19:15: Chaos Engineering
+ - 18:15 - 18:30: Break 
+ - 18:30 - 19:15: Chaos Engineering 
    - Martin Westergaard Lassen, Humio
- - 19:15 - 20:00: Community chats
+ - 19:15 - 20:00: Community chats 
 
 ### Let's warm-up before KubeCon-CloudNativeCon!
 
@@ -80,21 +80,21 @@
 
 #### Agenda
 
- - 17:30 - 17:40: Welcome
- - 17:40 - 17:55: Kubernetes Registry: what it is and why it's important
+ - 17:30 - 17:40: Welcome 
+ - 17:40 - 17:55: Kubernetes Registry: what it is and why it's important 
    - Craig Peters, Jfrog
- - 17:55 - 18:10: Automating Helm deployments to Kubernetes with Helmsman
+ - 17:55 - 18:10: Automating Helm deployments to Kubernetes with Helmsman 
    - Sami Alajrami, Praqma
- - 18:10 - 18:40: Break with sandwiches
- - 18:40 - 18:55: Serverless Containers with Azure Container Instances
+ - 18:10 - 18:40: Break with sandwiches 
+ - 18:40 - 18:55: Serverless Containers with Azure Container Instances 
    - Justin Luk, Microsoft
- - 18:55 - 19:10: Machine API - An easier way to manage nodes in Kubernetes
+ - 18:55 - 19:10: Machine API - An easier way to manage nodes in Kubernetes 
    - Guus van Weelden, Loodse
- - 19:10 - 19:25: Break
- - 19:25 - 20:00: Panel Discussion moderated by Ihor Dvoretskyi
+ - 19:10 - 19:25: Break 
+ - 19:25 - 20:00: Panel Discussion moderated by Ihor Dvoretskyi 
    - Ihor Dvoretskyi, Cloud Native Computing Foundation (CNCF)
- - 20:00 - 20:30: Time to mingle
- - 20:30 - 20:30: Goodbye and see you at KubeCon!
+ - 20:00 - 20:30: Time to mingle 
+ - 20:30 - 20:30: Goodbye and see you at KubeCon! 
 
 ### Windows containers, Kubernetes in the enterprise
 
@@ -106,11 +106,11 @@
 
 #### Agenda
 
- - 17:00 - 17:20: Gates open
- - 17:20 - 18:00: The state of Windows & Kubernetes, with an Azure flavor
+ - 17:00 - 17:20: Gates open 
+ - 17:20 - 18:00: The state of Windows & Kubernetes, with an Azure flavor 
    - Hans Duedal, E-conomic
- - 18:00 - 18:20: Break
- - 18:20 - 19:00: From mainframe to Kubernetes
+ - 18:00 - 18:20: Break 
+ - 18:20 - 19:00: From mainframe to Kubernetes 
    - Jeppe Johansen, Whyyy
- - 19:00 - 20:00: Networking
- - 20:00 - 20:00: Goodbye
+ - 19:00 - 20:00: Networking 
+ - 20:00 - 20:00: Goodbye 
