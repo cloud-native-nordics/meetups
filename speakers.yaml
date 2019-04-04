@@ -198,3 +198,23 @@ speakers:
 - id: jasmine
   name: Jasmine Crozier
   company: praqma
+- id: dzolo
+  name: Dave Zolotusky
+  github: dzolotusky
+  title: CNCF Ambassador, Software Engineer
+  company: Spotify
+- id: mattgruter
+  name: Matthias Grüter
+  github: mattgruter
+  company: Spotify
+- id: fyx
+  name: Viktor Ekmark
+  github: fyx
+  company: elastx
+- id: holmsten
+  name: Andreas Holmsten
+  github: holmsten
+  company: elastx
+- id: iljoo
+  name: Ilia Mikhailov
+  github: iljoo

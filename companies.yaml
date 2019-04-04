@@ -166,3 +166,9 @@ companies:
 - id: whyyy
   name: Whyyy
   websiteURL: https://whyyy.dk/
+- id: Spotify
+  name: Spotify
+  websiteURL: https://www.spotify.com/
+- id: elastx
+  name: ELASTX
+  websiteURL: https://elastx.se/en
