@@ -5,6 +5,7 @@ Repository to gather all presentations from Cloud Native Nordic meetups:
 * [Aarhus](aarhus/README.md)
 * [Copenhagen](copenhagen/README.md)
 * [Helsinki](helsinki/README.md)
+* [Stockholm](stockholm/README.md)
 * [Tampere](tampere/README.md)
 
 # Slack Community
