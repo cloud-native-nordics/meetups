@@ -1,0 +1,87 @@
+name: Stockholm Kubernetes and Cloud Native Computing
+meetupURL: https://meetup.com/sthlm-k8s/
+city: Stockholm
+organizers:
+- dzolo
+- mattgruter
+- iljoo
+- fyx
+- holmsten
+meetups:
+- name: Stockholm Kubernetes Meetup
+  id: 245823087
+  dateInternal: 25th of January, 2018 at 5:30pm - 8:30pm
+  address: 7A Conference, Vasagatan 7 3rd floor, Stockholm, Sweden
+  recording: none
+  presentations:
+  - startTime: 17:30
+    endTime: 18:00
+    title:  Doors open
+  - startTime: 18:00
+    endTime: 18:30
+    title: Secure SDLC and containers
+  - startTime: 18:35
+    endTime: 19:05
+    title: Provisioning and Orchestrating K8s
+  - startTime: 19:10
+    endTime: 19:40
+    title: "Persistent Volumes to StatefulSets: All About Managing Persistent Data in Kubernetes"
+  - startTime: 19:45
+    endTime: 21:00
+    title: Mingle
+  - startTime: 21:00
+    endTime: 21:00
+    title: Doors Closed
+- name: Cloud Native Stockholm
+  id: 251231228
+  dateInternal: 21th of June, 2018 at 6pm - 8pm
+  address: Spotify, Regeringsgatan 13, Stockholm
+  sponsors:
+    venue: Spotify
+  presentations:
+  - startTime: 17:45
+    endTime: 18:00
+    title:  Doors open
+  - startTime: 18:10
+    endTime: 18:20
+    title: Kick Off - Dave Zolotusky, Spotify
+  - startTime: 18:20
+    endTime: 18:30
+    title: Jonathan Grahl, King
+  - startTime: 18:35
+    endTime: 18:55
+    title: Cloud Native CI/CD - Marcus Olsson
+  - startTime: 19:00
+    endTime: 19:30
+    title: Chaos Engineering with a service mesh - Julien Bisconti
+  - startTime: 19:30
+    endTime: 20:00
+    title: Break / Chat
+  - startTime: 20:00
+    endTime: 20:00
+    title: Doors Close
+- name: Stockholm Kubernetes and Cloud Native Meetup
+  id: 254614677
+  dateInternal: 25th of September, 2018 at 5:45pm - 8:30pm
+  address: Spotify, Regeringsgatan 13, Stockholm
+  sponsors:
+    venue: Spotify
+  presentations:
+  - startTime: 17:45
+    endTime: 18:00
+    title:  Doors open
+  - startTime: 18:00
+    endTime: 18:10
+    title: Dave Zolotusky - “Welcome and intro to CNCF”
+  - startTime: 18:35
+    endTime: 19:05
+    title: Torkel Ödegaard - “What’s going on at Grafana?”
+  - startTime: 19:10
+    endTime: 19:40
+    title: Mak Ahmad - “A good intro / deep dive into Istio”
+  - startTime: 19:45
+    endTime: 21:00
+    title: Mingle
+  - startTime: 21:00
+    endTime: 21:00
+    title: Doors Close
