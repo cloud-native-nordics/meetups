@@ -7,6 +7,36 @@
  - Jussi Nummelin ([@jnummelin](https://github.com/jnummelin)), [Kontena](https://kontena.io)
  - Sakari Hoisko, [Eficode](https://www.eficode.com/home)
 
+### April Kubernetes Tampere Meetup
+
+ - Date: 4th of April, 2019 at 5pm - 8pm
+ - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/258970382/
+ - Recording: https://youtu.be/rnpMBRe0CY0
+ - Attendees (according to meetup.com): 48
+ - Venue sponsor: [Netum](https://www.netum.fi/)
+ - Meetup sponsors:
+   - [luxas labs](https://luxaslabs.com)
+   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+
+#### Agenda
+
+ - 17:00 - 17:10: Arrive to the venue, sit down and network with others ;) 
+   - Slides: https://docs.google.com/presentation/d/1ErgRYDXbG2ggL7M1W0U3tNx4qYaunoZTsMDwaOzs3SA
+ - 17:10 - 17:15: Introductionary words from the venue sponsor for this time Netum 
+ - 17:15 - 17:30: Updates from the Community, Lucas Käldström 
+   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Slides: https://speakerdeck.com/luxas/update-from-the-cloud-native-world-of-cncf-april-2019
+ - 17:30 - 17:55: The BASICs, milk to whale baby, food that is required to growth to true Kubernaught 
+   - Sakari Hoisko, Eficode
+ - 18:00 - 18:30: Networking, food, drinks 
+ - 18:30 - 18:55: Kubernetes and Container Runtime Enablers to Advanced Platform Features 
+   - Mikko Ylinen, Intel
+ - 19:00 - 19:25: Introducing new technologies - A grassroots approach 
+   - Oliver Joggerst, Netum
+   - Mika Mattila, Netum
+   - Slides: https://docs.google.com/presentation/d/1fPE9WvFSx9nQ0SiXD-Q3U7GEOELztunqEdHKrN8hfF4
+ - 19:30 - 20:00: Networking, table football, video games 
+
 ### First Kubernetes and CNCF Tampere Meetup
 
  - Date: 17th of January, 2019 at 6pm - 9pm
