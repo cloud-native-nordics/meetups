@@ -74,6 +74,12 @@ speakers:
 - id: michael
   name: Michael Duergner
   company: zalando
+- id: mylinen
+  name: Mikko Ylinen
+  company: intel
+- id: mpmattila
+  name: Mika Mattila
+  company: netum
 - id: henrikhoegh
   name: Henrik Høegh
   company: praqma
