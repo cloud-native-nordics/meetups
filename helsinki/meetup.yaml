@@ -6,6 +6,23 @@ organizers:
 - annie
 - teemu
 meetups:
+- name: Kubernetes 101 Hands-On Workshop
+  id: 259072993
+  dateInternal: 25th of March, 2019 at 5pm - 8:30pm
+  attendees: 35
+  address: Kaivokatu 6 · Helsinki
+  sponsors:
+    venue: unity 
+    other:
+    - luxaslabs
+    - cncf
+  presentations:
+  - startTime: 17:00
+    endTime: 20:30
+    title: Kubernetes 101 Hands-On Workshop
+    slides: https://docs.google.com/presentation/d/1LJCqZjm5aGFypoZ4fG-ELBe0tcK6pfcN7H8qIrh6pIU
+    speakers: 
+    - luxas
 - name: Winter Kubernetes Meetup
   id: 256936479
   dateInternal: 23rd of January, 2019 at 6pm - 9pm

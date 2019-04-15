@@ -6,6 +6,23 @@
  - Annie Talvasto, [Student]()
  - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 
+### Kubernetes 101 Hands-On Workshop
+
+ - Date: 25th of March, 2019 at 5pm - 8:30pm
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/259072993/
+ - Recording: 
+ - Attendees (according to meetup.com): 35
+ - Venue sponsor: [Unity](https://www.unity.com)
+ - Meetup sponsors:
+   - [luxas labs](https://luxaslabs.com)
+   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+
+#### Agenda
+
+ - 17:00 - 20:30: Kubernetes 101 Hands-On Workshop 
+   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Slides: https://docs.google.com/presentation/d/1LJCqZjm5aGFypoZ4fG-ELBe0tcK6pfcN7H8qIrh6pIU
+
 ### Winter Kubernetes Meetup
 
  - Date: 23rd of January, 2019 at 6pm - 9pm
