@@ -111,6 +111,7 @@ type MeetupGroup struct {
 	Name       string    `json:"name"`
 	MeetupID   string    `json:"meetupID"`
 	City       string    `json:"city"`
+	Country    string    `json:"country"`
 	Organizers []Speaker `json:"organizers"`
 	Meetups    []Meetup  `json:"meetups"`
 }

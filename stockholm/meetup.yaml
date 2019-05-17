@@ -1,6 +1,7 @@
 name: Stockholm Kubernetes and Cloud Native Computing
 meetupID: sthlm-k8s
 city: Stockholm
+country: sweden
 organizers:
 - dzolo
 - mattgruter
