@@ -7,6 +7,31 @@
  - Henrik Høegh, [Praqma](https://www.praqma.com/)
  - Daniel Fly, [Zitcom](https://www.zitcom.dk/)
 
+### Cloud Native Hack Nights #2: Prometheus
+
+ - Date: 28 of May, 2019 at 4:30pm - 9pm
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/261130244/
+ - Recording: none
+ - Attendees (according to meetup.com): 0
+ - Venue sponsor: [Praqma](https://www.praqma.com/)
+
+#### Agenda
+
+ - 16:45 - 16:50: Welcome to Cloud Native Aarhus 
+   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
+   - Slides: https://docs.google.com/presentation/d/1rFUMHsFqHAW1IuEFdIGTlx1mN5uUyIJTdtZnN0UJJ5s/edit?usp=sharing
+ - 16:50 - 17:00: Prometheus experience report - Schneider Electric by Steffan Lund & Mike Rostermund 
+   - Slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-hacknight-2/prometheus-schneider.pdf
+ - 17:00 - 17:30: Introduction to Prometheus 
+   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
+   - Slides: https://docs.google.com/presentation/d/1rFUMHsFqHAW1IuEFdIGTlx1mN5uUyIJTdtZnN0UJJ5s/edit?usp=sharing
+ - 17:30 - 18:00: Workshop 
+ - 18:00 - 18:30: Break and food 
+ - 18:30 - 19:00: Workshop 
+ - 19:00 - 19:30: Panel discussion and Open space 
+ - 19:30 - 20:00: 2-years of Cloud Native Aarhus Celebration with Birthday cake 
+ - 20:00 - 21:00: Discussions and networking 
+
 ### Cloud Native Stories: TV 2 Play & Spar Nord Bank
 
  - Date: 5 of March, 2019 at 5pm - 8pm
