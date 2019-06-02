@@ -109,7 +109,7 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 
 type MeetupGroup struct {
 	Name       string    `json:"name"`
-	MeetupURL  string    `json:"meetupURL"`
+	MeetupID   string    `json:"meetupID"`
 	City       string    `json:"city"`
 	Organizers []Speaker `json:"organizers"`
 	Meetups    []Meetup  `json:"meetups"`
