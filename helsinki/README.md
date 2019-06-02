@@ -3,7 +3,7 @@
 #### Organizers
 
  - Lucas Käldström ([@luxas](https://github.com/luxas)), CNCF Ambassador, [luxas labs](https://luxaslabs.com), lucas@luxaslabs.com
- - Annie Talvasto, [Student]()
+ - Annie Talvasto, [Microsoft](https://www.microsoft.com)
  - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 
 ### Kubernetes 101 Hands-On Workshop
@@ -99,7 +99,7 @@
  - 18:25 - 18:35: Introductionary words from the venue sponsor for this time, Elisa 
    - Tommi Berg
  - 18:40 - 19:00: Manage Kubernetes application complexity with Helm 
-   - Annie Talvasto, Student
+   - Annie Talvasto, Microsoft
    - Slides: https://www.slideshare.net/AnnieTalvasto/manage-kubernetes-application-complexity-with-helm
  - 19:00 - 19:30: Kubernetes' Security Features 
    - Jerry Jalava, Qvik
