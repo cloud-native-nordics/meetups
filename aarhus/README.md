@@ -35,9 +35,7 @@
 ### Cloud Native Stories: TV 2 Play & Spar Nord Bank
 
  - Date: 5 of March, 2019 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/258287765/
- - Recording: none
- - Attendees (according to meetup.com): 0
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/258287765
  - Venue sponsor: [Spar Nord Bank](https://www.sparnord.dk/)
 
 #### Agenda
@@ -56,8 +54,7 @@
 ### Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects
 
  - Date: 12 of February, 2019 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/257138158/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/257138158
  - Attendees (according to meetup.com): 85
  - Venue sponsor: [Praqma](https://www.praqma.com/)
 
@@ -87,8 +84,7 @@
 ### Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD
 
  - Date: 8 of January, 2019 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/257106811/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/257106811
  - Attendees (according to meetup.com): 81
  - Venue sponsor: [BESTSELLER](https://bestseller.com/)
 
@@ -107,8 +103,7 @@
 ### From Mainframe to Kubernetes / CloudNativeCon+KubeCon Keynotes Live Stream
 
  - Date: 11 of December, 2018 at 4:30pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/256345753/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/256345753
  - Attendees (according to meetup.com): 49
  - Venue sponsor: [Trifork](https://trifork.com/)
 
@@ -127,8 +122,7 @@
 ### 10th Meet-up Anniversary Edition: Cloud Native with Zalando and Uber
 
  - Date: 6 of November, 2018 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/255632833/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/255632833
  - Attendees (according to meetup.com): 88
  - Venue sponsor: [Uber](https://uber.com)
 
@@ -150,8 +144,7 @@
 ### A Cloud Native Evening with Microsoft
 
  - Date: 20 of September, 2018 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/253946193/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/253946193
  - Attendees (according to meetup.com): 72
  - Venue sponsor: [First Agenda](https://firstagenda.com)
 
@@ -170,8 +163,7 @@
 ### Cloud Native Aarhus #8: Humio + k8s, Minecraft + k8s, and Observability Panel
 
  - Date: 21 of June, 2018 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/251508540/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/251508540
  - Attendees (according to meetup.com): 33
  - Venue sponsor: [Systematic](https://systematic.com)
 
@@ -191,8 +183,7 @@
 ### Cloud Native Aarhus #7: Transition to Cloud Native & Microservices
 
  - Date: 24 of April, 2018 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/248922498/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/248922498
  - Attendees (according to meetup.com): 78
  - Venue sponsor: [BESTSELLER](https://bestseller.com/)
 
@@ -212,8 +203,7 @@
 ### Cloud Native Aarhus #6: Prometheus & Helm
 
  - Date: 28 of February, 2018 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/246895606/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/246895606
  - Attendees (according to meetup.com): 53
  - Venue sponsor: [BoligPortal](https://boligportal.dk)
 
@@ -232,8 +222,7 @@
 ### Cloud Native Workshop and Networking
 
  - Date: 30 of January, 2018 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/246454051/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/246454051
  - Attendees (according to meetup.com): 24
  - Venue sponsor: [Praqma](https://www.praqma.com/)
 
@@ -246,8 +235,7 @@
 ### Cloud Native Aarhus #4
 
  - Date: 7 of December, 2017 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/244655197/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/244655197
  - Attendees (according to meetup.com): 53
  - Venue sponsor: [Uber](https://uber.com)
 
@@ -269,8 +257,7 @@
 ### Cloud Native Aarhus #3
 
  - Date: 30 of October, 2017 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/243542472/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/243542472
  - Attendees (according to meetup.com): 32
  - Venue sponsor: [IT Minds](https://itminds.dk)
 
@@ -289,8 +276,7 @@
 ### Cloud Native Aarhus #2
 
  - Date: 29 of August, 2017 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/240929562/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/240929562
  - Attendees (according to meetup.com): 32
  - Venue sponsor: [Stibo Systems](https://www.stibosystems.com)
 
@@ -309,8 +295,7 @@
 ### Cloud Native Aarhus #1
 
  - Date: 25 of May, 2017 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/240929562/
- - Recording: none
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/240929562
  - Attendees (according to meetup.com): 32
  - Venue sponsor: [Lunar Way A/S](https://www.lunarway.com)
 

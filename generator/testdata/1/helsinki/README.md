@@ -8,7 +8,7 @@
 ### Winter Kubernetes Meetup
 
  - Date: 1st of January 2019, 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/1234/
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/1234
  - Recording: http://youtu.be/foobar
  - Attendees (according to meetup.com): 100
  - Venue sponsor: [Accenture](https://accenture.com)

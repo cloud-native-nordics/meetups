@@ -1,5 +1,5 @@
 name: Stockholm Kubernetes and Cloud Native Computing
-meetupURL: https://meetup.com/sthlm-k8s/
+meetupURL: https://meetup.com/sthlm-k8s
 city: Stockholm
 organizers:
 - dzolo
@@ -12,7 +12,6 @@ meetups:
   id: 245823087
   dateInternal: 25th of January, 2018 at 5:30pm - 8:30pm
   address: 7A Conference, Vasagatan 7 3rd floor, Stockholm, Sweden
-  recording: none
   presentations:
   - startTime: 17:30
     endTime: 18:00

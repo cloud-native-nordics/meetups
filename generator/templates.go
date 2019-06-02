@@ -17,9 +17,9 @@ const (
 ### {{ .Name }}
 
  - Date: {{ .DateInternal }}
- - Meetup link: {{ $.MeetupURL }}/events/{{ .ID }}/
- - Recording: {{ .Recording }}
- - Attendees (according to meetup.com): {{ .Attendees }}
+ - Meetup link: {{ $.MeetupURL }}/events/{{ .ID }}{{ if .Recording }}
+ - Recording: {{ .Recording }}{{end}}{{ if .Attendees }}
+ - Attendees (according to meetup.com): {{ .Attendees }}{{end}}
 {{ if .Sponsors.Venue }} - Venue sponsor: [{{ .Sponsors.Venue.Name }}]({{ .Sponsors.Venue.WebsiteURL }}){{end}}
 {{ if .Sponsors.Other }} - Meetup sponsors:
 {{ range .Sponsors.Other }}   - [{{ .Name }}]({{ .WebsiteURL }})

@@ -1,5 +1,5 @@
 name: Cloud Native Aarhus
-meetupURL: https://www.meetup.com/Cloud-Native-Aarhus/
+meetupURL: https://www.meetup.com/Cloud-Native-Aarhus
 city: Aarhus
 organizers:
 - kaspernissen
@@ -55,7 +55,6 @@ meetups:
   dateInternal: 5 of March, 2019 at 5pm - 8pm
   attendees:
   address: Spar Nord Bank, Ceresbyen 75, 8000 Aarhus
-  recording: none
   sponsors:
     venue: sparnordbank
   presentations:
@@ -89,7 +88,6 @@ meetups:
   dateInternal: 12 of February, 2019 at 5pm - 8pm
   attendees: 85
   address: INCUBA, Åbogade, Aarhus N
-  recording: none
   sponsors:
     venue: praqma
   presentations:
@@ -143,7 +141,6 @@ meetups:
   dateInternal: 8 of January, 2019 at 5pm - 8pm
   attendees: 81
   address: BESTSELLER, Inge Lehmanns Gade 2, 8000 Aarhus
-  recording: none
   sponsors:
     venue: bestseller
   presentations:
@@ -176,7 +173,6 @@ meetups:
   dateInternal: 11 of December, 2018 at 4:30pm - 8pm
   attendees: 49
   address: Trifork A/S, Dokk1, Hack Kampmanns Plads 2, Plan 3, 8000 Aarhus
-  recording: none
   sponsors:
     venue: trifork
   presentations:
@@ -210,7 +206,6 @@ meetups:
   dateInternal: 6 of November, 2018 at 5pm - 8pm
   attendees: 88
   address: Uber, Åboulevarden 37, 5th floor, 8000 Aarhus
-  recording: none
   sponsors:
     venue: uberaarhus
   presentations:
@@ -251,7 +246,6 @@ meetups:
   dateInternal: 20 of September, 2018 at 5pm - 8pm
   attendees: 72
   address: First Agenda, Søren Frichs Vej 44, 8000 Aarhus
-  recording: none
   sponsors:
     venue: firstagenda
   presentations:
@@ -284,7 +278,6 @@ meetups:
   dateInternal: 21 of June, 2018 at 5pm - 8pm
   attendees: 33
   address: Systematic, Søren Frichs Vej 39, 8000 Aarhus
-  recording: none
   sponsors:
     venue: systematic
   presentations:
@@ -320,7 +313,6 @@ meetups:
   dateInternal: 24 of April, 2018 at 5pm - 8pm
   attendees: 78
   address: Inge Lehmanns Gade 2, 8000 Aarhus
-  recording: none
   sponsors:
     venue: bestseller
   presentations:
@@ -355,7 +347,6 @@ meetups:
   dateInternal: 28 of February, 2018 at 5pm - 8pm
   attendees: 53
   address: Paludan-Müllers Vej 40 B, 8200 Aarhus N
-  recording: none
   sponsors:
     venue: boligportal
   presentations:
@@ -388,7 +379,6 @@ meetups:
   dateInternal: 30 of January, 2018 at 5pm - 8pm
   attendees: 24
   address: Åbogade, 8200 Aarhus Nord
-  recording: none
   sponsors:
     venue: praqma
   presentations:
@@ -405,7 +395,6 @@ meetups:
   dateInternal: 7 of December, 2017 at 5pm - 8pm
   attendees: 53
   address: Åboulevarden 37, 5th floor, 8000 Aarhus
-  recording: none
   sponsors:
     venue: uberaarhus
   presentations:
@@ -446,7 +435,6 @@ meetups:
   dateInternal: 30 of October, 2017 at 5pm - 8pm
   attendees: 32
   address: Findlandsgade 27c, 8200 Aarhus N
-  recording: none
   sponsors:
     venue: itminds
   presentations:
@@ -479,7 +467,6 @@ meetups:
   dateInternal: 29 of August, 2017 at 5pm - 8pm
   attendees: 32
   address: Axel Kiers Vej 11, 8270 Højbjerg
-  recording: none
   sponsors:
     venue: stibosystems
   presentations:
@@ -512,7 +499,6 @@ meetups:
   dateInternal: 25 of May, 2017 at 5pm - 8pm
   attendees: 32
   address: Hack Kampmanns Plads 1, 8000 Aarhus
-  recording: none
   sponsors:
     venue: lunarway
   presentations:

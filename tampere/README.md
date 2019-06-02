@@ -10,7 +10,7 @@
 ### April Kubernetes Tampere Meetup
 
  - Date: 4th of April, 2019 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/258970382/
+ - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/258970382
  - Recording: https://youtu.be/rnpMBRe0CY0
  - Attendees (according to meetup.com): 48
  - Venue sponsor: [Netum](https://www.netum.fi/)
@@ -40,7 +40,7 @@
 ### First Kubernetes and CNCF Tampere Meetup
 
  - Date: 17th of January, 2019 at 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/257164934/
+ - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/257164934
  - Recording: https://youtu.be/PvrFMc9bZ-k
  - Attendees (according to meetup.com): 50
  - Venue sponsor: [Cybercom](https://www.cybercom.com/)
