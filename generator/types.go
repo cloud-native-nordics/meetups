@@ -8,8 +8,9 @@ import (
 )
 
 var (
-	globalSpeakerMap = map[SpeakerID]*Speaker{}
-	globalCompanyMap = map[CompanyID]*Company{}
+	globalSpeakerMap       = map[SpeakerID]*Speaker{}
+	globalCompanyMap       = map[CompanyID]*Company{}
+	shouldMarshalCompanyID = false
 )
 
 type CompanyID string
@@ -25,8 +26,16 @@ func (c *CompaniesFile) SetGlobalMap() {
 	}
 }
 
+type SpeakersList []Speaker
+
+func (sl SpeakersList) MarshalJSON() ([]byte, error) {
+	shouldMarshalCompanyID = true
+	defer func() { shouldMarshalCompanyID = false }()
+	return json.Marshal([]Speaker(sl))
+}
+
 type SpeakersFile struct {
-	Speakers []Speaker `json:"speakers"`
+	Speakers SpeakersList `json:"speakers"`
 }
 
 func (s *SpeakersFile) SetGlobalMap() {
@@ -45,6 +54,50 @@ type Config struct {
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
 }
 
+func (cfg *Config) SetSpeakerCountry(speaker *Speaker, country string) {
+	if speaker == nil || country == "" {
+		return
+	}
+	for i, s := range cfg.Speakers {
+		if s.ID != speaker.ID {
+			continue
+		}
+		found := false
+		for _, c := range cfg.Speakers[i].Countries {
+			if c == country {
+				found = true
+				break
+			}
+		}
+		if !found {
+			cfg.Speakers[i].Countries = append(cfg.Speakers[i].Countries, country)
+		}
+	}
+	cfg.SetCompanyCountry(speaker.Company, country)
+}
+
+func (cfg *Config) SetCompanyCountry(company *Company, country string) {
+	if company == nil || country == "" {
+		return
+	}
+	for i, c := range cfg.Companies {
+		if c.ID != company.ID {
+			continue
+		}
+		found := false
+		for _, c := range cfg.Companies[i].Countries {
+			if c == country {
+				found = true
+				break
+			}
+		}
+		if !found {
+			cfg.Companies[i].Countries = append(cfg.Companies[i].Countries, country)
+		}
+	}
+}
+
+var _ json.Marshaler = &Company{}
 var _ json.Unmarshaler = &Company{}
 var _ json.Unmarshaler = &Speaker{}
 
@@ -58,6 +111,13 @@ type companyInternal struct {
 	WebsiteURL string    `json:"websiteURL"`
 	LogoURL    string    `json:"logoURL"`
 	Countries  []string  `json:"countries"`
+}
+
+func (c Company) MarshalJSON() ([]byte, error) {
+	if shouldMarshalCompanyID {
+		return []byte(`"` + c.ID + `"`), nil
+	}
+	return json.Marshal(c.companyInternal)
 }
 
 func (c *Company) UnmarshalJSON(b []byte) error {
@@ -81,11 +141,12 @@ type Speaker struct {
 type speakerInternal struct {
 	ID             SpeakerID `json:"id"`
 	Name           string    `json:"name"`
-	Title          string    `json:"title"`
+	Title          string    `json:"title,omitempty"`
 	Email          string    `json:"email"`
 	Company        *Company  `json:"company"`
+	Countries      []string  `json:"countries"`
 	Github         string    `json:"github"`
-	Twitter        string    `json:"twitter"`
+	Twitter        string    `json:"twitter,omitempty"`
 	SpeakersBureau string    `json:"speakersBureau"`
 }
 
@@ -108,12 +169,12 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 }
 
 type MeetupGroup struct {
-	Name       string    `json:"name"`
-	MeetupID   string    `json:"meetupID"`
-	City       string    `json:"city"`
-	Country    string    `json:"country"`
-	Organizers []Speaker `json:"organizers"`
-	Meetups    []Meetup  `json:"meetups"`
+	Name       string     `json:"name"`
+	MeetupID   string     `json:"meetupID"`
+	City       string     `json:"city"`
+	Country    string     `json:"country"`
+	Organizers []*Speaker `json:"organizers"`
+	Meetups    []Meetup   `json:"meetups"`
 }
 
 // CityLowercase gets the lowercase variant of the city
@@ -144,6 +205,6 @@ type Presentation struct {
 }
 
 type Sponsors struct {
-	Venue *Company  `json:"venue"`
-	Other []Company `json:"other"`
+	Venue *Company   `json:"venue"`
+	Other []*Company `json:"other"`
 }

@@ -1,19 +1,38 @@
 speakers:
-- id: luxas
-  name: Lucas Käldström
-  github: luxas
-  title: CNCF Ambassador
-  company: luxaslabs
+- company: luxaslabs
+  countries: null
   email: lucas@luxaslabs.com
-- id: annie
+  github: luxas
+  id: luxas
+  name: Lucas Käldström
+  speakersBureau: ""
+  title: CNCF Ambassador
+- company: null
+  countries: null
+  email: ""
+  github: ""
+  id: annie
   name: Annie Talvasto
+  speakersBureau: ""
   title: Student
-- id: jnummelin
+- company: kontena
+  countries: null
+  email: ""
+  github: ""
+  id: jnummelin
   name: Jussi Nummelin
-  company: kontena
-- id: poutanen
+  speakersBureau: ""
+- company: futurice
+  countries: null
+  email: ""
+  github: ""
+  id: poutanen
   name: Ilkka Poutanen
-  company: futurice
-- id: ylenius
+  speakersBureau: ""
+- company: cybercom
+  countries: null
+  email: ""
+  github: ""
+  id: ylenius
   name: Toni Ylenius
-  company: cybercom
+  speakersBureau: ""

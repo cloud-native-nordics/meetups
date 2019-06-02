@@ -33,6 +33,9 @@ func run() error {
 	if err != nil {
 		return err
 	}
+	if err := update(cfg); err != nil {
+		return err
+	}
 	out, err := exec(cfg)
 	if err != nil {
 		return err
@@ -146,12 +149,42 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		path := filepath.Join(strings.ToLower(mg.City), "README.md")
 		result[path] = b
 	}
+	companiesYAML, err := yaml.Marshal(CompaniesFile{Companies: cfg.Companies})
+	if err != nil {
+		return nil, err
+	}
+	result["companies.yaml"] = companiesYAML
+	speakersYAML, err := yaml.Marshal(SpeakersFile{Speakers: cfg.Speakers})
+	if err != nil {
+		return nil, err
+	}
+	result["speakers.yaml"] = speakersYAML
 	b, err := tmpl(toplevelTmpl, cfg)
 	if err != nil {
 		return nil, err
 	}
 	result["README.md"] = b
 	return result, nil
+}
+
+func update(cfg *Config) error {
+	for _, mg := range cfg.MeetupGroups {
+		for _, s := range mg.Organizers {
+			cfg.SetSpeakerCountry(s, mg.Country)
+		}
+		for _, m := range mg.Meetups {
+			for _, pres := range m.Presentations {
+				for _, s := range pres.Speakers {
+					cfg.SetSpeakerCountry(s, mg.Country)
+				}
+			}
+			cfg.SetCompanyCountry(m.Sponsors.Venue, mg.Country)
+			for _, s := range m.Sponsors.Other {
+				cfg.SetCompanyCountry(s, mg.Country)
+			}
+		}
+	}
+	return nil
 }
 
 func writeFile(path string, b []byte) error {

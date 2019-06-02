@@ -1,16 +1,26 @@
 companies:
-- id: luxaslabs
+- countries: null
+  id: luxaslabs
+  logoURL: ""
   name: luxas labs
   websiteURL: https://luxaslabs.com
-- id: futurice
+- countries: null
+  id: futurice
+  logoURL: ""
   name: Futurice
   websiteURL: https://www.futurice.com/
-- id: kontena
+- countries: null
+  id: kontena
+  logoURL: ""
   name: Kontena
   websiteURL: https://kontena.io
-- id: cybercom
+- countries: null
+  id: cybercom
+  logoURL: ""
   name: Cybercom
   websiteURL: https://www.cybercom.com/
-- id: accenture
+- countries: null
+  id: accenture
+  logoURL: ""
   name: Accenture
   websiteURL: https://accenture.com
