@@ -183,7 +183,7 @@ func (mg *MeetupGroup) CityLowercase() string {
 }
 
 type Meetup struct {
-	ID            string         `json:"id"`
+	ID            uint64         `json:"id"`
 	Name          string         `json:"name"`
 	Date          time.Time      `json:"date"`
 	Duration      time.Duration  `json:"duration"`
