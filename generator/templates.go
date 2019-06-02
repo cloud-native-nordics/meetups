@@ -1,7 +1,13 @@
 package main
 
+import "text/template"
+
+var (
+	readmeTmpl = template.Must(template.New("").Parse(readmeTmplStr))
+)
+
 const (
-	readmeTmpl = `## Meetups organized in {{ .City }}
+	readmeTmplStr = `## Meetups organized in {{ .City }}
 
 #### Organizers
 

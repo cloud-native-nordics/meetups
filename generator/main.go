@@ -70,6 +70,10 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 		if !info.IsDir() {
 			return nil
 		}
+		// Consider only subdirectories of the root path
+		if filepath.Dir(path) != "." {
+			return nil
+		}
 		meetupsFile := filepath.Join(path, "meetup.yaml")
 		if _, err := os.Stat(meetupsFile); os.IsNotExist(err) {
 			return nil
@@ -99,9 +103,8 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 }
 
 func apply(files map[string][]byte) error {
-	for city, fileContent := range files {
-		readmePath := filepath.Join(strings.ToLower(city), "README.md")
-		if err := writeFile(readmePath, fileContent); err != nil {
+	for path, fileContent := range files {
+		if err := writeFile(path, fileContent); err != nil {
 			return err
 		}
 	}
@@ -109,8 +112,8 @@ func apply(files map[string][]byte) error {
 }
 
 func validate(files map[string][]byte, meetupsDir string) error {
-	for city, fileContent := range files {
-		readmePath := filepath.Join(meetupsDir, strings.ToLower(city), "README.md")
+	for path, fileContent := range files {
+		readmePath := filepath.Join(meetupsDir, path)
 		actual, err := ioutil.ReadFile(readmePath)
 		if err != nil {
 			return err
@@ -123,18 +126,23 @@ func validate(files map[string][]byte, meetupsDir string) error {
 	return nil
 }
 
-func exec(cfg *Config) (map[string][]byte, error) {
-	tmpl, err := template.New("").Parse(readmeTmpl)
-	if err != nil {
+func tmpl(t *template.Template, obj interface{}) ([]byte, error) {
+	var buf bytes.Buffer
+	if err := t.Execute(&buf, obj); err != nil {
 		return nil, err
 	}
+	return buf.Bytes(), nil
+}
+
+func exec(cfg *Config) (map[string][]byte, error) {
 	result := map[string][]byte{}
 	for _, mg := range cfg.MeetupGroups {
-		var buf bytes.Buffer
-		if err := tmpl.Execute(&buf, mg); err != nil {
+		b, err := tmpl(readmeTmpl, mg)
+		if err != nil {
 			return nil, err
 		}
-		result[mg.City] = buf.Bytes()
+		path := filepath.Join(strings.ToLower(mg.City), "README.md")
+		result[path] = b
 	}
 	return result, nil
 }
