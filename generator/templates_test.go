@@ -7,6 +7,7 @@ import (
 )
 
 func TestGenerate(t *testing.T) {
+	isTesting = true
 	for i := 1; i <= 2; i++ {
 		indir := fmt.Sprintf("testdata/%d", i)
 		t.Run(indir, func(t2 *testing.T) {
@@ -23,6 +24,11 @@ func TestGenerate(t *testing.T) {
 			}
 			if err := validate(out, indir); err != nil {
 				t.Errorf("generation and validation failed: %v", err)
+			}
+			//t.Log(out)
+			*dryRun = false
+			if err := apply(out, indir); err != nil {
+				t.Errorf(err.Error())
 			}
 		})
 	}

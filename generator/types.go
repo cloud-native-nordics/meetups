@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"strings"
 	"time"
 )
 
@@ -112,6 +113,11 @@ type MeetupGroup struct {
 	City       string    `json:"city"`
 	Organizers []Speaker `json:"organizers"`
 	Meetups    []Meetup  `json:"meetups"`
+}
+
+// CityLowercase gets the lowercase variant of the city
+func (mg *MeetupGroup) CityLowercase() string {
+	return strings.ToLower(mg.City)
 }
 
 type Meetup struct {

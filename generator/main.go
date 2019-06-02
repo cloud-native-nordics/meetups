@@ -18,6 +18,7 @@ var companiesFile = pflag.String("companies-file", "companies.yaml", "Point to t
 var rootDir = pflag.String("meetups-dir", ".", "Point to the directory that has all meetup groups as subfolders, each with a meetup.yaml file")
 var dryRun = pflag.Bool("dry-run", true, "Whether to actually apply the changes or not")
 var validateFlag = pflag.Bool("validate", false, "Whether to validate the current state of the repo content with the spec")
+var isTesting = false
 
 func main() {
 	if err := run(); err != nil {
@@ -39,7 +40,7 @@ func run() error {
 	if *validateFlag {
 		return validate(out, *rootDir)
 	}
-	return apply(out)
+	return apply(out, *rootDir)
 }
 
 func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
@@ -71,7 +72,7 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 			return nil
 		}
 		// Consider only subdirectories of the root path
-		if filepath.Dir(path) != "." {
+		if !isTesting && filepath.Dir(path) != "." {
 			return nil
 		}
 		meetupsFile := filepath.Join(path, "meetup.yaml")
@@ -102,24 +103,25 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 	}, nil
 }
 
-func apply(files map[string][]byte) error {
+func apply(files map[string][]byte, rootDir string) error {
 	for path, fileContent := range files {
-		if err := writeFile(path, fileContent); err != nil {
+		fullPath := filepath.Join(rootDir, path)
+		if err := writeFile(fullPath, fileContent); err != nil {
 			return err
 		}
 	}
 	return nil
 }
 
-func validate(files map[string][]byte, meetupsDir string) error {
+func validate(files map[string][]byte, rootDir string) error {
 	for path, fileContent := range files {
-		readmePath := filepath.Join(meetupsDir, path)
-		actual, err := ioutil.ReadFile(readmePath)
+		fullPath := filepath.Join(rootDir, path)
+		actual, err := ioutil.ReadFile(fullPath)
 		if err != nil {
 			return err
 		}
 		if !bytes.Equal(actual, fileContent) {
-			return fmt.Errorf("%s differs from expected state. expected: \"%s\", actual: \"%s\"", readmePath, fileContent, actual)
+			return fmt.Errorf("%s differs from expected state. expected: \"%s\", actual: \"%s\"", fullPath, fileContent, actual)
 		}
 	}
 	fmt.Println("Validation succeeded!")
@@ -144,6 +146,11 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		path := filepath.Join(strings.ToLower(mg.City), "README.md")
 		result[path] = b
 	}
+	b, err := tmpl(toplevelTmpl, cfg)
+	if err != nil {
+		return nil, err
+	}
+	result["README.md"] = b
 	return result, nil
 }
 

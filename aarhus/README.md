@@ -1,4 +1,4 @@
-## Meetups organized in aarhus
+## Meetups organized in Aarhus
 
 #### Organizers
 
