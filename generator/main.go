@@ -187,7 +187,13 @@ func exec(cfg *Config) (map[string][]byte, error) {
 }
 
 func update(cfg *Config) error {
-	for _, mg := range cfg.MeetupGroups {
+	for i, mg := range cfg.MeetupGroups {
+		data, err := GetMeetupInfo(mg.MeetupID)
+		if err != nil {
+			return err
+		}
+		cfg.MeetupGroups[i].Members = data.Members
+		cfg.MeetupGroups[i].Photo = data.Photo.Link
 		for _, s := range mg.Organizers {
 			cfg.SetSpeakerCountry(s, mg.Country)
 		}

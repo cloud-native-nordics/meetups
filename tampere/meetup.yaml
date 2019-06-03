@@ -129,9 +129,11 @@ meetups:
   sponsors:
     other: null
     venue: null
+members: 145
 name: CNCF & Kubernetes Tampere
 organizers:
 - luxas
 - netumoliver
 - jnummelin
 - hoisko
+photo: https://secure.meetupstatic.com/photos/event/2/0/4/f/highres_477548271.jpeg

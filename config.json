@@ -1814,8 +1814,9 @@
   ],
   "meetupGroups": [
     {
-      "name": "Cloud Native Aarhus",
       "meetupID": "Cloud-Native-Aarhus",
+      "name": "Cloud Native Aarhus",
+      "members": 762,
       "city": "Aarhus",
       "country": "denmark",
       "organizers": [
@@ -3888,8 +3889,9 @@
       ]
     },
     {
-      "name": "Cloud Native Copenhagen",
       "meetupID": "Cloud-Native-Copenhagen",
+      "name": "Cloud Native Copenhagen",
+      "members": 627,
       "city": "Copenhagen",
       "country": "denmark",
       "organizers": [
@@ -4682,8 +4684,10 @@
       ]
     },
     {
-      "name": "CNCF \u0026 Kubernetes Finland",
       "meetupID": "Kubernetes-Finland",
+      "name": "CNCF \u0026 Kubernetes Finland",
+      "members": 714,
+      "photo": "https://secure.meetupstatic.com/photos/event/3/b/6/c/highres_463215212.jpeg",
       "city": "Helsinki",
       "country": "finland",
       "organizers": [
@@ -6047,8 +6051,10 @@
       ]
     },
     {
-      "name": "Stockholm Kubernetes and Cloud Native Computing",
       "meetupID": "sthlm-k8s",
+      "name": "Stockholm Kubernetes and Cloud Native Computing",
+      "members": 633,
+      "photo": "https://secure.meetupstatic.com/photos/event/1/a/9/0/highres_469446800.jpeg",
       "city": "Stockholm",
       "country": "sweden",
       "organizers": [
@@ -6349,8 +6355,10 @@
       ]
     },
     {
-      "name": "CNCF \u0026 Kubernetes Tampere",
       "meetupID": "Kubernetes-Tampere",
+      "name": "CNCF \u0026 Kubernetes Tampere",
+      "members": 145,
+      "photo": "https://secure.meetupstatic.com/photos/event/2/0/4/f/highres_477548271.jpeg",
       "city": "Tampere",
       "country": "finland",
       "organizers": [

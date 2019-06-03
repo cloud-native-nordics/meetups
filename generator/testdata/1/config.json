@@ -111,8 +111,9 @@
   ],
   "meetupGroups": [
     {
-      "name": "CNCF \u0026 Kubernetes Finland",
       "meetupID": "Kubernetes-Finland",
+      "name": "CNCF \u0026 Kubernetes Finland",
+      "members": 0,
       "city": "Helsinki",
       "country": "finland",
       "organizers": [

@@ -27,7 +27,7 @@ type EventData struct {
 	Date     string      `json:"local_date"`
 	Time     string      `json:"local_time"`
 	Venue    EventVenue  `json:"venue"`
-	RVSPs    uint32      `json:"yes_rsvp_count"`
+	RVSPs    uint64      `json:"yes_rsvp_count"`
 }
 
 type EventVenue struct {
@@ -84,8 +84,8 @@ func setMeetupData(cfg *Config) error {
 }
 
 type MeetupGroupAPI struct {
-	ID      int32  `json:"id"`
-	Members uint32 `json:"members"`
+	ID      uint64 `json:"id"`
+	Members uint64 `json:"members"`
 	Photo   Photo  `json:"group_photo"`
 }
 

@@ -168,8 +168,10 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 }
 
 type MeetupGroup struct {
-	Name            string     `json:"name"`
 	MeetupID        string     `json:"meetupID"`
+	Name            string     `json:"name"`
+	Members         uint64     `json:"members"`
+	Photo           string     `json:"photo,omitempty"`
 	City            string     `json:"city"`
 	Country         string     `json:"country"`
 	Organizers      []*Speaker `json:"organizers"`
@@ -188,7 +190,7 @@ type Meetup struct {
 	Date          Time           `json:"date,omitempty"`
 	Duration      Duration       `json:"duration,omitempty"`
 	Recording     string         `json:"recording,omitempty"`
-	Attendees     uint32         `json:"attendees"`
+	Attendees     uint64         `json:"attendees"`
 	Address       string         `json:"address"`
 	Sponsors      Sponsors       `json:"sponsors"`
 	Presentations []Presentation `json:"presentations"`

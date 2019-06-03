@@ -138,6 +138,7 @@ meetups:
   sponsors:
     other: null
     venue: null
+members: 633
 name: Stockholm Kubernetes and Cloud Native Computing
 organizers:
 - dzolo
@@ -145,3 +146,4 @@ organizers:
 - iljoo
 - fyx
 - holmsten
+photo: https://secure.meetupstatic.com/photos/event/1/a/9/0/highres_469446800.jpeg
