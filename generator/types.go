@@ -4,13 +4,13 @@ import (
 	"encoding/json"
 	"fmt"
 	"strings"
-	"time"
 )
 
 var (
 	globalSpeakerMap       = map[SpeakerID]*Speaker{}
 	globalCompanyMap       = map[CompanyID]*Company{}
 	shouldMarshalCompanyID = false
+	shouldMarshalSpeakerID = false
 )
 
 type CompanyID string
@@ -26,16 +26,8 @@ func (c *CompaniesFile) SetGlobalMap() {
 	}
 }
 
-type SpeakersList []Speaker
-
-func (sl SpeakersList) MarshalJSON() ([]byte, error) {
-	shouldMarshalCompanyID = true
-	defer func() { shouldMarshalCompanyID = false }()
-	return json.Marshal([]Speaker(sl))
-}
-
 type SpeakersFile struct {
-	Speakers SpeakersList `json:"speakers"`
+	Speakers []Speaker `json:"speakers"`
 }
 
 func (s *SpeakersFile) SetGlobalMap() {
@@ -150,6 +142,13 @@ type speakerInternal struct {
 	SpeakersBureau string    `json:"speakersBureau"`
 }
 
+func (s Speaker) MarshalJSON() ([]byte, error) {
+	if shouldMarshalSpeakerID {
+		return []byte(`"` + s.ID + `"`), nil
+	}
+	return json.Marshal(s.speakerInternal)
+}
+
 func (s *Speaker) UnmarshalJSON(b []byte) error {
 	stest := speakerInternal{}
 	if err := json.Unmarshal(b, &stest); err == nil {
@@ -185,10 +184,10 @@ func (mg *MeetupGroup) CityLowercase() string {
 type Meetup struct {
 	ID            uint64         `json:"id"`
 	Name          string         `json:"name"`
-	Date          time.Time      `json:"date"`
-	Duration      time.Duration  `json:"duration"`
+	Date          Time           `json:"date,omitempty"`
+	Duration      Duration       `json:"duration,omitempty"`
 	DateInternal  string         `json:"dateInternal"`
-	Recording     string         `json:"recording"`
+	Recording     string         `json:"recording,omitempty"`
 	Attendees     uint32         `json:"attendees"`
 	Address       string         `json:"address"`
 	Sponsors      Sponsors       `json:"sponsors"`
@@ -200,7 +199,7 @@ type Presentation struct {
 	EndTime   string     `json:"endTime"`
 	Title     string     `json:"title"`
 	Slides    string     `json:"slides"`
-	Recording string     `json:"recording"`
+	Recording string     `json:"recording,omitempty"`
 	Speakers  []*Speaker `json:"speakers"`
 }
 

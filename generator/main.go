@@ -141,6 +141,8 @@ func tmpl(t *template.Template, obj interface{}) ([]byte, error) {
 
 func exec(cfg *Config) (map[string][]byte, error) {
 	result := map[string][]byte{}
+	shouldMarshalSpeakerID = true
+	shouldMarshalCompanyID = true
 	for _, mg := range cfg.MeetupGroups {
 		b, err := tmpl(readmeTmpl, mg)
 		if err != nil {
@@ -148,12 +150,22 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		}
 		path := filepath.Join(strings.ToLower(mg.City), "README.md")
 		result[path] = b
+
+		mgYAML, err := yaml.Marshal(mg)
+		if err != nil {
+			return nil, err
+		}
+		path = filepath.Join(strings.ToLower(mg.City), "meetup.yaml")
+		result[path] = mgYAML
 	}
+	shouldMarshalSpeakerID = false
+	shouldMarshalCompanyID = false
 	companiesYAML, err := yaml.Marshal(CompaniesFile{Companies: cfg.Companies})
 	if err != nil {
 		return nil, err
 	}
 	result["companies.yaml"] = companiesYAML
+	shouldMarshalCompanyID = true
 	speakersYAML, err := yaml.Marshal(SpeakersFile{Speakers: cfg.Speakers})
 	if err != nil {
 		return nil, err
