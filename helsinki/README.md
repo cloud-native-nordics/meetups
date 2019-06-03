@@ -10,7 +10,7 @@
 
  - Date:
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/259072993
- - Attendees (according to meetup.com): 35
+ - Attendees (according to meetup.com): 3
  - Venue sponsor: [Unity](https://www.unity.com)
  - Meetup sponsors:
    - [luxas labs](https://luxaslabs.com)
@@ -225,3 +225,13 @@
    - Michael Duergner, Zalando
    - Recording: https://youtu.be/H92nfJt3ymo
  - 20:30 - 21:00: Feel free to hang out with the people for the rest of the evening, do some Q&A with the speakers, etc. 
+
+### Summer Meetup in Helsinki
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/261376372
+ - Attendees (according to meetup.com): 75
+
+
+#### Agenda
+

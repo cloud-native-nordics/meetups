@@ -196,7 +196,7 @@ func update(cfg *Config) error {
 			}
 		}
 	}
-	return nil
+	return setMeetupData(cfg)
 }
 
 func writeFile(path string, b []byte) error {

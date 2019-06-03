@@ -1,11 +1,15 @@
 city: Helsinki
 country: finland
+ignoreMeetupIDs:
+- 257897399
+- 259129795
+- 261352635
 meetupID: Kubernetes-Finland
 meetups:
-- address: Kaivokatu 6 · Helsinki
-  attendees: 35
-  date: null
-  duration: 0s
+- address: Kaivokatu 6
+  attendees: 3
+  date: "2019-03-25T17:00:00Z"
+  duration: 3h30m0s
   id: 259072993
   name: Kubernetes 101 Hands-On Workshop
   presentations:
@@ -20,10 +24,10 @@ meetups:
     - luxaslabs
     - cncf
     venue: unity
-- address: Aleksanterinkatu 46a · Helsinki
+- address: Aleksanterinkatu 46a
   attendees: 114
-  date: null
-  duration: 0s
+  date: "2019-01-23T18:00:00Z"
+  duration: 3h0m0s
   id: 256936479
   name: Winter Kubernetes Meetup
   presentations:
@@ -72,10 +76,10 @@ meetups:
     - luxaslabs
     - cncf
     venue: accenture
-- address: Westendintie 1 · Espoo
+- address: 'Westendintie 1 '
   attendees: 88
-  date: null
-  duration: 0s
+  date: "2018-12-03T18:00:00Z"
+  duration: 3h0m0s
   id: 255665681
   name: Pre-Slush Kubernetes Meetup
   presentations:
@@ -132,10 +136,10 @@ meetups:
     - luxaslabs
     - cncf
     venue: tuxera
-- address: Ratavartijankatu 5, Helsinki
+- address: Ratavartijankatu 5
   attendees: 95
-  date: null
-  duration: 0s
+  date: "2018-08-28T18:00:00Z"
+  duration: 3h0m0s
   id: 252546014
   name: Kubernetes Autumn Meetup
   presentations:
@@ -191,10 +195,10 @@ meetups:
     - luxaslabs
     - cncf
     venue: elisa
-- address: Aleksis Kivis Gata 7 · Helsinki
+- address: Aleksis Kivis Gata 7
   attendees: 110
-  date: null
-  duration: 0s
+  date: "2018-06-06T18:00:00Z"
+  duration: 2h0m0s
   id: 250712383
   name: Kubernetes Summer Meetup
   presentations:
@@ -243,10 +247,10 @@ meetups:
     - luxaslabs
     - cncf
     venue: nordea
-- address: Lapinlahdenkatu 16, Helsinki
+- address: Lapinlahdenkatu 16
   attendees: 63
-  date: null
-  duration: 0s
+  date: "2018-04-03T18:00:00Z"
+  duration: 2h0m0s
   id: 248641731
   name: April Meetup -- Let's learn some Kubernetes concepts!
   presentations:
@@ -294,10 +298,10 @@ meetups:
     - emblica
     - upcloud
     venue: maria01
-- address: Lapinlahdenkatu 16, Helsinki
+- address: Lapinlahdenkatu 16
   attendees: 65
-  date: null
-  duration: 0s
+  date: "2018-02-22T18:00:00Z"
+  duration: 2h0m0s
   id: 247553023
   name: Winter Meetup -- Let's catch up on the latest news in the ecosystem
   presentations:
@@ -340,10 +344,10 @@ meetups:
     - emblica
     - upcloud
     venue: maria01
-- address: Eteläranta 12, Helsinki
+- address: Eteläranta 12
   attendees: 77
-  date: null
-  duration: 0s
+  date: "2017-10-04T18:00:00Z"
+  duration: 2h0m0s
   id: 242096170
   name: First Kubernetes & CNCF meetup in Finland -- Kubernetes v1.8 celebration party
   presentations:
@@ -394,6 +398,16 @@ meetups:
     - emblica
     - upcloud
     venue: upcloud
+- address: Antinkatu 1A, 4th floor
+  attendees: 75
+  date: "2019-06-11T18:00:00Z"
+  duration: 3h0m0s
+  id: 261376372
+  name: Summer Meetup in Helsinki
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 name: CNCF & Kubernetes Finland
 organizers:
 - luxas

@@ -2,10 +2,10 @@ city: Copenhagen
 country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
-- address: Sortedam Dossering 5D, 2200 Copenhagen, Denmark
+- address: Sortedam Dossering 5D
   attendees: 27
-  date: null
-  duration: 0s
+  date: "2017-12-12T17:00:00Z"
+  duration: 3h0m0s
   id: 245248552
   name: Let's kick-off Cloud Native Copenhagen!
   presentations:
@@ -54,10 +54,10 @@ meetups:
   sponsors:
     other: null
     venue: twentythree
-- address: H.C. Andersen Blvd. 27, 1553 Copenhagen, Denmark
+- address: H.C. Andersen Blvd. 27
   attendees: 58
-  date: null
-  duration: 0s
+  date: "2018-01-23T17:00:00Z"
+  duration: 3h0m0s
   id: 246008132
   name: 'Lab session: How to Kubernetes?'
   presentations:
@@ -98,10 +98,10 @@ meetups:
   sponsors:
     other: null
     venue: falconio
-- address: Borgergade 24, 1300 Copenhagen, Denmark
+- address: Borgergade 24
   attendees: 29
-  date: null
-  duration: 0s
+  date: "2018-03-08T17:00:00Z"
+  duration: 3h0m0s
   id: 247310136
   name: 'Expert night: bare metal and chaos engineering'
   presentations:
@@ -140,10 +140,10 @@ meetups:
   sponsors:
     other: null
     venue: trifork
-- address: Vesterbrogade 26, 1620 Copenhagen, Denmark
+- address: Vesterbrogade 26
   attendees: 100
-  date: null
-  duration: 0s
+  date: "2018-04-30T17:30:00Z"
+  duration: 3h0m0s
   id: 249226057
   name: Let's warm-up before KubeCon-CloudNativeCon!
   presentations:
@@ -205,10 +205,10 @@ meetups:
   sponsors:
     other: null
     venue: republikken
-- address: Weidekampsgade 16, 2300 Copenhagen S, Denmark
+- address: Weidekampsgade 16, 2300
   attendees: 69
-  date: null
-  duration: 0s
+  date: "2018-11-06T17:00:00Z"
+  duration: 3h0m0s
   id: 255293027
   name: Windows containers, Kubernetes in the enterprise
   presentations:
@@ -247,6 +247,56 @@ meetups:
   sponsors:
     other: null
     venue: simcorp
+- address: Teglholmsgade 1
+  attendees: 46
+  date: "2019-03-13T17:00:00Z"
+  duration: 3h0m0s
+  id: 258900627
+  name: Cloud Native Solutions and Intelligent Scaling in the Media Industry
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: ""
+  attendees: 1
+  date: "2019-03-19T12:30:00Z"
+  duration: 6h0m0s
+  id: 259113734
+  name: Istio Service Mesh
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: 'Fruebjergvej 3, Att.: Økonomi'
+  attendees: 68
+  date: "2019-04-09T17:00:00Z"
+  duration: 3h0m0s
+  id: 258922126
+  name: Next-gen CI night
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Landemærket 10
+  attendees: 50
+  date: "2019-04-25T17:00:00Z"
+  duration: 3h0m0s
+  id: 259355667
+  name: Cloud Native Architecture at scale and a Fairytale of Databases
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Vester Søgade 6
+  attendees: 29
+  date: "2019-06-11T13:00:00Z"
+  duration: 3h0m0s
+  id: 261858991
+  name: 'Cloud Native Copenhagen Hack Nights: Kubernetes 101'
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 name: Cloud Native Copenhagen
 organizers:
 - laszlo

@@ -12,6 +12,7 @@
 
  - Date:
  - Meetup link: https://www.meetup.com/sthlm-k8s/events/245823087
+ - Attendees (according to meetup.com): 96
 
 
 #### Agenda
@@ -43,6 +44,7 @@
 
  - Date:
  - Meetup link: https://www.meetup.com/sthlm-k8s/events/254614677
+ - Attendees (according to meetup.com): 148
  - Venue sponsor: [Spotify](https://www.spotify.com/)
 
 #### Agenda
@@ -53,3 +55,13 @@
  - 19:10 - 19:40: Mak Ahmad - “A good intro / deep dive into Istio” 
  - 19:45 - 21:00: Mingle 
  - 21:00 - 21:00: Doors Close 
+
+### Stockholm K8S and CNCF May 2019
+
+ - Date:
+ - Meetup link: https://www.meetup.com/sthlm-k8s/events/260846917
+ - Attendees (according to meetup.com): 88
+
+
+#### Agenda
+

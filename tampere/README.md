@@ -66,3 +66,13 @@
    - Toni Ylenius, Cybercom
    - Slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
  - 20:30 - 21:00: Networking 
+
+### Summer Kubernetes Tampere Meetup
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/261344385
+ - Attendees (according to meetup.com): 50
+
+
+#### Agenda
+

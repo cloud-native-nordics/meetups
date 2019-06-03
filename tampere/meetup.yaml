@@ -2,10 +2,10 @@ city: Tampere
 country: finland
 meetupID: Kubernetes-Tampere
 meetups:
-- address: Kalevantie 7C, 33100 Tampere, Finland
+- address: Kalevantie 7
   attendees: 48
-  date: null
-  duration: 0s
+  date: "2019-04-04T17:00:00Z"
+  duration: 3h0m0s
   id: 258970382
   name: April Kubernetes Tampere Meetup
   presentations:
@@ -61,10 +61,10 @@ meetups:
     - luxaslabs
     - cncf
     venue: netum
-- address: Pakkahuoneenaukio 2, 33100 Tampere, Finland
+- address: Pakkahuoneenaukio 2
   attendees: 50
-  date: null
-  duration: 0s
+  date: "2019-01-17T18:00:00Z"
+  duration: 3h0m0s
   id: 257164934
   name: First Kubernetes and CNCF Tampere Meetup
   presentations:
@@ -119,6 +119,16 @@ meetups:
     - luxaslabs
     - cncf
     venue: cybercom
+- address: Kelloportinkatu 1 D
+  attendees: 50
+  date: "2019-06-13T17:00:00Z"
+  duration: 3h0m0s
+  id: 261344385
+  name: Summer Kubernetes Tampere Meetup
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 name: CNCF & Kubernetes Tampere
 organizers:
 - luxas

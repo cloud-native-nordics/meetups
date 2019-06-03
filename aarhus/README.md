@@ -7,34 +7,11 @@
  - Henrik Høegh, [Praqma](https://www.praqma.com/)
  - Daniel Fly, [Zitcom](https://www.zitcom.dk/)
 
-### Cloud Native Hack Nights #2: Prometheus
-
- - Date: 28 of May, 2019 at 4:30pm - 9pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261130244
- - Recording: none
- - Venue sponsor: [Praqma](https://www.praqma.com/)
-
-#### Agenda
-
- - 16:45 - 16:50: Welcome to Cloud Native Aarhus 
-   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
-   - Slides: https://docs.google.com/presentation/d/1rFUMHsFqHAW1IuEFdIGTlx1mN5uUyIJTdtZnN0UJJ5s/edit?usp=sharing
- - 16:50 - 17:00: Prometheus experience report - Schneider Electric by Steffan Lund & Mike Rostermund 
-   - Slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-hacknight-2/prometheus-schneider.pdf
- - 17:00 - 17:30: Introduction to Prometheus 
-   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
-   - Slides: https://docs.google.com/presentation/d/1rFUMHsFqHAW1IuEFdIGTlx1mN5uUyIJTdtZnN0UJJ5s/edit?usp=sharing
- - 17:30 - 18:00: Workshop 
- - 18:00 - 18:30: Break and food 
- - 18:30 - 19:00: Workshop 
- - 19:00 - 19:30: Panel discussion and Open space 
- - 19:30 - 20:00: 2-years of Cloud Native Aarhus Celebration with Birthday cake 
- - 20:00 - 21:00: Discussions and networking 
-
 ### Cloud Native Stories: TV 2 Play & Spar Nord Bank
 
  - Date:
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/258287765
+ - Attendees (according to meetup.com): 64
  - Venue sponsor: [Spar Nord Bank](https://www.sparnord.dk/)
 
 #### Agenda
@@ -50,7 +27,7 @@
    - Martin Villumsen, Software Developer & Site Reliability Engineer, TV2 Play
  - 19:15 - 20:00: Discussions and networking 
 
-### Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects
+### Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects 
 
  - Date:
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/257138158
@@ -235,7 +212,7 @@
 
  - Date:
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/244655197
- - Attendees (according to meetup.com): 53
+ - Attendees (according to meetup.com): 45
  - Venue sponsor: [Uber](https://uber.com)
 
 #### Agenda
@@ -276,7 +253,7 @@
 
  - Date:
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/240929562
- - Attendees (according to meetup.com): 32
+ - Attendees (according to meetup.com): 50
  - Venue sponsor: [Stibo Systems](https://www.stibosystems.com)
 
 #### Agenda
@@ -291,11 +268,11 @@
    - Henrik Høegh, Praqma
  - 19:15 - 20:00: Networking 
 
-### Cloud Native Aarhus #1
+### Cloud Native Aarhus #2
 
  - Date:
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/240929562
- - Attendees (according to meetup.com): 32
+ - Attendees (according to meetup.com): 50
  - Venue sponsor: [Lunar Way A/S](https://www.lunarway.com)
 
 #### Agenda
@@ -309,3 +286,63 @@
  - 18:15 - 19:00: Empowering your local environment with containers 
    - Daniel Fly, Zitcom
  - 19:00 - 20:00: Networking 
+
+### Cloud Native Aarhus #1
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/239352311
+ - Attendees (according to meetup.com): 30
+
+
+#### Agenda
+
+
+### Cloud Native Aarhus Hack Nights: Kubernetes 101
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259564
+ - Attendees (according to meetup.com): 69
+
+
+#### Agenda
+
+
+### From Mainframe to Cloud Native and State of Windows Containers and Kubernetes
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259651
+ - Attendees (according to meetup.com): 76
+
+
+#### Agenda
+
+
+### Cloud Native Hack Nights #2: Prometheus
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261130244
+ - Attendees (according to meetup.com): 36
+
+
+#### Agenda
+
+
+### Kubernetes Failure Stories & How to manage Cloud Native secrets with Vault
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261537949
+ - Attendees (according to meetup.com): 94
+
+
+#### Agenda
+
+
+### Cloud Native Streaming with Apache Flink and a Fairytale of Databases
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261346897
+ - Attendees (according to meetup.com): 32
+
+
+#### Agenda
+

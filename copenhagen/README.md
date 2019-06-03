@@ -109,3 +109,53 @@
    - Jeppe Johansen, Whyyy
  - 19:00 - 20:00: Networking 
  - 20:00 - 20:00: Goodbye 
+
+### Cloud Native Solutions and Intelligent Scaling in the Media Industry
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/258900627
+ - Attendees (according to meetup.com): 46
+
+
+#### Agenda
+
+
+### Istio Service Mesh
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/259113734
+ - Attendees (according to meetup.com): 1
+
+
+#### Agenda
+
+
+### Next-gen CI night
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/258922126
+ - Attendees (according to meetup.com): 68
+
+
+#### Agenda
+
+
+### Cloud Native Architecture at scale and a Fairytale of Databases
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/259355667
+ - Attendees (according to meetup.com): 50
+
+
+#### Agenda
+
+
+### Cloud Native Copenhagen Hack Nights: Kubernetes 101
+
+ - Date:
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/261858991
+ - Attendees (according to meetup.com): 29
+
+
+#### Agenda
+
