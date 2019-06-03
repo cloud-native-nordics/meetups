@@ -1,4 +1,6 @@
 language: go
+go:
+- "1.12"
 
 script:
 - make validate
