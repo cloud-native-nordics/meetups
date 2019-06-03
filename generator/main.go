@@ -2,6 +2,7 @@ package main // import "github.com/cloud-native-nordics/meetups/generator"
 
 import (
 	"bytes"
+	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"os"
@@ -171,11 +172,17 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		return nil, err
 	}
 	result["speakers.yaml"] = speakersYAML
-	b, err := tmpl(toplevelTmpl, cfg)
+	readmeBytes, err := tmpl(toplevelTmpl, cfg)
 	if err != nil {
 		return nil, err
 	}
-	result["README.md"] = b
+	result["README.md"] = readmeBytes
+	shouldMarshalCompanyID = false
+	configJSON, err := json.MarshalIndent(cfg, "", "  ")
+	if err != nil {
+		return nil, err
+	}
+	result["config.json"] = configJSON
 	return result, nil
 }
 
