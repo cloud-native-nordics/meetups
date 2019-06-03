@@ -5,7 +5,6 @@ meetups:
 - address: 7A Conference, Vasagatan 7 3rd floor, Stockholm, Sweden
   attendees: 0
   date: null
-  dateInternal: 25th of January, 2018 at 5:30pm - 8:30pm
   duration: 0s
   id: 245823087
   name: Stockholm Kubernetes Meetup
@@ -47,7 +46,6 @@ meetups:
 - address: Spotify, Regeringsgatan 13, Stockholm
   attendees: 0
   date: null
-  dateInternal: 21th of June, 2018 at 6pm - 8pm
   duration: 0s
   id: 251231228
   name: Cloud Native Stockholm
@@ -93,7 +91,6 @@ meetups:
 - address: Spotify, Regeringsgatan 13, Stockholm
   attendees: 0
   date: null
-  dateInternal: 25th of September, 2018 at 5:45pm - 8:30pm
   duration: 0s
   id: 254614677
   name: Stockholm Kubernetes and Cloud Native Meetup

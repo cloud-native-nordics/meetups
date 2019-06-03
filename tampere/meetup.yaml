@@ -5,7 +5,6 @@ meetups:
 - address: Kalevantie 7C, 33100 Tampere, Finland
   attendees: 48
   date: null
-  dateInternal: 4th of April, 2019 at 5pm - 8pm
   duration: 0s
   id: 258970382
   name: April Kubernetes Tampere Meetup
@@ -65,7 +64,6 @@ meetups:
 - address: Pakkahuoneenaukio 2, 33100 Tampere, Finland
   attendees: 50
   date: null
-  dateInternal: 17th of January, 2019 at 6pm - 9pm
   duration: 0s
   id: 257164934
   name: First Kubernetes and CNCF Tampere Meetup

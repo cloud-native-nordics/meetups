@@ -65,7 +65,6 @@ meetups:
 - address: Spar Nord Bank, Ceresbyen 75, 8000 Aarhus
   attendees: 0
   date: null
-  dateInternal: 5 of March, 2019 at 5pm - 8pm
   duration: 0s
   id: 258287765
   name: 'Cloud Native Stories: TV 2 Play & Spar Nord Bank'
@@ -111,7 +110,6 @@ meetups:
 - address: INCUBA, Åbogade, Aarhus N
   attendees: 85
   date: null
-  dateInternal: 12 of February, 2019 at 5pm - 8pm
   duration: 0s
   id: 257138158
   name: Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects
@@ -174,7 +172,6 @@ meetups:
 - address: BESTSELLER, Inge Lehmanns Gade 2, 8000 Aarhus
   attendees: 81
   date: null
-  dateInternal: 8 of January, 2019 at 5pm - 8pm
   duration: 0s
   id: 257106811
   name: 'Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD'
@@ -219,7 +216,6 @@ meetups:
 - address: Trifork A/S, Dokk1, Hack Kampmanns Plads 2, Plan 3, 8000 Aarhus
   attendees: 49
   date: null
-  dateInternal: 11 of December, 2018 at 4:30pm - 8pm
   duration: 0s
   id: 256345753
   name: From Mainframe to Kubernetes / CloudNativeCon+KubeCon Keynotes Live Stream
@@ -267,7 +263,6 @@ meetups:
 - address: Uber, Åboulevarden 37, 5th floor, 8000 Aarhus
   attendees: 88
   date: null
-  dateInternal: 6 of November, 2018 at 5pm - 8pm
   duration: 0s
   id: 255632833
   name: '10th Meet-up Anniversary Edition: Cloud Native with Zalando and Uber'
@@ -322,7 +317,6 @@ meetups:
 - address: First Agenda, Søren Frichs Vej 44, 8000 Aarhus
   attendees: 72
   date: null
-  dateInternal: 20 of September, 2018 at 5pm - 8pm
   duration: 0s
   id: 253946193
   name: A Cloud Native Evening with Microsoft
@@ -366,7 +360,6 @@ meetups:
 - address: Systematic, Søren Frichs Vej 39, 8000 Aarhus
   attendees: 33
   date: null
-  dateInternal: 21 of June, 2018 at 5pm - 8pm
   duration: 0s
   id: 251508540
   name: 'Cloud Native Aarhus #8: Humio + k8s, Minecraft + k8s, and Observability Panel'
@@ -415,7 +408,6 @@ meetups:
 - address: Inge Lehmanns Gade 2, 8000 Aarhus
   attendees: 78
   date: null
-  dateInternal: 24 of April, 2018 at 5pm - 8pm
   duration: 0s
   id: 248922498
   name: 'Cloud Native Aarhus #7: Transition to Cloud Native & Microservices'
@@ -460,7 +452,6 @@ meetups:
 - address: Paludan-Müllers Vej 40 B, 8200 Aarhus N
   attendees: 53
   date: null
-  dateInternal: 28 of February, 2018 at 5pm - 8pm
   duration: 0s
   id: 246895606
   name: 'Cloud Native Aarhus #6: Prometheus & Helm'
@@ -504,7 +495,6 @@ meetups:
 - address: Åbogade, 8200 Aarhus Nord
   attendees: 24
   date: null
-  dateInternal: 30 of January, 2018 at 5pm - 8pm
   duration: 0s
   id: 246454051
   name: Cloud Native Workshop and Networking
@@ -526,7 +516,6 @@ meetups:
 - address: Åboulevarden 37, 5th floor, 8000 Aarhus
   attendees: 53
   date: null
-  dateInternal: 7 of December, 2017 at 5pm - 8pm
   duration: 0s
   id: 244655197
   name: 'Cloud Native Aarhus #4'
@@ -581,7 +570,6 @@ meetups:
 - address: Findlandsgade 27c, 8200 Aarhus N
   attendees: 32
   date: null
-  dateInternal: 30 of October, 2017 at 5pm - 8pm
   duration: 0s
   id: 243542472
   name: 'Cloud Native Aarhus #3'
@@ -625,7 +613,6 @@ meetups:
 - address: Axel Kiers Vej 11, 8270 Højbjerg
   attendees: 32
   date: null
-  dateInternal: 29 of August, 2017 at 5pm - 8pm
   duration: 0s
   id: 240929562
   name: 'Cloud Native Aarhus #2'
@@ -669,7 +656,6 @@ meetups:
 - address: Hack Kampmanns Plads 1, 8000 Aarhus
   attendees: 32
   date: null
-  dateInternal: 25 of May, 2017 at 5pm - 8pm
   duration: 0s
   id: 240929562
   name: 'Cloud Native Aarhus #1'

@@ -5,7 +5,6 @@ meetups:
 - address: Kaivokatu 6 · Helsinki
   attendees: 35
   date: null
-  dateInternal: 25th of March, 2019 at 5pm - 8:30pm
   duration: 0s
   id: 259072993
   name: Kubernetes 101 Hands-On Workshop
@@ -24,7 +23,6 @@ meetups:
 - address: Aleksanterinkatu 46a · Helsinki
   attendees: 114
   date: null
-  dateInternal: 23rd of January, 2019 at 6pm - 9pm
   duration: 0s
   id: 256936479
   name: Winter Kubernetes Meetup
@@ -77,7 +75,6 @@ meetups:
 - address: Westendintie 1 · Espoo
   attendees: 88
   date: null
-  dateInternal: 3rd of December, 2018 at 6pm - 9pm
   duration: 0s
   id: 255665681
   name: Pre-Slush Kubernetes Meetup
@@ -138,7 +135,6 @@ meetups:
 - address: Ratavartijankatu 5, Helsinki
   attendees: 95
   date: null
-  dateInternal: 28th of August, 2018 at 6pm - 9pm
   duration: 0s
   id: 252546014
   name: Kubernetes Autumn Meetup
@@ -198,7 +194,6 @@ meetups:
 - address: Aleksis Kivis Gata 7 · Helsinki
   attendees: 110
   date: null
-  dateInternal: 6th of June, 2018 at 6pm - 9pm
   duration: 0s
   id: 250712383
   name: Kubernetes Summer Meetup
@@ -251,7 +246,6 @@ meetups:
 - address: Lapinlahdenkatu 16, Helsinki
   attendees: 63
   date: null
-  dateInternal: 3rd of April, 2018 at 6pm - 9pm
   duration: 0s
   id: 248641731
   name: April Meetup -- Let's learn some Kubernetes concepts!
@@ -303,7 +297,6 @@ meetups:
 - address: Lapinlahdenkatu 16, Helsinki
   attendees: 65
   date: null
-  dateInternal: 22nd of February, 2018 at 6pm - 9pm
   duration: 0s
   id: 247553023
   name: Winter Meetup -- Let's catch up on the latest news in the ecosystem
@@ -350,7 +343,6 @@ meetups:
 - address: Eteläranta 12, Helsinki
   attendees: 77
   date: null
-  dateInternal: 4th of October, 2017 at 6pm - 9pm
   duration: 0s
   id: 242096170
   name: First Kubernetes & CNCF meetup in Finland -- Kubernetes v1.8 celebration party

@@ -8,7 +8,7 @@
 
 ### Kubernetes 101 Hands-On Workshop
 
- - Date: 25th of March, 2019 at 5pm - 8:30pm
+ - Date:
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/259072993
  - Attendees (according to meetup.com): 35
  - Venue sponsor: [Unity](https://www.unity.com)
@@ -24,7 +24,7 @@
 
 ### Winter Kubernetes Meetup
 
- - Date: 23rd of January, 2019 at 6pm - 9pm
+ - Date:
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/256936479
  - Recording: TBA
  - Attendees (according to meetup.com): 114
@@ -52,7 +52,7 @@
 
 ### Pre-Slush Kubernetes Meetup
 
- - Date: 3rd of December, 2018 at 6pm - 9pm
+ - Date:
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/255665681
  - Recording: https://www.youtube.com/watch?v=CfMKDg_iprg
  - Attendees (according to meetup.com): 88
@@ -83,7 +83,7 @@
 
 ### Kubernetes Autumn Meetup
 
- - Date: 28th of August, 2018 at 6pm - 9pm
+ - Date:
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/252546014
  - Recording: https://www.youtube.com/watch?v=3ZWKm26Aw9Q
  - Attendees (according to meetup.com): 95
@@ -114,7 +114,7 @@
 
 ### Kubernetes Summer Meetup
 
- - Date: 6th of June, 2018 at 6pm - 9pm
+ - Date:
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/250712383
  - Recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
  - Attendees (according to meetup.com): 110
@@ -138,7 +138,7 @@
 
 ### April Meetup -- Let's learn some Kubernetes concepts!
 
- - Date: 3rd of April, 2018 at 6pm - 9pm
+ - Date:
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/248641731
  - Recording: https://www.youtube.com/watch?v=JhBgGv0xCE0
  - Attendees (according to meetup.com): 63
@@ -169,7 +169,7 @@
 
 ### Winter Meetup -- Let's catch up on the latest news in the ecosystem
 
- - Date: 22nd of February, 2018 at 6pm - 9pm
+ - Date:
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/247553023
  - Recording: https://www.youtube.com/watch?v=4ZMEejSX8nM
  - Attendees (according to meetup.com): 65
@@ -198,7 +198,7 @@
 
 ### First Kubernetes & CNCF meetup in Finland -- Kubernetes v1.8 celebration party
 
- - Date: 4th of October, 2017 at 6pm - 9pm
+ - Date:
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/242096170
  - Recording: https://youtu.be/9ZY-m4vAhiQ
  - Attendees (according to meetup.com): 77

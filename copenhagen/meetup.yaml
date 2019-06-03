@@ -5,7 +5,6 @@ meetups:
 - address: Sortedam Dossering 5D, 2200 Copenhagen, Denmark
   attendees: 27
   date: null
-  dateInternal: 12th of December, 2017 at 5pm - 8pm
   duration: 0s
   id: 245248552
   name: Let's kick-off Cloud Native Copenhagen!
@@ -58,7 +57,6 @@ meetups:
 - address: H.C. Andersen Blvd. 27, 1553 Copenhagen, Denmark
   attendees: 58
   date: null
-  dateInternal: 23th of January, 2018 at 5pm - 8pm
   duration: 0s
   id: 246008132
   name: 'Lab session: How to Kubernetes?'
@@ -103,7 +101,6 @@ meetups:
 - address: Borgergade 24, 1300 Copenhagen, Denmark
   attendees: 29
   date: null
-  dateInternal: 8th of March, 2018 at 5pm - 8pm
   duration: 0s
   id: 247310136
   name: 'Expert night: bare metal and chaos engineering'
@@ -146,7 +143,6 @@ meetups:
 - address: Vesterbrogade 26, 1620 Copenhagen, Denmark
   attendees: 100
   date: null
-  dateInternal: 30th of April, 2018 at 5:30pm - 8:30pm
   duration: 0s
   id: 249226057
   name: Let's warm-up before KubeCon-CloudNativeCon!
@@ -212,7 +208,6 @@ meetups:
 - address: Weidekampsgade 16, 2300 Copenhagen S, Denmark
   attendees: 69
   date: null
-  dateInternal: 6th of November, 2018 at 5pm - 8pm
   duration: 0s
   id: 255293027
   name: Windows containers, Kubernetes in the enterprise

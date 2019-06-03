@@ -5,7 +5,6 @@ meetups:
 - address: Street 1, Postal Code, Country
   attendees: 100
   date: null
-  dateInternal: 1st of January 2019, 6pm - 9pm
   duration: 0s
   id: 1234
   name: Winter Kubernetes Meetup
@@ -63,7 +62,6 @@ meetups:
 - address: Street 1, Postal Code, Country
   attendees: 100
   date: null
-  dateInternal: 1st of January 2019, 6pm - 9pm
   duration: 0s
   id: 1230
   name: Winter Kubernetes Meetup
