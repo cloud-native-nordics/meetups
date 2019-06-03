@@ -1,54 +1,66 @@
-name: CNCF & Kubernetes Finland
-meetupID: Kubernetes-Finland
 city: Helsinki
+country: finland
+meetupID: Kubernetes-Finland
+meetups:
+- address: Street 1, Postal Code, Country
+  attendees: 100
+  date: null
+  dateInternal: 1st of January 2019, 6pm - 9pm
+  duration: 0s
+  id: 1234
+  name: Winter Kubernetes Meetup
+  presentations:
+  - endTime: "18:15"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Arrive to the venue, sit down, grab a pizza slice and network with others
+      ;)
+  - endTime: "18:20"
+    slides: ""
+    speakers: null
+    startTime: "18:15"
+    title: Welcome from the organisers
+  - endTime: "18:25"
+    slides: ""
+    speakers: null
+    startTime: "18:20"
+    title: Introductionary words from the venue sponsor for this time, Cybercom
+  - endTime: "19:00"
+    slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019
+    speakers:
+    - luxas
+    startTime: "18:30"
+    title: Introduction to the cloud-native world of Kubernetes & CNCF
+  - endTime: "19:30"
+    slides: https://speakerdeck.com/jnummelin/geting-started-with-kubernetes
+    speakers:
+    - jnummelin
+    startTime: "19:05"
+    title: Setting up a Kubernetes cluster and getting started
+  - endTime: "20:00"
+    slides: https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing
+    speakers:
+    - poutanen
+    startTime: "19:35"
+    title: Moving from Heroku to AKS
+  - endTime: "20:30"
+    slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
+    speakers:
+    - ylenius
+    startTime: "20:05"
+    title: Experiences of different Pipelines and Development workflows on Kubernetes
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "20:30"
+    title: Networking
+  recording: http://youtu.be/foobar
+  sponsors:
+    other:
+    - luxaslabs
+    venue: accenture
+name: CNCF & Kubernetes Finland
 organizers:
 - luxas
 - annie
-meetups:
-- name: Winter Kubernetes Meetup
-  id: 1234
-  dateInternal: 1st of January 2019, 6pm - 9pm
-  attendees: 100
-  address: Street 1, Postal Code, Country
-  recording: http://youtu.be/foobar
-  sponsors:
-    venue: accenture  
-    other:
-    - luxaslabs
-  presentations:
-  - startTime: 18:00
-    endTime: 18:15
-    title: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
-  - startTime: 18:15
-    endTime: 18:20
-    title: Welcome from the organisers
-  - startTime: 18:20
-    endTime: 18:25
-    title: Introductionary words from the venue sponsor for this time, Cybercom
-  - startTime: 18:30
-    endTime: 19:00
-    title: Introduction to the cloud-native world of Kubernetes & CNCF
-    slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019
-    speakers: 
-    - luxas
-  - startTime: 19:05
-    endTime: 19:30
-    title: Setting up a Kubernetes cluster and getting started
-    slides: https://speakerdeck.com/jnummelin/geting-started-with-kubernetes
-    speakers: 
-    - jnummelin
-  - startTime: 19:35
-    endTime: 20:00
-    title: Moving from Heroku to AKS
-    slides: https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing
-    speakers: 
-    - poutanen
-  - startTime: 20:05
-    endTime: 20:30
-    title: Experiences of different Pipelines and Development workflows on Kubernetes
-    slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
-    speakers: 
-    - ylenius
-  - startTime: 20:30
-    endTime: 21:00
-    title: Networking

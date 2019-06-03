@@ -10,9 +10,8 @@
 ### Cloud Native Hack Nights #2: Prometheus
 
  - Date: 28 of May, 2019 at 4:30pm - 9pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus//events/261130244/
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261130244
  - Recording: none
- - Attendees (according to meetup.com): 0
  - Venue sponsor: [Praqma](https://www.praqma.com/)
 
 #### Agenda
