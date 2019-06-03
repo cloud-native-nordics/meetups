@@ -1,335 +1,417 @@
-name: CNCF & Kubernetes Finland
-meetupURL: https://www.meetup.com/Kubernetes-Finland
 city: Helsinki
+country: finland
+ignoreMeetupIDs:
+- 257897399
+- 259129795
+- 261352635
+meetupID: Kubernetes-Finland
+meetups:
+- address: Kaivokatu 6
+  attendees: 3
+  date: "2019-03-25T17:00:00Z"
+  duration: 3h30m0s
+  id: 259072993
+  name: Kubernetes 101 Hands-On Workshop
+  presentations:
+  - endTime: "20:30"
+    slides: https://docs.google.com/presentation/d/1LJCqZjm5aGFypoZ4fG-ELBe0tcK6pfcN7H8qIrh6pIU
+    speakers:
+    - luxas
+    startTime: "17:00"
+    title: Kubernetes 101 Hands-On Workshop
+  sponsors:
+    other:
+    - luxaslabs
+    - cncf
+    venue: unity
+- address: Aleksanterinkatu 46a
+  attendees: 114
+  date: "2019-01-23T18:00:00Z"
+  duration: 3h0m0s
+  id: 256936479
+  name: Winter Kubernetes Meetup
+  presentations:
+  - endTime: "18:15"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Arrive to the venue, sit down, grab a pizza slice and network with others
+      ;)
+  - endTime: "18:20"
+    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-january-2019
+    speakers: null
+    startTime: "18:15"
+    title: Welcome from the organisers
+  - endTime: "18:25"
+    slides: ""
+    speakers: null
+    startTime: "18:20"
+    title: Introductionary words from the venue sponsor for this time, Accenture
+  - endTime: "19:00"
+    slides: https://docs.google.com/presentation/d/1_1NpDUiejmEYdpplIqOEtepv7V6Yc0G2uFp4dVaQ70k/edit#slide=id.g4c8185cd42_0_0
+    speakers:
+    - jörg
+    startTime: "18:30"
+    title: Update from KubeCon Seattle 2018
+  - endTime: "19:35"
+    slides: https://speakerdeck.com/salkin/kubernetes-at-scale-on-remote-sites
+    speakers:
+    - niklas
+    startTime: "19:05"
+    title: A journey towards Kubernetes at scale on remote unattended sites
+  - endTime: "20:10"
+    slides: https://www.slideshare.net/oscarrenalias/enterprise-open-source
+    speakers:
+    - oscar
+    startTime: "19:40"
+    title: How to make your company start contributing to open source
+  - endTime: "20:50"
+    slides: ""
+    speakers: null
+    startTime: "20:15"
+    title: Networking time & optional Accenture lab prototypes
+  recording: TBA
+  sponsors:
+    other:
+    - luxaslabs
+    - cncf
+    venue: accenture
+- address: 'Westendintie 1 '
+  attendees: 88
+  date: "2018-12-03T18:00:00Z"
+  duration: 3h0m0s
+  id: 255665681
+  name: Pre-Slush Kubernetes Meetup
+  presentations:
+  - endTime: "18:15"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Arrive to the venue, sit down, grab a pizza slice and network with others
+      ;)
+  - endTime: "18:25"
+    slides: ""
+    speakers: null
+    startTime: "18:15"
+    title: Welcome from the organizers
+  - endTime: "18:40"
+    slides: https://speakerdeck.com/luxas/update-from-the-ever-changing-kubernetes-landscape-december-2018-ac645b18-b457-4d41-8175-426d2ac046c9
+    speakers:
+    - luxas
+    startTime: "18:30"
+    title: Update from the cloud native ecosystem
+  - endTime: "19:00"
+    slides: ""
+    speakers:
+    - christina
+    startTime: "18:45"
+    title: 10 Emerging Trends to Watch for in 2019
+  - endTime: "19:30"
+    slides: https://drive.google.com/file/d/1VLnM57l0ABCgZE2aelQuPm4P0mIJafTz/view
+    speakers:
+    - mikko
+    startTime: "19:05"
+    title: Vincit's road to using Kubernetes in the cloud
+  - endTime: "20:00"
+    slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
+    speakers:
+    - anoop
+    startTime: "19:35"
+    title: Implementing the Container Storage Interface (CSI)
+  - endTime: "20:30"
+    slides: https://docs.google.com/presentation/d/1HjlhAcm8yK29j8NPkwQl0w5ZXeTxcBsRF_wsioKBrjA/edit#slide=id.g498ec9e817_0_0
+    speakers:
+    - rasmus
+    startTime: "20:05"
+    title: No need to build it yourself - Kubernetes using GKE, Terraform, Helm &
+      Jenkins
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "20:35"
+    title: Networking time
+  recording: https://www.youtube.com/watch?v=CfMKDg_iprg
+  sponsors:
+    other:
+    - luxaslabs
+    - cncf
+    venue: tuxera
+- address: Ratavartijankatu 5
+  attendees: 95
+  date: "2018-08-28T18:00:00Z"
+  duration: 3h0m0s
+  id: 252546014
+  name: Kubernetes Autumn Meetup
+  presentations:
+  - endTime: "18:15"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Arrive to the venue, sit down, grab a pizza slice and network with others
+      ;)
+  - endTime: "18:20"
+    slides: ""
+    speakers: null
+    startTime: "18:15"
+    title: Welcome from the organizers
+  - endTime: "18:35"
+    slides: ""
+    speakers:
+    - tommi
+    startTime: "18:25"
+    title: Introductionary words from the venue sponsor for this time, Elisa
+  - endTime: "19:00"
+    slides: https://www.slideshare.net/AnnieTalvasto/manage-kubernetes-application-complexity-with-helm
+    speakers:
+    - annie
+    startTime: "18:40"
+    title: Manage Kubernetes application complexity with Helm
+  - endTime: "19:30"
+    slides: https://www.slideshare.net/jerryjalava/kubernetes-security-journey
+    speakers:
+    - jerry
+    startTime: "19:00"
+    title: Kubernetes' Security Features
+  - endTime: "19:55"
+    slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
+    speakers:
+    - marek
+    startTime: "19:35"
+    title: Lessons learned when building a Kubernetes distribution
+  - endTime: "20:20"
+    slides: https://drive.google.com/file/d/1JxBgTSPgFtAtNOxri5iyMHtYGC3t46NR/view
+    speakers:
+    - severi
+    startTime: "20:00"
+    title: Orchestrate VMs on top of Kubernetes
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "20:20"
+    title: Time for networking
+  recording: https://www.youtube.com/watch?v=3ZWKm26Aw9Q
+  sponsors:
+    other:
+    - luxaslabs
+    - cncf
+    venue: elisa
+- address: Aleksis Kivis Gata 7
+  attendees: 110
+  date: "2018-06-06T18:00:00Z"
+  duration: 2h0m0s
+  id: 250712383
+  name: Kubernetes Summer Meetup
+  presentations:
+  - endTime: "18:15"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Grab some food and socialize!
+  - endTime: "18:20"
+    slides: ""
+    speakers: null
+    startTime: "18:15"
+    title: Welcome from the organizers
+  - endTime: "18:35"
+    slides: ""
+    speakers: null
+    startTime: "18:20"
+    title: Introductionary words from Nordea
+  - endTime: "19:10"
+    slides: ""
+    speakers:
+    - teemu
+    startTime: "18:40"
+    title: Kubernetes & Enterprises
+  - endTime: "19:45"
+    slides: ""
+    speakers:
+    - markku
+    startTime: "19:15"
+    title: Automated credentialless access management in the era of super scalable
+      cloud native services
+  - endTime: "20:00"
+    slides: ""
+    speakers:
+    - luxas
+    startTime: "19:50"
+    title: My experience at KubeCon Copenhagen
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "20:00"
+    title: Socialize and network with the people around you!
+  recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
+  sponsors:
+    other:
+    - luxaslabs
+    - cncf
+    venue: nordea
+- address: Lapinlahdenkatu 16
+  attendees: 63
+  date: "2018-04-03T18:00:00Z"
+  duration: 2h0m0s
+  id: 248641731
+  name: April Meetup -- Let's learn some Kubernetes concepts!
+  presentations:
+  - endTime: "18:20"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Grab some food and socialize!
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:25"
+    title: Welcome from the organizers
+  - endTime: "18:40"
+    recording: https://youtu.be/zS801na8KSA
+    slides: https://speakerdeck.com/luxas/kubernetes-finland-april-2018-cncf-update
+    speakers:
+    - luxas
+    startTime: "18:30"
+    title: Short CNCF update
+  - endTime: "19:25"
+    recording: https://youtu.be/XzjgtSzlj0w
+    slides: https://speakerdeck.com/luxas/intro-to-the-essential-api-resources-in-kubernetes
+    speakers:
+    - luxas
+    startTime: "18:45"
+    title: Intro to the essential API resources in Kubernetes
+  - endTime: "20:00"
+    recording: https://youtu.be/xUnzZAOwans
+    slides: https://speakerdeck.com/kad/kubernetes-advanced-platform-features
+    speakers:
+    - alexander
+    startTime: "19:30"
+    title: Kubernetes advanced platform features
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "20:00"
+    title: Socialize and network with the people around you!
+  recording: https://www.youtube.com/watch?v=JhBgGv0xCE0
+  sponsors:
+    other:
+    - luxaslabs
+    - cncf
+    - emblica
+    - upcloud
+    venue: maria01
+- address: Lapinlahdenkatu 16
+  attendees: 65
+  date: "2018-02-22T18:00:00Z"
+  duration: 2h0m0s
+  id: 247553023
+  name: Winter Meetup -- Let's catch up on the latest news in the ecosystem
+  presentations:
+  - endTime: "18:20"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Grab some food and socialize!
+  - endTime: "18:50"
+    recording: https://youtu.be/YTpihD6TdOE
+    slides: https://speakerdeck.com/luxas/winter-update-from-the-cloud-native-world-cncf-and-kubernetes-finland-meetup-in-helsinki
+    speakers:
+    - luxas
+    startTime: "18:25"
+    title: Winter Update from the Cloud Native World
+  - endTime: "19:25"
+    recording: https://youtu.be/oHVACKKPuw0
+    slides: https://www.slideshare.net/karlots/kubernetes-in-azure
+    speakers:
+    - karl
+    startTime: "18:55"
+    title: Kubernetes in Azure
+  - endTime: "20:00"
+    recording: https://youtu.be/f1h3sew3KZY
+    slides: ""
+    speakers:
+    - teemu
+    startTime: "19:30"
+    title: CRDs in Action
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "20:00"
+    title: Socialize and network with the people around you!
+  recording: https://www.youtube.com/watch?v=4ZMEejSX8nM
+  sponsors:
+    other:
+    - luxaslabs
+    - cncf
+    - emblica
+    - upcloud
+    venue: maria01
+- address: Eteläranta 12
+  attendees: 77
+  date: "2017-10-04T18:00:00Z"
+  duration: 2h0m0s
+  id: 242096170
+  name: First Kubernetes & CNCF meetup in Finland -- Kubernetes v1.8 celebration party
+  presentations:
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: The meetup officially starts. Grab a pizza and a drink, and talk to the
+      talented person next to you!
+  - endTime: "18:45"
+    slides: ""
+    speakers:
+    - luxas
+    startTime: "18:30"
+    title: Welcome from the organizers
+  - endTime: "19:15"
+    recording: https://youtu.be/9Oc69MpmCoU
+    slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup
+    speakers:
+    - luxas
+    startTime: "18:45"
+    title: An introduction to the cloud native world of Kubernetes
+  - endTime: "19:50"
+    recording: https://youtu.be/rvFQkhue95c
+    slides: ""
+    speakers:
+    - teemu
+    startTime: "19:20"
+    title: Let's have fun with serverless applications on Kubernetes
+  - endTime: "20:30"
+    recording: https://youtu.be/H92nfJt3ymo
+    slides: ""
+    speakers:
+    - michael
+    startTime: "20:00"
+    title: Kubernetes on AWS at Zalando
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "20:30"
+    title: Feel free to hang out with the people for the rest of the evening, do some
+      Q&A with the speakers, etc.
+  recording: https://youtu.be/9ZY-m4vAhiQ
+  sponsors:
+    other:
+    - luxaslabs
+    - cncf
+    - emblica
+    - upcloud
+    venue: upcloud
+- address: Antinkatu 1A, 4th floor
+  attendees: 75
+  date: "2019-06-11T18:00:00Z"
+  duration: 3h0m0s
+  id: 261376372
+  name: Summer Meetup in Helsinki
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+members: 714
+name: CNCF & Kubernetes Finland
 organizers:
 - luxas
 - annie
 - teemu
-meetups:
-- name: Kubernetes 101 Hands-On Workshop
-  id: 259072993
-  dateInternal: 25th of March, 2019 at 5pm - 8:30pm
-  attendees: 35
-  address: Kaivokatu 6 · Helsinki
-  sponsors:
-    venue: unity 
-    other:
-    - luxaslabs
-    - cncf
-  presentations:
-  - startTime: 17:00
-    endTime: 20:30
-    title: Kubernetes 101 Hands-On Workshop
-    slides: https://docs.google.com/presentation/d/1LJCqZjm5aGFypoZ4fG-ELBe0tcK6pfcN7H8qIrh6pIU
-    speakers: 
-    - luxas
-- name: Winter Kubernetes Meetup
-  id: 256936479
-  dateInternal: 23rd of January, 2019 at 6pm - 9pm
-  attendees: 114
-  address: Aleksanterinkatu 46a · Helsinki
-  recording: TBA
-  sponsors:
-    venue: accenture  
-    other:
-    - luxaslabs
-    - cncf
-  presentations:
-  - startTime: 18:00
-    endTime: 18:15
-    title: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
-  - startTime: 18:15
-    endTime: 18:20
-    title: Welcome from the organisers
-    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-january-2019
-  - startTime: 18:20
-    endTime: 18:25
-    title: Introductionary words from the venue sponsor for this time, Accenture
-  - startTime: 18:30
-    endTime: 19:00
-    title: Update from KubeCon Seattle 2018
-    slides: https://docs.google.com/presentation/d/1_1NpDUiejmEYdpplIqOEtepv7V6Yc0G2uFp4dVaQ70k/edit#slide=id.g4c8185cd42_0_0
-    speakers: 
-    - jörg
-  - startTime: 19:05
-    endTime: 19:35
-    title: A journey towards Kubernetes at scale on remote unattended sites
-    slides: https://speakerdeck.com/salkin/kubernetes-at-scale-on-remote-sites
-    speakers: 
-    - niklas
-  - startTime: 19:40
-    endTime: 20:10
-    title: How to make your company start contributing to open source
-    slides: https://www.slideshare.net/oscarrenalias/enterprise-open-source
-    speakers: 
-    - oscar
-  - startTime: 20:15
-    endTime: 20:50
-    title: Networking time & optional Accenture lab prototypes
-- name: Pre-Slush Kubernetes Meetup
-  id: 255665681
-  dateInternal: 3rd of December, 2018 at 6pm - 9pm
-  attendees: 88
-  address: Westendintie 1 · Espoo
-  recording: https://www.youtube.com/watch?v=CfMKDg_iprg
-  sponsors:
-    venue: tuxera
-    other:
-    - luxaslabs
-    - cncf
-  presentations:
-  - startTime: 18:00
-    endTime: 18:15
-    title: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
-  - startTime: 18:15
-    endTime: 18:25
-    title: Welcome from the organizers
-  - startTime: 18:30
-    endTime: 18:40
-    title: Update from the cloud native ecosystem
-    speakers:
-    - luxas
-    slides: https://speakerdeck.com/luxas/update-from-the-ever-changing-kubernetes-landscape-december-2018-ac645b18-b457-4d41-8175-426d2ac046c9
-  - startTime: 18:45
-    endTime: 19:00
-    title: 10 Emerging Trends to Watch for in 2019
-    speakers:
-    - christina
-  - startTime: 19:05
-    endTime: 19:30
-    title: Vincit's road to using Kubernetes in the cloud
-    slides: https://drive.google.com/file/d/1VLnM57l0ABCgZE2aelQuPm4P0mIJafTz/view
-    speakers:
-    - mikko
-  - startTime: 19:35
-    endTime: 20:00
-    title: Implementing the Container Storage Interface (CSI)
-    slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
-    speakers:
-    - anoop
-  - startTime: 20:05
-    endTime: 20:30
-    title: No need to build it yourself - Kubernetes using GKE, Terraform, Helm & Jenkins
-    slides: https://docs.google.com/presentation/d/1HjlhAcm8yK29j8NPkwQl0w5ZXeTxcBsRF_wsioKBrjA/edit#slide=id.g498ec9e817_0_0
-    speakers:
-    - rasmus
-  - startTime: 20:35
-    endTime: 21:00
-    title: Networking time
-- name: Kubernetes Autumn Meetup
-  id: 252546014
-  dateInternal: 28th of August, 2018 at 6pm - 9pm
-  attendees: 95
-  address: Ratavartijankatu 5, Helsinki
-  recording: https://www.youtube.com/watch?v=3ZWKm26Aw9Q
-  sponsors:
-    venue: elisa
-    other:
-    - luxaslabs
-    - cncf
-  presentations:
-  - startTime: 18:00
-    endTime: 18:15
-    title: Arrive to the venue, sit down, grab a pizza slice and network with others ;)
-  - startTime: 18:15
-    endTime: 18:20
-    title: Welcome from the organizers
-  - startTime: 18:25
-    endTime: 18:35
-    title: Introductionary words from the venue sponsor for this time, Elisa
-    speakers:
-    - tommi
-  - startTime: 18:40
-    endTime: 19:00
-    title: Manage Kubernetes application complexity with Helm
-    slides: https://www.slideshare.net/AnnieTalvasto/manage-kubernetes-application-complexity-with-helm
-    speakers:
-    - annie
-  - startTime: 19:00
-    endTime: 19:30
-    title: Kubernetes' Security Features
-    slides: https://www.slideshare.net/jerryjalava/kubernetes-security-journey
-    speakers: 
-    - jerry
-  - startTime: 19:35
-    endTime: 19:55
-    title: Lessons learned when building a Kubernetes distribution
-    slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
-    speakers: 
-    - marek
-  - startTime: 20:00
-    endTime: 20:20
-    title: Orchestrate VMs on top of Kubernetes
-    slides: https://drive.google.com/file/d/1JxBgTSPgFtAtNOxri5iyMHtYGC3t46NR/view
-    speakers: 
-    - severi
-  - startTime: 20:20
-    endTime: 21:00
-    title: Time for networking
-- name: Kubernetes Summer Meetup
-  id: 250712383
-  dateInternal: 6th of June, 2018 at 6pm - 9pm
-  attendees: 110
-  address: Aleksis Kivis Gata 7 · Helsinki
-  recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
-  sponsors:
-    venue: nordea
-    other:
-    - luxaslabs
-    - cncf
-  presentations:
-  - startTime: 18:00
-    endTime: 18:15
-    title: Grab some food and socialize!
-  - startTime: 18:15
-    endTime: 18:20
-    title: Welcome from the organizers
-  - startTime: 18:20
-    endTime: 18:35
-    title: Introductionary words from Nordea
-  - startTime: 18:40
-    endTime: 19:10
-    title: Kubernetes & Enterprises
-    speakers: 
-    - teemu
-  - startTime: 19:15
-    endTime: 19:45
-    title: Automated credentialless access management in the era of super scalable cloud native services
-    speakers: 
-    - markku
-  - startTime: 19:50
-    endTime: 20:00
-    title: My experience at KubeCon Copenhagen
-    speakers: 
-    - luxas
-  - startTime: 20:00
-    endTime: 21:00
-    title: Socialize and network with the people around you!
-- name: April Meetup -- Let's learn some Kubernetes concepts!
-  id: 248641731
-  dateInternal: 3rd of April, 2018 at 6pm - 9pm
-  attendees: 63
-  address: Lapinlahdenkatu 16, Helsinki
-  recording: https://www.youtube.com/watch?v=JhBgGv0xCE0
-  sponsors:
-    venue: maria01
-    other:
-    - luxaslabs
-    - cncf
-    - emblica
-    - upcloud
-  presentations:
-  - startTime: 18:00
-    endTime: 18:20
-    title: Grab some food and socialize!
-  - startTime: 18:25
-    endTime: 18:30
-    title: Welcome from the organizers
-  - startTime: 18:30
-    endTime: 18:40
-    title: Short CNCF update
-    speakers: 
-    - luxas
-    slides: https://speakerdeck.com/luxas/kubernetes-finland-april-2018-cncf-update
-    recording: https://youtu.be/zS801na8KSA
-  - startTime: 18:45
-    endTime: 19:25
-    title: Intro to the essential API resources in Kubernetes
-    speakers: 
-    - luxas
-    slides: https://speakerdeck.com/luxas/intro-to-the-essential-api-resources-in-kubernetes
-    recording: https://youtu.be/XzjgtSzlj0w
-  - startTime: 19:30
-    endTime: 20:00
-    title: Kubernetes advanced platform features
-    speakers: 
-    - alexander
-    slides: https://speakerdeck.com/kad/kubernetes-advanced-platform-features
-    recording: https://youtu.be/xUnzZAOwans
-  - startTime: 20:00
-    endTime: 21:00
-    title: Socialize and network with the people around you!
-- name: Winter Meetup -- Let's catch up on the latest news in the ecosystem
-  id: 247553023
-  dateInternal: 22nd of February, 2018 at 6pm - 9pm
-  attendees: 65
-  address: Lapinlahdenkatu 16, Helsinki
-  recording: https://www.youtube.com/watch?v=4ZMEejSX8nM
-  sponsors:
-    venue: maria01
-    other:
-    - luxaslabs
-    - cncf
-    - emblica
-    - upcloud
-  presentations:
-  - startTime: 18:00
-    endTime: 18:20
-    title: Grab some food and socialize!
-  - startTime: 18:25
-    endTime: 18:50
-    title: Winter Update from the Cloud Native World
-    speakers: 
-    - luxas
-    slides: https://speakerdeck.com/luxas/winter-update-from-the-cloud-native-world-cncf-and-kubernetes-finland-meetup-in-helsinki
-    recording: https://youtu.be/YTpihD6TdOE
-  - startTime: 18:55
-    endTime: 19:25
-    title: Kubernetes in Azure
-    speakers: 
-    - karl
-    slides: https://www.slideshare.net/karlots/kubernetes-in-azure
-    recording: https://youtu.be/oHVACKKPuw0
-  - startTime: 19:30
-    endTime: 20:00
-    title: CRDs in Action
-    speakers: 
-    - teemu
-    recording: https://youtu.be/f1h3sew3KZY
-  - startTime: 20:00
-    endTime: 21:00
-    title: Socialize and network with the people around you!
-- name: First Kubernetes & CNCF meetup in Finland -- Kubernetes v1.8 celebration party
-  id: 242096170
-  dateInternal: 4th of October, 2017 at 6pm - 9pm
-  attendees: 77
-  address: Eteläranta 12, Helsinki
-  recording: https://youtu.be/9ZY-m4vAhiQ
-  sponsors:
-    venue: upcloud
-    other:
-    - luxaslabs
-    - cncf
-    - emblica
-    - upcloud
-  presentations:
-  - startTime: 18:00
-    endTime: 18:30
-    title: The meetup officially starts. Grab a pizza and a drink, and talk to the talented person next to you!
-  - startTime: 18:30
-    endTime: 18:45
-    title: Welcome from the organizers
-    speakers: 
-    - luxas
-  - startTime: 18:45
-    endTime: 19:15
-    title: An introduction to the cloud native world of Kubernetes
-    speakers: 
-    - luxas
-    slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup
-    recording: https://youtu.be/9Oc69MpmCoU
-  - startTime: 19:20
-    endTime: 19:50
-    title: Let's have fun with serverless applications on Kubernetes
-    speakers: 
-    - teemu
-    recording: https://youtu.be/rvFQkhue95c
-  - startTime: 20:00
-    endTime: 20:30
-    title: Kubernetes on AWS at Zalando
-    speakers: 
-    - michael
-    recording: https://youtu.be/H92nfJt3ymo
-  - startTime: 20:30
-    endTime: 21:00
-    title: Feel free to hang out with the people for the rest of the evening, do some Q&A with the speakers, etc.
+photo: https://secure.meetupstatic.com/photos/event/3/b/6/c/highres_463215212.jpeg

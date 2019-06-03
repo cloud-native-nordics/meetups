@@ -3,15 +3,14 @@
 #### Organizers
 
  - Lucas Käldström ([@luxas](https://github.com/luxas)), CNCF Ambassador, [luxas labs](https://luxaslabs.com), lucas@luxaslabs.com
- - Annie Talvasto, [Student]()
+ - Annie Talvasto, [Microsoft](https://www.microsoft.com)
  - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 
 ### Kubernetes 101 Hands-On Workshop
 
- - Date: 25th of March, 2019 at 5pm - 8:30pm
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/259072993/
- - Recording: 
- - Attendees (according to meetup.com): 35
+ - Date: 25 March, 2019 at 17:00 - 20:30
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/259072993
+ - Attendees (according to meetup.com): 3
  - Venue sponsor: [Unity](https://www.unity.com)
  - Meetup sponsors:
    - [luxas labs](https://luxaslabs.com)
@@ -25,8 +24,8 @@
 
 ### Winter Kubernetes Meetup
 
- - Date: 23rd of January, 2019 at 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/256936479/
+ - Date: 23 January, 2019 at 18:00 - 21:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/256936479
  - Recording: TBA
  - Attendees (according to meetup.com): 114
  - Venue sponsor: [Accenture](https://accenture.com)
@@ -53,8 +52,8 @@
 
 ### Pre-Slush Kubernetes Meetup
 
- - Date: 3rd of December, 2018 at 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/255665681/
+ - Date: 3 December, 2018 at 18:00 - 21:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/255665681
  - Recording: https://www.youtube.com/watch?v=CfMKDg_iprg
  - Attendees (according to meetup.com): 88
  - Venue sponsor: [Tuxera Oy](https://www.tuxera.com)
@@ -84,8 +83,8 @@
 
 ### Kubernetes Autumn Meetup
 
- - Date: 28th of August, 2018 at 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/252546014/
+ - Date: 28 August, 2018 at 18:00 - 21:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/252546014
  - Recording: https://www.youtube.com/watch?v=3ZWKm26Aw9Q
  - Attendees (according to meetup.com): 95
  - Venue sponsor: [Elisa](https://www.elisa.com)
@@ -100,7 +99,7 @@
  - 18:25 - 18:35: Introductionary words from the venue sponsor for this time, Elisa 
    - Tommi Berg
  - 18:40 - 19:00: Manage Kubernetes application complexity with Helm 
-   - Annie Talvasto, Student
+   - Annie Talvasto, Microsoft
    - Slides: https://www.slideshare.net/AnnieTalvasto/manage-kubernetes-application-complexity-with-helm
  - 19:00 - 19:30: Kubernetes' Security Features 
    - Jerry Jalava, Qvik
@@ -115,8 +114,8 @@
 
 ### Kubernetes Summer Meetup
 
- - Date: 6th of June, 2018 at 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/250712383/
+ - Date: 6 June, 2018 at 18:00 - 20:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/250712383
  - Recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
  - Attendees (according to meetup.com): 110
  - Venue sponsor: [Nordea](https://www.nordea.fi)
@@ -139,8 +138,8 @@
 
 ### April Meetup -- Let's learn some Kubernetes concepts!
 
- - Date: 3rd of April, 2018 at 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/248641731/
+ - Date: 3 April, 2018 at 18:00 - 20:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/248641731
  - Recording: https://www.youtube.com/watch?v=JhBgGv0xCE0
  - Attendees (according to meetup.com): 63
  - Venue sponsor: [Maria 01](https://maria.io/)
@@ -170,8 +169,8 @@
 
 ### Winter Meetup -- Let's catch up on the latest news in the ecosystem
 
- - Date: 22nd of February, 2018 at 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/247553023/
+ - Date: 22 February, 2018 at 18:00 - 20:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/247553023
  - Recording: https://www.youtube.com/watch?v=4ZMEejSX8nM
  - Attendees (according to meetup.com): 65
  - Venue sponsor: [Maria 01](https://maria.io/)
@@ -199,8 +198,8 @@
 
 ### First Kubernetes & CNCF meetup in Finland -- Kubernetes v1.8 celebration party
 
- - Date: 4th of October, 2017 at 6pm - 9pm
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/242096170/
+ - Date: 4 October, 2017 at 18:00 - 20:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/242096170
  - Recording: https://youtu.be/9ZY-m4vAhiQ
  - Attendees (according to meetup.com): 77
  - Venue sponsor: [UpCloud](https://upcloud.com/)
@@ -226,3 +225,13 @@
    - Michael Duergner, Zalando
    - Recording: https://youtu.be/H92nfJt3ymo
  - 20:30 - 21:00: Feel free to hang out with the people for the rest of the evening, do some Q&A with the speakers, etc. 
+
+### Summer Meetup in Helsinki
+
+ - Date: 11 June, 2019 at 18:00 - 21:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/261376372
+ - Attendees (according to meetup.com): 75
+
+
+#### Agenda
+

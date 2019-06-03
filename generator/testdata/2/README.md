@@ -2,10 +2,6 @@
 
 Repository to gather all meetup information and slides from Cloud Native Nordic meetups:
 
-* [Aarhus](aarhus/README.md)
-* [Copenhagen](copenhagen/README.md)
-* [Helsinki](helsinki/README.md)
-* [Stockholm](stockholm/README.md)
 * [Tampere](tampere/README.md)
 
 ## Join our Community!

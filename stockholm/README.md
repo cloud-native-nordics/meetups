@@ -10,10 +10,9 @@
 
 ### Stockholm Kubernetes Meetup
 
- - Date: 25th of January, 2018 at 5:30pm - 8:30pm
- - Meetup link: https://meetup.com/sthlm-k8s//events/245823087/
- - Recording: none
- - Attendees (according to meetup.com): 0
+ - Date: 25 January, 2018 at 17:30 - 20:30
+ - Meetup link: https://www.meetup.com/sthlm-k8s/events/245823087
+ - Attendees (according to meetup.com): 96
 
 
 #### Agenda
@@ -27,10 +26,8 @@
 
 ### Cloud Native Stockholm
 
- - Date: 21th of June, 2018 at 6pm - 8pm
- - Meetup link: https://meetup.com/sthlm-k8s//events/251231228/
- - Recording: 
- - Attendees (according to meetup.com): 0
+ - Date: 1 January, 1 at 0:00 - 0:00
+ - Meetup link: https://www.meetup.com/sthlm-k8s/events/251231228
  - Venue sponsor: [Spotify](https://www.spotify.com/)
 
 #### Agenda
@@ -45,10 +42,9 @@
 
 ### Stockholm Kubernetes and Cloud Native Meetup
 
- - Date: 25th of September, 2018 at 5:45pm - 8:30pm
- - Meetup link: https://meetup.com/sthlm-k8s//events/254614677/
- - Recording: 
- - Attendees (according to meetup.com): 0
+ - Date: 25 September, 2018 at 17:45 - 20:30
+ - Meetup link: https://www.meetup.com/sthlm-k8s/events/254614677
+ - Attendees (according to meetup.com): 148
  - Venue sponsor: [Spotify](https://www.spotify.com/)
 
 #### Agenda
@@ -59,3 +55,13 @@
  - 19:10 - 19:40: Mak Ahmad - “A good intro / deep dive into Istio” 
  - 19:45 - 21:00: Mingle 
  - 21:00 - 21:00: Doors Close 
+
+### Stockholm K8S and CNCF May 2019
+
+ - Date: 8 May, 2019 at 18:30 - 21:30
+ - Meetup link: https://www.meetup.com/sthlm-k8s/events/260846917
+ - Attendees (according to meetup.com): 88
+
+
+#### Agenda
+

@@ -1,174 +1,351 @@
 companies:
-- id: luxaslabs
+- countries:
+  - finland
+  id: luxaslabs
+  logoURL: ""
   name: luxas labs
   websiteURL: https://luxaslabs.com
-- id: futurice
+- countries:
+  - finland
+  id: futurice
+  logoURL: ""
   name: Futurice
   websiteURL: https://www.futurice.com/
-- id: kontena
+- countries:
+  - finland
+  id: kontena
+  logoURL: ""
   name: Kontena
   websiteURL: https://kontena.io
-- id: cybercom
+- countries:
+  - finland
+  id: cybercom
+  logoURL: ""
   name: Cybercom
   websiteURL: https://www.cybercom.com/
-- id: accenture
+- countries:
+  - finland
+  id: accenture
+  logoURL: ""
   name: Accenture
   websiteURL: https://accenture.com
-- id: netum
+- countries:
+  - finland
+  id: netum
+  logoURL: ""
   name: Netum
   websiteURL: https://www.netum.fi/
-- id: eficode
+- countries:
+  - finland
+  id: eficode
+  logoURL: ""
   name: Eficode
   websiteURL: https://www.eficode.com/home
-- id: cncf
+- countries:
+  - denmark
+  - finland
+  id: cncf
+  logoURL: ""
   name: Cloud Native Computing Foundation (CNCF)
   websiteURL: https://www.cncf.io/
-- id: emblica
+- countries:
+  - finland
+  id: emblica
+  logoURL: ""
   name: Emblica
   websiteURL: https://www.emblica.fi/
-- id: mesosphere
+- countries:
+  - finland
+  id: mesosphere
+  logoURL: ""
   name: Mesosphere
   websiteURL: https://www.mesosphere.com/
-- id: nokia
+- countries:
+  - finland
+  id: nokia
+  logoURL: ""
   name: Nokia
   websiteURL: https://www.nokia.fi/
-- id: student
+- countries: null
+  id: student
+  logoURL: ""
   name: Student
-- id: tuxera
+  websiteURL: ""
+- countries:
+  - finland
+  id: tuxera
+  logoURL: ""
   name: Tuxera Oy
   websiteURL: https://www.tuxera.com
-- id: microsoft
+- countries:
+  - denmark
+  - finland
+  id: microsoft
+  logoURL: ""
   name: Microsoft
   websiteURL: https://www.microsoft.com
-- id: vincit
+- countries:
+  - finland
+  id: vincit
+  logoURL: ""
   name: Vincit
   websiteURL: https://www.vincit.fi
-- id: unity
+- countries:
+  - finland
+  id: unity
+  logoURL: ""
   name: Unity
   websiteURL: https://www.unity.com
-- id: elisa
+- countries:
+  - finland
+  id: elisa
+  logoURL: ""
   name: Elisa
   websiteURL: https://www.elisa.com
-- id: qvik
+- countries:
+  - finland
+  id: qvik
+  logoURL: ""
   name: Qvik
   websiteURL: https://www.qvik.com
-- id: redhat
+- countries:
+  - finland
+  id: redhat
+  logoURL: ""
   name: Red Hat
   websiteURL: https://www.redhat.com
-- id: nordea
+- countries:
+  - finland
+  id: nordea
+  logoURL: ""
   name: Nordea
   websiteURL: https://www.nordea.fi
-- id: sshcom
+- countries:
+  - finland
+  id: sshcom
+  logoURL: ""
   name: SSH.COM
   websiteURL: https://www.ssh.com/
-- id: maria01
+- countries:
+  - finland
+  id: maria01
+  logoURL: ""
   name: Maria 01
   websiteURL: https://maria.io/
-- id: upcloud
+- countries:
+  - finland
+  id: upcloud
+  logoURL: ""
   name: UpCloud
   websiteURL: https://upcloud.com/
-- id: intel
+- countries:
+  - finland
+  id: intel
+  logoURL: ""
   name: Intel
   websiteURL: https://www.intel.com
-- id: kompozure
+- countries:
+  - finland
+  id: kompozure
+  logoURL: ""
   name: Kompozure
   websiteURL: https://www.kompozure.com
-- id: zalando
+- countries:
+  - denmark
+  - finland
+  id: zalando
+  logoURL: ""
   name: Zalando
   websiteURL: https://www.zalando.com
-- id: praqma
+- countries:
+  - denmark
+  id: praqma
+  logoURL: ""
   name: Praqma
   websiteURL: https://www.praqma.com
-- id: lunarway
+- countries:
+  - denmark
+  id: lunarway
+  logoURL: ""
   name: Lunar Way A/S
   websiteURL: https://www.lunarway.com
-- id: schneiderelectric
+- countries:
+  - denmark
+  id: schneiderelectric
+  logoURL: ""
   name: Schneider Electric
   websiteURL: https://www.se.com
-- id: lix
+- countries:
+  - denmark
+  id: lix
+  logoURL: ""
   name: Lix Technologies
   websiteURL: https://www.lix.com/en
-- id: zitcom
+- countries:
+  - denmark
+  id: zitcom
+  logoURL: ""
   name: Zitcom
   websiteURL: https://www.zitcom.dk/
-- id: sparnordbank
+- countries:
+  - denmark
+  id: sparnordbank
+  logoURL: ""
   name: Spar Nord Bank
   websiteURL: https://www.sparnord.dk/
-- id: tv2play
+- countries:
+  - denmark
+  id: tv2play
+  logoURL: ""
   name: TV2 Play
   websiteURL: https://play.tv2.dk/
-- id: bestseller
+- countries:
+  - denmark
+  id: bestseller
+  logoURL: ""
   name: BESTSELLER
   websiteURL: https://bestseller.com/
-- id: berlingskemedia
+- countries:
+  - denmark
+  id: berlingskemedia
+  logoURL: ""
   name: Berlingske Media
   websiteURL: https://www.berlingskemedia.dk/
-- id: trifork
+- countries:
+  - denmark
+  id: trifork
+  logoURL: ""
   name: Trifork A/S
   websiteURL: https://trifork.com/
-- id: whyyy
+- countries:
+  - denmark
+  id: whyyy
+  logoURL: ""
   name: Whyyy
   websiteURL: https://whyyy.dk/
-- id: uberaarhus
+- countries:
+  - denmark
+  id: uberaarhus
+  logoURL: ""
   name: Uber
   websiteURL: https://uber.com
-- id: firstagenda
+- countries:
+  - denmark
+  id: firstagenda
+  logoURL: ""
   name: First Agenda
   websiteURL: https://firstagenda.com
-- id: systematic
+- countries:
+  - denmark
+  id: systematic
+  logoURL: ""
   name: Systematic
   websiteURL: https://systematic.com
-- id: humio
+- countries:
+  - denmark
+  id: humio
+  logoURL: ""
   name: Humio
   websiteURL: https://humio.com
-- id: boligportal
+- countries:
+  - denmark
+  id: boligportal
+  logoURL: ""
   name: BoligPortal
   websiteURL: https://boligportal.dk
-- id: itminds
+- countries:
+  - denmark
+  id: itminds
+  logoURL: ""
   name: IT Minds
   websiteURL: https://itminds.dk
-- id: stibosystems
+- countries:
+  - denmark
+  id: stibosystems
+  logoURL: ""
   name: Stibo Systems
   websiteURL: https://www.stibosystems.com
-- id: twentythree
+- countries:
+  - denmark
+  id: twentythree
+  logoURL: ""
   name: TwentyThreeTM
   websiteURL: https://www.twentythree.net/
-- id: falconio
+- countries:
+  - denmark
+  id: falconio
+  logoURL: ""
   name: Falcon.io
   websiteURL: https://www.falcon.io/
-- id: trifork
+- countries:
+  - denmark
+  id: trifork
+  logoURL: ""
   name: Trifork
   websiteURL: https://trifork.com/
-- id: republikken
+- countries:
+  - denmark
+  id: republikken
+  logoURL: ""
   name: Republikken
   websiteURL: https://republikken.net/
-- id: simcorp
+- countries:
+  - denmark
+  id: simcorp
+  logoURL: ""
   name: SimCorp
   websiteURL: https://www.simcorp.com/
-- id: praqma
+- countries:
+  - denmark
+  id: praqma
+  logoURL: ""
   name: Praqma
   websiteURL: https://www.praqma.com/
-- id: laszlocloud
+- countries:
+  - denmark
+  id: laszlocloud
+  logoURL: ""
   name: Laszlo Cloud
   websiteURL: https://laszlo.cloud
-- id: humio
+- countries:
+  - denmark
+  id: humio
+  logoURL: ""
   name: Humio
   websiteURL: https://humio.com/
-- id: economic
+- countries:
+  - denmark
+  id: economic
+  logoURL: ""
   name: E-conomic
   websiteURL: https://www.e-conomic.dk/
-- id: loodse
+- countries:
+  - denmark
+  id: loodse
+  logoURL: ""
   name: Loodse
   websiteURL: https://www.loodse.com/
-- id: jfrog
+- countries:
+  - denmark
+  id: jfrog
+  logoURL: ""
   name: Jfrog
   websiteURL: https://jfrog.com/
-- id: whyyy
+- countries:
+  - denmark
+  id: whyyy
+  logoURL: ""
   name: Whyyy
   websiteURL: https://whyyy.dk/
-- id: Spotify
+- countries:
+  - sweden
+  id: Spotify
+  logoURL: ""
   name: Spotify
   websiteURL: https://www.spotify.com/
-- id: elastx
+- countries:
+  - sweden
+  id: elastx
+  logoURL: ""
   name: ELASTX
   websiteURL: https://elastx.se/en

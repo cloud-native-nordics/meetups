@@ -1,87 +1,149 @@
-name: Stockholm Kubernetes and Cloud Native Computing
-meetupURL: https://meetup.com/sthlm-k8s/
 city: Stockholm
+country: sweden
+meetupID: sthlm-k8s
+meetups:
+- address: Vasagatan 7
+  attendees: 96
+  date: "2018-01-25T17:30:00Z"
+  duration: 3h0m0s
+  id: 245823087
+  name: Stockholm Kubernetes Meetup
+  presentations:
+  - endTime: "18:00"
+    slides: ""
+    speakers: null
+    startTime: "17:30"
+    title: Doors open
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Secure SDLC and containers
+  - endTime: "19:05"
+    slides: ""
+    speakers: null
+    startTime: "18:35"
+    title: Provisioning and Orchestrating K8s
+  - endTime: "19:40"
+    slides: ""
+    speakers: null
+    startTime: "19:10"
+    title: 'Persistent Volumes to StatefulSets: All About Managing Persistent Data
+      in Kubernetes'
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "19:45"
+    title: Mingle
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "21:00"
+    title: Doors Closed
+  sponsors:
+    other: null
+    venue: null
+- address: Spotify, Regeringsgatan 13, Stockholm
+  attendees: 0
+  date: null
+  duration: 0s
+  id: 251231228
+  name: Cloud Native Stockholm
+  presentations:
+  - endTime: "18:00"
+    slides: ""
+    speakers: null
+    startTime: "17:45"
+    title: Doors open
+  - endTime: "18:20"
+    slides: ""
+    speakers: null
+    startTime: "18:10"
+    title: Kick Off - Dave Zolotusky, Spotify
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:20"
+    title: Jonathan Grahl, King
+  - endTime: "18:55"
+    slides: ""
+    speakers: null
+    startTime: "18:35"
+    title: Cloud Native CI/CD - Marcus Olsson
+  - endTime: "19:30"
+    slides: ""
+    speakers: null
+    startTime: "19:00"
+    title: Chaos Engineering with a service mesh - Julien Bisconti
+  - endTime: "20:00"
+    slides: ""
+    speakers: null
+    startTime: "19:30"
+    title: Break / Chat
+  - endTime: "20:00"
+    slides: ""
+    speakers: null
+    startTime: "20:00"
+    title: Doors Close
+  sponsors:
+    other: null
+    venue: Spotify
+- address: Regeringsgatan 13
+  attendees: 148
+  date: "2018-09-25T17:45:00Z"
+  duration: 2h45m0s
+  id: 254614677
+  name: Stockholm Kubernetes and Cloud Native Meetup
+  presentations:
+  - endTime: "18:00"
+    slides: ""
+    speakers: null
+    startTime: "17:45"
+    title: Doors open
+  - endTime: "18:10"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Dave Zolotusky - “Welcome and intro to CNCF”
+  - endTime: "19:05"
+    slides: ""
+    speakers: null
+    startTime: "18:35"
+    title: Torkel Ödegaard - “What’s going on at Grafana?”
+  - endTime: "19:40"
+    slides: ""
+    speakers: null
+    startTime: "19:10"
+    title: Mak Ahmad - “A good intro / deep dive into Istio”
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "19:45"
+    title: Mingle
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "21:00"
+    title: Doors Close
+  sponsors:
+    other: null
+    venue: Spotify
+- address: Linnégatan 89C
+  attendees: 88
+  date: "2019-05-08T18:30:00Z"
+  duration: 3h0m0s
+  id: 260846917
+  name: Stockholm K8S and CNCF May 2019
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+members: 633
+name: Stockholm Kubernetes and Cloud Native Computing
 organizers:
 - dzolo
 - mattgruter
 - iljoo
 - fyx
 - holmsten
-meetups:
-- name: Stockholm Kubernetes Meetup
-  id: 245823087
-  dateInternal: 25th of January, 2018 at 5:30pm - 8:30pm
-  address: 7A Conference, Vasagatan 7 3rd floor, Stockholm, Sweden
-  recording: none
-  presentations:
-  - startTime: 17:30
-    endTime: 18:00
-    title:  Doors open
-  - startTime: 18:00
-    endTime: 18:30
-    title: Secure SDLC and containers
-  - startTime: 18:35
-    endTime: 19:05
-    title: Provisioning and Orchestrating K8s
-  - startTime: 19:10
-    endTime: 19:40
-    title: "Persistent Volumes to StatefulSets: All About Managing Persistent Data in Kubernetes"
-  - startTime: 19:45
-    endTime: 21:00
-    title: Mingle
-  - startTime: 21:00
-    endTime: 21:00
-    title: Doors Closed
-- name: Cloud Native Stockholm
-  id: 251231228
-  dateInternal: 21th of June, 2018 at 6pm - 8pm
-  address: Spotify, Regeringsgatan 13, Stockholm
-  sponsors:
-    venue: Spotify
-  presentations:
-  - startTime: 17:45
-    endTime: 18:00
-    title:  Doors open
-  - startTime: 18:10
-    endTime: 18:20
-    title: Kick Off - Dave Zolotusky, Spotify
-  - startTime: 18:20
-    endTime: 18:30
-    title: Jonathan Grahl, King
-  - startTime: 18:35
-    endTime: 18:55
-    title: Cloud Native CI/CD - Marcus Olsson
-  - startTime: 19:00
-    endTime: 19:30
-    title: Chaos Engineering with a service mesh - Julien Bisconti
-  - startTime: 19:30
-    endTime: 20:00
-    title: Break / Chat
-  - startTime: 20:00
-    endTime: 20:00
-    title: Doors Close
-- name: Stockholm Kubernetes and Cloud Native Meetup
-  id: 254614677
-  dateInternal: 25th of September, 2018 at 5:45pm - 8:30pm
-  address: Spotify, Regeringsgatan 13, Stockholm
-  sponsors:
-    venue: Spotify
-  presentations:
-  - startTime: 17:45
-    endTime: 18:00
-    title:  Doors open
-  - startTime: 18:00
-    endTime: 18:10
-    title: Dave Zolotusky - “Welcome and intro to CNCF”
-  - startTime: 18:35
-    endTime: 19:05
-    title: Torkel Ödegaard - “What’s going on at Grafana?”
-  - startTime: 19:10
-    endTime: 19:40
-    title: Mak Ahmad - “A good intro / deep dive into Istio”
-  - startTime: 19:45
-    endTime: 21:00
-    title: Mingle
-  - startTime: 21:00
-    endTime: 21:00
-    title: Doors Close
+photo: https://secure.meetupstatic.com/photos/event/1/a/9/0/highres_469446800.jpeg

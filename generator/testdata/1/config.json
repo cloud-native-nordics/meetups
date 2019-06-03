@@ -1,0 +1,301 @@
+{
+  "companies": [
+    {
+      "id": "luxaslabs",
+      "name": "luxas labs",
+      "websiteURL": "https://luxaslabs.com",
+      "logoURL": "",
+      "countries": null
+    },
+    {
+      "id": "futurice",
+      "name": "Futurice",
+      "websiteURL": "https://www.futurice.com/",
+      "logoURL": "",
+      "countries": null
+    },
+    {
+      "id": "kontena",
+      "name": "Kontena",
+      "websiteURL": "https://kontena.io",
+      "logoURL": "",
+      "countries": null
+    },
+    {
+      "id": "cybercom",
+      "name": "Cybercom",
+      "websiteURL": "https://www.cybercom.com/",
+      "logoURL": "",
+      "countries": null
+    },
+    {
+      "id": "accenture",
+      "name": "Accenture",
+      "websiteURL": "https://accenture.com",
+      "logoURL": "",
+      "countries": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "luxas",
+      "name": "Lucas Käldström",
+      "title": "CNCF Ambassador",
+      "email": "lucas@luxaslabs.com",
+      "company": {
+        "id": "luxaslabs",
+        "name": "luxas labs",
+        "websiteURL": "https://luxaslabs.com",
+        "logoURL": "",
+        "countries": null
+      },
+      "countries": null,
+      "github": "luxas",
+      "speakersBureau": ""
+    },
+    {
+      "id": "annie",
+      "name": "Annie Talvasto",
+      "title": "Student",
+      "email": "",
+      "company": null,
+      "countries": null,
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "jnummelin",
+      "name": "Jussi Nummelin",
+      "email": "",
+      "company": {
+        "id": "kontena",
+        "name": "Kontena",
+        "websiteURL": "https://kontena.io",
+        "logoURL": "",
+        "countries": null
+      },
+      "countries": null,
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "poutanen",
+      "name": "Ilkka Poutanen",
+      "email": "",
+      "company": {
+        "id": "futurice",
+        "name": "Futurice",
+        "websiteURL": "https://www.futurice.com/",
+        "logoURL": "",
+        "countries": null
+      },
+      "countries": null,
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "ylenius",
+      "name": "Toni Ylenius",
+      "email": "",
+      "company": {
+        "id": "cybercom",
+        "name": "Cybercom",
+        "websiteURL": "https://www.cybercom.com/",
+        "logoURL": "",
+        "countries": null
+      },
+      "countries": null,
+      "github": "",
+      "speakersBureau": ""
+    }
+  ],
+  "meetupGroups": [
+    {
+      "meetupID": "Kubernetes-Finland",
+      "name": "CNCF \u0026 Kubernetes Finland",
+      "members": 0,
+      "city": "Helsinki",
+      "country": "finland",
+      "organizers": [
+        {
+          "id": "luxas",
+          "name": "Lucas Käldström",
+          "title": "CNCF Ambassador",
+          "email": "lucas@luxaslabs.com",
+          "company": {
+            "id": "luxaslabs",
+            "name": "luxas labs",
+            "websiteURL": "https://luxaslabs.com",
+            "logoURL": "",
+            "countries": null
+          },
+          "countries": null,
+          "github": "luxas",
+          "speakersBureau": ""
+        },
+        {
+          "id": "annie",
+          "name": "Annie Talvasto",
+          "title": "Student",
+          "email": "",
+          "company": null,
+          "countries": null,
+          "github": "",
+          "speakersBureau": ""
+        }
+      ],
+      "meetups": [
+        {
+          "id": 1234,
+          "name": "Winter Kubernetes Meetup",
+          "date": null,
+          "duration": "0s",
+          "recording": "http://youtu.be/foobar",
+          "attendees": 100,
+          "address": "Street 1, Postal Code, Country",
+          "sponsors": {
+            "venue": {
+              "id": "accenture",
+              "name": "Accenture",
+              "websiteURL": "https://accenture.com",
+              "logoURL": "",
+              "countries": null
+            },
+            "other": [
+              {
+                "id": "luxaslabs",
+                "name": "luxas labs",
+                "websiteURL": "https://luxaslabs.com",
+                "logoURL": "",
+                "countries": null
+              }
+            ]
+          },
+          "presentations": [
+            {
+              "startTime": "18:00",
+              "endTime": "18:15",
+              "title": "Arrive to the venue, sit down, grab a pizza slice and network with others ;)",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "18:15",
+              "endTime": "18:20",
+              "title": "Welcome from the organisers",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "18:20",
+              "endTime": "18:25",
+              "title": "Introductionary words from the venue sponsor for this time, Cybercom",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "18:30",
+              "endTime": "19:00",
+              "title": "Introduction to the cloud-native world of Kubernetes \u0026 CNCF",
+              "slides": "https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019",
+              "speakers": [
+                {
+                  "id": "luxas",
+                  "name": "Lucas Käldström",
+                  "title": "CNCF Ambassador",
+                  "email": "lucas@luxaslabs.com",
+                  "company": {
+                    "id": "luxaslabs",
+                    "name": "luxas labs",
+                    "websiteURL": "https://luxaslabs.com",
+                    "logoURL": "",
+                    "countries": null
+                  },
+                  "countries": null,
+                  "github": "luxas",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "startTime": "19:05",
+              "endTime": "19:30",
+              "title": "Setting up a Kubernetes cluster and getting started",
+              "slides": "https://speakerdeck.com/jnummelin/geting-started-with-kubernetes",
+              "speakers": [
+                {
+                  "id": "jnummelin",
+                  "name": "Jussi Nummelin",
+                  "email": "",
+                  "company": {
+                    "id": "kontena",
+                    "name": "Kontena",
+                    "websiteURL": "https://kontena.io",
+                    "logoURL": "",
+                    "countries": null
+                  },
+                  "countries": null,
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "startTime": "19:35",
+              "endTime": "20:00",
+              "title": "Moving from Heroku to AKS",
+              "slides": "https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing",
+              "speakers": [
+                {
+                  "id": "poutanen",
+                  "name": "Ilkka Poutanen",
+                  "email": "",
+                  "company": {
+                    "id": "futurice",
+                    "name": "Futurice",
+                    "websiteURL": "https://www.futurice.com/",
+                    "logoURL": "",
+                    "countries": null
+                  },
+                  "countries": null,
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "startTime": "20:05",
+              "endTime": "20:30",
+              "title": "Experiences of different Pipelines and Development workflows on Kubernetes",
+              "slides": "https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view",
+              "speakers": [
+                {
+                  "id": "ylenius",
+                  "name": "Toni Ylenius",
+                  "email": "",
+                  "company": {
+                    "id": "cybercom",
+                    "name": "Cybercom",
+                    "websiteURL": "https://www.cybercom.com/",
+                    "logoURL": "",
+                    "countries": null
+                  },
+                  "countries": null,
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "startTime": "20:30",
+              "endTime": "21:00",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

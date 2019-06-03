@@ -8,9 +8,8 @@
 
 ### Let's kick-off Cloud Native Copenhagen!
 
- - Date: 12th of December, 2017 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen//events/245248552/
- - Recording: none
+ - Date: 12 December, 2017 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/245248552
  - Attendees (according to meetup.com): 27
  - Venue sponsor: [TwentyThreeTM](https://www.twentythree.net/)
 
@@ -31,9 +30,8 @@
 
 ### Lab session: How to Kubernetes?
 
- - Date: 23th of January, 2018 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen//events/246008132/
- - Recording: none
+ - Date: 23 January, 2018 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/246008132
  - Attendees (according to meetup.com): 58
  - Venue sponsor: [Falcon.io](https://www.falcon.io/)
 
@@ -52,9 +50,8 @@
 
 ### Expert night: bare metal and chaos engineering
 
- - Date: 8th of March, 2018 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen//events/247310136/
- - Recording: none
+ - Date: 8 March, 2018 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/247310136
  - Attendees (according to meetup.com): 29
  - Venue sponsor: [Trifork](https://trifork.com/)
 
@@ -72,9 +69,8 @@
 
 ### Let's warm-up before KubeCon-CloudNativeCon!
 
- - Date: 30th of April, 2018 at 5:30pm - 8:30pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen//events/249226057/
- - Recording: none
+ - Date: 30 April, 2018 at 17:30 - 20:30
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/249226057
  - Attendees (according to meetup.com): 100
  - Venue sponsor: [Republikken](https://republikken.net/)
 
@@ -98,9 +94,8 @@
 
 ### Windows containers, Kubernetes in the enterprise
 
- - Date: 6th of November, 2018 at 5pm - 8pm
- - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen//events/255293027/
- - Recording: none
+ - Date: 6 November, 2018 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/255293027
  - Attendees (according to meetup.com): 69
  - Venue sponsor: [SimCorp](https://www.simcorp.com/)
 
@@ -114,3 +109,53 @@
    - Jeppe Johansen, Whyyy
  - 19:00 - 20:00: Networking 
  - 20:00 - 20:00: Goodbye 
+
+### Cloud Native Solutions and Intelligent Scaling in the Media Industry
+
+ - Date: 13 March, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/258900627
+ - Attendees (according to meetup.com): 46
+
+
+#### Agenda
+
+
+### Istio Service Mesh
+
+ - Date: 19 March, 2019 at 12:30 - 18:30
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/259113734
+ - Attendees (according to meetup.com): 1
+
+
+#### Agenda
+
+
+### Next-gen CI night
+
+ - Date: 9 April, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/258922126
+ - Attendees (according to meetup.com): 68
+
+
+#### Agenda
+
+
+### Cloud Native Architecture at scale and a Fairytale of Databases
+
+ - Date: 25 April, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/259355667
+ - Attendees (according to meetup.com): 50
+
+
+#### Agenda
+
+
+### Cloud Native Copenhagen Hack Nights: Kubernetes 101
+
+ - Date: 11 June, 2019 at 13:00 - 16:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/261858991
+ - Attendees (according to meetup.com): 29
+
+
+#### Agenda
+

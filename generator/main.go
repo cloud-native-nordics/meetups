@@ -2,6 +2,7 @@ package main // import "github.com/cloud-native-nordics/meetups/generator"
 
 import (
 	"bytes"
+	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"os"
@@ -18,6 +19,7 @@ var companiesFile = pflag.String("companies-file", "companies.yaml", "Point to t
 var rootDir = pflag.String("meetups-dir", ".", "Point to the directory that has all meetup groups as subfolders, each with a meetup.yaml file")
 var dryRun = pflag.Bool("dry-run", true, "Whether to actually apply the changes or not")
 var validateFlag = pflag.Bool("validate", false, "Whether to validate the current state of the repo content with the spec")
+var isTesting = false
 
 func main() {
 	if err := run(); err != nil {
@@ -32,6 +34,9 @@ func run() error {
 	if err != nil {
 		return err
 	}
+	if err := update(cfg); err != nil {
+		return err
+	}
 	out, err := exec(cfg)
 	if err != nil {
 		return err
@@ -39,7 +44,7 @@ func run() error {
 	if *validateFlag {
 		return validate(out, *rootDir)
 	}
-	return apply(out)
+	return apply(out, *rootDir)
 }
 
 func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
@@ -70,6 +75,10 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 		if !info.IsDir() {
 			return nil
 		}
+		// Consider only subdirectories of the root path
+		if !isTesting && filepath.Dir(path) != "." {
+			return nil
+		}
 		meetupsFile := filepath.Join(path, "meetup.yaml")
 		if _, err := os.Stat(meetupsFile); os.IsNotExist(err) {
 			return nil
@@ -98,45 +107,109 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 	}, nil
 }
 
-func apply(files map[string][]byte) error {
-	for city, fileContent := range files {
-		readmePath := filepath.Join(strings.ToLower(city), "README.md")
-		if err := writeFile(readmePath, fileContent); err != nil {
+func apply(files map[string][]byte, rootDir string) error {
+	for path, fileContent := range files {
+		fullPath := filepath.Join(rootDir, path)
+		if err := writeFile(fullPath, fileContent); err != nil {
 			return err
 		}
 	}
 	return nil
 }
 
-func validate(files map[string][]byte, meetupsDir string) error {
-	for city, fileContent := range files {
-		readmePath := filepath.Join(meetupsDir, strings.ToLower(city), "README.md")
-		actual, err := ioutil.ReadFile(readmePath)
+func validate(files map[string][]byte, rootDir string) error {
+	for path, fileContent := range files {
+		fullPath := filepath.Join(rootDir, path)
+		actual, err := ioutil.ReadFile(fullPath)
 		if err != nil {
 			return err
 		}
 		if !bytes.Equal(actual, fileContent) {
-			return fmt.Errorf("%s differs from expected state. expected: \"%s\", actual: \"%s\"", readmePath, fileContent, actual)
+			return fmt.Errorf("%s differs from expected state. expected: \"%s\", actual: \"%s\"", fullPath, fileContent, actual)
 		}
 	}
 	fmt.Println("Validation succeeded!")
 	return nil
 }
 
+func tmpl(t *template.Template, obj interface{}) ([]byte, error) {
+	var buf bytes.Buffer
+	if err := t.Execute(&buf, obj); err != nil {
+		return nil, err
+	}
+	return buf.Bytes(), nil
+}
+
 func exec(cfg *Config) (map[string][]byte, error) {
-	tmpl, err := template.New("").Parse(readmeTmpl)
+	result := map[string][]byte{}
+	shouldMarshalSpeakerID = true
+	shouldMarshalCompanyID = true
+	for _, mg := range cfg.MeetupGroups {
+		b, err := tmpl(readmeTmpl, mg)
+		if err != nil {
+			return nil, err
+		}
+		path := filepath.Join(strings.ToLower(mg.City), "README.md")
+		result[path] = b
+
+		mgYAML, err := yaml.Marshal(mg)
+		if err != nil {
+			return nil, err
+		}
+		path = filepath.Join(strings.ToLower(mg.City), "meetup.yaml")
+		result[path] = mgYAML
+	}
+	shouldMarshalSpeakerID = false
+	shouldMarshalCompanyID = false
+	companiesYAML, err := yaml.Marshal(CompaniesFile{Companies: cfg.Companies})
 	if err != nil {
 		return nil, err
 	}
-	result := map[string][]byte{}
-	for _, mg := range cfg.MeetupGroups {
-		var buf bytes.Buffer
-		if err := tmpl.Execute(&buf, mg); err != nil {
-			return nil, err
-		}
-		result[mg.City] = buf.Bytes()
+	result["companies.yaml"] = companiesYAML
+	shouldMarshalCompanyID = true
+	speakersYAML, err := yaml.Marshal(SpeakersFile{Speakers: cfg.Speakers})
+	if err != nil {
+		return nil, err
 	}
+	result["speakers.yaml"] = speakersYAML
+	readmeBytes, err := tmpl(toplevelTmpl, cfg)
+	if err != nil {
+		return nil, err
+	}
+	result["README.md"] = readmeBytes
+	shouldMarshalCompanyID = false
+	configJSON, err := json.MarshalIndent(cfg, "", "  ")
+	if err != nil {
+		return nil, err
+	}
+	result["config.json"] = configJSON
 	return result, nil
+}
+
+func update(cfg *Config) error {
+	for i, mg := range cfg.MeetupGroups {
+		data, err := GetMeetupInfo(mg.MeetupID)
+		if err != nil {
+			return err
+		}
+		cfg.MeetupGroups[i].Members = data.Members
+		cfg.MeetupGroups[i].Photo = data.Photo.Link
+		for _, s := range mg.Organizers {
+			cfg.SetSpeakerCountry(s, mg.Country)
+		}
+		for _, m := range mg.Meetups {
+			for _, pres := range m.Presentations {
+				for _, s := range pres.Speakers {
+					cfg.SetSpeakerCountry(s, mg.Country)
+				}
+			}
+			cfg.SetCompanyCountry(m.Sponsors.Venue, mg.Country)
+			for _, s := range m.Sponsors.Other {
+				cfg.SetCompanyCountry(s, mg.Country)
+			}
+		}
+	}
+	return setMeetupData(cfg)
 }
 
 func writeFile(path string, b []byte) error {
