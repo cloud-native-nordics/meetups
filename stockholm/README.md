@@ -10,7 +10,7 @@
 
 ### Stockholm Kubernetes Meetup
 
- - Date:
+ - Date: 25 January, 2018 at 17:30 - 20:30
  - Meetup link: https://www.meetup.com/sthlm-k8s/events/245823087
  - Attendees (according to meetup.com): 96
 
@@ -26,7 +26,7 @@
 
 ### Cloud Native Stockholm
 
- - Date:
+ - Date: 1 January, 1 at 0:00 - 0:00
  - Meetup link: https://www.meetup.com/sthlm-k8s/events/251231228
  - Venue sponsor: [Spotify](https://www.spotify.com/)
 
@@ -42,7 +42,7 @@
 
 ### Stockholm Kubernetes and Cloud Native Meetup
 
- - Date:
+ - Date: 25 September, 2018 at 17:45 - 20:30
  - Meetup link: https://www.meetup.com/sthlm-k8s/events/254614677
  - Attendees (according to meetup.com): 148
  - Venue sponsor: [Spotify](https://www.spotify.com/)
@@ -58,7 +58,7 @@
 
 ### Stockholm K8S and CNCF May 2019
 
- - Date:
+ - Date: 8 May, 2019 at 18:30 - 21:30
  - Meetup link: https://www.meetup.com/sthlm-k8s/events/260846917
  - Attendees (according to meetup.com): 88
 

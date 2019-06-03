@@ -194,6 +194,13 @@ type Meetup struct {
 	Presentations []Presentation `json:"presentations"`
 }
 
+func (m *Meetup) DateTime() string {
+	year, month, day := m.Date.Date()
+	hour, min, _ := m.Date.Clock()
+	hour2, min2, _ := m.Date.Add(m.Duration.Duration).Clock()
+	return fmt.Sprintf("%d %s, %d at %d:%02d - %d:%02d", day, month, year, hour, min, hour2, min2)
+}
+
 type Presentation struct {
 	StartTime string     `json:"startTime"`
 	EndTime   string     `json:"endTime"`

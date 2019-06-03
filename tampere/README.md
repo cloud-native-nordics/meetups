@@ -9,7 +9,7 @@
 
 ### April Kubernetes Tampere Meetup
 
- - Date:
+ - Date: 4 April, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/258970382
  - Recording: https://youtu.be/rnpMBRe0CY0
  - Attendees (according to meetup.com): 48
@@ -39,7 +39,7 @@
 
 ### First Kubernetes and CNCF Tampere Meetup
 
- - Date:
+ - Date: 17 January, 2019 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/257164934
  - Recording: https://youtu.be/PvrFMc9bZ-k
  - Attendees (according to meetup.com): 50
@@ -69,7 +69,7 @@
 
 ### Summer Kubernetes Tampere Meetup
 
- - Date:
+ - Date: 13 June, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/261344385
  - Attendees (according to meetup.com): 50
 

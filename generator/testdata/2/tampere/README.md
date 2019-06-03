@@ -7,7 +7,7 @@
 
 ### Winter Kubernetes Meetup
 
- - Date:
+ - Date: 1 January, 1 at 0:00 - 0:00
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/1234
  - Recording: http://youtu.be/foobar
  - Attendees (according to meetup.com): 100
@@ -36,7 +36,7 @@
 
 ### Winter Kubernetes Meetup
 
- - Date:
+ - Date: 1 January, 1 at 0:00 - 0:00
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/1230
  - Recording: http://youtu.be/foobar
  - Attendees (according to meetup.com): 100
