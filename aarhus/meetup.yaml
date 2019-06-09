@@ -677,7 +677,7 @@ meetups:
     other: null
     venue: null
 - address: Finlandsgade 21
-  attendees: 94
+  attendees: 76
   date: "2019-06-03T16:30:00Z"
   duration: 3h30m0s
   id: 261537949
@@ -687,7 +687,7 @@ meetups:
     other: null
     venue: null
 - address: Sødalsparken 18
-  attendees: 32
+  attendees: 40
   date: "2019-06-25T17:00:00Z"
   duration: 4h0m0s
   id: 261346897
@@ -696,7 +696,7 @@ meetups:
   sponsors:
     other: null
     venue: null
-members: 762
+members: 767
 name: Cloud Native Aarhus
 organizers:
 - kaspernissen

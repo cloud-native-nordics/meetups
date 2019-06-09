@@ -288,7 +288,7 @@ meetups:
     other: null
     venue: null
 - address: Vester Søgade 6
-  attendees: 29
+  attendees: 40
   date: "2019-06-11T13:00:00Z"
   duration: 3h0m0s
   id: 261858991
@@ -297,7 +297,7 @@ meetups:
   sponsors:
     other: null
     venue: null
-members: 627
+members: 645
 name: Cloud Native Copenhagen
 organizers:
 - laszlo
