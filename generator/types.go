@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"sort"
 	"strings"
 )
 
@@ -17,12 +18,13 @@ type CompanyID string
 type SpeakerID string
 
 type CompaniesFile struct {
-	Companies []Company `json:"companies"`
+	Sponsors []Company `json:"sponsors"`
+	Members  []Company `json:"members"`
 }
 
 func (c *CompaniesFile) SetGlobalMap() {
-	for i, co := range c.Companies {
-		globalCompanyMap[co.ID] = &c.Companies[i]
+	for i, co := range c.Sponsors {
+		globalCompanyMap[co.ID] = &c.Sponsors[i]
 	}
 }
 
@@ -41,7 +43,8 @@ type MeetupGroupsFile struct {
 }
 
 type Config struct {
-	Companies    []Company     `json:"companies"`
+	Sponsors     []Company     `json:"sponsors"`
+	Members      []Company     `json:"members"`
 	Speakers     []Speaker     `json:"speakers"`
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
 }
@@ -72,19 +75,19 @@ func (cfg *Config) SetCompanyCountry(company *Company, country string) {
 	if company == nil || country == "" {
 		return
 	}
-	for i, c := range cfg.Companies {
+	for i, c := range cfg.Sponsors {
 		if c.ID != company.ID {
 			continue
 		}
 		found := false
-		for _, c := range cfg.Companies[i].Countries {
+		for _, c := range cfg.Sponsors[i].Countries {
 			if c == country {
 				found = true
 				break
 			}
 		}
 		if !found {
-			cfg.Companies[i].Countries = append(cfg.Companies[i].Countries, country)
+			cfg.Sponsors[i].Countries = append(cfg.Sponsors[i].Countries, country)
 		}
 	}
 }
@@ -175,13 +178,30 @@ type MeetupGroup struct {
 	City            string     `json:"city"`
 	Country         string     `json:"country"`
 	Organizers      []*Speaker `json:"organizers"`
-	Meetups         []Meetup   `json:"meetups"`
+	Meetups         MeetupList `json:"meetups"`
 	IgnoreMeetupIDs []uint64   `json:"ignoreMeetupIDs,omitempty"`
 }
 
 // CityLowercase gets the lowercase variant of the city
 func (mg *MeetupGroup) CityLowercase() string {
 	return strings.ToLower(mg.City)
+}
+
+// MeetupList is a slice of meetups implementing sort.Interface
+type MeetupList []Meetup
+
+var _ sort.Interface = MeetupList{}
+
+func (ml MeetupList) Len() int {
+	return len(ml)
+}
+
+func (ml MeetupList) Less(i, j int) bool {
+	return ml[i].Date.Time.After(ml[j].Date.Time)
+}
+
+func (ml MeetupList) Swap(i, j int) {
+	ml[i], ml[j] = ml[j], ml[i]
 }
 
 type Meetup struct {

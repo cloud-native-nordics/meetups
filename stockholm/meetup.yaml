@@ -2,6 +2,56 @@ city: Stockholm
 country: sweden
 meetupID: sthlm-k8s
 meetups:
+- address: Linnégatan 89C
+  attendees: 88
+  date: "2019-05-08T18:30:00Z"
+  duration: 3h0m0s
+  id: 260846917
+  name: Stockholm K8S and CNCF May 2019
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Regeringsgatan 13
+  attendees: 148
+  date: "2018-09-25T17:45:00Z"
+  duration: 2h45m0s
+  id: 254614677
+  name: Stockholm Kubernetes and Cloud Native Meetup
+  presentations:
+  - endTime: "18:00"
+    slides: ""
+    speakers: null
+    startTime: "17:45"
+    title: Doors open
+  - endTime: "18:10"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Dave Zolotusky - “Welcome and intro to CNCF”
+  - endTime: "19:05"
+    slides: ""
+    speakers: null
+    startTime: "18:35"
+    title: Torkel Ödegaard - “What’s going on at Grafana?”
+  - endTime: "19:40"
+    slides: ""
+    speakers: null
+    startTime: "19:10"
+    title: Mak Ahmad - “A good intro / deep dive into Istio”
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "19:45"
+    title: Mingle
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "21:00"
+    title: Doors Close
+  sponsors:
+    other: null
+    venue: Spotify
 - address: Vasagatan 7
   attendees: 96
   date: "2018-01-25T17:30:00Z"
@@ -88,56 +138,6 @@ meetups:
   sponsors:
     other: null
     venue: Spotify
-- address: Regeringsgatan 13
-  attendees: 148
-  date: "2018-09-25T17:45:00Z"
-  duration: 2h45m0s
-  id: 254614677
-  name: Stockholm Kubernetes and Cloud Native Meetup
-  presentations:
-  - endTime: "18:00"
-    slides: ""
-    speakers: null
-    startTime: "17:45"
-    title: Doors open
-  - endTime: "18:10"
-    slides: ""
-    speakers: null
-    startTime: "18:00"
-    title: Dave Zolotusky - “Welcome and intro to CNCF”
-  - endTime: "19:05"
-    slides: ""
-    speakers: null
-    startTime: "18:35"
-    title: Torkel Ödegaard - “What’s going on at Grafana?”
-  - endTime: "19:40"
-    slides: ""
-    speakers: null
-    startTime: "19:10"
-    title: Mak Ahmad - “A good intro / deep dive into Istio”
-  - endTime: "21:00"
-    slides: ""
-    speakers: null
-    startTime: "19:45"
-    title: Mingle
-  - endTime: "21:00"
-    slides: ""
-    speakers: null
-    startTime: "21:00"
-    title: Doors Close
-  sponsors:
-    other: null
-    venue: Spotify
-- address: Linnégatan 89C
-  attendees: 88
-  date: "2019-05-08T18:30:00Z"
-  duration: 3h0m0s
-  id: 260846917
-  name: Stockholm K8S and CNCF May 2019
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
 members: 633
 name: Stockholm Kubernetes and Cloud Native Computing
 organizers:

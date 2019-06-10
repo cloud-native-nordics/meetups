@@ -6,6 +6,16 @@
  - Annie Talvasto, [Microsoft](https://www.microsoft.com)
  - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 
+### Summer Meetup in Helsinki
+
+ - Date: 11 June, 2019 at 18:00 - 21:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/261376372
+ - Attendees (according to meetup.com): 75
+
+
+#### Agenda
+
+
 ### Kubernetes 101 Hands-On Workshop
 
  - Date: 25 March, 2019 at 17:00 - 20:30
@@ -15,6 +25,7 @@
  - Meetup sponsors:
    - [luxas labs](https://luxaslabs.com)
    - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+   - [Weaveworks](https://www.weave.works)
 
 #### Agenda
 
@@ -225,13 +236,3 @@
    - Michael Duergner, Zalando
    - Recording: https://youtu.be/H92nfJt3ymo
  - 20:30 - 21:00: Feel free to hang out with the people for the rest of the evening, do some Q&A with the speakers, etc. 
-
-### Summer Meetup in Helsinki
-
- - Date: 11 June, 2019 at 18:00 - 21:00
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/261376372
- - Attendees (according to meetup.com): 75
-
-
-#### Agenda
-

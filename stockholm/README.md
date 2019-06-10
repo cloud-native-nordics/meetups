@@ -8,6 +8,32 @@
  - Viktor Ekmark ([@fyx](https://github.com/fyx)), [ELASTX](https://elastx.se/en)
  - Andreas Holmsten ([@holmsten](https://github.com/holmsten)), [ELASTX](https://elastx.se/en)
 
+### Stockholm K8S and CNCF May 2019
+
+ - Date: 8 May, 2019 at 18:30 - 21:30
+ - Meetup link: https://www.meetup.com/sthlm-k8s/events/260846917
+ - Attendees (according to meetup.com): 88
+
+
+#### Agenda
+
+
+### Stockholm Kubernetes and Cloud Native Meetup
+
+ - Date: 25 September, 2018 at 17:45 - 20:30
+ - Meetup link: https://www.meetup.com/sthlm-k8s/events/254614677
+ - Attendees (according to meetup.com): 148
+ - Venue sponsor: [Spotify](https://www.spotify.com/)
+
+#### Agenda
+
+ - 17:45 - 18:00: Doors open 
+ - 18:00 - 18:10: Dave Zolotusky - “Welcome and intro to CNCF” 
+ - 18:35 - 19:05: Torkel Ödegaard - “What’s going on at Grafana?” 
+ - 19:10 - 19:40: Mak Ahmad - “A good intro / deep dive into Istio” 
+ - 19:45 - 21:00: Mingle 
+ - 21:00 - 21:00: Doors Close 
+
 ### Stockholm Kubernetes Meetup
 
  - Date: 25 January, 2018 at 17:30 - 20:30
@@ -39,29 +65,3 @@
  - 19:00 - 19:30: Chaos Engineering with a service mesh - Julien Bisconti 
  - 19:30 - 20:00: Break / Chat 
  - 20:00 - 20:00: Doors Close 
-
-### Stockholm Kubernetes and Cloud Native Meetup
-
- - Date: 25 September, 2018 at 17:45 - 20:30
- - Meetup link: https://www.meetup.com/sthlm-k8s/events/254614677
- - Attendees (according to meetup.com): 148
- - Venue sponsor: [Spotify](https://www.spotify.com/)
-
-#### Agenda
-
- - 17:45 - 18:00: Doors open 
- - 18:00 - 18:10: Dave Zolotusky - “Welcome and intro to CNCF” 
- - 18:35 - 19:05: Torkel Ödegaard - “What’s going on at Grafana?” 
- - 19:10 - 19:40: Mak Ahmad - “A good intro / deep dive into Istio” 
- - 19:45 - 21:00: Mingle 
- - 21:00 - 21:00: Doors Close 
-
-### Stockholm K8S and CNCF May 2019
-
- - Date: 8 May, 2019 at 18:30 - 21:30
- - Meetup link: https://www.meetup.com/sthlm-k8s/events/260846917
- - Attendees (according to meetup.com): 88
-
-
-#### Agenda
-

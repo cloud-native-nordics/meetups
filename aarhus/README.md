@@ -7,6 +7,56 @@
  - Henrik Høegh, [Praqma](https://www.praqma.com/)
  - Daniel Fly, [Zitcom](https://www.zitcom.dk/)
 
+### Cloud Native Streaming with Apache Flink and a Fairytale of Databases
+
+ - Date: 25 June, 2019 at 17:00 - 21:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261346897
+ - Attendees (according to meetup.com): 40
+
+
+#### Agenda
+
+
+### Kubernetes Failure Stories & How to manage Cloud Native secrets with Vault
+
+ - Date: 3 June, 2019 at 16:30 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261537949
+ - Attendees (according to meetup.com): 76
+
+
+#### Agenda
+
+
+### Cloud Native Hack Nights #2: Prometheus
+
+ - Date: 28 May, 2019 at 16:30 - 21:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261130244
+ - Attendees (according to meetup.com): 36
+
+
+#### Agenda
+
+
+### From Mainframe to Cloud Native and State of Windows Containers and Kubernetes
+
+ - Date: 25 April, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259651
+ - Attendees (according to meetup.com): 76
+
+
+#### Agenda
+
+
+### Cloud Native Aarhus Hack Nights: Kubernetes 101
+
+ - Date: 28 March, 2019 at 16:30 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259564
+ - Attendees (according to meetup.com): 69
+
+
+#### Agenda
+
+
 ### Cloud Native Stories: TV 2 Play & Spar Nord Bank
 
  - Date: 5 March, 2019 at 17:00 - 20:00
@@ -292,56 +342,6 @@
  - Date: 30 May, 2017 at 17:00 - 19:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/239352311
  - Attendees (according to meetup.com): 30
-
-
-#### Agenda
-
-
-### Cloud Native Aarhus Hack Nights: Kubernetes 101
-
- - Date: 28 March, 2019 at 16:30 - 20:00
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259564
- - Attendees (according to meetup.com): 69
-
-
-#### Agenda
-
-
-### From Mainframe to Cloud Native and State of Windows Containers and Kubernetes
-
- - Date: 25 April, 2019 at 17:00 - 20:00
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259651
- - Attendees (according to meetup.com): 76
-
-
-#### Agenda
-
-
-### Cloud Native Hack Nights #2: Prometheus
-
- - Date: 28 May, 2019 at 16:30 - 21:00
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261130244
- - Attendees (according to meetup.com): 36
-
-
-#### Agenda
-
-
-### Kubernetes Failure Stories & How to manage Cloud Native secrets with Vault
-
- - Date: 3 June, 2019 at 16:30 - 20:00
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261537949
- - Attendees (according to meetup.com): 76
-
-
-#### Agenda
-
-
-### Cloud Native Streaming with Apache Flink and a Fairytale of Databases
-
- - Date: 25 June, 2019 at 17:00 - 21:00
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261346897
- - Attendees (according to meetup.com): 40
 
 
 #### Agenda

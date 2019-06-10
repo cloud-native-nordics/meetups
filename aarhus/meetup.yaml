@@ -2,6 +2,56 @@ city: Aarhus
 country: denmark
 meetupID: Cloud-Native-Aarhus
 meetups:
+- address: Sødalsparken 18
+  attendees: 40
+  date: "2019-06-25T17:00:00Z"
+  duration: 4h0m0s
+  id: 261346897
+  name: Cloud Native Streaming with Apache Flink and a Fairytale of Databases
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Finlandsgade 21
+  attendees: 76
+  date: "2019-06-03T16:30:00Z"
+  duration: 3h30m0s
+  id: 261537949
+  name: Kubernetes Failure Stories & How to manage Cloud Native secrets with Vault
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Åbogade 15
+  attendees: 36
+  date: "2019-05-28T16:30:00Z"
+  duration: 4h30m0s
+  id: 261130244
+  name: 'Cloud Native Hack Nights #2: Prometheus'
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Edwin Rahrs Vej 40
+  attendees: 76
+  date: "2019-04-25T17:00:00Z"
+  duration: 3h0m0s
+  id: 259259651
+  name: From Mainframe to Cloud Native and State of Windows Containers and Kubernetes
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Finlandsgade 24A
+  attendees: 69
+  date: "2019-03-28T16:30:00Z"
+  duration: 3h30m0s
+  id: 259259564
+  name: 'Cloud Native Aarhus Hack Nights: Kubernetes 101'
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Ceresbyen 75
   attendees: 64
   date: "2019-03-05T17:00:00Z"
@@ -642,56 +692,6 @@ meetups:
   duration: 2h0m0s
   id: 239352311
   name: 'Cloud Native Aarhus #1'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Finlandsgade 24A
-  attendees: 69
-  date: "2019-03-28T16:30:00Z"
-  duration: 3h30m0s
-  id: 259259564
-  name: 'Cloud Native Aarhus Hack Nights: Kubernetes 101'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Edwin Rahrs Vej 40
-  attendees: 76
-  date: "2019-04-25T17:00:00Z"
-  duration: 3h0m0s
-  id: 259259651
-  name: From Mainframe to Cloud Native and State of Windows Containers and Kubernetes
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Åbogade 15
-  attendees: 36
-  date: "2019-05-28T16:30:00Z"
-  duration: 4h30m0s
-  id: 261130244
-  name: 'Cloud Native Hack Nights #2: Prometheus'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Finlandsgade 21
-  attendees: 76
-  date: "2019-06-03T16:30:00Z"
-  duration: 3h30m0s
-  id: 261537949
-  name: Kubernetes Failure Stories & How to manage Cloud Native secrets with Vault
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Sødalsparken 18
-  attendees: 40
-  date: "2019-06-25T17:00:00Z"
-  duration: 4h0m0s
-  id: 261346897
-  name: Cloud Native Streaming with Apache Flink and a Fairytale of Databases
   presentations: null
   sponsors:
     other: null

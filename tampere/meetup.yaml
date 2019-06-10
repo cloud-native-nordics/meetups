@@ -2,6 +2,16 @@ city: Tampere
 country: finland
 meetupID: Kubernetes-Tampere
 meetups:
+- address: Kelloportinkatu 1 D
+  attendees: 50
+  date: "2019-06-13T17:00:00Z"
+  duration: 3h0m0s
+  id: 261344385
+  name: Summer Kubernetes Tampere Meetup
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Kalevantie 7
   attendees: 48
   date: "2019-04-04T17:00:00Z"
@@ -119,16 +129,6 @@ meetups:
     - luxaslabs
     - cncf
     venue: cybercom
-- address: Kelloportinkatu 1 D
-  attendees: 50
-  date: "2019-06-13T17:00:00Z"
-  duration: 3h0m0s
-  id: 261344385
-  name: Summer Kubernetes Tampere Meetup
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
 members: 148
 name: CNCF & Kubernetes Tampere
 organizers:

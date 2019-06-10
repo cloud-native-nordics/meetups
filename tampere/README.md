@@ -7,6 +7,16 @@
  - Jussi Nummelin ([@jnummelin](https://github.com/jnummelin)), [Kontena](https://kontena.io)
  - Sakari Hoisko, [Eficode](https://www.eficode.com/home)
 
+### Summer Kubernetes Tampere Meetup
+
+ - Date: 13 June, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/261344385
+ - Attendees (according to meetup.com): 50
+
+
+#### Agenda
+
+
 ### April Kubernetes Tampere Meetup
 
  - Date: 4 April, 2019 at 17:00 - 20:00
@@ -66,13 +76,3 @@
    - Toni Ylenius, Cybercom
    - Slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
  - 20:30 - 21:00: Networking 
-
-### Summer Kubernetes Tampere Meetup
-
- - Date: 13 June, 2019 at 17:00 - 20:00
- - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/261344385
- - Attendees (according to meetup.com): 50
-
-
-#### Agenda
-

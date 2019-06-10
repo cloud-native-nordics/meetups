@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"sort"
 	"strings"
 	"text/template"
 
@@ -102,7 +103,8 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 
 	return &Config{
 		Speakers:     speakersObj.Speakers,
-		Companies:    companiesObj.Companies,
+		Sponsors:     companiesObj.Sponsors,
+		Members:      companiesObj.Members,
 		MeetupGroups: meetupGroups,
 	}, nil
 }
@@ -161,7 +163,10 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	}
 	shouldMarshalSpeakerID = false
 	shouldMarshalCompanyID = false
-	companiesYAML, err := yaml.Marshal(CompaniesFile{Companies: cfg.Companies})
+	companiesYAML, err := yaml.Marshal(CompaniesFile{
+		Sponsors: cfg.Sponsors,
+		Members:  cfg.Members,
+	})
 	if err != nil {
 		return nil, err
 	}
@@ -209,7 +214,14 @@ func update(cfg *Config) error {
 			}
 		}
 	}
-	return setMeetupData(cfg)
+	if err := setMeetupData(cfg); err != nil {
+		return err
+	}
+	for i := range cfg.MeetupGroups {
+		meetupGroup := &cfg.MeetupGroups[i]
+		sort.Sort(meetupGroup.Meetups)
+	}
+	return nil
 }
 
 func writeFile(path string, b []byte) error {

@@ -2,94 +2,90 @@ city: Copenhagen
 country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
-- address: Sortedam Dossering 5D
-  attendees: 27
-  date: "2017-12-12T17:00:00Z"
+- address: Vester Søgade 6
+  attendees: 42
+  date: "2019-06-11T13:00:00Z"
   duration: 3h0m0s
-  id: 245248552
-  name: Let's kick-off Cloud Native Copenhagen!
+  id: 261858991
+  name: 'Cloud Native Copenhagen Hack Nights: Kubernetes 101'
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Landemærket 10
+  attendees: 50
+  date: "2019-04-25T17:00:00Z"
+  duration: 3h0m0s
+  id: 259355667
+  name: Cloud Native Architecture at scale and a Fairytale of Databases
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: 'Fruebjergvej 3, Att.: Økonomi'
+  attendees: 68
+  date: "2019-04-09T17:00:00Z"
+  duration: 3h0m0s
+  id: 258922126
+  name: Next-gen CI night
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: ""
+  attendees: 1
+  date: "2019-03-19T12:30:00Z"
+  duration: 6h0m0s
+  id: 259113734
+  name: Istio Service Mesh
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Teglholmsgade 1
+  attendees: 46
+  date: "2019-03-13T17:00:00Z"
+  duration: 3h0m0s
+  id: 258900627
+  name: Cloud Native Solutions and Intelligent Scaling in the Media Industry
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Weidekampsgade 16, 2300
+  attendees: 69
+  date: "2018-11-06T17:00:00Z"
+  duration: 3h0m0s
+  id: 255293027
+  name: Windows containers, Kubernetes in the enterprise
   presentations:
   - endTime: "17:20"
     slides: ""
     speakers: null
     startTime: "17:00"
-    title: Doors open
-  - endTime: "17:30"
+    title: Gates open
+  - endTime: "18:00"
     slides: ""
-    speakers: null
+    speakers:
+    - hans
     startTime: "17:20"
-    title: Welcome from Cloud Native Copenhagen
-  - endTime: "17:40"
+    title: The state of Windows & Kubernetes, with an Azure flavor
+  - endTime: "18:20"
     slides: ""
     speakers: null
-    startTime: "17:30"
-    title: Welcome from TwentyThree
-  - endTime: "18:10"
-    slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
-    speakers:
-    - laszlo
-    startTime: "17:40"
-    title: What is Cloud Native?
-  - endTime: "18:40"
-    slides: ""
-    speakers: null
-    startTime: "18:10"
-    title: Food break - group discussions
-  - endTime: "19:10"
-    slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf
-    speakers:
-    - ewelina
-    startTime: "18:40"
-    title: Jenkins as Code
-  - endTime: "20:00"
-    slides: ""
-    speakers: null
-    startTime: "19:10"
-    title: Group discussions - continued
-  - endTime: "20:00"
-    slides: ""
-    speakers: null
-    startTime: "20:00"
-    title: Gates close
-  sponsors:
-    other: null
-    venue: twentythree
-- address: H.C. Andersen Blvd. 27
-  attendees: 58
-  date: "2018-01-23T17:00:00Z"
-  duration: 3h0m0s
-  id: 246008132
-  name: 'Lab session: How to Kubernetes?'
-  presentations:
-  - endTime: "17:30"
-    slides: ""
-    speakers: null
-    startTime: "17:00"
-    title: Doors open
-  - endTime: "17:45"
-    slides: ""
-    speakers: null
-    startTime: "17:30"
-    title: Welcome
-  - endTime: "18:30"
-    slides: ""
-    speakers:
-    - laszlo
-    - david
-    startTime: "17:45"
-    title: 'First session: foundations of Kubernetes and its primitives'
+    startTime: "18:00"
+    title: Break
   - endTime: "19:00"
     slides: ""
-    speakers: null
-    startTime: "18:30"
-    title: Food break and socializing
+    speakers:
+    - jeppe
+    startTime: "18:20"
+    title: From mainframe to Kubernetes
   - endTime: "20:00"
     slides: ""
-    speakers:
-    - laszlo
-    - david
+    speakers: null
     startTime: "19:00"
-    title: 'Second session: let''s deploy'
+    title: Networking
   - endTime: "20:00"
     slides: ""
     speakers: null
@@ -97,49 +93,7 @@ meetups:
     title: Goodbye
   sponsors:
     other: null
-    venue: falconio
-- address: Borgergade 24
-  attendees: 29
-  date: "2018-03-08T17:00:00Z"
-  duration: 3h0m0s
-  id: 247310136
-  name: 'Expert night: bare metal and chaos engineering'
-  presentations:
-  - endTime: "17:30"
-    slides: ""
-    speakers: null
-    startTime: "17:00"
-    title: Gates open
-  - endTime: "17:35"
-    slides: ""
-    speakers: null
-    startTime: "17:30"
-    title: Welcome
-  - endTime: "18:15"
-    slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf
-    speakers:
-    - hans
-    startTime: "17:35"
-    title: Network Services on Kubernetes on-premise
-  - endTime: "18:30"
-    slides: ""
-    speakers: null
-    startTime: "18:15"
-    title: Break
-  - endTime: "19:15"
-    slides: ""
-    speakers:
-    - martin
-    startTime: "18:30"
-    title: Chaos Engineering
-  - endTime: "20:00"
-    slides: ""
-    speakers: null
-    startTime: "19:15"
-    title: Community chats
-  sponsors:
-    other: null
-    venue: trifork
+    venue: simcorp
 - address: Vesterbrogade 26
   attendees: 100
   date: "2018-04-30T17:30:00Z"
@@ -205,40 +159,84 @@ meetups:
   sponsors:
     other: null
     venue: republikken
-- address: Weidekampsgade 16, 2300
-  attendees: 69
-  date: "2018-11-06T17:00:00Z"
+- address: Borgergade 24
+  attendees: 29
+  date: "2018-03-08T17:00:00Z"
   duration: 3h0m0s
-  id: 255293027
-  name: Windows containers, Kubernetes in the enterprise
+  id: 247310136
+  name: 'Expert night: bare metal and chaos engineering'
   presentations:
-  - endTime: "17:20"
+  - endTime: "17:30"
     slides: ""
     speakers: null
     startTime: "17:00"
     title: Gates open
-  - endTime: "18:00"
-    slides: ""
-    speakers:
-    - hans
-    startTime: "17:20"
-    title: The state of Windows & Kubernetes, with an Azure flavor
-  - endTime: "18:20"
+  - endTime: "17:35"
     slides: ""
     speakers: null
-    startTime: "18:00"
+    startTime: "17:30"
+    title: Welcome
+  - endTime: "18:15"
+    slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf
+    speakers:
+    - hans
+    startTime: "17:35"
+    title: Network Services on Kubernetes on-premise
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:15"
     title: Break
-  - endTime: "19:00"
+  - endTime: "19:15"
     slides: ""
     speakers:
-    - jeppe
-    startTime: "18:20"
-    title: From mainframe to Kubernetes
+    - martin
+    startTime: "18:30"
+    title: Chaos Engineering
   - endTime: "20:00"
     slides: ""
     speakers: null
+    startTime: "19:15"
+    title: Community chats
+  sponsors:
+    other: null
+    venue: trifork
+- address: H.C. Andersen Blvd. 27
+  attendees: 58
+  date: "2018-01-23T17:00:00Z"
+  duration: 3h0m0s
+  id: 246008132
+  name: 'Lab session: How to Kubernetes?'
+  presentations:
+  - endTime: "17:30"
+    slides: ""
+    speakers: null
+    startTime: "17:00"
+    title: Doors open
+  - endTime: "17:45"
+    slides: ""
+    speakers: null
+    startTime: "17:30"
+    title: Welcome
+  - endTime: "18:30"
+    slides: ""
+    speakers:
+    - laszlo
+    - david
+    startTime: "17:45"
+    title: 'First session: foundations of Kubernetes and its primitives'
+  - endTime: "19:00"
+    slides: ""
+    speakers: null
+    startTime: "18:30"
+    title: Food break and socializing
+  - endTime: "20:00"
+    slides: ""
+    speakers:
+    - laszlo
+    - david
     startTime: "19:00"
-    title: Networking
+    title: 'Second session: let''s deploy'
   - endTime: "20:00"
     slides: ""
     speakers: null
@@ -246,58 +244,60 @@ meetups:
     title: Goodbye
   sponsors:
     other: null
-    venue: simcorp
-- address: Teglholmsgade 1
-  attendees: 46
-  date: "2019-03-13T17:00:00Z"
+    venue: falconio
+- address: Sortedam Dossering 5D
+  attendees: 27
+  date: "2017-12-12T17:00:00Z"
   duration: 3h0m0s
-  id: 258900627
-  name: Cloud Native Solutions and Intelligent Scaling in the Media Industry
-  presentations: null
+  id: 245248552
+  name: Let's kick-off Cloud Native Copenhagen!
+  presentations:
+  - endTime: "17:20"
+    slides: ""
+    speakers: null
+    startTime: "17:00"
+    title: Doors open
+  - endTime: "17:30"
+    slides: ""
+    speakers: null
+    startTime: "17:20"
+    title: Welcome from Cloud Native Copenhagen
+  - endTime: "17:40"
+    slides: ""
+    speakers: null
+    startTime: "17:30"
+    title: Welcome from TwentyThree
+  - endTime: "18:10"
+    slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
+    speakers:
+    - laszlo
+    startTime: "17:40"
+    title: What is Cloud Native?
+  - endTime: "18:40"
+    slides: ""
+    speakers: null
+    startTime: "18:10"
+    title: Food break - group discussions
+  - endTime: "19:10"
+    slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf
+    speakers:
+    - ewelina
+    startTime: "18:40"
+    title: Jenkins as Code
+  - endTime: "20:00"
+    slides: ""
+    speakers: null
+    startTime: "19:10"
+    title: Group discussions - continued
+  - endTime: "20:00"
+    slides: ""
+    speakers: null
+    startTime: "20:00"
+    title: Gates close
   sponsors:
     other: null
-    venue: null
-- address: ""
-  attendees: 1
-  date: "2019-03-19T12:30:00Z"
-  duration: 6h0m0s
-  id: 259113734
-  name: Istio Service Mesh
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: 'Fruebjergvej 3, Att.: Økonomi'
-  attendees: 68
-  date: "2019-04-09T17:00:00Z"
-  duration: 3h0m0s
-  id: 258922126
-  name: Next-gen CI night
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Landemærket 10
-  attendees: 50
-  date: "2019-04-25T17:00:00Z"
-  duration: 3h0m0s
-  id: 259355667
-  name: Cloud Native Architecture at scale and a Fairytale of Databases
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Vester Søgade 6
-  attendees: 40
-  date: "2019-06-11T13:00:00Z"
-  duration: 3h0m0s
-  id: 261858991
-  name: 'Cloud Native Copenhagen Hack Nights: Kubernetes 101'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-members: 645
+    venue: twentythree
+members: 646
 name: Cloud Native Copenhagen
 organizers:
 - laszlo
