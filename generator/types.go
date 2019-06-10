@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"sort"
 	"strings"
 )
 
@@ -175,13 +176,30 @@ type MeetupGroup struct {
 	City            string     `json:"city"`
 	Country         string     `json:"country"`
 	Organizers      []*Speaker `json:"organizers"`
-	Meetups         []Meetup   `json:"meetups"`
+	Meetups         MeetupList `json:"meetups"`
 	IgnoreMeetupIDs []uint64   `json:"ignoreMeetupIDs,omitempty"`
 }
 
 // CityLowercase gets the lowercase variant of the city
 func (mg *MeetupGroup) CityLowercase() string {
 	return strings.ToLower(mg.City)
+}
+
+// MeetupList is a slice of meetups implementing sort.Interface
+type MeetupList []Meetup
+
+var _ sort.Interface = MeetupList{}
+
+func (ml MeetupList) Len() int {
+	return len(ml)
+}
+
+func (ml MeetupList) Less(i, j int) bool {
+	return ml[i].Date.Time.After(ml[j].Date.Time)
+}
+
+func (ml MeetupList) Swap(i, j int) {
+	ml[i], ml[j] = ml[j], ml[i]
 }
 
 type Meetup struct {

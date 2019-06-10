@@ -1902,6 +1902,71 @@
       ],
       "meetups": [
         {
+          "id": 261346897,
+          "name": "Cloud Native Streaming with Apache Flink and a Fairytale of Databases",
+          "date": "2019-06-25T17:00:00Z",
+          "duration": "4h0m0s",
+          "attendees": 40,
+          "address": "Sødalsparken 18",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 261537949,
+          "name": "Kubernetes Failure Stories \u0026 How to manage Cloud Native secrets with Vault",
+          "date": "2019-06-03T16:30:00Z",
+          "duration": "3h30m0s",
+          "attendees": 76,
+          "address": "Finlandsgade 21",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 261130244,
+          "name": "Cloud Native Hack Nights #2: Prometheus",
+          "date": "2019-05-28T16:30:00Z",
+          "duration": "4h30m0s",
+          "attendees": 36,
+          "address": "Åbogade 15",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 259259651,
+          "name": "From Mainframe to Cloud Native and State of Windows Containers and Kubernetes",
+          "date": "2019-04-25T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 76,
+          "address": "Edwin Rahrs Vej 40",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 259259564,
+          "name": "Cloud Native Aarhus Hack Nights: Kubernetes 101",
+          "date": "2019-03-28T16:30:00Z",
+          "duration": "3h30m0s",
+          "attendees": 69,
+          "address": "Finlandsgade 24A",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
           "id": 258287765,
           "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
           "date": "2019-03-05T17:00:00Z",
@@ -3820,78 +3885,13 @@
             "other": null
           },
           "presentations": null
-        },
-        {
-          "id": 259259564,
-          "name": "Cloud Native Aarhus Hack Nights: Kubernetes 101",
-          "date": "2019-03-28T16:30:00Z",
-          "duration": "3h30m0s",
-          "attendees": 69,
-          "address": "Finlandsgade 24A",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
-        },
-        {
-          "id": 259259651,
-          "name": "From Mainframe to Cloud Native and State of Windows Containers and Kubernetes",
-          "date": "2019-04-25T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 76,
-          "address": "Edwin Rahrs Vej 40",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
-        },
-        {
-          "id": 261130244,
-          "name": "Cloud Native Hack Nights #2: Prometheus",
-          "date": "2019-05-28T16:30:00Z",
-          "duration": "4h30m0s",
-          "attendees": 36,
-          "address": "Åbogade 15",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
-        },
-        {
-          "id": 261537949,
-          "name": "Kubernetes Failure Stories \u0026 How to manage Cloud Native secrets with Vault",
-          "date": "2019-06-03T16:30:00Z",
-          "duration": "3h30m0s",
-          "attendees": 76,
-          "address": "Finlandsgade 21",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
-        },
-        {
-          "id": 261346897,
-          "name": "Cloud Native Streaming with Apache Flink and a Fairytale of Databases",
-          "date": "2019-06-25T17:00:00Z",
-          "duration": "4h0m0s",
-          "attendees": 40,
-          "address": "Sødalsparken 18",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
         }
       ]
     },
     {
       "meetupID": "Cloud-Native-Copenhagen",
       "name": "Cloud Native Copenhagen",
-      "members": 645,
+      "members": 646,
       "city": "Copenhagen",
       "country": "denmark",
       "organizers": [
@@ -3955,18 +3955,83 @@
       ],
       "meetups": [
         {
-          "id": 245248552,
-          "name": "Let's kick-off Cloud Native Copenhagen!",
-          "date": "2017-12-12T17:00:00Z",
+          "id": 261858991,
+          "name": "Cloud Native Copenhagen Hack Nights: Kubernetes 101",
+          "date": "2019-06-11T13:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 27,
-          "address": "Sortedam Dossering 5D",
+          "attendees": 41,
+          "address": "Vester Søgade 6",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 259355667,
+          "name": "Cloud Native Architecture at scale and a Fairytale of Databases",
+          "date": "2019-04-25T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 50,
+          "address": "Landemærket 10",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 258922126,
+          "name": "Next-gen CI night",
+          "date": "2019-04-09T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 68,
+          "address": "Fruebjergvej 3, Att.: Økonomi",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 259113734,
+          "name": "Istio Service Mesh",
+          "date": "2019-03-19T12:30:00Z",
+          "duration": "6h0m0s",
+          "attendees": 1,
+          "address": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 258900627,
+          "name": "Cloud Native Solutions and Intelligent Scaling in the Media Industry",
+          "date": "2019-03-13T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 46,
+          "address": "Teglholmsgade 1",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 255293027,
+          "name": "Windows containers, Kubernetes in the enterprise",
+          "date": "2018-11-06T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 69,
+          "address": "Weidekampsgade 16, 2300",
           "sponsors": {
             "venue": {
-              "id": "twentythree",
-              "name": "TwentyThreeTM",
-              "websiteURL": "https://www.twentythree.net/",
-              "logoURL": "https://www.twentythree.net/assets/images/logo.png",
+              "id": "simcorp",
+              "name": "SimCorp",
+              "websiteURL": "https://www.simcorp.com/",
+              "logoURL": "https://www.simcorp.com/-/media/images/system-images/logo/simcorp_logo.svg",
               "countries": [
                 "denmark"
               ]
@@ -3977,282 +4042,15 @@
             {
               "startTime": "17:00",
               "endTime": "17:20",
-              "title": "Doors open",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "17:20",
-              "endTime": "17:30",
-              "title": "Welcome from Cloud Native Copenhagen",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "17:30",
-              "endTime": "17:40",
-              "title": "Welcome from TwentyThree",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "17:40",
-              "endTime": "18:10",
-              "title": "What is Cloud Native?",
-              "slides": "https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf",
-              "speakers": [
-                {
-                  "id": "laszlo",
-                  "name": "Laszlo Fogas",
-                  "email": "",
-                  "company": {
-                    "id": "laszlocloud",
-                    "name": "Laszlo Cloud",
-                    "websiteURL": "https://laszlo.cloud",
-                    "logoURL": "",
-                    "countries": [
-                      "denmark"
-                    ]
-                  },
-                  "countries": [
-                    "denmark"
-                  ],
-                  "github": "",
-                  "speakersBureau": ""
-                }
-              ]
-            },
-            {
-              "startTime": "18:10",
-              "endTime": "18:40",
-              "title": "Food break - group discussions",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "18:40",
-              "endTime": "19:10",
-              "title": "Jenkins as Code",
-              "slides": "https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf",
-              "speakers": [
-                {
-                  "id": "ewelina",
-                  "name": "Ewelina Wilkosz",
-                  "email": "",
-                  "company": {
-                    "id": "praqma",
-                    "name": "Praqma",
-                    "websiteURL": "https://www.praqma.com/",
-                    "logoURL": "https://www.praqma.com/images/logo_eficode.png",
-                    "countries": [
-                      "denmark"
-                    ]
-                  },
-                  "countries": [
-                    "denmark"
-                  ],
-                  "github": "",
-                  "speakersBureau": ""
-                }
-              ]
-            },
-            {
-              "startTime": "19:10",
-              "endTime": "20:00",
-              "title": "Group discussions - continued",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "20:00",
-              "endTime": "20:00",
-              "title": "Gates close",
-              "slides": "",
-              "speakers": null
-            }
-          ]
-        },
-        {
-          "id": 246008132,
-          "name": "Lab session: How to Kubernetes?",
-          "date": "2018-01-23T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 58,
-          "address": "H.C. Andersen Blvd. 27",
-          "sponsors": {
-            "venue": {
-              "id": "falconio",
-              "name": "Falcon.io",
-              "websiteURL": "https://www.falcon.io/",
-              "logoURL": "data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTUiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAxNTUgMjAiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMDkwYTBmO308L3N0eWxlPjwvZGVmcz48dGl0bGU+RmFsY29uLUlPLUxvZ28tMjAxNjwvdGl0bGU+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjQ1LjI1IDkuNTYgNDAuMjUgOS41NiA0MC4yNSA2LjU2IDQ2LjI1IDYuNTYgNDYuMjUgMi41NiAzNi4yNSAyLjU2IDM2LjI1IDE5LjU2IDQwLjI1IDE5LjU2IDQwLjI1IDEyLjU2IDQ1LjI1IDEyLjU2IDQ1LjI1IDkuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik01MiwyLjU2bC02LjM1LDE3aDQuNTZsMS4xNC0zSDU3LjNsMS4wNywzSDYzbC02LjIyLTE3SDUyWm0wLjUzLDExLDEuNzctNmgwbDEuNzUsNkg1Mi41N1oiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iNjguMjUgMi41NiA2NC4yNSAyLjU2IDY0LjI1IDE5LjU2IDc0LjI1IDE5LjU2IDc0LjI1IDE1LjU2IDY4LjI1IDE1LjU2IDY4LjI1IDIuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik03Ny4xMyw1LjE3YTguNjQsOC42NCwwLDAsMC0yLjQzLDYsOC4wOCw4LjA4LDAsMCwwLDIuNjUsNi4yNCw5LjA4LDkuMDgsMCwwLDAsNi4xNSwyLjQzLDkuODcsOS44NywwLDAsMCwzLjc0LS43N1YxNGE1LDUsMCwwLDEtMy42NiwxLjc1LDQuMjcsNC4yNywwLDAsMS00LjQ1LTQuNDksNC4zMiw0LjMyLDAsMCwxLDQuMzctNC41OCw0Ljc3LDQuNzcsMCwwLDEsMy43MywxLjgyVjMuMzNBOC45LDguOSwwLDAsMCw3Ny4xMyw1LjE3WiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTk4LjI2LDIuMzljLTQuNzUsMC05LjEzLDMuNS05LjEzLDguNWE5LjEzLDkuMTMsMCwwLDAsMTguMjcsMEMxMDcuMzksNS44OSwxMDMsMi4zOSw5OC4yNiwyLjM5Wm0wLDEzLjQ1YTQuNzMsNC43MywwLDAsMS00LjY3LTQuOTMsNC42OCw0LjY4LDAsMCwxLDkuMzMsMEE0LjczLDQuNzMsMCwwLDEsOTguMjYsMTUuODRaIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjEyMS4yNSAxMi41NiAxMjEuNTEgMTIuNTYgMTEzLjY1IDIuNTYgMTA5LjI1IDIuNTYgMTA5LjI1IDE5LjU2IDExMy4yNSAxOS41NiAxMTMuMjUgOS41NiAxMTMuNjkgOS41NiAxMjEuNTUgMTkuNTYgMTI1LjI1IDE5LjU2IDEyNS4yNSAyLjU2IDEyMS4yNSAyLjU2IDEyMS4yNSAxMi41NiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEzNS4yNSwxOS41NmgtMXYtMTdoMXYxN1oiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNTUsMTEuMTVhOC41OSw4LjU5LDAsMCwxLTE3LjE3LDBBOC41OSw4LjU5LDAsMCwxLDE1NSwxMS4xNVptLTEuNDQsMGE3LjE1LDcuMTUsMCwxLDAtMTQuMywwQTcuMTUsNy4xNSwwLDEsMCwxNTMuNTYsMTEuMTVaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTMxLjExLDE4LjMzYTEuMTYsMS4xNiwwLDEsMS0yLjMyLDBBMS4xNiwxLjE2LDAsMCwxLDEzMS4xMSwxOC4zM1oiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0zMS40MSwxOS4zNWExNCwxNCwwLDAsMS04LTUuNWMtMC40Ni4yMi0yLjA3LDEuMi02LjY2LDAuOWExMi4yOSwxMi4yOSwwLDAsMS04LjQ3LTQuNjYsNjkuNzksNjkuNzksMCwwLDAsMTMuMzYsMCwxNS4xMSwxNS4xMSwwLDAsMS0uMzYtMS42M2MtMS43MSwwLTkuMjcuMS0xMy44MS0xLjE5QzIuMzgsNS44NiwwLDAsMCwwQTIyOS42OSwyMjkuNjksMCwwLDEsMjYuNDEsMy41OGExLjYsMS42LDAsMCwxLDEuMzMsMS41NGMwLDcsMi4xNywxMSw0LjIyLDEzLjUzQzMyLjI5LDE5LjA5LDMyLjE2LDE5LjU0LDMxLjQxLDE5LjM1WiIvPjwvc3ZnPg==",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
-          "presentations": [
-            {
-              "startTime": "17:00",
-              "endTime": "17:30",
-              "title": "Doors open",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "17:30",
-              "endTime": "17:45",
-              "title": "Welcome",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "17:45",
-              "endTime": "18:30",
-              "title": "First session: foundations of Kubernetes and its primitives",
-              "slides": "",
-              "speakers": [
-                {
-                  "id": "laszlo",
-                  "name": "Laszlo Fogas",
-                  "email": "",
-                  "company": {
-                    "id": "laszlocloud",
-                    "name": "Laszlo Cloud",
-                    "websiteURL": "https://laszlo.cloud",
-                    "logoURL": "",
-                    "countries": [
-                      "denmark"
-                    ]
-                  },
-                  "countries": [
-                    "denmark"
-                  ],
-                  "github": "",
-                  "speakersBureau": ""
-                },
-                {
-                  "id": "david",
-                  "name": "David Christensen",
-                  "email": "",
-                  "company": {
-                    "id": "praqma",
-                    "name": "Praqma",
-                    "websiteURL": "https://www.praqma.com/",
-                    "logoURL": "https://www.praqma.com/images/logo_eficode.png",
-                    "countries": [
-                      "denmark"
-                    ]
-                  },
-                  "countries": [
-                    "denmark"
-                  ],
-                  "github": "",
-                  "speakersBureau": ""
-                }
-              ]
-            },
-            {
-              "startTime": "18:30",
-              "endTime": "19:00",
-              "title": "Food break and socializing",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "19:00",
-              "endTime": "20:00",
-              "title": "Second session: let's deploy",
-              "slides": "",
-              "speakers": [
-                {
-                  "id": "laszlo",
-                  "name": "Laszlo Fogas",
-                  "email": "",
-                  "company": {
-                    "id": "laszlocloud",
-                    "name": "Laszlo Cloud",
-                    "websiteURL": "https://laszlo.cloud",
-                    "logoURL": "",
-                    "countries": [
-                      "denmark"
-                    ]
-                  },
-                  "countries": [
-                    "denmark"
-                  ],
-                  "github": "",
-                  "speakersBureau": ""
-                },
-                {
-                  "id": "david",
-                  "name": "David Christensen",
-                  "email": "",
-                  "company": {
-                    "id": "praqma",
-                    "name": "Praqma",
-                    "websiteURL": "https://www.praqma.com/",
-                    "logoURL": "https://www.praqma.com/images/logo_eficode.png",
-                    "countries": [
-                      "denmark"
-                    ]
-                  },
-                  "countries": [
-                    "denmark"
-                  ],
-                  "github": "",
-                  "speakersBureau": ""
-                }
-              ]
-            },
-            {
-              "startTime": "20:00",
-              "endTime": "20:00",
-              "title": "Goodbye",
-              "slides": "",
-              "speakers": null
-            }
-          ]
-        },
-        {
-          "id": 247310136,
-          "name": "Expert night: bare metal and chaos engineering",
-          "date": "2018-03-08T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 29,
-          "address": "Borgergade 24",
-          "sponsors": {
-            "venue": {
-              "id": "trifork",
-              "name": "Trifork",
-              "websiteURL": "https://trifork.com/",
-              "logoURL": "https://trifork.com/wp-content/themes/trifork-main/dw-img/logo-trifork-white.svg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
-          "presentations": [
-            {
-              "startTime": "17:00",
-              "endTime": "17:30",
               "title": "Gates open",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "17:30",
-              "endTime": "17:35",
-              "title": "Welcome",
+              "startTime": "17:20",
+              "endTime": "18:00",
+              "title": "The state of Windows \u0026 Kubernetes, with an Azure flavor",
               "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "17:35",
-              "endTime": "18:15",
-              "title": "Network Services on Kubernetes on-premise",
-              "slides": "https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf",
               "speakers": [
                 {
                   "id": "hans",
@@ -4276,27 +4074,27 @@
               ]
             },
             {
-              "startTime": "18:15",
-              "endTime": "18:30",
+              "startTime": "18:00",
+              "endTime": "18:20",
               "title": "Break",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "18:30",
-              "endTime": "19:15",
-              "title": "Chaos Engineering",
+              "startTime": "18:20",
+              "endTime": "19:00",
+              "title": "From mainframe to Kubernetes",
               "slides": "",
               "speakers": [
                 {
-                  "id": "martin",
-                  "name": "Martin Westergaard Lassen",
+                  "id": "jeppe",
+                  "name": "Jeppe Johansen",
                   "email": "",
                   "company": {
-                    "id": "humio",
-                    "name": "Humio",
-                    "websiteURL": "https://humio.com/",
-                    "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAyNDYgNjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxLjQxNDIxOyI+PGc+PHBhdGggZD0iTTEzMy4wOTksMjIuMTQxbDAsMTQuNjk4YzAsNS41NTkgLTMuNTUzLDkuNjEgLTEwLjE2NSw5LjYxYy02LjYxMiwwIC0xMC4xNjUsLTQuMDUxIC0xMC4xNjUsLTkuNjFsMCwtMTQuNjk4bC00LjczNywwbDAsMTQuNjk4YzAsOC4yOTEgNi4wMiwxMy45NDQgMTQuOTAyLDEzLjk0NGM4Ljg4MiwwIDE0LjkwMiwtNS43NDcgMTQuOTAyLC0xMy45NDRsMCwtMTQuNjk4bC00LjczNywwWiIgc3R5bGU9ImZpbGw6I2ZmZjtmaWxsLXJ1bGU6bm9uemVybzsiLz48cGF0aCBkPSJNNzkuMjE1LDQwLjUxM2wwLC03LjYzMWwxOC43NTEsMGwwLDcuNjMxbDQuNzM3LDBsMCwtMjcuNTExbC00LjczNywwbDAsMTUuNDUybC0xOC43NTEsMGwwLC0xNS40NTJsLTQuODM2LDBsMCwyNy41MTFsNC44MzYsMFoiIHN0eWxlPSJmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87Ii8+PHBhdGggZD0iTTE0Ny42MDcsNDAuNTEzbDAsLTE1LjkyMmMwLC00LjM5NCAzLjc4NiwtOC4wMDkgOC4zODgsLTguMDA5YzQuNjAyLDAgOC4zODksMy42MTUgOC4zODksOC4wMDlsMCwxNS45MjJsNC43MzcsMGwwLC0xNS45MjJjMCwtNC4zOTQgMy43ODcsLTguMDA5IDguMzg4LC04LjAwOWM0LjYwMiwwIDguMzg5LDMuNjE1IDguMzg5LDguMDA5bDAsMTUuOTIybDQuNzM3LDBsMCwtMTUuOTIyYzAuMDcxLC02Ljc5MyAtNS43MTQsLTEyLjQ0NCAtMTIuODMsLTEyLjUzMWwtMC4yOTYsMGMtNC4zNzgsLTAuMDc4IC04LjQ4NCwyLjA3OSAtMTAuNzU3LDUuNjUzYy0yLjI1NSwtMy41OTEgLTYuMzcyLC01Ljc1NSAtMTAuNzU3LC01LjY1M2MtNy4xMTUsLTAuMDY4IC0xMy4wMzQsNS40NTUgLTEzLjEyNiwxMi4yNDhsMCwxNi4yMDVsNC43MzgsMFoiIHN0eWxlPSJmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87Ii8+PHBhdGggZD0iTTIyNi4wNjQsMTYuMjA1YzguNTU0LDAgMTUuNTkzLDYuNzIgMTUuNTkzLDE0Ljg4N2MwLDguMTY2IC03LjAzOSwxNC44ODYgLTE1LjU5MywxNC44ODZjLTguNTU0LDAgLTE1LjU5MiwtNi43MiAtMTUuNTkyLC0xNC44ODZjMC4wMTYsLTguMTYxIDcuMDQ1LC0xNC44NzEgMTUuNTkyLC0xNC44ODdtMCwtNC4xNDVjLTEwLjkzNiwwIC0xOS45MzUsOC41OTEgLTE5LjkzNSwxOS4wMzJjMCwxMC40NCA4Ljk5OSwxOS4wMzIgMTkuOTM1LDE5LjAzMmMxMC45MzcsMCAxOS45MzYsLTguNTkyIDE5LjkzNiwtMTkuMDMyYzAsLTAuMDM4IDAsLTAuMDc2IDAsLTAuMTE0YzAsLTEwLjM3OCAtOC45NDYsLTE4LjkxOSAtMTkuODE3LC0xOC45MTljLTAuMDM5LDAgLTAuMDc5LDAuMDAxIC0wLjExOSwwLjAwMVoiIHN0eWxlPSJmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87Ii8+PHJlY3QgeD0iMTk2LjM1OSIgeT0iMjIuMTQxIiB3aWR0aD0iNC43MzciIGhlaWdodD0iMTguMjc4IiBzdHlsZT0iZmlsbDojZmZmOyIvPjxwYXRoIGQ9Ik0zMiwwbDAuMDE5LDBjMTcuNTQ0LDAgMzEuOTgxLDE0LjQzNyAzMS45ODEsMzEuOTgxYzAsMC4wMDYgMCwwLjAxMyAwLDAuMDE5YzAsMTcuNTU1IC0xNC40NDUsMzIgLTMyLDMyYy0xNy41NTUsMCAtMzIsLTE0LjQ0NSAtMzIsLTMyYzAsLTE3LjU1NSAxNC40NDUsLTMyIDMyLC0zMlptMjAuMTA5LDI3LjU1M2MwLjIzLC0wLjg4NSAwLjM1OSwtMS43OTMgMC4zODYsLTIuNzA3Yy0wLjAzMywtMC45NDUgLTAuMTYzLC0xLjg4NSAtMC4zODYsLTIuODA0bDAsLTkuNjY3bC0xLjE2LDAuMTkzYy0zLjY3NCwwLjM4NyAtNy40NDQsMC42NzcgLTExLjExOCwwLjg3Yy01LjAwMiwtMi4xMjYgLTEwLjY2LC0yLjEyNiAtMTUuNjYyLDBjLTMuNzcsLTAuMTkzIC03LjQ0NCwtMC40ODMgLTExLjExOCwtMC44N2wtMS4xNiwtMC4wOTdsMCw5LjY2OGMtMC4yNzcsMC45MDggLTAuNDA3LDEuODU0IC0wLjM4NiwyLjgwNGMtMC4wMTUsMC45MTcgMC4xMTUsMS44MyAwLjM4NiwyLjcwN2MtMS43NCwwLjk2NiAtMy4wOTMsMy4wOTMgLTMuMDkzLDYuMDljLTAuMTk0LDYuNzY4IDQuNDQ3LDEzLjM0MiA0LjQ0NywxMy4zNDJjMC40OCwtMS40NDQgMS4xNjMsLTIuODExIDIuMDMsLTQuMDYxYzEuNjk3LDIuNjE3IDMuOTgxLDQuODAyIDYuNjcxLDYuMzgxYy0wLjM1NSwtMC4wMDIgLTAuNjg1LDAuMTgyIC0wLjg3LDAuNDgzYy0wLjE4NiwtMC4zMDEgLTAuNTE2LC0wLjQ4NSAtMC44NzEsLTAuNDgzbC0wLjI5LDBjLTAuNTgxLDAuMDA1IC0xLjA1OCwwLjQ4MiAtMS4wNjMsMS4wNjNsMCwzLjQ4MWMtMC4wMDEsMC4wMjIgLTAuMDAyLDAuMDQ1IC0wLjAwMiwwLjA2OGMwLDAuNTg5IDAuNDc2LDEuMDc3IDEuMDY1LDEuMDkybDAuMzg3LDBjMC4zNTQsMC4wMDIgMC42ODUsLTAuMTgyIDAuODcsLTAuNDg0YzAuMTg2LDAuMzAyIDAuNTE2LDAuNDg2IDAuODcsMC40ODRsMC4yOSwwYzAuMzU0LDAuMDAyIDAuNjg1LC0wLjE4MiAwLjg3LC0wLjQ4NGMwLjE4NiwwLjMwMiAwLjUxNiwwLjQ4NiAwLjg3MSwwLjQ4NGwwLjA5NiwwYzAuNTgyLC0wLjAwNSAxLjA1OCwtMC40ODIgMS4wNjQsLTEuMDY0bDAsLTMuMDkzYzQuMzQ1LDEuNTQ2IDkuMDkzLDEuNTQ2IDEzLjQzOCwwbDAsMi45OTdjLTAuMDAyLDAuNjAxIDAuNDY0LDEuMTEgMS4wNjMsMS4xNmwwLjI5LDBjMC4zNTQsMC4wMDIgMC42ODUsLTAuMTgyIDAuODcsLTAuNDg0YzAuMTg2LDAuMzAyIDAuNTE2LDAuNDg2IDAuODcsMC40ODRsMC4yOSwwYzAuMzU1LDAuMDAyIDAuNjg1LC0wLjE4MiAwLjg3LC0wLjQ4NGMwLjE4NiwwLjMwMiAwLjUxNiwwLjQ4NiAwLjg3MSwwLjQ4NGwwLjI5LDBjMC41ODksLTAuMDE1IDEuMDY1LC0wLjUwMyAxLjA2NSwtMS4wOTJjMCwtMC4wMjMgLTAuMDAxLC0wLjA0NiAtMC4wMDIsLTAuMDY4bDAsLTMuNTc3YzAuMDAyLC0wLjYwMiAtMC40NjQsLTEuMTEgLTEuMDYzLC0xLjE2MWwtMC4yOSwwYy0wLjM1NSwtMC4wMDEgLTAuNjg1LDAuMTgyIC0wLjg3MSwwLjQ4NGMtMC4xODUsLTAuMzAyIC0wLjUxNSwtMC40ODUgLTAuODcsLTAuNDg0YzIuNjksLTEuNTc4IDQuOTc0LC0zLjc2MyA2LjY3MSwtNi4zOGMwLjg2NywxLjI1IDEuNTUsMi42MTcgMi4wMyw0LjA2YzAuNDgsMS40NDMgNC42NDEsLTYuNTc0IDQuNDQ3LC0xMy4zNDFjMC4xMzgsLTIuNDA5IC0xLjA1LC00LjcxIC0zLjA5MywtNS45OTRabS0yMC4xMDksMTAuMzQ0bC0zLjk2NCwtMy45NjNjMS43MTEsLTEuMTI1IDMuMDgyLC0yLjY5NiAzLjk2NCwtNC41NDRjMC44NTUsMS44NjUgMi4yMzIsMy40NDMgMy45NjQsNC41NDRsLTMuOTY0LDMuOTYzWm0tOS43NjQsLTQuMjUzYy00Ljc3NCwwIC04LjcwMSwtMy45MjggLTguNzAxLC04LjcwMWMwLC00Ljc3NCAzLjkyNywtOC43MDEgOC43MDEsLTguNzAxYzQuNzczLDAgOC43MDEsMy45MjcgOC43MDEsOC43MDFjMCw0Ljc3MyAtMy45MjgsOC43IC04LjcwMSw4LjcwMVptMTkuNTI4LDBjLTQuNzczLDAgLTguNzAxLC0zLjkyOCAtOC43MDEsLTguNzAxYzAsLTQuNzc0IDMuOTI4LC04LjcwMSA4LjcwMSwtOC43MDFjNC43NzQsMCA4LjcwMSwzLjkyNyA4LjcwMSw4LjcwMWMwLDQuNzczIC0zLjkyNyw4LjcwMSAtOC43MDEsOC43MDFabTAsLTEyLjM3NWMyLjAyOCwwIDMuNjc0LDEuNjQ2IDMuNjc0LDMuNjc0YzAsMi4wMjcgLTEuNjQ2LDMuNjczIC0zLjY3NCwzLjY3M2MtMi4wMjcsMCAtMy42NzMsLTEuNjQ2IC0zLjY3MywtMy42NzNjMCwtMi4wMjggMS42NDYsLTMuNjc0IDMuNjczLC0zLjY3NFptLTE5LjUyOCwwYzIuMDI3LDAgMy42NzMsMS42NDYgMy42NzMsMy42NzRjMCwyLjAyNyAtMS42NDYsMy42NzMgLTMuNjczLDMuNjczYy0yLjAyOCwwIC0zLjY3NCwtMS42NDYgLTMuNjc0LC0zLjY3M2MwLC0yLjAyOCAxLjY0NiwtMy42NzQgMy42NzQsLTMuNjc0WiIgc3R5bGU9ImZpbGw6I2ZmZjsiLz48L2c+PC9zdmc+",
+                    "id": "whyyy",
+                    "name": "Whyyy",
+                    "websiteURL": "https://whyyy.dk/",
+                    "logoURL": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzgzIiBoZWlnaHQ9IjExNCIgdmlld0JveD0iMCAwIDM4MyAxMTQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0zMzYuODQgMTA4LjY0QzMzOC4yIDEwOC42NCAzMzkuMzYgMTA4LjU2IDM0MC4zMiAxMDguNEMzNDEuMzYgMTA4LjMyIDM0Mi4wOCAxMDggMzQyLjQ4IDEwNy40NEMzNDIuNzIgMTA3LjIgMzQzIDEwNi43MiAzNDMuMzIgMTA2QzM0My42NCAxMDUuMzYgMzQ0LjE2IDEwNC4yIDM0NC44OCAxMDIuNTJDMzQ1LjYgMTAwLjkyIDM0Ni42IDk4LjY0IDM0Ny44OCA5NS42OEMzNDkuMTYgOTIuOCAzNTAuODQgODkgMzUyLjkyIDg0LjI4TDMyNCAyMkgzMjYuNjRMMzU0LjEyIDgxLjI4TDM4MC4xNiAyMkgzODIuOEwzNDUuNzIgMTA2LjZDMzQ0Ljc2IDEwOC42OCAzNDMuNDQgMTA5Ljk2IDM0MS43NiAxMTAuNDRDMzQwLjE2IDExMC44NCAzMzguNTIgMTExLjA0IDMzNi44NCAxMTEuMDRWMTA4LjY0WiIgZmlsbD0iIzM1NzI2QSIvPgo8cGF0aCBkPSJNMjczLjggMTAzLjcyQzI3NC40NCAxMDMuOCAyNzUuMDQgMTAzLjg0IDI3NS42IDEwMy44NEMyNzYuMjQgMTAzLjkyIDI3Ni44NCAxMDMuOTYgMjc3LjQgMTAzLjk2QzI3OC44NCAxMDMuOTYgMjc5Ljk2IDEwMy43NiAyODAuNzYgMTAzLjM2QzI4MS42NCAxMDIuOTYgMjgyLjQ4IDEwMi4wOCAyODMuMjggMTAwLjcyQzI4NC4wOCA5OS4zNiAyODQuOTYgOTcuNCAyODUuOTIgOTQuODRDMjg2Ljk2IDkyLjI4IDI4OC40IDg4Ljg0IDI5MC4yNCA4NC41MkwyNjMgMjJIMjcxLjRMMjk0LjU2IDc2Ljk2TDMxNi4wNCAyMkgzMjMuODRMMjkxLjQ0IDEwMi42NEMyOTAuNTYgMTA0Ljk2IDI4OS4wOCAxMDYuOTYgMjg3IDEwOC42NEMyODUgMTEwLjQgMjgyLjI0IDExMS4yOCAyNzguNzIgMTExLjI4QzI3Ny45MiAxMTEuMjggMjc3LjE2IDExMS4yNCAyNzYuNDQgMTExLjE2QzI3NS43MiAxMTEuMTYgMjc0Ljg0IDExMS4wOCAyNzMuOCAxMTAuOTJWMTAzLjcyWiIgZmlsbD0iIzM1NzI2QSIvPgo8cGF0aCBkPSJNMjAyLjEwNiA5MS4zNkMyMDUuNzg2IDkyLjcyIDIwOC45MDYgOTMuNCAyMTEuNDY2IDkzLjRDMjE2LjM0NiA5My40IDIxOS4wMjYgOTAuNiAyMTkuNTA2IDg1TDE5Ni41ODYgMjEuODhIMjE5Ljk4NkwyMzEuOTg2IDY1LjY4TDI0MS43MDYgMjEuODhIMjYyLjk0NkwyNDEuNTg2IDkyLjU2QzI0MC42MjYgOTUuNjggMjM5LjI2NiA5OC40OCAyMzcuNTA2IDEwMC45NkMyMzUuNzQ2IDEwMy41MiAyMzMuNjI2IDEwNS42OCAyMzEuMTQ2IDEwNy40NEMyMjguNzQ2IDEwOS4yOCAyMjYuMDY2IDExMC42OCAyMjMuMTA2IDExMS42NEMyMjAuMTQ2IDExMi42IDIxNy4wNjYgMTEzLjA4IDIxMy44NjYgMTEzLjA4QzIwOS43ODYgMTEzLjA4IDIwNS44NjYgMTEyLjMyIDIwMi4xMDYgMTEwLjhWOTEuMzZaIiBmaWxsPSIjMzU3MjZBIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTMwIDIxLjIyNzNWODQuNkgxNTIuOFY0OS4yQzE1My4zNiA0Ny44NCAxNTQuMDggNDYuNiAxNTQuOTYgNDUuNDhDMTU1Ljg0IDQ0LjM2IDE1Ni43NiA0My40Mzk5IDE1Ny43MiA0Mi43MkMxNTguNzYgNDEuOTIgMTU5Ljc2IDQxLjMxOTkgMTYwLjcyIDQwLjkyQzE2MS43NiA0MC40Mzk5IDE2Mi42NCA0MC4yIDE2My4zNiA0MC4yQzE2NS40NCA0MC4yIDE2Ny4xNiA0MC45MiAxNjguNTIgNDIuMzZDMTY5Ljk2IDQzLjcyIDE3MC42OCA0NS45NiAxNzAuNjggNDkuMDhWODQuNkgxOTMuNDhWNDMuMDhDMTkzLjQ4IDQwLjc2IDE5My4yOCAzOC4yOCAxOTIuODggMzUuNjRDMTkyLjQ4IDMzIDE5MS42IDMwLjU2MDEgMTkwLjI0IDI4LjMxOTlDMTg4Ljg4IDI2IDE4Ni44OCAyNC4wOCAxODQuMjQgMjIuNTYwMUMxODEuNiAyMS4wNCAxNzguMDggMjAuMjggMTczLjY4IDIwLjI4QzE2OS4yIDIwLjI4IDE2NS4xNiAyMS4yIDE2MS41NiAyMy4wNEMxNTcuOTYgMjQuOCAxNTUuMDQgMjcuNCAxNTIuOCAzMC44NFYwSDEzOC4zMTJMMTMwIDIxLjIyNzNaIiBmaWxsPSIjMzU3MjZBIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMzMuMzYwNCA4NS4yTDAgMEgyNS4zMjAzTDQzLjgwMDMgNTguNDM5OUw0OS42ODAyIDQwLjY4MDFMMzUuODgwNCAwSDU3LjM2MDRMNjQuODAwMyAyNi4yOEw3Mi4zNjA0IDBIOTMuODQwM0w3OS44MDAzIDQwLjY4MDFMODUuOTE5OSA1OC40Mzk5TDEwNC4yOCAwSDEyOS43Mkw5Ni4zNjA0IDg1LjJINzYuOTE5OUw2NC44MDAzIDU0LjcyTDUyLjgwMDMgODUuMkgzMy4zNjA0WiIgZmlsbD0iIzM1NzI2QSIvPgo8L3N2Zz4K",
                     "countries": [
                       "denmark"
                     ]
@@ -4310,9 +4108,16 @@
               ]
             },
             {
-              "startTime": "19:15",
+              "startTime": "19:00",
               "endTime": "20:00",
-              "title": "Community chats",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "20:00",
+              "endTime": "20:00",
+              "title": "Goodbye",
               "slides": "",
               "speakers": null
             }
@@ -4513,18 +4318,18 @@
           ]
         },
         {
-          "id": 255293027,
-          "name": "Windows containers, Kubernetes in the enterprise",
-          "date": "2018-11-06T17:00:00Z",
+          "id": 247310136,
+          "name": "Expert night: bare metal and chaos engineering",
+          "date": "2018-03-08T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 69,
-          "address": "Weidekampsgade 16, 2300",
+          "attendees": 29,
+          "address": "Borgergade 24",
           "sponsors": {
             "venue": {
-              "id": "simcorp",
-              "name": "SimCorp",
-              "websiteURL": "https://www.simcorp.com/",
-              "logoURL": "https://www.simcorp.com/-/media/images/system-images/logo/simcorp_logo.svg",
+              "id": "trifork",
+              "name": "Trifork",
+              "websiteURL": "https://trifork.com/",
+              "logoURL": "https://trifork.com/wp-content/themes/trifork-main/dw-img/logo-trifork-white.svg",
               "countries": [
                 "denmark"
               ]
@@ -4534,16 +4339,23 @@
           "presentations": [
             {
               "startTime": "17:00",
-              "endTime": "17:20",
+              "endTime": "17:30",
               "title": "Gates open",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "17:20",
-              "endTime": "18:00",
-              "title": "The state of Windows \u0026 Kubernetes, with an Azure flavor",
+              "startTime": "17:30",
+              "endTime": "17:35",
+              "title": "Welcome",
               "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "17:35",
+              "endTime": "18:15",
+              "title": "Network Services on Kubernetes on-premise",
+              "slides": "https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf",
               "speakers": [
                 {
                   "id": "hans",
@@ -4567,27 +4379,27 @@
               ]
             },
             {
-              "startTime": "18:00",
-              "endTime": "18:20",
+              "startTime": "18:15",
+              "endTime": "18:30",
               "title": "Break",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "18:20",
-              "endTime": "19:00",
-              "title": "From mainframe to Kubernetes",
+              "startTime": "18:30",
+              "endTime": "19:15",
+              "title": "Chaos Engineering",
               "slides": "",
               "speakers": [
                 {
-                  "id": "jeppe",
-                  "name": "Jeppe Johansen",
+                  "id": "martin",
+                  "name": "Martin Westergaard Lassen",
                   "email": "",
                   "company": {
-                    "id": "whyyy",
-                    "name": "Whyyy",
-                    "websiteURL": "https://whyyy.dk/",
-                    "logoURL": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzgzIiBoZWlnaHQ9IjExNCIgdmlld0JveD0iMCAwIDM4MyAxMTQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0zMzYuODQgMTA4LjY0QzMzOC4yIDEwOC42NCAzMzkuMzYgMTA4LjU2IDM0MC4zMiAxMDguNEMzNDEuMzYgMTA4LjMyIDM0Mi4wOCAxMDggMzQyLjQ4IDEwNy40NEMzNDIuNzIgMTA3LjIgMzQzIDEwNi43MiAzNDMuMzIgMTA2QzM0My42NCAxMDUuMzYgMzQ0LjE2IDEwNC4yIDM0NC44OCAxMDIuNTJDMzQ1LjYgMTAwLjkyIDM0Ni42IDk4LjY0IDM0Ny44OCA5NS42OEMzNDkuMTYgOTIuOCAzNTAuODQgODkgMzUyLjkyIDg0LjI4TDMyNCAyMkgzMjYuNjRMMzU0LjEyIDgxLjI4TDM4MC4xNiAyMkgzODIuOEwzNDUuNzIgMTA2LjZDMzQ0Ljc2IDEwOC42OCAzNDMuNDQgMTA5Ljk2IDM0MS43NiAxMTAuNDRDMzQwLjE2IDExMC44NCAzMzguNTIgMTExLjA0IDMzNi44NCAxMTEuMDRWMTA4LjY0WiIgZmlsbD0iIzM1NzI2QSIvPgo8cGF0aCBkPSJNMjczLjggMTAzLjcyQzI3NC40NCAxMDMuOCAyNzUuMDQgMTAzLjg0IDI3NS42IDEwMy44NEMyNzYuMjQgMTAzLjkyIDI3Ni44NCAxMDMuOTYgMjc3LjQgMTAzLjk2QzI3OC44NCAxMDMuOTYgMjc5Ljk2IDEwMy43NiAyODAuNzYgMTAzLjM2QzI4MS42NCAxMDIuOTYgMjgyLjQ4IDEwMi4wOCAyODMuMjggMTAwLjcyQzI4NC4wOCA5OS4zNiAyODQuOTYgOTcuNCAyODUuOTIgOTQuODRDMjg2Ljk2IDkyLjI4IDI4OC40IDg4Ljg0IDI5MC4yNCA4NC41MkwyNjMgMjJIMjcxLjRMMjk0LjU2IDc2Ljk2TDMxNi4wNCAyMkgzMjMuODRMMjkxLjQ0IDEwMi42NEMyOTAuNTYgMTA0Ljk2IDI4OS4wOCAxMDYuOTYgMjg3IDEwOC42NEMyODUgMTEwLjQgMjgyLjI0IDExMS4yOCAyNzguNzIgMTExLjI4QzI3Ny45MiAxMTEuMjggMjc3LjE2IDExMS4yNCAyNzYuNDQgMTExLjE2QzI3NS43MiAxMTEuMTYgMjc0Ljg0IDExMS4wOCAyNzMuOCAxMTAuOTJWMTAzLjcyWiIgZmlsbD0iIzM1NzI2QSIvPgo8cGF0aCBkPSJNMjAyLjEwNiA5MS4zNkMyMDUuNzg2IDkyLjcyIDIwOC45MDYgOTMuNCAyMTEuNDY2IDkzLjRDMjE2LjM0NiA5My40IDIxOS4wMjYgOTAuNiAyMTkuNTA2IDg1TDE5Ni41ODYgMjEuODhIMjE5Ljk4NkwyMzEuOTg2IDY1LjY4TDI0MS43MDYgMjEuODhIMjYyLjk0NkwyNDEuNTg2IDkyLjU2QzI0MC42MjYgOTUuNjggMjM5LjI2NiA5OC40OCAyMzcuNTA2IDEwMC45NkMyMzUuNzQ2IDEwMy41MiAyMzMuNjI2IDEwNS42OCAyMzEuMTQ2IDEwNy40NEMyMjguNzQ2IDEwOS4yOCAyMjYuMDY2IDExMC42OCAyMjMuMTA2IDExMS42NEMyMjAuMTQ2IDExMi42IDIxNy4wNjYgMTEzLjA4IDIxMy44NjYgMTEzLjA4QzIwOS43ODYgMTEzLjA4IDIwNS44NjYgMTEyLjMyIDIwMi4xMDYgMTEwLjhWOTEuMzZaIiBmaWxsPSIjMzU3MjZBIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTMwIDIxLjIyNzNWODQuNkgxNTIuOFY0OS4yQzE1My4zNiA0Ny44NCAxNTQuMDggNDYuNiAxNTQuOTYgNDUuNDhDMTU1Ljg0IDQ0LjM2IDE1Ni43NiA0My40Mzk5IDE1Ny43MiA0Mi43MkMxNTguNzYgNDEuOTIgMTU5Ljc2IDQxLjMxOTkgMTYwLjcyIDQwLjkyQzE2MS43NiA0MC40Mzk5IDE2Mi42NCA0MC4yIDE2My4zNiA0MC4yQzE2NS40NCA0MC4yIDE2Ny4xNiA0MC45MiAxNjguNTIgNDIuMzZDMTY5Ljk2IDQzLjcyIDE3MC42OCA0NS45NiAxNzAuNjggNDkuMDhWODQuNkgxOTMuNDhWNDMuMDhDMTkzLjQ4IDQwLjc2IDE5My4yOCAzOC4yOCAxOTIuODggMzUuNjRDMTkyLjQ4IDMzIDE5MS42IDMwLjU2MDEgMTkwLjI0IDI4LjMxOTlDMTg4Ljg4IDI2IDE4Ni44OCAyNC4wOCAxODQuMjQgMjIuNTYwMUMxODEuNiAyMS4wNCAxNzguMDggMjAuMjggMTczLjY4IDIwLjI4QzE2OS4yIDIwLjI4IDE2NS4xNiAyMS4yIDE2MS41NiAyMy4wNEMxNTcuOTYgMjQuOCAxNTUuMDQgMjcuNCAxNTIuOCAzMC44NFYwSDEzOC4zMTJMMTMwIDIxLjIyNzNaIiBmaWxsPSIjMzU3MjZBIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMzMuMzYwNCA4NS4yTDAgMEgyNS4zMjAzTDQzLjgwMDMgNTguNDM5OUw0OS42ODAyIDQwLjY4MDFMMzUuODgwNCAwSDU3LjM2MDRMNjQuODAwMyAyNi4yOEw3Mi4zNjA0IDBIOTMuODQwM0w3OS44MDAzIDQwLjY4MDFMODUuOTE5OSA1OC40Mzk5TDEwNC4yOCAwSDEyOS43Mkw5Ni4zNjA0IDg1LjJINzYuOTE5OUw2NC44MDAzIDU0LjcyTDUyLjgwMDMgODUuMkgzMy4zNjA0WiIgZmlsbD0iIzM1NzI2QSIvPgo8L3N2Zz4K",
+                    "id": "humio",
+                    "name": "Humio",
+                    "websiteURL": "https://humio.com/",
+                    "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAyNDYgNjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxLjQxNDIxOyI+PGc+PHBhdGggZD0iTTEzMy4wOTksMjIuMTQxbDAsMTQuNjk4YzAsNS41NTkgLTMuNTUzLDkuNjEgLTEwLjE2NSw5LjYxYy02LjYxMiwwIC0xMC4xNjUsLTQuMDUxIC0xMC4xNjUsLTkuNjFsMCwtMTQuNjk4bC00LjczNywwbDAsMTQuNjk4YzAsOC4yOTEgNi4wMiwxMy45NDQgMTQuOTAyLDEzLjk0NGM4Ljg4MiwwIDE0LjkwMiwtNS43NDcgMTQuOTAyLC0xMy45NDRsMCwtMTQuNjk4bC00LjczNywwWiIgc3R5bGU9ImZpbGw6I2ZmZjtmaWxsLXJ1bGU6bm9uemVybzsiLz48cGF0aCBkPSJNNzkuMjE1LDQwLjUxM2wwLC03LjYzMWwxOC43NTEsMGwwLDcuNjMxbDQuNzM3LDBsMCwtMjcuNTExbC00LjczNywwbDAsMTUuNDUybC0xOC43NTEsMGwwLC0xNS40NTJsLTQuODM2LDBsMCwyNy41MTFsNC44MzYsMFoiIHN0eWxlPSJmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87Ii8+PHBhdGggZD0iTTE0Ny42MDcsNDAuNTEzbDAsLTE1LjkyMmMwLC00LjM5NCAzLjc4NiwtOC4wMDkgOC4zODgsLTguMDA5YzQuNjAyLDAgOC4zODksMy42MTUgOC4zODksOC4wMDlsMCwxNS45MjJsNC43MzcsMGwwLC0xNS45MjJjMCwtNC4zOTQgMy43ODcsLTguMDA5IDguMzg4LC04LjAwOWM0LjYwMiwwIDguMzg5LDMuNjE1IDguMzg5LDguMDA5bDAsMTUuOTIybDQuNzM3LDBsMCwtMTUuOTIyYzAuMDcxLC02Ljc5MyAtNS43MTQsLTEyLjQ0NCAtMTIuODMsLTEyLjUzMWwtMC4yOTYsMGMtNC4zNzgsLTAuMDc4IC04LjQ4NCwyLjA3OSAtMTAuNzU3LDUuNjUzYy0yLjI1NSwtMy41OTEgLTYuMzcyLC01Ljc1NSAtMTAuNzU3LC01LjY1M2MtNy4xMTUsLTAuMDY4IC0xMy4wMzQsNS40NTUgLTEzLjEyNiwxMi4yNDhsMCwxNi4yMDVsNC43MzgsMFoiIHN0eWxlPSJmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87Ii8+PHBhdGggZD0iTTIyNi4wNjQsMTYuMjA1YzguNTU0LDAgMTUuNTkzLDYuNzIgMTUuNTkzLDE0Ljg4N2MwLDguMTY2IC03LjAzOSwxNC44ODYgLTE1LjU5MywxNC44ODZjLTguNTU0LDAgLTE1LjU5MiwtNi43MiAtMTUuNTkyLC0xNC44ODZjMC4wMTYsLTguMTYxIDcuMDQ1LC0xNC44NzEgMTUuNTkyLC0xNC44ODdtMCwtNC4xNDVjLTEwLjkzNiwwIC0xOS45MzUsOC41OTEgLTE5LjkzNSwxOS4wMzJjMCwxMC40NCA4Ljk5OSwxOS4wMzIgMTkuOTM1LDE5LjAzMmMxMC45MzcsMCAxOS45MzYsLTguNTkyIDE5LjkzNiwtMTkuMDMyYzAsLTAuMDM4IDAsLTAuMDc2IDAsLTAuMTE0YzAsLTEwLjM3OCAtOC45NDYsLTE4LjkxOSAtMTkuODE3LC0xOC45MTljLTAuMDM5LDAgLTAuMDc5LDAuMDAxIC0wLjExOSwwLjAwMVoiIHN0eWxlPSJmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87Ii8+PHJlY3QgeD0iMTk2LjM1OSIgeT0iMjIuMTQxIiB3aWR0aD0iNC43MzciIGhlaWdodD0iMTguMjc4IiBzdHlsZT0iZmlsbDojZmZmOyIvPjxwYXRoIGQ9Ik0zMiwwbDAuMDE5LDBjMTcuNTQ0LDAgMzEuOTgxLDE0LjQzNyAzMS45ODEsMzEuOTgxYzAsMC4wMDYgMCwwLjAxMyAwLDAuMDE5YzAsMTcuNTU1IC0xNC40NDUsMzIgLTMyLDMyYy0xNy41NTUsMCAtMzIsLTE0LjQ0NSAtMzIsLTMyYzAsLTE3LjU1NSAxNC40NDUsLTMyIDMyLC0zMlptMjAuMTA5LDI3LjU1M2MwLjIzLC0wLjg4NSAwLjM1OSwtMS43OTMgMC4zODYsLTIuNzA3Yy0wLjAzMywtMC45NDUgLTAuMTYzLC0xLjg4NSAtMC4zODYsLTIuODA0bDAsLTkuNjY3bC0xLjE2LDAuMTkzYy0zLjY3NCwwLjM4NyAtNy40NDQsMC42NzcgLTExLjExOCwwLjg3Yy01LjAwMiwtMi4xMjYgLTEwLjY2LC0yLjEyNiAtMTUuNjYyLDBjLTMuNzcsLTAuMTkzIC03LjQ0NCwtMC40ODMgLTExLjExOCwtMC44N2wtMS4xNiwtMC4wOTdsMCw5LjY2OGMtMC4yNzcsMC45MDggLTAuNDA3LDEuODU0IC0wLjM4NiwyLjgwNGMtMC4wMTUsMC45MTcgMC4xMTUsMS44MyAwLjM4NiwyLjcwN2MtMS43NCwwLjk2NiAtMy4wOTMsMy4wOTMgLTMuMDkzLDYuMDljLTAuMTk0LDYuNzY4IDQuNDQ3LDEzLjM0MiA0LjQ0NywxMy4zNDJjMC40OCwtMS40NDQgMS4xNjMsLTIuODExIDIuMDMsLTQuMDYxYzEuNjk3LDIuNjE3IDMuOTgxLDQuODAyIDYuNjcxLDYuMzgxYy0wLjM1NSwtMC4wMDIgLTAuNjg1LDAuMTgyIC0wLjg3LDAuNDgzYy0wLjE4NiwtMC4zMDEgLTAuNTE2LC0wLjQ4NSAtMC44NzEsLTAuNDgzbC0wLjI5LDBjLTAuNTgxLDAuMDA1IC0xLjA1OCwwLjQ4MiAtMS4wNjMsMS4wNjNsMCwzLjQ4MWMtMC4wMDEsMC4wMjIgLTAuMDAyLDAuMDQ1IC0wLjAwMiwwLjA2OGMwLDAuNTg5IDAuNDc2LDEuMDc3IDEuMDY1LDEuMDkybDAuMzg3LDBjMC4zNTQsMC4wMDIgMC42ODUsLTAuMTgyIDAuODcsLTAuNDg0YzAuMTg2LDAuMzAyIDAuNTE2LDAuNDg2IDAuODcsMC40ODRsMC4yOSwwYzAuMzU0LDAuMDAyIDAuNjg1LC0wLjE4MiAwLjg3LC0wLjQ4NGMwLjE4NiwwLjMwMiAwLjUxNiwwLjQ4NiAwLjg3MSwwLjQ4NGwwLjA5NiwwYzAuNTgyLC0wLjAwNSAxLjA1OCwtMC40ODIgMS4wNjQsLTEuMDY0bDAsLTMuMDkzYzQuMzQ1LDEuNTQ2IDkuMDkzLDEuNTQ2IDEzLjQzOCwwbDAsMi45OTdjLTAuMDAyLDAuNjAxIDAuNDY0LDEuMTEgMS4wNjMsMS4xNmwwLjI5LDBjMC4zNTQsMC4wMDIgMC42ODUsLTAuMTgyIDAuODcsLTAuNDg0YzAuMTg2LDAuMzAyIDAuNTE2LDAuNDg2IDAuODcsMC40ODRsMC4yOSwwYzAuMzU1LDAuMDAyIDAuNjg1LC0wLjE4MiAwLjg3LC0wLjQ4NGMwLjE4NiwwLjMwMiAwLjUxNiwwLjQ4NiAwLjg3MSwwLjQ4NGwwLjI5LDBjMC41ODksLTAuMDE1IDEuMDY1LC0wLjUwMyAxLjA2NSwtMS4wOTJjMCwtMC4wMjMgLTAuMDAxLC0wLjA0NiAtMC4wMDIsLTAuMDY4bDAsLTMuNTc3YzAuMDAyLC0wLjYwMiAtMC40NjQsLTEuMTEgLTEuMDYzLC0xLjE2MWwtMC4yOSwwYy0wLjM1NSwtMC4wMDEgLTAuNjg1LDAuMTgyIC0wLjg3MSwwLjQ4NGMtMC4xODUsLTAuMzAyIC0wLjUxNSwtMC40ODUgLTAuODcsLTAuNDg0YzIuNjksLTEuNTc4IDQuOTc0LC0zLjc2MyA2LjY3MSwtNi4zOGMwLjg2NywxLjI1IDEuNTUsMi42MTcgMi4wMyw0LjA2YzAuNDgsMS40NDMgNC42NDEsLTYuNTc0IDQuNDQ3LC0xMy4zNDFjMC4xMzgsLTIuNDA5IC0xLjA1LC00LjcxIC0zLjA5MywtNS45OTRabS0yMC4xMDksMTAuMzQ0bC0zLjk2NCwtMy45NjNjMS43MTEsLTEuMTI1IDMuMDgyLC0yLjY5NiAzLjk2NCwtNC41NDRjMC44NTUsMS44NjUgMi4yMzIsMy40NDMgMy45NjQsNC41NDRsLTMuOTY0LDMuOTYzWm0tOS43NjQsLTQuMjUzYy00Ljc3NCwwIC04LjcwMSwtMy45MjggLTguNzAxLC04LjcwMWMwLC00Ljc3NCAzLjkyNywtOC43MDEgOC43MDEsLTguNzAxYzQuNzczLDAgOC43MDEsMy45MjcgOC43MDEsOC43MDFjMCw0Ljc3MyAtMy45MjgsOC43IC04LjcwMSw4LjcwMVptMTkuNTI4LDBjLTQuNzczLDAgLTguNzAxLC0zLjkyOCAtOC43MDEsLTguNzAxYzAsLTQuNzc0IDMuOTI4LC04LjcwMSA4LjcwMSwtOC43MDFjNC43NzQsMCA4LjcwMSwzLjkyNyA4LjcwMSw4LjcwMWMwLDQuNzczIC0zLjkyNyw4LjcwMSAtOC43MDEsOC43MDFabTAsLTEyLjM3NWMyLjAyOCwwIDMuNjc0LDEuNjQ2IDMuNjc0LDMuNjc0YzAsMi4wMjcgLTEuNjQ2LDMuNjczIC0zLjY3NCwzLjY3M2MtMi4wMjcsMCAtMy42NzMsLTEuNjQ2IC0zLjY3MywtMy42NzNjMCwtMi4wMjggMS42NDYsLTMuNjc0IDMuNjczLC0zLjY3NFptLTE5LjUyOCwwYzIuMDI3LDAgMy42NzMsMS42NDYgMy42NzMsMy42NzRjMCwyLjAyNyAtMS42NDYsMy42NzMgLTMuNjczLDMuNjczYy0yLjAyOCwwIC0zLjY3NCwtMS42NDYgLTMuNjc0LC0zLjY3M2MwLC0yLjAyOCAxLjY0NiwtMy42NzQgMy42NzQsLTMuNjc0WiIgc3R5bGU9ImZpbGw6I2ZmZjsiLz48L2c+PC9zdmc+",
                     "countries": [
                       "denmark"
                     ]
@@ -4601,11 +4413,146 @@
               ]
             },
             {
-              "startTime": "19:00",
+              "startTime": "19:15",
               "endTime": "20:00",
-              "title": "Networking",
+              "title": "Community chats",
               "slides": "",
               "speakers": null
+            }
+          ]
+        },
+        {
+          "id": 246008132,
+          "name": "Lab session: How to Kubernetes?",
+          "date": "2018-01-23T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 58,
+          "address": "H.C. Andersen Blvd. 27",
+          "sponsors": {
+            "venue": {
+              "id": "falconio",
+              "name": "Falcon.io",
+              "websiteURL": "https://www.falcon.io/",
+              "logoURL": "data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTUiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAxNTUgMjAiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMDkwYTBmO308L3N0eWxlPjwvZGVmcz48dGl0bGU+RmFsY29uLUlPLUxvZ28tMjAxNjwvdGl0bGU+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjQ1LjI1IDkuNTYgNDAuMjUgOS41NiA0MC4yNSA2LjU2IDQ2LjI1IDYuNTYgNDYuMjUgMi41NiAzNi4yNSAyLjU2IDM2LjI1IDE5LjU2IDQwLjI1IDE5LjU2IDQwLjI1IDEyLjU2IDQ1LjI1IDEyLjU2IDQ1LjI1IDkuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik01MiwyLjU2bC02LjM1LDE3aDQuNTZsMS4xNC0zSDU3LjNsMS4wNywzSDYzbC02LjIyLTE3SDUyWm0wLjUzLDExLDEuNzctNmgwbDEuNzUsNkg1Mi41N1oiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iNjguMjUgMi41NiA2NC4yNSAyLjU2IDY0LjI1IDE5LjU2IDc0LjI1IDE5LjU2IDc0LjI1IDE1LjU2IDY4LjI1IDE1LjU2IDY4LjI1IDIuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik03Ny4xMyw1LjE3YTguNjQsOC42NCwwLDAsMC0yLjQzLDYsOC4wOCw4LjA4LDAsMCwwLDIuNjUsNi4yNCw5LjA4LDkuMDgsMCwwLDAsNi4xNSwyLjQzLDkuODcsOS44NywwLDAsMCwzLjc0LS43N1YxNGE1LDUsMCwwLDEtMy42NiwxLjc1LDQuMjcsNC4yNywwLDAsMS00LjQ1LTQuNDksNC4zMiw0LjMyLDAsMCwxLDQuMzctNC41OCw0Ljc3LDQuNzcsMCwwLDEsMy43MywxLjgyVjMuMzNBOC45LDguOSwwLDAsMCw3Ny4xMyw1LjE3WiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTk4LjI2LDIuMzljLTQuNzUsMC05LjEzLDMuNS05LjEzLDguNWE5LjEzLDkuMTMsMCwwLDAsMTguMjcsMEMxMDcuMzksNS44OSwxMDMsMi4zOSw5OC4yNiwyLjM5Wm0wLDEzLjQ1YTQuNzMsNC43MywwLDAsMS00LjY3LTQuOTMsNC42OCw0LjY4LDAsMCwxLDkuMzMsMEE0LjczLDQuNzMsMCwwLDEsOTguMjYsMTUuODRaIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjEyMS4yNSAxMi41NiAxMjEuNTEgMTIuNTYgMTEzLjY1IDIuNTYgMTA5LjI1IDIuNTYgMTA5LjI1IDE5LjU2IDExMy4yNSAxOS41NiAxMTMuMjUgOS41NiAxMTMuNjkgOS41NiAxMjEuNTUgMTkuNTYgMTI1LjI1IDE5LjU2IDEyNS4yNSAyLjU2IDEyMS4yNSAyLjU2IDEyMS4yNSAxMi41NiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEzNS4yNSwxOS41NmgtMXYtMTdoMXYxN1oiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNTUsMTEuMTVhOC41OSw4LjU5LDAsMCwxLTE3LjE3LDBBOC41OSw4LjU5LDAsMCwxLDE1NSwxMS4xNVptLTEuNDQsMGE3LjE1LDcuMTUsMCwxLDAtMTQuMywwQTcuMTUsNy4xNSwwLDEsMCwxNTMuNTYsMTEuMTVaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTMxLjExLDE4LjMzYTEuMTYsMS4xNiwwLDEsMS0yLjMyLDBBMS4xNiwxLjE2LDAsMCwxLDEzMS4xMSwxOC4zM1oiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0zMS40MSwxOS4zNWExNCwxNCwwLDAsMS04LTUuNWMtMC40Ni4yMi0yLjA3LDEuMi02LjY2LDAuOWExMi4yOSwxMi4yOSwwLDAsMS04LjQ3LTQuNjYsNjkuNzksNjkuNzksMCwwLDAsMTMuMzYsMCwxNS4xMSwxNS4xMSwwLDAsMS0uMzYtMS42M2MtMS43MSwwLTkuMjcuMS0xMy44MS0xLjE5QzIuMzgsNS44NiwwLDAsMCwwQTIyOS42OSwyMjkuNjksMCwwLDEsMjYuNDEsMy41OGExLjYsMS42LDAsMCwxLDEuMzMsMS41NGMwLDcsMi4xNywxMSw0LjIyLDEzLjUzQzMyLjI5LDE5LjA5LDMyLjE2LDE5LjU0LDMxLjQxLDE5LjM1WiIvPjwvc3ZnPg==",
+              "countries": [
+                "denmark"
+              ]
+            },
+            "other": null
+          },
+          "presentations": [
+            {
+              "startTime": "17:00",
+              "endTime": "17:30",
+              "title": "Doors open",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "17:30",
+              "endTime": "17:45",
+              "title": "Welcome",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "17:45",
+              "endTime": "18:30",
+              "title": "First session: foundations of Kubernetes and its primitives",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "laszlo",
+                  "name": "Laszlo Fogas",
+                  "email": "",
+                  "company": {
+                    "id": "laszlocloud",
+                    "name": "Laszlo Cloud",
+                    "websiteURL": "https://laszlo.cloud",
+                    "logoURL": "",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                },
+                {
+                  "id": "david",
+                  "name": "David Christensen",
+                  "email": "",
+                  "company": {
+                    "id": "praqma",
+                    "name": "Praqma",
+                    "websiteURL": "https://www.praqma.com/",
+                    "logoURL": "https://www.praqma.com/images/logo_eficode.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "startTime": "18:30",
+              "endTime": "19:00",
+              "title": "Food break and socializing",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "19:00",
+              "endTime": "20:00",
+              "title": "Second session: let's deploy",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "laszlo",
+                  "name": "Laszlo Fogas",
+                  "email": "",
+                  "company": {
+                    "id": "laszlocloud",
+                    "name": "Laszlo Cloud",
+                    "websiteURL": "https://laszlo.cloud",
+                    "logoURL": "",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                },
+                {
+                  "id": "david",
+                  "name": "David Christensen",
+                  "email": "",
+                  "company": {
+                    "id": "praqma",
+                    "name": "Praqma",
+                    "websiteURL": "https://www.praqma.com/",
+                    "logoURL": "https://www.praqma.com/images/logo_eficode.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
             },
             {
               "startTime": "20:00",
@@ -4617,76 +4564,129 @@
           ]
         },
         {
-          "id": 258900627,
-          "name": "Cloud Native Solutions and Intelligent Scaling in the Media Industry",
-          "date": "2019-03-13T17:00:00Z",
+          "id": 245248552,
+          "name": "Let's kick-off Cloud Native Copenhagen!",
+          "date": "2017-12-12T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 46,
-          "address": "Teglholmsgade 1",
+          "attendees": 27,
+          "address": "Sortedam Dossering 5D",
           "sponsors": {
-            "venue": null,
+            "venue": {
+              "id": "twentythree",
+              "name": "TwentyThreeTM",
+              "websiteURL": "https://www.twentythree.net/",
+              "logoURL": "https://www.twentythree.net/assets/images/logo.png",
+              "countries": [
+                "denmark"
+              ]
+            },
             "other": null
           },
-          "presentations": null
-        },
-        {
-          "id": 259113734,
-          "name": "Istio Service Mesh",
-          "date": "2019-03-19T12:30:00Z",
-          "duration": "6h0m0s",
-          "attendees": 1,
-          "address": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
-        },
-        {
-          "id": 258922126,
-          "name": "Next-gen CI night",
-          "date": "2019-04-09T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 68,
-          "address": "Fruebjergvej 3, Att.: Økonomi",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
-        },
-        {
-          "id": 259355667,
-          "name": "Cloud Native Architecture at scale and a Fairytale of Databases",
-          "date": "2019-04-25T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 50,
-          "address": "Landemærket 10",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
-        },
-        {
-          "id": 261858991,
-          "name": "Cloud Native Copenhagen Hack Nights: Kubernetes 101",
-          "date": "2019-06-11T13:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 40,
-          "address": "Vester Søgade 6",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
+          "presentations": [
+            {
+              "startTime": "17:00",
+              "endTime": "17:20",
+              "title": "Doors open",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "17:20",
+              "endTime": "17:30",
+              "title": "Welcome from Cloud Native Copenhagen",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "17:30",
+              "endTime": "17:40",
+              "title": "Welcome from TwentyThree",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "17:40",
+              "endTime": "18:10",
+              "title": "What is Cloud Native?",
+              "slides": "https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf",
+              "speakers": [
+                {
+                  "id": "laszlo",
+                  "name": "Laszlo Fogas",
+                  "email": "",
+                  "company": {
+                    "id": "laszlocloud",
+                    "name": "Laszlo Cloud",
+                    "websiteURL": "https://laszlo.cloud",
+                    "logoURL": "",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "startTime": "18:10",
+              "endTime": "18:40",
+              "title": "Food break - group discussions",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "18:40",
+              "endTime": "19:10",
+              "title": "Jenkins as Code",
+              "slides": "https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf",
+              "speakers": [
+                {
+                  "id": "ewelina",
+                  "name": "Ewelina Wilkosz",
+                  "email": "",
+                  "company": {
+                    "id": "praqma",
+                    "name": "Praqma",
+                    "websiteURL": "https://www.praqma.com/",
+                    "logoURL": "https://www.praqma.com/images/logo_eficode.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "startTime": "19:10",
+              "endTime": "20:00",
+              "title": "Group discussions - continued",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "20:00",
+              "endTime": "20:00",
+              "title": "Gates close",
+              "slides": "",
+              "speakers": null
+            }
+          ]
         }
       ]
     },
     {
       "meetupID": "Kubernetes-Finland",
       "name": "CNCF \u0026 Kubernetes Finland",
-      "members": 722,
+      "members": 723,
       "photo": "https://secure.meetupstatic.com/photos/event/3/b/6/c/highres_463215212.jpeg",
       "city": "Helsinki",
       "country": "finland",
@@ -4752,6 +4752,19 @@
         }
       ],
       "meetups": [
+        {
+          "id": 261376372,
+          "name": "Summer Meetup in Helsinki",
+          "date": "2019-06-11T18:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 75,
+          "address": "Antinkatu 1A, 4th floor",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
         {
           "id": 259072993,
           "name": "Kubernetes 101 Hands-On Workshop",
@@ -6029,19 +6042,6 @@
               "speakers": null
             }
           ]
-        },
-        {
-          "id": 261376372,
-          "name": "Summer Meetup in Helsinki",
-          "date": "2019-06-11T18:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 75,
-          "address": "Antinkatu 1A, 4th floor",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
         }
       ],
       "ignoreMeetupIDs": [
@@ -6148,6 +6148,83 @@
         }
       ],
       "meetups": [
+        {
+          "id": 260846917,
+          "name": "Stockholm K8S and CNCF May 2019",
+          "date": "2019-05-08T18:30:00Z",
+          "duration": "3h0m0s",
+          "attendees": 88,
+          "address": "Linnégatan 89C",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 254614677,
+          "name": "Stockholm Kubernetes and Cloud Native Meetup",
+          "date": "2018-09-25T17:45:00Z",
+          "duration": "2h45m0s",
+          "attendees": 148,
+          "address": "Regeringsgatan 13",
+          "sponsors": {
+            "venue": {
+              "id": "Spotify",
+              "name": "Spotify",
+              "websiteURL": "https://www.spotify.com/",
+              "logoURL": "https://www.scdn.co/i/_global/logos/spotify-logo-lockup-197@2x.png",
+              "countries": [
+                "sweden"
+              ]
+            },
+            "other": null
+          },
+          "presentations": [
+            {
+              "startTime": "17:45",
+              "endTime": "18:00",
+              "title": "Doors open",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "18:00",
+              "endTime": "18:10",
+              "title": "Dave Zolotusky - “Welcome and intro to CNCF”",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "18:35",
+              "endTime": "19:05",
+              "title": "Torkel Ödegaard - “What’s going on at Grafana?”",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "19:10",
+              "endTime": "19:40",
+              "title": "Mak Ahmad - “A good intro / deep dive into Istio”",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "19:45",
+              "endTime": "21:00",
+              "title": "Mingle",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "startTime": "21:00",
+              "endTime": "21:00",
+              "title": "Doors Close",
+              "slides": "",
+              "speakers": null
+            }
+          ]
+        },
         {
           "id": 245823087,
           "name": "Stockholm Kubernetes Meetup",
@@ -6274,83 +6351,6 @@
               "speakers": null
             }
           ]
-        },
-        {
-          "id": 254614677,
-          "name": "Stockholm Kubernetes and Cloud Native Meetup",
-          "date": "2018-09-25T17:45:00Z",
-          "duration": "2h45m0s",
-          "attendees": 148,
-          "address": "Regeringsgatan 13",
-          "sponsors": {
-            "venue": {
-              "id": "Spotify",
-              "name": "Spotify",
-              "websiteURL": "https://www.spotify.com/",
-              "logoURL": "https://www.scdn.co/i/_global/logos/spotify-logo-lockup-197@2x.png",
-              "countries": [
-                "sweden"
-              ]
-            },
-            "other": null
-          },
-          "presentations": [
-            {
-              "startTime": "17:45",
-              "endTime": "18:00",
-              "title": "Doors open",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "18:00",
-              "endTime": "18:10",
-              "title": "Dave Zolotusky - “Welcome and intro to CNCF”",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "18:35",
-              "endTime": "19:05",
-              "title": "Torkel Ödegaard - “What’s going on at Grafana?”",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "19:10",
-              "endTime": "19:40",
-              "title": "Mak Ahmad - “A good intro / deep dive into Istio”",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "19:45",
-              "endTime": "21:00",
-              "title": "Mingle",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "startTime": "21:00",
-              "endTime": "21:00",
-              "title": "Doors Close",
-              "slides": "",
-              "speakers": null
-            }
-          ]
-        },
-        {
-          "id": 260846917,
-          "name": "Stockholm K8S and CNCF May 2019",
-          "date": "2019-05-08T18:30:00Z",
-          "duration": "3h0m0s",
-          "attendees": 88,
-          "address": "Linnégatan 89C",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
         }
       ]
     },
@@ -6441,6 +6441,19 @@
         }
       ],
       "meetups": [
+        {
+          "id": 261344385,
+          "name": "Summer Kubernetes Tampere Meetup",
+          "date": "2019-06-13T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 50,
+          "address": "Kelloportinkatu 1 D",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
         {
           "id": 258970382,
           "name": "April Kubernetes Tampere Meetup",
@@ -6819,19 +6832,6 @@
               "speakers": null
             }
           ]
-        },
-        {
-          "id": 261344385,
-          "name": "Summer Kubernetes Tampere Meetup",
-          "date": "2019-06-13T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 50,
-          "address": "Kelloportinkatu 1 D",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
         }
       ]
     }

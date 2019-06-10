@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"sort"
 	"strings"
 	"text/template"
 
@@ -209,7 +210,14 @@ func update(cfg *Config) error {
 			}
 		}
 	}
-	return setMeetupData(cfg)
+	if err := setMeetupData(cfg); err != nil {
+		return err
+	}
+	for i := range cfg.MeetupGroups {
+		meetupGroup := &cfg.MeetupGroups[i]
+		sort.Sort(meetupGroup.Meetups)
+	}
+	return nil
 }
 
 func writeFile(path string, b []byte) error {

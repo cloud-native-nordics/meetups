@@ -6,6 +6,16 @@ ignoreMeetupIDs:
 - 261352635
 meetupID: Kubernetes-Finland
 meetups:
+- address: Antinkatu 1A, 4th floor
+  attendees: 75
+  date: "2019-06-11T18:00:00Z"
+  duration: 3h0m0s
+  id: 261376372
+  name: Summer Meetup in Helsinki
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Kaivokatu 6
   attendees: 3
   date: "2019-03-25T17:00:00Z"
@@ -398,17 +408,7 @@ meetups:
     - emblica
     - upcloud
     venue: upcloud
-- address: Antinkatu 1A, 4th floor
-  attendees: 75
-  date: "2019-06-11T18:00:00Z"
-  duration: 3h0m0s
-  id: 261376372
-  name: Summer Meetup in Helsinki
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-members: 722
+members: 723
 name: CNCF & Kubernetes Finland
 organizers:
 - luxas
