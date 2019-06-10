@@ -154,7 +154,7 @@
 
  - Date: 11 June, 2019 at 13:00 - 16:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/261858991
- - Attendees (according to meetup.com): 29
+ - Attendees (according to meetup.com): 40
 
 
 #### Agenda
