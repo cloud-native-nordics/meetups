@@ -165,6 +165,7 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	shouldMarshalCompanyID = false
 	companiesYAML, err := yaml.Marshal(CompaniesFile{
 		Sponsors: cfg.Sponsors,
+		Members:  cfg.Members,
 	})
 	if err != nil {
 		return nil, err

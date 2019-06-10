@@ -238,6 +238,15 @@
       ]
     },
     {
+      "id": "nordcloud",
+      "name": "NordCloud",
+      "websiteURL": "https://nordcloud.com/",
+      "logoURL": "https://nordcloud.com/wp-content/themes/nordcloud/images/logo.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
       "id": "praqma",
       "name": "Praqma",
       "websiteURL": "https://www.praqma.com",
@@ -526,7 +535,161 @@
       ]
     }
   ],
-  "members": null,
+  "members": [
+    {
+      "id": "google",
+      "name": "Google Cloud",
+      "websiteURL": "https://cloud.google.com",
+      "logoURL": "https://cloud.google.com/_static/e4e95039f4/images/cloud/cloud-logo.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "kyyti",
+      "name": "Kyyti Group",
+      "websiteURL": "https://www.kyyti.com",
+      "logoURL": "https://42wce24f6tlj3aekpv1r9ydp-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/kyyti_logo_2019_janne_WHITE_WEBSITE.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "hostingpalvelu",
+      "name": "Suomen Hostingpalvelu",
+      "websiteURL": "https://www.hostingpalvelu.fi",
+      "logoURL": "https://www.hostingpalvelu.fi/img/logo.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "speechgrinder",
+      "name": "Speechgrinder",
+      "websiteURL": "https://www.speechgrinder.com",
+      "logoURL": "https://www.speechgrinder.com/images/logo.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "suse",
+      "name": "SUSE",
+      "websiteURL": "https://www.suse.com",
+      "logoURL": "https://www.suse.com/assets/img/suse_logo.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "wartsila",
+      "name": "Wärtsilä",
+      "websiteURL": "https://www.wartsila.com",
+      "logoURL": "https://www.wartsila.com/Sitefinity/WebsiteTemplates/Wartsila/App_Themes/WartsilaRebrand/Images/logo@2.png?1479748350",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "websiteURL": "https://www.oracle.com",
+      "logoURL": "https://landscape.cncf.io/logos/oracle-cloud.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "ericsson",
+      "name": "Ericsson",
+      "websiteURL": "https://www.ericsson.com",
+      "logoURL": "https://landscape.cncf.io/logos/ericsson-cloud-container-distribution.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "polarsquad",
+      "name": "Polar Squad",
+      "websiteURL": "https://polarsquad.com",
+      "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "agileo",
+      "name": "Agileo",
+      "websiteURL": "https://www.agileo.fi",
+      "logoURL": "",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "pilvia",
+      "name": "Pilvia",
+      "websiteURL": "https://pilvia.com",
+      "logoURL": "https://pilvia.com/wp-content/uploads/2017/09/pilvia_logo_v9.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "pilvia",
+      "name": "Pilvia",
+      "websiteURL": "https://pilvia.com",
+      "logoURL": "https://pilvia.com/wp-content/uploads/2017/09/pilvia_logo_v9.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "verifa",
+      "name": "Verifa",
+      "websiteURL": "https://verifa.io",
+      "logoURL": "https://verifa.io/wp-content/uploads/2019/02/header_logo_2color-1.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "selko",
+      "name": "Selko",
+      "websiteURL": "https://selko.io",
+      "logoURL": "https://selko.io/wp-content/uploads/2018/09/cropped-selko-logo.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "medisapiens",
+      "name": "Medisapiens",
+      "websiteURL": "https://medisapiens.com",
+      "logoURL": "https://medisapiens.com/wp-content/themes/medisapiens/img/logo.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "intopalo",
+      "name": "Intopalo",
+      "websiteURL": "https://www.intopalo.com",
+      "logoURL": "https://www.intopalo.com/img/logo.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "wolt",
+      "name": "Wolt",
+      "websiteURL": "https://wolt.com",
+      "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSIzMCIgdmlld0JveD0iMCAwIDY0IDMwIiBhbHQ9IldvbHQiIGNsYXNzPSJXaGl0ZUhlYWRlcl9fbG9nb19fXzNuRFFQIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0wIDBoNjR2MzBIMHoiPjwvcGF0aD48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMi4zMzcgMjVjMS42NiAwIDMuNDAzLTMuNTEzIDMuNjY0LTguMjk4LTEuNTQ2LS4yNDgtMi44MzYtMS4wOTYtMy4zNTMtMi42MDQtLjg5MiAxLjY3Mi0xLjYwMyAzLjkxNS0xLjc0NSA2LjI0Ni0uMTg0IDMuMDkyLjE4NCA0LjY1NiAxLjQzNCA0LjY1NnptMjguNDE2LTExLjA5NWMtMS41MDUuMjg3LTMuNDIuNTY1LTUuNDI1Ljc3My0uNzQzIDIuNzUtMS40NSA2LjA4Ni0xLjQ1IDguODY3IDAgLjguMTEgMS42LjgxIDEuNiAxLjQ3IDAgNC4xMTYtMi4xNDYgNi42NTMtNS45MjkuMjk0LS40MzYuNTE0LS41NDYuNzM1LS40MzYuNTE1LjI1NC4xNDcgNC42NTYtMS43NjUgNi4wNzUtMi41IDEuODU1LTUuMDczIDIuMTEtNi4xNzUgMi4xMS0xLjkgMC00LjQxOC0xLjE1MS00LjIzLTMuOTg4LTEuNzQyIDIuMzUzLTQuMDY0IDMuOTg4LTUuNjIyIDMuOTg4LTEuMTQgMC0xLjk0OS0uNC0yLjU3NC0uODczLS42MjQtLjQ3My0uOTE5LTEuMDU1LS45MTktMi4yMiAwLTIuNDUyLjM2Mi01LjkyOC45LTkuNDIxYTEwLjMgMTAuMyAwIDAgMS0zLjY0NCAyLjAwNmMtLjA0NiAzLjY4OC0xLjI5MiA3LjM5NC0zLjEzNyA5LjM4LS45OTMgMS4wNTUtMS44MDEgMS4xMjgtMi42ODQgMS4xMjgtMS4yMTMgMC0yLjY0Ni0uNC0zLjU2Ni0uOTQ2LS44ODItLjUxLTEuNDMzLTEuMDkxLTEuNjU0LTIuNDc0LS40NzgtMi45NDYgMC03LjI3NiAxLjgzOC0xMC4zMzEuNjI1LTEuMDU1IDEuMjEzLTEuNDIgMi4zNTMtMS41NjUgMS4yMTMtLjE0NSAzLjM0NS4xODIgNC41OTUuNjE5IDEuMjUuNDM2IDEuODAxIDEuMTI4IDIuMjA2IDIuNDc0IDEuNjktLjY0IDIuOTQ0LTEuNjEgNC4xNDgtMy4wMTYuNTEzLTIuODQ4IDEuMTEzLTUuNTI3IDEuNjk3LTcuNDYyLjIyLS42OS40NzgtLjgzNiAxLjA2Ni0uODM2Ljc3MiAwIDEuOTg1LjIxOCAyLjc5NC42OTEuNTE0LjI5MS43MzUuNjU1LjUxNCAxLjU2NC0uNDc4IDIuMDM3LS45MTkgMy42MzgtMi4wNTggNi40MDMtLjgxIDMuOTI5LTEuNDM0IDkuMDk1LTEuNDM0IDExLjM1IDAgLjk4Mi4yMiAxLjI3My41NTEgMS4yNzMuODYzIDAgMi45NTQtMS45NTQgNS4wMjYtNS4yNDZhNjYuMDUgNjYuMDUgMCAwIDEgLjgxLTQuNDcyYy0uNjUzLjAyNy0xLjI5LjA0Mi0xLjkwMi4wNDItLjYyNSAwLS44MS0uMTgyLS44MS0uNjE5IDAtLjY5MS4xNDgtMS40MTkuNDA1LTEuOTI4LjIyLS40MzcuNTE1LS41MSAxLjE0LS41MS42NCAwIDEuMjc2LjAwNiAxLjkwOC4wMTcuMzYzLTEuMjk3Ljc3LTIuNTIgMS4yMTctMy41ODEuMjU3LS42MTkuNDc3LS43MjggMS4wNjYtLjcyOC40NCAwIDEuOC4yMTggMi41LjUxLjQ0LjE4MS41ODguNDcyLjM2NyAxLjEyNy0uMDg2LjI1Ni0uNDY2IDEuMzEtLjkzMiAyLjgwOCAyLjExMy4xIDQuMDgzLjI0MiA1Ljc4NC4zOTMuODQ2LjA3MyAxLjE0LjIxOSAxLjE0LjQ3MyAwIC4yNTUtLjQ3OC41ODItMi4yNDIuOTF6TTI2LjM4IDQuMDgzYy41ODguNCAxLjAzLjk0NSAxLjAzIDIuMDczIDAgNi44MDMtMy43NSAyMC44MDktOS43MDUgMjAuODA5LTMuMzA5IDAtNC44OS0yLjc2NS01LjIyLTcuNzQ5LS4xMy0xLjg2Ni0uMTk2LTMuNDkzLS4xNzYtNS4xNTQtMS43MjYgNC4zODMtNC4xMjEgOS4wNjUtNS40ODUgMTEuNTkzLS42MjUgMS4xNjQtMS4yNSAxLjMxLTEuOTg1IDEuMzEtLjY2MiAwLTEuNzI4LS4yOTEtMi4yMDYtLjU4MnMtLjc3Mi0uNTQ2LS45NTYtMS42MzdjLTEuMTAyLTYuNTEyLS42NjEtMTIuNTUtLjA3Mi0xNS44MjYuMTQ3LS44LjU1MS0xLjM0NiAxLjMyMy0xLjgxOS45MTktLjU0NiAxLjgzOC0uOTEgMi44My0xLjA1NS43NzMtLjExLjg0Ni4yNTUuNjk5Ljg3My0xLjA2MyA0LjQ5LTEuNjgyIDEwLjcwNi0xLjE2NSAxNy41MzhDOC4wOTggMTkuMTA4IDEwLjQ0IDEzLjYgMTEuODI0IDkuMjEyYy4yNTctLjguNTE1LTEuMDkxIDEuMTQtMS4zMS43NzItLjI1NCAxLjg3NC0uNDczIDIuNzU3LS40NzMuNTg4IDAgLjk5Mi4xODIuOTU2Ljk0Ni0uMTQ3IDMuMDU2LS4xODQgNy4wMjEuMDM2IDEwLjM2OC4yNTggMy42NzQuODQ2IDUuNTY2IDEuOTg1IDUuNTY2IDIuNzIgMCA0LjQ4NS0xMC45ODYgMy41NjYtMjAuMjYzLS4wNzMtLjcyNy4xODQtLjk0Ni42NjItLjk0Ni45NTYgMCAyLjY0Ny40MzcgMy40NTUuOTgzeiI+PC9wYXRoPjwvZz48L3N2Zz4K",
+      "countries": [
+        "finland"
+      ]
+    }
+  ],
   "speakers": [
     {
       "id": "luxas",
@@ -3962,7 +4125,7 @@
           "name": "Cloud Native Copenhagen Hack Nights: Kubernetes 101",
           "date": "2019-06-11T13:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 41,
+          "attendees": 42,
           "address": "Vester Søgade 6",
           "sponsors": {
             "venue": null,
