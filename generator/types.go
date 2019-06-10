@@ -18,12 +18,13 @@ type CompanyID string
 type SpeakerID string
 
 type CompaniesFile struct {
-	Companies []Company `json:"companies"`
+	Sponsors []Company `json:"sponsors"`
+	Members  []Company `json:"members"`
 }
 
 func (c *CompaniesFile) SetGlobalMap() {
-	for i, co := range c.Companies {
-		globalCompanyMap[co.ID] = &c.Companies[i]
+	for i, co := range c.Sponsors {
+		globalCompanyMap[co.ID] = &c.Sponsors[i]
 	}
 }
 
@@ -42,7 +43,8 @@ type MeetupGroupsFile struct {
 }
 
 type Config struct {
-	Companies    []Company     `json:"companies"`
+	Sponsors     []Company     `json:"sponsors"`
+	Members      []Company     `json:"members"`
 	Speakers     []Speaker     `json:"speakers"`
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
 }
@@ -73,19 +75,19 @@ func (cfg *Config) SetCompanyCountry(company *Company, country string) {
 	if company == nil || country == "" {
 		return
 	}
-	for i, c := range cfg.Companies {
+	for i, c := range cfg.Sponsors {
 		if c.ID != company.ID {
 			continue
 		}
 		found := false
-		for _, c := range cfg.Companies[i].Countries {
+		for _, c := range cfg.Sponsors[i].Countries {
 			if c == country {
 				found = true
 				break
 			}
 		}
 		if !found {
-			cfg.Companies[i].Countries = append(cfg.Companies[i].Countries, country)
+			cfg.Sponsors[i].Countries = append(cfg.Sponsors[i].Countries, country)
 		}
 	}
 }

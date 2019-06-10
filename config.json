@@ -1,5 +1,5 @@
 {
-  "companies": [
+  "sponsors": [
     {
       "id": "luxaslabs",
       "name": "luxas labs",
@@ -526,6 +526,7 @@
       ]
     }
   ],
+  "members": null,
   "speakers": [
     {
       "id": "luxas",

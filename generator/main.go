@@ -103,7 +103,8 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 
 	return &Config{
 		Speakers:     speakersObj.Speakers,
-		Companies:    companiesObj.Companies,
+		Sponsors:     companiesObj.Sponsors,
+		Members:      companiesObj.Members,
 		MeetupGroups: meetupGroups,
 	}, nil
 }
@@ -162,7 +163,9 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	}
 	shouldMarshalSpeakerID = false
 	shouldMarshalCompanyID = false
-	companiesYAML, err := yaml.Marshal(CompaniesFile{Companies: cfg.Companies})
+	companiesYAML, err := yaml.Marshal(CompaniesFile{
+		Sponsors: cfg.Sponsors,
+	})
 	if err != nil {
 		return nil, err
 	}

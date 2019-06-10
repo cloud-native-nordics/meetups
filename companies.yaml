@@ -1,4 +1,5 @@
-companies:
+members: null
+sponsors:
 - countries:
   - finland
   id: luxaslabs
