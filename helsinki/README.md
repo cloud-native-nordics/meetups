@@ -25,6 +25,7 @@
  - Meetup sponsors:
    - [luxas labs](https://luxaslabs.com)
    - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+   - [Weaveworks](https://www.weave.works)
 
 #### Agenda
 

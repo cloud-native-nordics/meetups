@@ -33,6 +33,7 @@ meetups:
     other:
     - luxaslabs
     - cncf
+    - weaveworks
     venue: unity
 - address: Aleksanterinkatu 46a
   attendees: 114
