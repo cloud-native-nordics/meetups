@@ -11,10 +11,30 @@
  - Date: 11 June, 2019 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/261376372
  - Attendees (according to meetup.com): 75
-
+ - Venue sponsor: [NordCloud](https://nordcloud.com/)
+ - Meetup sponsors:
+   - [luxas labs](https://luxaslabs.com)
+   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
+ - 18:00 - 18:10: Arrive to the venue, sit down, grab a pizza slice and network with others ;) 
+ - 18:15 - 18:20: Introductionary words from the venue sponsor for this time, NordCloud 
+ - 18:20 - 18:30: Welcome to our meetup 
+   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Annie Talvasto, Microsoft
+ - 18:30 - 18:40: How to become a (great) meetup speaker! 
+   - Annie Talvasto, Microsoft
+ - 18:40 - 19:00: Make your Kubernetes Cluster safe for DevOps 
+   - Jussi Nummelin, Kontena
+   - Slides: https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version
+ - 19:00 - 19:15: Networking, food, drinks 
+ - 19:15 - 19:45: Getting Developers to Adopt Your Service 
+   - Jessica Andersson, Meltwater
+   - Slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
+ - 19:50 - 20:20: An introduction to Istio 
+   - Piotr Kieszczyński, NordCloud
+ - 20:35 - 21:00: Networking time 
 
 ### Kubernetes 101 Hands-On Workshop
 
