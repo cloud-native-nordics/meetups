@@ -3,7 +3,7 @@ country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
 - address: Vester Søgade 6
-  attendees: 42
+  attendees: 35
   date: "2019-06-11T13:00:00Z"
   duration: 3h0m0s
   id: 261858991
@@ -297,7 +297,7 @@ meetups:
   sponsors:
     other: null
     venue: twentythree
-members: 646
+members: 650
 name: Cloud Native Copenhagen
 organizers:
 - laszlo

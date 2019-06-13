@@ -12,10 +12,64 @@ meetups:
   duration: 3h0m0s
   id: 261376372
   name: Summer Meetup in Helsinki
-  presentations: null
+  presentations:
+  - endTime: "18:10"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Arrive to the venue, sit down, grab a pizza slice and network with others
+      ;)
+  - endTime: "18:20"
+    slides: ""
+    speakers: null
+    startTime: "18:15"
+    title: Introductionary words from the venue sponsor for this time, NordCloud
+  - endTime: "18:30"
+    slides: ""
+    speakers:
+    - luxas
+    - annie
+    startTime: "18:20"
+    title: Welcome to our meetup
+  - endTime: "18:40"
+    slides: ""
+    speakers:
+    - annie
+    startTime: "18:30"
+    title: How to become a (great) meetup speaker!
+  - endTime: "19:00"
+    slides: https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version
+    speakers:
+    - jnummelin
+    startTime: "18:40"
+    title: Make your Kubernetes Cluster safe for DevOps
+  - endTime: "19:15"
+    slides: ""
+    speakers: null
+    startTime: "19:00"
+    title: Networking, food, drinks
+  - endTime: "19:45"
+    slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
+    speakers:
+    - jessicaandersson
+    startTime: "19:15"
+    title: Getting Developers to Adopt Your Service
+  - endTime: "20:20"
+    slides: ""
+    speakers:
+    - piotr
+    startTime: "19:50"
+    title: An introduction to Istio
+  - endTime: "21:00"
+    slides: ""
+    speakers: null
+    startTime: "20:35"
+    title: Networking time
   sponsors:
-    other: null
-    venue: null
+    other:
+    - luxaslabs
+    - cncf
+    venue: nordcloud
 - address: Kaivokatu 6
   attendees: 3
   date: "2019-03-25T17:00:00Z"
@@ -409,7 +463,7 @@ meetups:
     - emblica
     - upcloud
     venue: upcloud
-members: 723
+members: 734
 name: CNCF & Kubernetes Finland
 organizers:
 - luxas

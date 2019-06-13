@@ -201,6 +201,22 @@ speakers:
   id: mpmattila
   name: Mika Mattila
   speakersBureau: ""
+- company: meltwater
+  countries:
+  - finland
+  email: ""
+  github: ""
+  id: jessicaandersson
+  name: Jessica Andersson
+  speakersBureau: ""
+- company: nordcloud
+  countries:
+  - finland
+  email: ""
+  github: ""
+  id: piotr
+  name: Piotr Kieszczyński
+  speakersBureau: ""
 - company: praqma
   countries:
   - denmark
