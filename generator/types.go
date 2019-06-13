@@ -105,6 +105,7 @@ type companyInternal struct {
 	Name       string    `json:"name"`
 	WebsiteURL string    `json:"websiteURL"`
 	LogoURL    string    `json:"logoURL"`
+	WhiteLogo  bool      `json:"whiteLogo,omitempty"`
 	Countries  []string  `json:"countries"`
 }
 
