@@ -3,7 +3,7 @@ country: denmark
 meetupID: Cloud-Native-Aarhus
 meetups:
 - address: Sødalsparken 18
-  attendees: 40
+  attendees: 47
   date: "2019-06-25T17:00:00Z"
   duration: 4h0m0s
   id: 261346897
@@ -696,7 +696,7 @@ meetups:
   sponsors:
     other: null
     venue: null
-members: 767
+members: 773
 name: Cloud Native Aarhus
 organizers:
 - kaspernissen
