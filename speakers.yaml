@@ -257,6 +257,14 @@ speakers:
   id: mikerostermund
   name: Mike Rostermund
   speakersBureau: ""
+- company: schneiderelectric
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: steffanlund
+  name: Steffan Lund
+  speakersBureau: ""
 - company: lix
   countries:
   - denmark
@@ -384,6 +392,14 @@ speakers:
   github: ""
   id: peterbroendum
   name: Peter Brøndum
+  speakersBureau: ""
+- company: bestseller
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: andreipredoiu
+  name: Andrei Predoiu
   speakersBureau: ""
 - company: lunarway
   countries:
@@ -570,3 +586,52 @@ speakers:
   id: iljoo
   name: Ilia Mikhailov
   speakersBureau: ""
+- company: tradeshift
+  countries:
+  - denmark
+  email: ""
+  github:
+  id: sorenmathiasen
+  name: Søren Mathiasen
+  speakersBureau: ""
+- company: trackunit
+  countries:
+  - denmark
+  email: ""
+  github:
+  id: lassenedergaard
+  name: Lasse Nedergaard
+  speakersBureau: ""
+- company: zalando
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: henningjacobs
+  name: Henning Jacobs
+  speakersBureau: ""
+- company: mobilepay
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: martinankerhave
+  name: Martin Anker Have
+  speakersBureau: ""
+- company: mobilepay
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: mathiashermann
+  name: Mathias Hermann
+  speakersBureau: ""
+- company: mobilepay
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: renerotvigjensen
+  name: René Rotvig Jensen
+  speakersBureau: ""
+
