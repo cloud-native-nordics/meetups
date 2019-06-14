@@ -3,7 +3,7 @@ country: denmark
 meetupID: Cloud-Native-Aarhus
 meetups:
 - address: Sødalsparken 18
-  attendees: 47
+  attendees: 48
   date: "2019-06-25T17:00:00Z"
   duration: 4h0m0s
   id: 261346897
@@ -81,7 +81,8 @@ meetups:
     startTime: "19:15"
     title: Discussions and networking
   sponsors:
-    other: tradeshift
+    other:
+    - tradeshift
     venue: orbitlab
 - address: Åbogade 15
   attendees: 36
@@ -158,6 +159,7 @@ meetups:
     title: Welcome to Cloud Native Aarhus
   - endTime: "17:15"
     slides: ""
+    speakers: null
     startTime: "17:04"
     title: Welcome to MobilePay by Rune Birkemose Jakobsen
   - endTime: "18:00"
@@ -217,6 +219,7 @@ meetups:
     title: Introduction to Kubernetes and workshops
   - endTime: "18:00"
     slides: ""
+    speakers: null
     startTime: "17:15"
     title: Workshop
   - endTime: "18:30"
@@ -226,14 +229,17 @@ meetups:
     title: Food and break
   - endTime: "19:00"
     slides: ""
+    speakers: null
     startTime: "18:30"
     title: Workshop
   - endTime: "20:00"
     slides: ""
+    speakers: null
     startTime: "19:00"
     title: Raffle and networking
   sponsors:
-    other: lunarway
+    other:
+    - lunarway
     venue: orbitlab
 - address: Ceresbyen 75
   attendees: 64

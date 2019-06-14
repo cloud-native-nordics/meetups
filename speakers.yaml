@@ -590,7 +590,7 @@ speakers:
   countries:
   - denmark
   email: ""
-  github:
+  github: ""
   id: sorenmathiasen
   name: Søren Mathiasen
   speakersBureau: ""
@@ -598,7 +598,7 @@ speakers:
   countries:
   - denmark
   email: ""
-  github:
+  github: ""
   id: lassenedergaard
   name: Lasse Nedergaard
   speakersBureau: ""
@@ -634,4 +634,3 @@ speakers:
   id: renerotvigjensen
   name: René Rotvig Jensen
   speakersBureau: ""
-

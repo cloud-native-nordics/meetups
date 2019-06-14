@@ -11,51 +11,114 @@
 
  - Date: 25 June, 2019 at 17:00 - 21:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261346897
- - Attendees (according to meetup.com): 47
-
+ - Attendees (according to meetup.com): 48
+ - Venue sponsor: [JYSK](https://jysk.com)
 
 #### Agenda
 
+ - 17:00 - 17:05: Welcome to Cloud Native Aarhus 
+   - Rasmus Steiniche, Software Architect, DevOps and Cloud Native, BESTSELLER
+ - 17:05 - 17:15: Welcome to JYSK 
+ - 17:15 - 18:00: Cloud Native Streaming with Apache Flink 
+   - Lasse Nedergaard, Trackunit
+ - 18:00 - 18:30: Food and break 
+ - 18:30 - 19:15: A Fairytale of Databases 
+   - Søren Mathiasen, Tradeshift
+ - 19:15 - 20:00: Discussions and networking 
 
 ### Kubernetes Failure Stories & How to manage Cloud Native secrets with Vault
 
  - Date: 3 June, 2019 at 16:30 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261537949
  - Attendees (according to meetup.com): 76
-
+ - Venue sponsor: [Orbit Lab](https://orbitlab.au.dk)
+ - Meetup sponsors:
+   - [Tradeshift](https://tradeshift.com)
 
 #### Agenda
 
+ - 17:00 - 17:15: Welcome to Cloud Native Aarhus, OrbitLab, and Tradeshift 
+   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
+ - 17:15 - 18:00: Manage your Cloud Native secrets with Vault 
+   - Henrik Høegh, Praqma
+ - 18:00 - 18:30: Food and break 
+ - 18:30 - 19:15: Kubernetes Failure Stories and How to Crash Your Clusters 
+   - Henning Jacobs, Zalando
+ - 19:15 - 20:00: Discussions and networking 
 
 ### Cloud Native Hack Nights #2: Prometheus
 
  - Date: 28 May, 2019 at 16:30 - 21:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261130244
  - Attendees (according to meetup.com): 36
-
+ - Venue sponsor: [Praqma](https://www.praqma.com/)
 
 #### Agenda
 
+ - 16:45 - 16:50: Welcome to Cloud Native Aarhus 
+   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
+ - 16:50 - 17:00: Prometheus experience report from Schneider Electric 
+   - Mike Rostermund, Schneider Electric
+   - Steffan Lund, Schneider Electric
+ - 17:00 - 17:30: Introduction to Prometheus 
+   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
+ - 17:30 - 18:00: Workshop 
+ - 18:00 - 18:30: Break and food 
+ - 18:30 - 19:00: Workshop 
+ - 19:00 - 19:30: Panel and Open Space Discussion about Monitoring 
+   - Emil Ingerslev, Cloud Architect/SRE, Lunar Way A/S
+   - Rasmus Steiniche, Software Architect, DevOps and Cloud Native, BESTSELLER
+   - Mike Rostermund, Schneider Electric
+   - Steffan Lund, Schneider Electric
+   - Andrei Predoiu, BESTSELLER
+   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
+ - 20:00 - 19:30: 2 years of Cloud Native Aarhus celebration with cake 
 
 ### From Mainframe to Cloud Native and State of Windows Containers and Kubernetes
 
  - Date: 25 April, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259651
  - Attendees (according to meetup.com): 76
-
+ - Venue sponsor: [MobilePay](https://mobilpay.dk)
 
 #### Agenda
 
+ - 17:00 - 17:05: Welcome to Cloud Native Aarhus 
+   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
+ - 17:04 - 17:15: Welcome to MobilePay by Rune Birkemose Jakobsen 
+ - 17:15 - 18:00: MobilePay from mainframe to Cloud Native and everything in between 
+   - Martin Anker Have, MobilePay
+   - Mathias Hermann, MobilePay
+   - René Rotvig Jensen, MobilePay
+ - 18:00 - 18:30: Food and break 
+ - 18:30 - 19:15: The state of Windows & Kubernetes, with an Azure flavor 
+   - Hans Duedal, E-conomic
+ - 19:15 - 20:00: Discussions and networking 
 
 ### Cloud Native Aarhus Hack Nights: Kubernetes 101
 
  - Date: 28 March, 2019 at 16:30 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259564
  - Attendees (according to meetup.com): 69
-
+ - Venue sponsor: [Orbit Lab](https://orbitlab.au.dk)
+ - Meetup sponsors:
+   - [Lunar Way A/S](https://www.lunarway.com)
 
 #### Agenda
 
+ - 16:30 - 16:35: Welcome to Cloud Native Aarhus 
+   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
+ - 16:35 - 16:45: Mr. Panda's Motivational Magic Show 
+   - Henrik Høegh, Praqma
+ - 16:45 - 17:15: Introduction to Kubernetes and workshops 
+   - Henrik Høegh, Praqma
+   - Kasper Nissen, Cloud Architect/SRE, CNCF Ambassador, Lunar Way A/S
+   - Daniel Fly, Zitcom
+   - Rasmus Steiniche, Software Architect, DevOps and Cloud Native, BESTSELLER
+ - 17:15 - 18:00: Workshop 
+ - 18:00 - 18:30: Food and break 
+ - 18:30 - 19:00: Workshop 
+ - 19:00 - 20:00: Raffle and networking 
 
 ### Cloud Native Stories: TV 2 Play & Spar Nord Bank
 
@@ -131,7 +194,7 @@
  - Date: 11 December, 2018 at 16:30 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/256345753
  - Attendees (according to meetup.com): 49
- - Venue sponsor: [Trifork](https://trifork.com/)
+ - Venue sponsor: [Trifork A/S](https://trifork.com/)
 
 #### Agenda
 
