@@ -3,55 +3,244 @@ country: denmark
 meetupID: Cloud-Native-Aarhus
 meetups:
 - address: Sødalsparken 18
-  attendees: 47
+  attendees: 48
   date: "2019-06-25T17:00:00Z"
   duration: 4h0m0s
   id: 261346897
   name: Cloud Native Streaming with Apache Flink and a Fairytale of Databases
-  presentations: null
+  presentations:
+  - endTime: "17:05"
+    slides: ""
+    speakers:
+    - rasmussteiniche
+    startTime: "17:00"
+    title: Welcome to Cloud Native Aarhus
+  - endTime: "17:15"
+    slides: ""
+    speakers: null
+    startTime: "17:05"
+    title: Welcome to JYSK
+  - endTime: "18:00"
+    slides: ""
+    speakers:
+    - lassenedergaard
+    startTime: "17:15"
+    title: Cloud Native Streaming with Apache Flink
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Food and break
+  - endTime: "19:15"
+    slides: ""
+    speakers:
+    - sorenmathiasen
+    startTime: "18:30"
+    title: A Fairytale of Databases
+  - endTime: "20:00"
+    slides: ""
+    speakers: null
+    startTime: "19:15"
+    title: Discussions and networking
   sponsors:
     other: null
-    venue: null
+    venue: jysk
 - address: Finlandsgade 21
   attendees: 76
   date: "2019-06-03T16:30:00Z"
   duration: 3h30m0s
   id: 261537949
   name: Kubernetes Failure Stories & How to manage Cloud Native secrets with Vault
-  presentations: null
+  presentations:
+  - endTime: "17:15"
+    slides: ""
+    speakers:
+    - kaspernissen
+    startTime: "17:00"
+    title: Welcome to Cloud Native Aarhus, OrbitLab, and Tradeshift
+  - endTime: "18:00"
+    slides: ""
+    speakers:
+    - henrikhoegh
+    startTime: "17:15"
+    title: Manage your Cloud Native secrets with Vault
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Food and break
+  - endTime: "19:15"
+    slides: ""
+    speakers:
+    - henningjacobs
+    startTime: "18:30"
+    title: Kubernetes Failure Stories and How to Crash Your Clusters
+  - endTime: "20:00"
+    slides: ""
+    speakers: null
+    startTime: "19:15"
+    title: Discussions and networking
   sponsors:
-    other: null
-    venue: null
+    other:
+    - tradeshift
+    venue: orbitlab
 - address: Åbogade 15
   attendees: 36
   date: "2019-05-28T16:30:00Z"
   duration: 4h30m0s
   id: 261130244
   name: 'Cloud Native Hack Nights #2: Prometheus'
-  presentations: null
+  presentations:
+  - endTime: "16:50"
+    slides: ""
+    speakers:
+    - kaspernissen
+    startTime: "16:45"
+    title: Welcome to Cloud Native Aarhus
+  - endTime: "17:00"
+    slides: ""
+    speakers:
+    - mikerostermund
+    - steffanlund
+    startTime: "16:50"
+    title: Prometheus experience report from Schneider Electric
+  - endTime: "17:30"
+    slides: ""
+    speakers:
+    - kaspernissen
+    startTime: "17:00"
+    title: Introduction to Prometheus
+  - endTime: "18:00"
+    slides: ""
+    speakers: null
+    startTime: "17:30"
+    title: Workshop
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Break and food
+  - endTime: "19:00"
+    slides: ""
+    speakers: null
+    startTime: "18:30"
+    title: Workshop
+  - endTime: "19:30"
+    slides: ""
+    speakers:
+    - emilingerslev
+    - rasmussteiniche
+    - mikerostermund
+    - steffanlund
+    - andreipredoiu
+    - kaspernissen
+    startTime: "19:00"
+    title: Panel and Open Space Discussion about Monitoring
+  - endTime: "19:30"
+    slides: ""
+    speakers: null
+    startTime: "20:00"
+    title: 2 years of Cloud Native Aarhus celebration with cake
   sponsors:
     other: null
-    venue: null
+    venue: praqma
 - address: Edwin Rahrs Vej 40
   attendees: 76
   date: "2019-04-25T17:00:00Z"
   duration: 3h0m0s
   id: 259259651
   name: From Mainframe to Cloud Native and State of Windows Containers and Kubernetes
-  presentations: null
+  presentations:
+  - endTime: "17:05"
+    slides: ""
+    speakers:
+    - kaspernissen
+    startTime: "17:00"
+    title: Welcome to Cloud Native Aarhus
+  - endTime: "17:15"
+    slides: ""
+    speakers: null
+    startTime: "17:04"
+    title: Welcome to MobilePay by Rune Birkemose Jakobsen
+  - endTime: "18:00"
+    slides: ""
+    speakers:
+    - martinankerhave
+    - mathiashermann
+    - renerotvigjensen
+    startTime: "17:15"
+    title: MobilePay from mainframe to Cloud Native and everything in between
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Food and break
+  - endTime: "19:15"
+    slides: ""
+    speakers:
+    - hans
+    startTime: "18:30"
+    title: The state of Windows & Kubernetes, with an Azure flavor
+  - endTime: "20:00"
+    slides: ""
+    speakers: null
+    startTime: "19:15"
+    title: Discussions and networking
   sponsors:
     other: null
-    venue: null
+    venue: mobilepay
 - address: Finlandsgade 24A
   attendees: 69
   date: "2019-03-28T16:30:00Z"
   duration: 3h30m0s
   id: 259259564
   name: 'Cloud Native Aarhus Hack Nights: Kubernetes 101'
-  presentations: null
+  presentations:
+  - endTime: "16:35"
+    slides: ""
+    speakers:
+    - kaspernissen
+    startTime: "16:30"
+    title: Welcome to Cloud Native Aarhus
+  - endTime: "16:45"
+    slides: ""
+    speakers:
+    - henrikhoegh
+    startTime: "16:35"
+    title: Mr. Panda's Motivational Magic Show
+  - endTime: "17:15"
+    slides: ""
+    speakers:
+    - henrikhoegh
+    - kaspernissen
+    - danielfly
+    - rasmussteiniche
+    startTime: "16:45"
+    title: Introduction to Kubernetes and workshops
+  - endTime: "18:00"
+    slides: ""
+    speakers: null
+    startTime: "17:15"
+    title: Workshop
+  - endTime: "18:30"
+    slides: ""
+    speakers: null
+    startTime: "18:00"
+    title: Food and break
+  - endTime: "19:00"
+    slides: ""
+    speakers: null
+    startTime: "18:30"
+    title: Workshop
+  - endTime: "20:00"
+    slides: ""
+    speakers: null
+    startTime: "19:00"
+    title: Raffle and networking
   sponsors:
-    other: null
-    venue: null
+    other:
+    - lunarway
+    venue: orbitlab
 - address: Ceresbyen 75
   attendees: 64
   date: "2019-03-05T17:00:00Z"

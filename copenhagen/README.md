@@ -104,7 +104,7 @@
  - Date: 8 March, 2018 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/247310136
  - Attendees (according to meetup.com): 29
- - Venue sponsor: [Trifork](https://trifork.com/)
+ - Venue sponsor: [Trifork A/S](https://trifork.com/)
 
 #### Agenda
 
