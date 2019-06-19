@@ -2219,7 +2219,7 @@
     {
       "meetupID": "Cloud-Native-Aarhus",
       "name": "Cloud Native Aarhus",
-      "members": 773,
+      "members": 776,
       "city": "Aarhus",
       "country": "denmark",
       "organizers": [
@@ -2309,7 +2309,7 @@
           "name": "Cloud Native Streaming with Apache Flink and a Fairytale of Databases",
           "date": "2019-06-25T17:00:00Z",
           "duration": "4h0m0s",
-          "attendees": 48,
+          "attendees": 53,
           "address": "Sødalsparken 18",
           "sponsors": {
             "venue": {
@@ -5131,7 +5131,7 @@
     {
       "meetupID": "Cloud-Native-Copenhagen",
       "name": "Cloud Native Copenhagen",
-      "members": 651,
+      "members": 652,
       "city": "Copenhagen",
       "country": "denmark",
       "organizers": [
@@ -5926,7 +5926,7 @@
     {
       "meetupID": "Kubernetes-Finland",
       "name": "CNCF \u0026 Kubernetes Finland",
-      "members": 737,
+      "members": 739,
       "photo": "https://secure.meetupstatic.com/photos/event/3/b/6/c/highres_463215212.jpeg",
       "city": "Helsinki",
       "country": "finland",
@@ -7836,7 +7836,7 @@
     {
       "meetupID": "Kubernetes-Tampere",
       "name": "CNCF \u0026 Kubernetes Tampere",
-      "members": 151,
+      "members": 152,
       "photo": "https://secure.meetupstatic.com/photos/event/2/0/4/f/highres_477548271.jpeg",
       "city": "Tampere",
       "country": "finland",
@@ -8318,5 +8318,6 @@
         }
       ]
     }
-  ]
+  ],
+  "allMembers": 2953
 }
