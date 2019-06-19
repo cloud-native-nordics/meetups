@@ -13,6 +13,10 @@ const (
 #### Organizers
 
 {{ range .Organizers }} - {{ .Name }}{{if .Github }} ([@{{ .Github }}](https://github.com/{{ .Github }})){{end}}{{if .Title }}, {{ .Title }}{{end}}{{if .Company }}, [{{ .Company.Name }}]({{ .Company.WebsiteURL }}){{end}}{{if .Email }}, {{ .Email }}{{end}}
+{{end}}{{if .CFP}}
+#### Submit a talk
+
+if you're interested in speaking in this meetup, fill out this form: {{.CFP}}
 {{end}}{{ range .Meetups }}
 ### {{ .Name }}
 
