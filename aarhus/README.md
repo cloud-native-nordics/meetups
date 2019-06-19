@@ -11,7 +11,7 @@
 
  - Date: 25 June, 2019 at 17:00 - 21:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261346897
- - Attendees (according to meetup.com): 48
+ - Attendees (according to meetup.com): 52
  - Venue sponsor: [JYSK](https://jysk.com)
 
 #### Agenda
