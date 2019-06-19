@@ -47,6 +47,7 @@ type Config struct {
 	Members      []Company     `json:"members"`
 	Speakers     []Speaker     `json:"speakers"`
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
+	AllMembers      uint64     `json:"allMembers"`
 }
 
 func (cfg *Config) SetSpeakerCountry(speaker *Speaker, country string) {

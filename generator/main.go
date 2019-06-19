@@ -221,6 +221,11 @@ func update(cfg *Config) error {
 		meetupGroup := &cfg.MeetupGroups[i]
 		sort.Sort(meetupGroup.Meetups)
 	}
+	cfg.AllMembers = 0
+	for _, mg := range cfg.MeetupGroups {
+		cfg.AllMembers += mg.Members
+	}
+
 	return nil
 }
 
