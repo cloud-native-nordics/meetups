@@ -7527,7 +7527,8 @@
         257897399,
         259129795,
         261352635
-      ]
+      ],
+      "cfp": "https://bit.ly/k8sfin-cfp"
     },
     {
       "meetupID": "sthlm-k8s",
@@ -8316,8 +8317,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cfp": "https://bit.ly/k8sfin-cfp"
     }
-  ],
-  "allMembers": 2953
+  ]
 }
