@@ -1,3 +1,4 @@
+cfp: https://bit.ly/k8sfin-cfp
 city: Tampere
 country: finland
 meetupID: Kubernetes-Tampere
@@ -129,7 +130,7 @@ meetups:
     - luxaslabs
     - cncf
     venue: cybercom
-members: 151
+members: 152
 name: CNCF & Kubernetes Tampere
 organizers:
 - luxas

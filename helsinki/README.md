@@ -6,6 +6,10 @@
  - Annie Talvasto, [Microsoft](https://www.microsoft.com)
  - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 
+#### Submit a talk
+
+if you're interested in speaking in this meetup, fill out this form: https://bit.ly/k8sfin-cfp
+
 ### Summer Meetup in Helsinki
 
  - Date: 11 June, 2019 at 18:00 - 21:00

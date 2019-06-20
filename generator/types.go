@@ -181,6 +181,7 @@ type MeetupGroup struct {
 	Organizers      []*Speaker `json:"organizers"`
 	Meetups         MeetupList `json:"meetups"`
 	IgnoreMeetupIDs []uint64   `json:"ignoreMeetupIDs,omitempty"`
+	CFP             string     `json:"cfp,omitempty"`
 }
 
 // CityLowercase gets the lowercase variant of the city
