@@ -3,9 +3,9 @@
 #### Organizers
 
  - Kasper Nissen ([@kaspernissen](https://github.com/kaspernissen)), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way A/S](https://www.lunarway.com), kaspernissen@gmail.com
- - Rasmus Steiniche, Software Architect, DevOps and Cloud Native, [BESTSELLER](https://bestseller.com/)
- - Henrik Høegh, [Praqma](https://www.praqma.com/)
- - Daniel Fly, [Zitcom](https://www.zitcom.dk/)
+ - Rasmus Steiniche, CEO, [neurospace](https://neurospace.io)
+ - Henrik Høegh, [Praqma](https://www.praqma.com)
+ - Daniel Fly, [Zitcom](https://www.zitcom.dk)
 
 ### Cloud Native Streaming with Apache Flink and a Fairytale of Databases
 
