@@ -7,12 +7,20 @@
  - Henrik Høegh, [Praqma](https://www.praqma.com)
  - Daniel Fly, [Zitcom](https://www.zitcom.dk)
 
-###Cloud Native Aarhus Field Trip: LEGO House
+### Cloud Native Aarhus Field Trip: LEGO House
 
  - Date: 3 September, 2019 at 16:00 - 21:45
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262602452
  - Attendees (according to meetup.com): ??
  - Venue sponsor: [Lego](https://systematic.com/)
+
+#### Agenda
+ - 17:00 - 17:05: Welcome by Cloud Native Aarhus by TBD
+ - 17:05 - 17:15: Welcome to Systematic by TBD
+ - 17:15 - 18:00: A new standards-based approach to versioning of services by Allan Højgaard Jensen, Oracle
+ - 18:00 - 18:30: Food and break
+ - 18:30 - 19:15: Releasing Features with Feature Flags by Torben Haagh, Stibo Systems
+ - 19:15 - 20:00: Networking and discussion
 
 ### Versioning in a Cloud Native landscape 
  
@@ -20,6 +28,17 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262572886
  - Attendees (according to meetup.com): ??
  - Venue sponsor: [Systematic](https://systematic.com/)
+
+#### Agenda
+ - 16.00-17.15: Bus transport from Aarhus (DOKK1) to LEGO House
+ - 17.15-17.30: Welcome – digital name tags are given to all and water and snacks are available (LEGO House)
+ - 17.30:17.35: Opening pitch about LEGO’s cloud vision and journey – LEGO
+ - 17.35-18.20: "Three combined talks" by LEGO
+ - 18.20-18.50: Dinner break and mingling opportunity (café tables in square)
+ - 18.50:19:10: "Should Developers Care About Dockerfiles and Kubernetes resources? And how do I deploy to  - production?" by Kasper Nissen, Lunar Way
+ - 19.10-19.30: "Intro to cloud-verse" by Rasmus Steiniche, neurospace
+ - 19.30-20.30: LEGO House tour with play agents - Connection between physical bricks and digital experiences
+ - 20.30-21.45: Bus transport from LEGO House to Aarhus (DOKK1)
 
 ### Cloud Native Streaming with Apache Flink and a Fairytale of Databases
 
