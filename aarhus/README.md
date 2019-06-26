@@ -15,21 +15,6 @@
  - Venue sponsor: [Lego](https://systematic.com/)
 
 #### Agenda
- - 17:00 - 17:05: Welcome by Cloud Native Aarhus by TBD
- - 17:05 - 17:15: Welcome to Systematic by TBD
- - 17:15 - 18:00: A new standards-based approach to versioning of services by Allan Højgaard Jensen, Oracle
- - 18:00 - 18:30: Food and break
- - 18:30 - 19:15: Releasing Features with Feature Flags by Torben Haagh, Stibo Systems
- - 19:15 - 20:00: Networking and discussion
-
-### Versioning in a Cloud Native landscape 
- 
- - Date: 08 August, 2019 at 17:00 - 21:00
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262572886
- - Attendees (according to meetup.com): ??
- - Venue sponsor: [Systematic](https://systematic.com/)
-
-#### Agenda
  - 16.00-17.15: Bus transport from Aarhus (DOKK1) to LEGO House
  - 17.15-17.30: Welcome – digital name tags are given to all and water and snacks are available (LEGO House)
  - 17.30:17.35: Opening pitch about LEGO’s cloud vision and journey – LEGO
@@ -39,6 +24,21 @@
  - 19.10-19.30: "Intro to cloud-verse" by Rasmus Steiniche, neurospace
  - 19.30-20.30: LEGO House tour with play agents - Connection between physical bricks and digital experiences
  - 20.30-21.45: Bus transport from LEGO House to Aarhus (DOKK1)
+
+### Versioning in a Cloud Native landscape 
+ 
+ - Date: 08 August, 2019 at 17:00 - 21:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262572886
+ - Attendees (according to meetup.com): ??
+ - Venue sponsor: [Systematic](https://systematic.com/)
+
+#### Agenda
+ - 17:00 - 17:05: Welcome by Cloud Native Aarhus by TBD
+ - 17:05 - 17:15: Welcome to Systematic by TBD
+ - 17:15 - 18:00: A new standards-based approach to versioning of services by Allan Højgaard Jensen, Oracle
+ - 18:00 - 18:30: Food and break
+ - 18:30 - 19:15: Releasing Features with Feature Flags by Torben Haagh, Stibo Systems
+ - 19:15 - 20:00: Networking and discussion
 
 ### Cloud Native Streaming with Apache Flink and a Fairytale of Databases
 
