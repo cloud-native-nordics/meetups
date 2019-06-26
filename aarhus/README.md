@@ -7,6 +7,20 @@
  - Henrik Høegh, [Praqma](https://www.praqma.com)
  - Daniel Fly, [Zitcom](https://www.zitcom.dk)
 
+###Cloud Native Aarhus Field Trip: LEGO House
+
+ - Date: 3 September, 2019 at 16:00 - 21:45
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262602452
+ - Attendees (according to meetup.com): ??
+ - Venue sponsor: [Lego](https://systematic.com/)
+
+### Versioning in a Cloud Native landscape 
+ 
+ - Date: 08 August, 2019 at 17:00 - 21:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262572886
+ - Attendees (according to meetup.com): ??
+ - Venue sponsor: [Systematic](https://systematic.com/)
+
 ### Cloud Native Streaming with Apache Flink and a Fairytale of Databases
 
  - Date: 25 June, 2019 at 17:00 - 21:00
