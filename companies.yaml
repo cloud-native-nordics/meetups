@@ -489,3 +489,9 @@ sponsors:
   logoURL: https://verify.trackunit.com/images/logo_v3.png
   name: Trackunit
   websiteURL: https://trackunit.com
+- countries:
+  - denmark
+  id: lego
+  logoURL: https://www.lego.com/r/www/r/aboutus/-/media/aboutus/img/lego-logo_rgb.png
+  name: LEGO
+  websiteURL: https://lego.com

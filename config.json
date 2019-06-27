@@ -559,6 +559,15 @@
       "countries": [
         "denmark"
       ]
+    },
+    {
+      "id": "lego",
+      "name": "LEGO",
+      "websiteURL": "https://lego.com",
+      "logoURL": "https://www.lego.com/r/www/r/aboutus/-/media/aboutus/img/lego-logo_rgb.png",
+      "countries": [
+        "denmark"
+      ]
     }
   ],
   "members": [
@@ -2219,7 +2228,7 @@
     {
       "meetupID": "Cloud-Native-Aarhus",
       "name": "Cloud Native Aarhus",
-      "members": 776,
+      "members": 805,
       "city": "Aarhus",
       "country": "denmark",
       "organizers": [
@@ -2305,11 +2314,53 @@
       ],
       "meetups": [
         {
+          "id": 262602452,
+          "name": "Cloud Native Aarhus Field Trip: LEGO House",
+          "date": "2019-09-03T16:00:00Z",
+          "duration": "5h45m0s",
+          "attendees": 70,
+          "address": "Ole Kirks Plads 1",
+          "sponsors": {
+            "venue": {
+              "id": "lego",
+              "name": "LEGO",
+              "websiteURL": "https://lego.com",
+              "logoURL": "https://www.lego.com/r/www/r/aboutus/-/media/aboutus/img/lego-logo_rgb.png",
+              "countries": [
+                "denmark"
+              ]
+            },
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 262572886,
+          "name": "Versioning in a Cloud Native landscape",
+          "date": "2019-08-08T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 33,
+          "address": "Søren Frichs Vej 39",
+          "sponsors": {
+            "venue": {
+              "id": "systematic",
+              "name": "Systematic",
+              "websiteURL": "https://systematic.com",
+              "logoURL": "https://www.danskindustri.dk/siteassets/di-digital/2018-billeder/systematic-logo.jpg",
+              "countries": [
+                "denmark"
+              ]
+            },
+            "other": null
+          },
+          "presentations": null
+        },
+        {
           "id": 261346897,
           "name": "Cloud Native Streaming with Apache Flink and a Fairytale of Databases",
           "date": "2019-06-25T17:00:00Z",
           "duration": "4h0m0s",
-          "attendees": 53,
+          "attendees": 39,
           "address": "Sødalsparken 18",
           "sponsors": {
             "venue": {
@@ -5131,7 +5182,7 @@
     {
       "meetupID": "Cloud-Native-Copenhagen",
       "name": "Cloud Native Copenhagen",
-      "members": 652,
+      "members": 663,
       "city": "Copenhagen",
       "country": "denmark",
       "organizers": [
@@ -5194,6 +5245,19 @@
         }
       ],
       "meetups": [
+        {
+          "id": 262635188,
+          "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
+          "date": "2019-08-21T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 44,
+          "address": "Langebrogade 1",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
         {
           "id": 261858991,
           "name": "Cloud Native Copenhagen Hack Nights: Kubernetes 101",
@@ -5926,7 +5990,7 @@
     {
       "meetupID": "Kubernetes-Finland",
       "name": "CNCF \u0026 Kubernetes Finland",
-      "members": 739,
+      "members": 742,
       "photo": "https://secure.meetupstatic.com/photos/event/3/b/6/c/highres_463215212.jpeg",
       "city": "Helsinki",
       "country": "finland",

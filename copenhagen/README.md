@@ -6,6 +6,16 @@
  - Jasmine Crozier, [Praqma](https://www.praqma.com/)
  - Jeppe Johansen, [Whyyy](https://whyyy.dk/)
 
+### Cloud Native Stories: TV 2 Play & Spar Nord Bank
+
+ - Date: 21 August, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/262635188
+ - Attendees (according to meetup.com): 44
+
+
+#### Agenda
+
+
 ### Cloud Native Copenhagen Hack Nights: Kubernetes 101
 
  - Date: 11 June, 2019 at 13:00 - 16:00
