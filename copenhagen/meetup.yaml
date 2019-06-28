@@ -2,6 +2,16 @@ city: Copenhagen
 country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
+- address: Langebrogade 1
+  attendees: 44
+  date: "2019-08-21T17:00:00Z"
+  duration: 3h0m0s
+  id: 262635188
+  name: 'Cloud Native Stories: TV 2 Play & Spar Nord Bank'
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Vester Søgade 6
   attendees: 35
   date: "2019-06-11T13:00:00Z"
@@ -297,7 +307,7 @@ meetups:
   sponsors:
     other: null
     venue: twentythree
-members: 652
+members: 663
 name: Cloud Native Copenhagen
 organizers:
 - laszlo
