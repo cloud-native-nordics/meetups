@@ -2228,7 +2228,7 @@
     {
       "meetupID": "Cloud-Native-Aarhus",
       "name": "Cloud Native Aarhus",
-      "members": 805,
+      "members": 806,
       "city": "Aarhus",
       "country": "denmark",
       "organizers": [
@@ -2339,7 +2339,7 @@
           "name": "Versioning in a Cloud Native landscape",
           "date": "2019-08-08T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 33,
+          "attendees": 34,
           "address": "Søren Frichs Vej 39",
           "sponsors": {
             "venue": {
@@ -5250,7 +5250,7 @@
           "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
           "date": "2019-08-21T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 44,
+          "attendees": 45,
           "address": "Langebrogade 1",
           "sponsors": {
             "venue": null,

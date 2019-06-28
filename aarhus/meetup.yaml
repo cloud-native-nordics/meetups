@@ -13,7 +13,7 @@ meetups:
     other: null
     venue: lego
 - address: Søren Frichs Vej 39
-  attendees: 33
+  attendees: 34
   date: "2019-08-08T17:00:00Z"
   duration: 3h0m0s
   id: 262572886
@@ -905,7 +905,7 @@ meetups:
   sponsors:
     other: null
     venue: null
-members: 805
+members: 806
 name: Cloud Native Aarhus
 organizers:
 - kaspernissen
