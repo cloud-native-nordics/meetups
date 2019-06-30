@@ -69,7 +69,6 @@ func setMeetupData(cfg *Config) error {
 				}
 				meetup.Name = ev.Name
 				meetup.Address = ev.Venue.Address
-				meetup.Attendees = ev.RVSPs
 				meetup.Duration = Duration{time.Duration(ev.Duration * 1000 * 1000)}
 				dateTime := fmt.Sprintf("%sT%s:00Z", ev.Date, ev.Time)
 				d, err := time.Parse(time.RFC3339, dateTime)
@@ -77,6 +76,13 @@ func setMeetupData(cfg *Config) error {
 					return err
 				}
 				meetup.Date = Time{d}
+
+				if time.Now().UTC().After(d) {
+					meetup.Attendees = ev.RVSPs
+				} else {
+					meetup.Attendees = 0
+				}
+
 				cfg.MeetupGroups[i].Meetups[j] = meetup
 			}
 		}

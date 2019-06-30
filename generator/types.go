@@ -226,7 +226,7 @@ type Meetup struct {
 	Date          Time           `json:"date,omitempty"`
 	Duration      Duration       `json:"duration,omitempty"`
 	Recording     string         `json:"recording,omitempty"`
-	Attendees     uint64         `json:"attendees"`
+	Attendees     uint64         `json:"attendees,omitempty"`
 	Address       string         `json:"address"`
 	Sponsors      Sponsors       `json:"sponsors"`
 	Presentations []Presentation `json:"presentations"`
