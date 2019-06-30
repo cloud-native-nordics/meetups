@@ -21,7 +21,7 @@
 
  - Date: 8 August, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262572886
- - Attendees (according to meetup.com): 34
+ - Attendees (according to meetup.com): 35
  - Venue sponsor: [Systematic](https://systematic.com)
 
 #### Agenda

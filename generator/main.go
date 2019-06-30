@@ -192,17 +192,28 @@ func exec(cfg *Config) (map[string][]byte, error) {
 }
 
 func update(cfg *Config) error {
-	for i, mg := range cfg.MeetupGroups {
-		data, err := GetMeetupInfo(mg.MeetupID)
-		if err != nil {
+	if !isTesting {
+		if err := setMeetupData(cfg); err != nil {
 			return err
 		}
-		cfg.MeetupGroups[i].Members = data.Members
-		cfg.MeetupGroups[i].Photo = data.Photo.Link
+	}
+	for i, mg := range cfg.MeetupGroups {
+		if !isTesting {
+			data, err := GetMeetupInfo(mg.MeetupID)
+			if err != nil {
+				return err
+			}
+			cfg.MeetupGroups[i].Members = data.Members
+			cfg.MeetupGroups[i].Photo = data.Photo.Link
+		}
 		for _, s := range mg.Organizers {
 			cfg.SetSpeakerCountry(s, mg.Country)
 		}
-		for _, m := range mg.Meetups {
+		for j := range mg.Meetups {
+			m := &mg.Meetups[j]
+			if err := setPresentationTimestamps(m); err != nil {
+				return err
+			}
 			for _, pres := range m.Presentations {
 				for _, s := range pres.Speakers {
 					cfg.SetSpeakerCountry(s, mg.Country)
@@ -213,9 +224,6 @@ func update(cfg *Config) error {
 				cfg.SetCompanyCountry(s, mg.Country)
 			}
 		}
-	}
-	if err := setMeetupData(cfg); err != nil {
-		return err
 	}
 	for i := range cfg.MeetupGroups {
 		meetupGroup := &cfg.MeetupGroups[i]

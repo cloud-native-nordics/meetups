@@ -119,3 +119,22 @@ func GetJSON(url string, v interface{}) error {
 	defer resp.Body.Close()
 	return json.NewDecoder(resp.Body).Decode(v)
 }
+
+func setPresentationTimestamps(m *Meetup) error {
+	for i := range m.Presentations {
+		p := &m.Presentations[i]
+		var t time.Time
+		if i == 0 {
+			t = m.Date.Time
+		} else {
+			p2 := m.Presentations[i-1]
+			t = p2.end
+		}
+		if p.Delay != nil {
+			t = t.Add((*p.Delay).Duration)
+		}
+		p.start = t
+		p.end = p.start.Add(p.Duration.Duration)
+	}
+	return nil
+}
