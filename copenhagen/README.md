@@ -10,7 +10,6 @@
 
  - Date: 21 August, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/262635188
- - Attendees (according to meetup.com): 51
 
 
 #### Agenda

@@ -11,7 +11,6 @@
 
  - Date: 3 September, 2019 at 16:00 - 21:45
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262602452
- - Attendees (according to meetup.com): 70
  - Venue sponsor: [LEGO](https://lego.com)
 
 #### Agenda
@@ -21,7 +20,6 @@
 
  - Date: 8 August, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262572886
- - Attendees (according to meetup.com): 35
  - Venue sponsor: [Systematic](https://systematic.com)
 
 #### Agenda

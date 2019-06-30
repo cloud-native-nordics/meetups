@@ -2318,7 +2318,6 @@
           "name": "Cloud Native Aarhus Field Trip: LEGO House",
           "date": "2019-09-03T16:00:00Z",
           "duration": "5h45m0s",
-          "attendees": 70,
           "address": "Ole Kirks Plads 1",
           "sponsors": {
             "venue": {
@@ -2339,7 +2338,6 @@
           "name": "Versioning in a Cloud Native landscape",
           "date": "2019-08-08T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 35,
           "address": "Søren Frichs Vej 39",
           "sponsors": {
             "venue": {
@@ -5136,7 +5134,6 @@
           "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
           "date": "2019-08-21T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 51,
           "address": "Langebrogade 1",
           "sponsors": {
             "venue": null,
