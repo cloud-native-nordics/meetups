@@ -204,7 +204,7 @@ func update(cfg *Config) error {
 		}
 		for j := range mg.Meetups {
 			m := &mg.Meetups[j]
-			if err := setPresentationDurations(m); err != nil {
+			if err := setPresentationTimestamps(m); err != nil {
 				return err
 			}
 			for _, pres := range m.Presentations {

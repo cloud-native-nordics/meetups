@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
-	"strconv"
 	"strings"
 	"time"
 )
@@ -121,39 +120,21 @@ func GetJSON(url string, v interface{}) error {
 	return json.NewDecoder(resp.Body).Decode(v)
 }
 
-func setPresentationDurations(m *Meetup) error {
+func setPresentationTimestamps(m *Meetup) error {
 	for i := range m.Presentations {
 		p := &m.Presentations[i]
-		start := parseClockTime(m.Date.Time, p.StartTime)
-		stop := parseClockTime(m.Date.Time, p.EndTime)
-		var prevStop time.Time
+		var t time.Time
 		if i == 0 {
-			prevStop = m.Date.Time
+			t = m.Date.Time
 		} else {
 			p2 := m.Presentations[i-1]
-			prevStop = parseClockTime(m.Date.Time, p2.EndTime)
+			t = p2.end
 		}
-		delay := start.Sub(prevStop)
-		if delay.String() != "0s" {
-			p.Delay = &Duration{delay}
+		if p.Delay != nil {
+			t = t.Add((*p.Delay).Duration)
 		}
-		p.Duration = Duration{stop.Sub(start)}
+		p.start = t
+		p.end = p.start.Add(p.Duration.Duration)
 	}
 	return nil
-}
-
-func parseClockTime(date time.Time, str string) time.Time {
-	fragments := strings.Split(str, ":")
-	if len(fragments) != 2 {
-		panic("time was marformatted")
-	}
-	hour, err := strconv.Atoi(fragments[0])
-	if err != nil {
-		panic(err)
-	}
-	min, err := strconv.Atoi(fragments[1])
-	if err != nil {
-		panic(err)
-	}
-	return time.Date(date.Year(), date.Month(), date.Day(), hour, min, 0, 0, time.UTC)
 }

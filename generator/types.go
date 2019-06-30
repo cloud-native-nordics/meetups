@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"sort"
 	"strings"
+	"time"
 )
 
 var (
@@ -228,12 +229,21 @@ func (m *Meetup) DateTime() string {
 type Presentation struct {
 	Duration  Duration   `json:"duration"`
 	Delay     *Duration  `json:"delay,omitempty"`
-	StartTime string     `json:"startTime"`
-	EndTime   string     `json:"endTime"`
 	Title     string     `json:"title"`
 	Slides    string     `json:"slides"`
 	Recording string     `json:"recording,omitempty"`
 	Speakers  []*Speaker `json:"speakers"`
+
+	start time.Time
+	end   time.Time
+}
+
+func (p *Presentation) StartTime() string {
+	return fmt.Sprintf("%d:%02d", p.start.UTC().Hour(), p.start.UTC().Minute())
+}
+
+func (p *Presentation) EndTime() string {
+	return fmt.Sprintf("%d:%02d", p.end.UTC().Hour(), p.end.UTC().Minute())
 }
 
 type Sponsors struct {
