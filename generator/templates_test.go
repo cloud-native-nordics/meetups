@@ -18,6 +18,9 @@ func TestGenerate(t *testing.T) {
 			if err != nil {
 				t.Fatal(err)
 			}
+			if err := update(cfg); err != nil {
+				t.Fatal(err)
+			}
 			out, err := exec(cfg)
 			if err != nil {
 				t.Fatal(err)

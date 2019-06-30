@@ -220,9 +220,10 @@ type Meetup struct {
 }
 
 func (m *Meetup) DateTime() string {
-	year, month, day := m.Date.Date()
-	hour, min, _ := m.Date.Clock()
-	hour2, min2, _ := m.Date.Add(m.Duration.Duration).Clock()
+	d := m.Date.UTC()
+	year, month, day := d.Date()
+	hour, min, _ := d.Clock()
+	hour2, min2, _ := d.Add(m.Duration.Duration).Clock()
 	return fmt.Sprintf("%d %s, %d at %d:%02d - %d:%02d", day, month, year, hour, min, hour2, min2)
 }
 
