@@ -1,23 +1,23 @@
 {
   "allMeetups": {
-    "meetups": 48,
+    "meetups": 45,
     "members": 3003,
-    "attendees": 2938,
+    "attendees": 2783,
     "averageAttendees": 61,
     "uniqueAttendees": 1507
   },
   "perMeetup": {
     "aarhus": {
-      "meetups": 22,
+      "meetups": 20,
       "members": 806,
-      "attendees": 1235,
+      "attendees": 1130,
       "averageAttendees": 56,
       "uniqueAttendees": 457
     },
     "copenhagen": {
-      "meetups": 11,
+      "meetups": 10,
       "members": 669,
-      "attendees": 533,
+      "attendees": 483,
       "averageAttendees": 48,
       "uniqueAttendees": 316
     },

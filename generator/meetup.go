@@ -183,11 +183,13 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 		totalAttendees := uint64(0)
 		// allAttendees maps an user ID to the amount of RSVPs for that user
 		allAttendees := map[uint64]uint64{}
+		priorMeetups := uint64(0)
 		for _, m := range mg.Meetups {
-			totalAttendees += m.Attendees
 			if m.Date.UTC().After(time.Now().UTC()) {
 				continue
 			}
+			priorMeetups++
+			totalAttendees += m.Attendees
 
 			attendance, err := GetAttendanceList(mg.MeetupID, m.ID)
 			if err != nil {
@@ -206,7 +208,7 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 			}
 		}
 		mgStat.Attendees = totalAttendees
-		mgStat.Meetups = uint64(len(mg.Meetups))
+		mgStat.Meetups = priorMeetups
 		mgStat.AverageAttendees = uint64(math.Floor(float64(mgStat.Attendees / mgStat.Meetups)))
 		for _, num := range allAttendees {
 			mgStat.UniqueAttendees += num
