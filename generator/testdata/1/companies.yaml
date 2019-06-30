@@ -1,26 +1,31 @@
 members: null
 sponsors:
-- countries: null
+- countries:
+  - finland
   id: luxaslabs
   logoURL: ""
   name: luxas labs
   websiteURL: https://luxaslabs.com
-- countries: null
+- countries:
+  - finland
   id: futurice
   logoURL: ""
   name: Futurice
   websiteURL: https://www.futurice.com/
-- countries: null
+- countries:
+  - finland
   id: kontena
   logoURL: ""
   name: Kontena
   websiteURL: https://kontena.io
-- countries: null
+- countries:
+  - finland
   id: cybercom
   logoURL: ""
   name: Cybercom
   websiteURL: https://www.cybercom.com/
-- countries: null
+- countries:
+  - finland
   id: accenture
   logoURL: ""
   name: Accenture

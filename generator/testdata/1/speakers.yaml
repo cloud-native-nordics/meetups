@@ -1,6 +1,7 @@
 speakers:
 - company: luxaslabs
-  countries: null
+  countries:
+  - finland
   email: lucas@luxaslabs.com
   github: luxas
   id: luxas
@@ -8,7 +9,8 @@ speakers:
   speakersBureau: ""
   title: CNCF Ambassador
 - company: null
-  countries: null
+  countries:
+  - finland
   email: ""
   github: ""
   id: annie
@@ -16,21 +18,24 @@ speakers:
   speakersBureau: ""
   title: Student
 - company: kontena
-  countries: null
+  countries:
+  - finland
   email: ""
   github: ""
   id: jnummelin
   name: Jussi Nummelin
   speakersBureau: ""
 - company: futurice
-  countries: null
+  countries:
+  - finland
   email: ""
   github: ""
   id: poutanen
   name: Ilkka Poutanen
   speakersBureau: ""
 - company: cybercom
-  countries: null
+  countries:
+  - finland
   email: ""
   github: ""
   id: ylenius
