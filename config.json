@@ -2339,7 +2339,7 @@
           "name": "Versioning in a Cloud Native landscape",
           "date": "2019-08-08T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 34,
+          "attendees": 35,
           "address": "Søren Frichs Vej 39",
           "sponsors": {
             "venue": {
@@ -2376,6 +2376,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome to Cloud Native Aarhus",
@@ -2404,6 +2405,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome to JYSK",
@@ -2411,6 +2413,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "Cloud Native Streaming with Apache Flink",
@@ -2438,6 +2441,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Food and break",
@@ -2445,6 +2449,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "A Fairytale of Databases",
@@ -2472,6 +2477,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Discussions and networking",
@@ -2511,6 +2517,8 @@
           },
           "presentations": [
             {
+              "duration": "15m0s",
+              "delay": "30m0s",
               "startTime": "17:00",
               "endTime": "17:15",
               "title": "Welcome to Cloud Native Aarhus, OrbitLab, and Tradeshift",
@@ -2540,6 +2548,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "Manage your Cloud Native secrets with Vault",
@@ -2567,6 +2576,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Food and break",
@@ -2574,6 +2584,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "Kubernetes Failure Stories and How to Crash Your Clusters",
@@ -2602,6 +2613,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Discussions and networking",
@@ -2631,6 +2643,8 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
+              "delay": "15m0s",
               "startTime": "16:45",
               "endTime": "16:50",
               "title": "Welcome to Cloud Native Aarhus",
@@ -2660,6 +2674,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "16:50",
               "endTime": "17:00",
               "title": "Prometheus experience report from Schneider Electric",
@@ -2706,6 +2721,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "17:00",
               "endTime": "17:30",
               "title": "Introduction to Prometheus",
@@ -2735,6 +2751,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "17:30",
               "endTime": "18:00",
               "title": "Workshop",
@@ -2742,6 +2759,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Break and food",
@@ -2749,6 +2767,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "18:30",
               "endTime": "19:00",
               "title": "Workshop",
@@ -2756,6 +2775,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "19:00",
               "endTime": "19:30",
               "title": "Panel and Open Space Discussion about Monitoring",
@@ -2882,6 +2902,8 @@
               ]
             },
             {
+              "duration": "-30m0s",
+              "delay": "30m0s",
               "startTime": "20:00",
               "endTime": "19:30",
               "title": "2 years of Cloud Native Aarhus celebration with cake",
@@ -2911,6 +2933,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome to Cloud Native Aarhus",
@@ -2940,6 +2963,8 @@
               ]
             },
             {
+              "duration": "11m0s",
+              "delay": "-1m0s",
               "startTime": "17:04",
               "endTime": "17:15",
               "title": "Welcome to MobilePay by Rune Birkemose Jakobsen",
@@ -2947,6 +2972,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "MobilePay from mainframe to Cloud Native and everything in between",
@@ -3012,6 +3038,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Food and break",
@@ -3019,6 +3046,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "The state of Windows \u0026 Kubernetes, with an Azure flavor",
@@ -3046,6 +3074,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Discussions and networking",
@@ -3085,6 +3114,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "16:30",
               "endTime": "16:35",
               "title": "Welcome to Cloud Native Aarhus",
@@ -3114,6 +3144,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "16:35",
               "endTime": "16:45",
               "title": "Mr. Panda's Motivational Magic Show",
@@ -3141,6 +3172,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "16:45",
               "endTime": "17:15",
               "title": "Introduction to Kubernetes and workshops",
@@ -3228,6 +3260,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "Workshop",
@@ -3235,6 +3268,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Food and break",
@@ -3242,6 +3276,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "18:30",
               "endTime": "19:00",
               "title": "Workshop",
@@ -3249,6 +3284,7 @@
               "speakers": null
             },
             {
+              "duration": "1h0m0s",
               "startTime": "19:00",
               "endTime": "20:00",
               "title": "Raffle and networking",
@@ -3278,6 +3314,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome to Cloud Native Aarhus",
@@ -3307,6 +3344,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome from Spar Nord Bank",
@@ -3314,6 +3352,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "The DevOps story, from Spar Nord Bank. A glimpse, of the success stories and detours we have experienced, during the past years",
@@ -3362,6 +3401,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Food and break",
@@ -3369,6 +3409,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "TV 2 Play’s Journey to the Cloud",
@@ -3397,6 +3438,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Discussions and networking",
@@ -3426,6 +3468,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome to Cloud Native Aarhus",
@@ -3453,6 +3496,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome from Praqma",
@@ -3480,6 +3524,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "17:15",
               "endTime": "17:30",
               "title": "Virtual Kubelet",
@@ -3507,6 +3552,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "17:30",
               "endTime": "17:45",
               "title": "NATS",
@@ -3534,6 +3580,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "17:45",
               "endTime": "18:00",
               "title": "Rook",
@@ -3561,6 +3608,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Food and break",
@@ -3568,6 +3616,7 @@
               "speakers": null
             },
             {
+              "duration": "15m0s",
               "startTime": "18:30",
               "endTime": "18:45",
               "title": "Envoy",
@@ -3595,6 +3644,8 @@
               ]
             },
             {
+              "duration": "15m0s",
+              "delay": "-15m0s",
               "startTime": "18:30",
               "endTime": "18:45",
               "title": "Linkerd",
@@ -3622,6 +3673,8 @@
               ]
             },
             {
+              "duration": "1h0m0s",
+              "delay": "15m0s",
               "startTime": "19:00",
               "endTime": "20:00",
               "title": "Discussions and networking",
@@ -3651,6 +3704,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome to Cloud Native Aarhus",
@@ -3679,6 +3733,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome to BESTSELLER by Paul Skarregaard",
@@ -3686,6 +3741,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "Cloud Native CI/CD at Lunar Way",
@@ -3714,6 +3770,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Food and break",
@@ -3721,6 +3778,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "A Cloud Native data platform in both batch and real-time for Business Intelligence, Data Science and system-integrations",
@@ -3748,6 +3806,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Discussions and networking",
@@ -3777,6 +3836,7 @@
           },
           "presentations": [
             {
+              "duration": "15m0s",
               "startTime": "16:30",
               "endTime": "16:45",
               "title": "Doors open",
@@ -3784,6 +3844,7 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
               "startTime": "16:45",
               "endTime": "16:50",
               "title": "Welcome to Cloud Native Aarhus",
@@ -3813,6 +3874,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "16:50",
               "endTime": "17:00",
               "title": "Welcome to Trifork by Morten Kjær Pedersen",
@@ -3820,6 +3882,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:00",
               "endTime": "17:45",
               "title": "From Mainframe to Kubernetes",
@@ -3848,6 +3911,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "17:45",
               "endTime": "18:00",
               "title": "Food and Christmas Beers",
@@ -3855,6 +3919,7 @@
               "speakers": null
             },
             {
+              "duration": "1h30m0s",
               "startTime": "18:00",
               "endTime": "19:30",
               "title": "Day 1 Keynote Live Stream from CloudNativeCon+KubeCon Nort America",
@@ -3862,6 +3927,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "19:30",
               "endTime": "20:00",
               "title": "Discussions and networking",
@@ -3891,6 +3957,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome to Cloud Native Aarhus",
@@ -3919,6 +3986,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome to Uber by Kåre Kjelstrøm",
@@ -3926,6 +3994,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "17:15",
               "endTime": "17:45",
               "title": "How we store blobs at Uber",
@@ -3953,6 +4022,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "17:45",
               "endTime": "18:15",
               "title": "Break and food",
@@ -3960,6 +4030,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "18:15",
               "endTime": "18:45",
               "title": "Cloud Native Infrastructure @ Zalando",
@@ -3988,6 +4059,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:45",
               "endTime": "19:15",
               "title": "StackSets: Simplifying application management in Kubernetes",
@@ -4016,6 +4088,7 @@
               ]
             },
             {
+              "duration": "5m0s",
               "startTime": "19:15",
               "endTime": "19:20",
               "title": "10th Meet-up Anniversary Raffle (there will be swag)",
@@ -4023,6 +4096,7 @@
               "speakers": null
             },
             {
+              "duration": "40m0s",
               "startTime": "19:20",
               "endTime": "20:00",
               "title": "Discussions and networking",
@@ -4052,6 +4126,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome to Cloud Native Aarhus",
@@ -4081,6 +4156,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "17:05",
               "endTime": "17:20",
               "title": "Welcome to First Agenda by CTO Peter Kondrup",
@@ -4088,6 +4164,7 @@
               "speakers": null
             },
             {
+              "duration": "40m0s",
               "startTime": "17:20",
               "endTime": "18:00",
               "title": "Part 1",
@@ -4116,6 +4193,7 @@
               ]
             },
             {
+              "duration": "20m0s",
               "startTime": "18:00",
               "endTime": "18:20",
               "title": "Break and food",
@@ -4123,6 +4201,7 @@
               "speakers": null
             },
             {
+              "duration": "40m0s",
               "startTime": "18:20",
               "endTime": "19:00",
               "title": "Part 2",
@@ -4151,6 +4230,7 @@
               ]
             },
             {
+              "duration": "1h0m0s",
               "startTime": "19:00",
               "endTime": "20:00",
               "title": "Discussions and networking",
@@ -4180,6 +4260,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome to Cloud Native Aarhus",
@@ -4209,6 +4290,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome to Systematic",
@@ -4216,6 +4298,7 @@
               "speakers": null
             },
             {
+              "duration": "35m0s",
               "startTime": "17:15",
               "endTime": "17:50",
               "title": "Shipping logs from k8s to Humio",
@@ -4243,6 +4326,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:50",
               "endTime": "18:00",
               "title": "Short break",
@@ -4250,6 +4334,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Minecraft server in Kubernetes",
@@ -4277,6 +4362,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:30",
               "endTime": "19:00",
               "title": "Observability Panel Discussion and Q\u0026A",
@@ -4284,6 +4370,7 @@
               "speakers": null
             },
             {
+              "duration": "1h0m0s",
               "startTime": "19:00",
               "endTime": "20:00",
               "title": "Food and networking",
@@ -4313,6 +4400,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome to Cloud Native Aarhus",
@@ -4342,6 +4430,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome to BESTSELLER",
@@ -4370,6 +4459,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "Traditional Ops to Cloud Native",
@@ -4397,6 +4487,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Break and food",
@@ -4404,6 +4495,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "Our road to microservices - or how we learned to love async events",
@@ -4431,6 +4523,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Networking",
@@ -4460,6 +4553,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome",
@@ -4489,6 +4583,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome to BoligPortal by Karsten Røjkær Børglum",
@@ -4496,6 +4591,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "Prometheus 101 - How to get started",
@@ -4524,6 +4620,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Break and food",
@@ -4531,6 +4628,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "Introduction to Helm - The Kubernetes Package Manager",
@@ -4558,6 +4656,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Networking",
@@ -4587,6 +4686,7 @@
           },
           "presentations": [
             {
+              "duration": "30m0s",
               "startTime": "17:00",
               "endTime": "17:30",
               "title": "Welcome and introduction to Kubernetes with a Raspberry Pi cluster",
@@ -4616,6 +4716,7 @@
               ]
             },
             {
+              "duration": "2h30m0s",
               "startTime": "17:30",
               "endTime": "20:00",
               "title": "Workshop, discussions, \"Cloud Native Workshop and Networking\"",
@@ -4645,6 +4746,8 @@
           },
           "presentations": [
             {
+              "duration": "30m0s",
+              "delay": "-30m0s",
               "startTime": "16:30",
               "endTime": "17:00",
               "title": "Doors open",
@@ -4652,6 +4755,7 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
               "startTime": "17:00",
               "endTime": "17:10",
               "title": "Welcome to the last CNAa of the year and KubeCon Day 1 recap",
@@ -4681,6 +4785,7 @@
               ]
             },
             {
+              "duration": "5m0s",
               "startTime": "17:10",
               "endTime": "17:15",
               "title": "Welcome to Uber, Kåre Kjelstrøm",
@@ -4688,6 +4793,7 @@
               "speakers": null
             },
             {
+              "duration": "20m0s",
               "startTime": "17:15",
               "endTime": "17:35",
               "title": "ObjectConfig: Dynamic configuration at Uber",
@@ -4715,6 +4821,7 @@
               ]
             },
             {
+              "duration": "25m0s",
               "startTime": "17:35",
               "endTime": "18:00",
               "title": "Opentracing, and Uber's implementation Jaeger",
@@ -4742,6 +4849,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Break and food",
@@ -4749,6 +4857,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "DevOps culture and CICD best practices",
@@ -4776,6 +4885,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Networking",
@@ -4805,6 +4915,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome",
@@ -4832,6 +4943,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome to IT Minds by Henning Christensen",
@@ -4839,6 +4951,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "Adopting Go at Lunar Way",
@@ -4866,6 +4979,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Break with snacks, cheese, and wine",
@@ -4873,6 +4987,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "Istio Service Mesh Free styling",
@@ -4902,6 +5017,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Networking",
@@ -4931,6 +5047,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome",
@@ -4960,6 +5077,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome to Stibo Systems",
@@ -4967,6 +5085,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "A way to micro services",
@@ -4994,6 +5113,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Break and sandwiches",
@@ -5001,6 +5121,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "Kubernetes",
@@ -5028,6 +5149,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Networking",
@@ -5057,6 +5179,7 @@
           },
           "presentations": [
             {
+              "duration": "5m0s",
               "startTime": "17:00",
               "endTime": "17:05",
               "title": "Welcome",
@@ -5086,6 +5209,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "17:05",
               "endTime": "17:15",
               "title": "Welcome to Lunar Way by Troels Richter",
@@ -5093,6 +5217,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:15",
               "endTime": "18:00",
               "title": "Lunar Way and the Cloud Native Stack",
@@ -5122,6 +5247,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "18:00",
               "endTime": "18:15",
               "title": "Break and sandwiches",
@@ -5129,6 +5255,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:15",
               "endTime": "19:00",
               "title": "Empowering your local environment with containers",
@@ -5156,6 +5283,7 @@
               ]
             },
             {
+              "duration": "1h0m0s",
               "startTime": "19:00",
               "endTime": "20:00",
               "title": "Networking",
@@ -5182,7 +5310,7 @@
     {
       "meetupID": "Cloud-Native-Copenhagen",
       "name": "Cloud Native Copenhagen",
-      "members": 663,
+      "members": 668,
       "city": "Copenhagen",
       "country": "denmark",
       "organizers": [
@@ -5250,7 +5378,7 @@
           "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
           "date": "2019-08-21T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 45,
+          "attendees": 50,
           "address": "Langebrogade 1",
           "sponsors": {
             "venue": null,
@@ -5344,6 +5472,7 @@
           },
           "presentations": [
             {
+              "duration": "20m0s",
               "startTime": "17:00",
               "endTime": "17:20",
               "title": "Gates open",
@@ -5351,6 +5480,7 @@
               "speakers": null
             },
             {
+              "duration": "40m0s",
               "startTime": "17:20",
               "endTime": "18:00",
               "title": "The state of Windows \u0026 Kubernetes, with an Azure flavor",
@@ -5378,6 +5508,7 @@
               ]
             },
             {
+              "duration": "20m0s",
               "startTime": "18:00",
               "endTime": "18:20",
               "title": "Break",
@@ -5385,6 +5516,7 @@
               "speakers": null
             },
             {
+              "duration": "40m0s",
               "startTime": "18:20",
               "endTime": "19:00",
               "title": "From mainframe to Kubernetes",
@@ -5412,6 +5544,7 @@
               ]
             },
             {
+              "duration": "1h0m0s",
               "startTime": "19:00",
               "endTime": "20:00",
               "title": "Networking",
@@ -5419,6 +5552,7 @@
               "speakers": null
             },
             {
+              "duration": "0s",
               "startTime": "20:00",
               "endTime": "20:00",
               "title": "Goodbye",
@@ -5448,6 +5582,7 @@
           },
           "presentations": [
             {
+              "duration": "10m0s",
               "startTime": "17:30",
               "endTime": "17:40",
               "title": "Welcome",
@@ -5455,6 +5590,7 @@
               "speakers": null
             },
             {
+              "duration": "15m0s",
               "startTime": "17:40",
               "endTime": "17:55",
               "title": "Kubernetes Registry: what it is and why it's important",
@@ -5482,6 +5618,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "17:55",
               "endTime": "18:10",
               "title": "Automating Helm deployments to Kubernetes with Helmsman",
@@ -5509,6 +5646,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:10",
               "endTime": "18:40",
               "title": "Break with sandwiches",
@@ -5516,6 +5654,7 @@
               "speakers": null
             },
             {
+              "duration": "15m0s",
               "startTime": "18:40",
               "endTime": "18:55",
               "title": "Serverless Containers with Azure Container Instances",
@@ -5544,6 +5683,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "18:55",
               "endTime": "19:10",
               "title": "Machine API - An easier way to manage nodes in Kubernetes",
@@ -5571,6 +5711,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "19:10",
               "endTime": "19:25",
               "title": "Break",
@@ -5578,6 +5719,7 @@
               "speakers": null
             },
             {
+              "duration": "35m0s",
               "startTime": "19:25",
               "endTime": "20:00",
               "title": "Panel Discussion moderated by Ihor Dvoretskyi",
@@ -5606,6 +5748,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "20:00",
               "endTime": "20:30",
               "title": "Time to mingle",
@@ -5613,6 +5756,7 @@
               "speakers": null
             },
             {
+              "duration": "0s",
               "startTime": "20:30",
               "endTime": "20:30",
               "title": "Goodbye and see you at KubeCon!",
@@ -5642,6 +5786,7 @@
           },
           "presentations": [
             {
+              "duration": "30m0s",
               "startTime": "17:00",
               "endTime": "17:30",
               "title": "Gates open",
@@ -5649,6 +5794,7 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
               "startTime": "17:30",
               "endTime": "17:35",
               "title": "Welcome",
@@ -5656,6 +5802,7 @@
               "speakers": null
             },
             {
+              "duration": "40m0s",
               "startTime": "17:35",
               "endTime": "18:15",
               "title": "Network Services on Kubernetes on-premise",
@@ -5683,6 +5830,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "18:15",
               "endTime": "18:30",
               "title": "Break",
@@ -5690,6 +5838,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "18:30",
               "endTime": "19:15",
               "title": "Chaos Engineering",
@@ -5717,6 +5866,7 @@
               ]
             },
             {
+              "duration": "45m0s",
               "startTime": "19:15",
               "endTime": "20:00",
               "title": "Community chats",
@@ -5746,6 +5896,7 @@
           },
           "presentations": [
             {
+              "duration": "30m0s",
               "startTime": "17:00",
               "endTime": "17:30",
               "title": "Doors open",
@@ -5753,6 +5904,7 @@
               "speakers": null
             },
             {
+              "duration": "15m0s",
               "startTime": "17:30",
               "endTime": "17:45",
               "title": "Welcome",
@@ -5760,6 +5912,7 @@
               "speakers": null
             },
             {
+              "duration": "45m0s",
               "startTime": "17:45",
               "endTime": "18:30",
               "title": "First session: foundations of Kubernetes and its primitives",
@@ -5806,6 +5959,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:30",
               "endTime": "19:00",
               "title": "Food break and socializing",
@@ -5813,6 +5967,7 @@
               "speakers": null
             },
             {
+              "duration": "1h0m0s",
               "startTime": "19:00",
               "endTime": "20:00",
               "title": "Second session: let's deploy",
@@ -5859,6 +6014,7 @@
               ]
             },
             {
+              "duration": "0s",
               "startTime": "20:00",
               "endTime": "20:00",
               "title": "Goodbye",
@@ -5888,6 +6044,7 @@
           },
           "presentations": [
             {
+              "duration": "20m0s",
               "startTime": "17:00",
               "endTime": "17:20",
               "title": "Doors open",
@@ -5895,6 +6052,7 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
               "startTime": "17:20",
               "endTime": "17:30",
               "title": "Welcome from Cloud Native Copenhagen",
@@ -5902,6 +6060,7 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
               "startTime": "17:30",
               "endTime": "17:40",
               "title": "Welcome from TwentyThree",
@@ -5909,6 +6068,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "17:40",
               "endTime": "18:10",
               "title": "What is Cloud Native?",
@@ -5936,6 +6096,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:10",
               "endTime": "18:40",
               "title": "Food break - group discussions",
@@ -5943,6 +6104,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "18:40",
               "endTime": "19:10",
               "title": "Jenkins as Code",
@@ -5970,6 +6132,7 @@
               ]
             },
             {
+              "duration": "50m0s",
               "startTime": "19:10",
               "endTime": "20:00",
               "title": "Group discussions - continued",
@@ -5977,6 +6140,7 @@
               "speakers": null
             },
             {
+              "duration": "0s",
               "startTime": "20:00",
               "endTime": "20:00",
               "title": "Gates close",
@@ -6098,6 +6262,7 @@
           },
           "presentations": [
             {
+              "duration": "10m0s",
               "startTime": "18:00",
               "endTime": "18:10",
               "title": "Arrive to the venue, sit down, grab a pizza slice and network with others ;)",
@@ -6105,6 +6270,8 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
+              "delay": "5m0s",
               "startTime": "18:15",
               "endTime": "18:20",
               "title": "Introductionary words from the venue sponsor for this time, NordCloud",
@@ -6112,6 +6279,7 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
               "startTime": "18:20",
               "endTime": "18:30",
               "title": "Welcome to our meetup",
@@ -6160,6 +6328,7 @@
               ]
             },
             {
+              "duration": "10m0s",
               "startTime": "18:30",
               "endTime": "18:40",
               "title": "How to become a (great) meetup speaker!",
@@ -6188,6 +6357,7 @@
               ]
             },
             {
+              "duration": "20m0s",
               "startTime": "18:40",
               "endTime": "19:00",
               "title": "Make your Kubernetes Cluster safe for DevOps",
@@ -6215,6 +6385,7 @@
               ]
             },
             {
+              "duration": "15m0s",
               "startTime": "19:00",
               "endTime": "19:15",
               "title": "Networking, food, drinks",
@@ -6222,6 +6393,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "19:15",
               "endTime": "19:45",
               "title": "Getting Developers to Adopt Your Service",
@@ -6250,6 +6422,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:50",
               "endTime": "20:20",
               "title": "An introduction to Istio",
@@ -6277,6 +6451,8 @@
               ]
             },
             {
+              "duration": "25m0s",
+              "delay": "15m0s",
               "startTime": "20:35",
               "endTime": "21:00",
               "title": "Networking time",
@@ -6336,6 +6512,7 @@
           },
           "presentations": [
             {
+              "duration": "3h30m0s",
               "startTime": "17:00",
               "endTime": "20:30",
               "title": "Kubernetes 101 Hands-On Workshop",
@@ -6407,6 +6584,7 @@
           },
           "presentations": [
             {
+              "duration": "15m0s",
               "startTime": "18:00",
               "endTime": "18:15",
               "title": "Arrive to the venue, sit down, grab a pizza slice and network with others ;)",
@@ -6414,6 +6592,7 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
               "startTime": "18:15",
               "endTime": "18:20",
               "title": "Welcome from the organisers",
@@ -6421,6 +6600,7 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
               "startTime": "18:20",
               "endTime": "18:25",
               "title": "Introductionary words from the venue sponsor for this time, Accenture",
@@ -6428,6 +6608,8 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "18:30",
               "endTime": "19:00",
               "title": "Update from KubeCon Seattle 2018",
@@ -6455,6 +6637,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:05",
               "endTime": "19:35",
               "title": "A journey towards Kubernetes at scale on remote unattended sites",
@@ -6482,6 +6666,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:40",
               "endTime": "20:10",
               "title": "How to make your company start contributing to open source",
@@ -6509,6 +6695,8 @@
               ]
             },
             {
+              "duration": "35m0s",
+              "delay": "5m0s",
               "startTime": "20:15",
               "endTime": "20:50",
               "title": "Networking time \u0026 optional Accenture lab prototypes",
@@ -6559,6 +6747,7 @@
           },
           "presentations": [
             {
+              "duration": "15m0s",
               "startTime": "18:00",
               "endTime": "18:15",
               "title": "Arrive to the venue, sit down, grab a pizza slice and network with others ;)",
@@ -6566,6 +6755,7 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
               "startTime": "18:15",
               "endTime": "18:25",
               "title": "Welcome from the organizers",
@@ -6573,6 +6763,8 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
+              "delay": "5m0s",
               "startTime": "18:30",
               "endTime": "18:40",
               "title": "Update from the cloud native ecosystem",
@@ -6601,6 +6793,8 @@
               ]
             },
             {
+              "duration": "15m0s",
+              "delay": "5m0s",
               "startTime": "18:45",
               "endTime": "19:00",
               "title": "10 Emerging Trends to Watch for in 2019",
@@ -6629,6 +6823,8 @@
               ]
             },
             {
+              "duration": "25m0s",
+              "delay": "5m0s",
               "startTime": "19:05",
               "endTime": "19:30",
               "title": "Vincit's road to using Kubernetes in the cloud",
@@ -6657,6 +6853,8 @@
               ]
             },
             {
+              "duration": "25m0s",
+              "delay": "5m0s",
               "startTime": "19:35",
               "endTime": "20:00",
               "title": "Implementing the Container Storage Interface (CSI)",
@@ -6684,6 +6882,8 @@
               ]
             },
             {
+              "duration": "25m0s",
+              "delay": "5m0s",
               "startTime": "20:05",
               "endTime": "20:30",
               "title": "No need to build it yourself - Kubernetes using GKE, Terraform, Helm \u0026 Jenkins",
@@ -6712,6 +6912,8 @@
               ]
             },
             {
+              "duration": "25m0s",
+              "delay": "5m0s",
               "startTime": "20:35",
               "endTime": "21:00",
               "title": "Networking time",
@@ -6762,6 +6964,7 @@
           },
           "presentations": [
             {
+              "duration": "15m0s",
               "startTime": "18:00",
               "endTime": "18:15",
               "title": "Arrive to the venue, sit down, grab a pizza slice and network with others ;)",
@@ -6769,6 +6972,7 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
               "startTime": "18:15",
               "endTime": "18:20",
               "title": "Welcome from the organizers",
@@ -6776,6 +6980,8 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
+              "delay": "5m0s",
               "startTime": "18:25",
               "endTime": "18:35",
               "title": "Introductionary words from the venue sponsor for this time, Elisa",
@@ -6795,6 +7001,8 @@
               ]
             },
             {
+              "duration": "20m0s",
+              "delay": "5m0s",
               "startTime": "18:40",
               "endTime": "19:00",
               "title": "Manage Kubernetes application complexity with Helm",
@@ -6823,6 +7031,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "19:00",
               "endTime": "19:30",
               "title": "Kubernetes' Security Features",
@@ -6850,6 +7059,8 @@
               ]
             },
             {
+              "duration": "20m0s",
+              "delay": "5m0s",
               "startTime": "19:35",
               "endTime": "19:55",
               "title": "Lessons learned when building a Kubernetes distribution",
@@ -6877,6 +7088,8 @@
               ]
             },
             {
+              "duration": "20m0s",
+              "delay": "5m0s",
               "startTime": "20:00",
               "endTime": "20:20",
               "title": "Orchestrate VMs on top of Kubernetes",
@@ -6896,6 +7109,7 @@
               ]
             },
             {
+              "duration": "40m0s",
               "startTime": "20:20",
               "endTime": "21:00",
               "title": "Time for networking",
@@ -6946,6 +7160,7 @@
           },
           "presentations": [
             {
+              "duration": "15m0s",
               "startTime": "18:00",
               "endTime": "18:15",
               "title": "Grab some food and socialize!",
@@ -6953,6 +7168,7 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
               "startTime": "18:15",
               "endTime": "18:20",
               "title": "Welcome from the organizers",
@@ -6960,6 +7176,7 @@
               "speakers": null
             },
             {
+              "duration": "15m0s",
               "startTime": "18:20",
               "endTime": "18:35",
               "title": "Introductionary words from Nordea",
@@ -6967,6 +7184,8 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "18:40",
               "endTime": "19:10",
               "title": "Kubernetes \u0026 Enterprises",
@@ -6995,6 +7214,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:15",
               "endTime": "19:45",
               "title": "Automated credentialless access management in the era of super scalable cloud native services",
@@ -7023,6 +7244,8 @@
               ]
             },
             {
+              "duration": "10m0s",
+              "delay": "5m0s",
               "startTime": "19:50",
               "endTime": "20:00",
               "title": "My experience at KubeCon Copenhagen",
@@ -7051,6 +7274,7 @@
               ]
             },
             {
+              "duration": "1h0m0s",
               "startTime": "20:00",
               "endTime": "21:00",
               "title": "Socialize and network with the people around you!",
@@ -7121,6 +7345,7 @@
           },
           "presentations": [
             {
+              "duration": "20m0s",
               "startTime": "18:00",
               "endTime": "18:20",
               "title": "Grab some food and socialize!",
@@ -7128,6 +7353,8 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
+              "delay": "5m0s",
               "startTime": "18:25",
               "endTime": "18:30",
               "title": "Welcome from the organizers",
@@ -7135,6 +7362,7 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
               "startTime": "18:30",
               "endTime": "18:40",
               "title": "Short CNCF update",
@@ -7164,6 +7392,8 @@
               ]
             },
             {
+              "duration": "40m0s",
+              "delay": "5m0s",
               "startTime": "18:45",
               "endTime": "19:25",
               "title": "Intro to the essential API resources in Kubernetes",
@@ -7193,6 +7423,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:30",
               "endTime": "20:00",
               "title": "Kubernetes advanced platform features",
@@ -7221,6 +7453,7 @@
               ]
             },
             {
+              "duration": "1h0m0s",
               "startTime": "20:00",
               "endTime": "21:00",
               "title": "Socialize and network with the people around you!",
@@ -7291,6 +7524,7 @@
           },
           "presentations": [
             {
+              "duration": "20m0s",
               "startTime": "18:00",
               "endTime": "18:20",
               "title": "Grab some food and socialize!",
@@ -7298,6 +7532,8 @@
               "speakers": null
             },
             {
+              "duration": "25m0s",
+              "delay": "5m0s",
               "startTime": "18:25",
               "endTime": "18:50",
               "title": "Winter Update from the Cloud Native World",
@@ -7327,6 +7563,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "18:55",
               "endTime": "19:25",
               "title": "Kubernetes in Azure",
@@ -7356,6 +7594,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:30",
               "endTime": "20:00",
               "title": "CRDs in Action",
@@ -7385,6 +7625,7 @@
               ]
             },
             {
+              "duration": "1h0m0s",
               "startTime": "20:00",
               "endTime": "21:00",
               "title": "Socialize and network with the people around you!",
@@ -7456,6 +7697,7 @@
           },
           "presentations": [
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "The meetup officially starts. Grab a pizza and a drink, and talk to the talented person next to you!",
@@ -7463,6 +7705,7 @@
               "speakers": null
             },
             {
+              "duration": "15m0s",
               "startTime": "18:30",
               "endTime": "18:45",
               "title": "Welcome from the organizers",
@@ -7491,6 +7734,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "18:45",
               "endTime": "19:15",
               "title": "An introduction to the cloud native world of Kubernetes",
@@ -7520,6 +7764,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:20",
               "endTime": "19:50",
               "title": "Let's have fun with serverless applications on Kubernetes",
@@ -7549,6 +7795,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "10m0s",
               "startTime": "20:00",
               "endTime": "20:30",
               "title": "Kubernetes on AWS at Zalando",
@@ -7578,6 +7826,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "20:30",
               "endTime": "21:00",
               "title": "Feel free to hang out with the people for the rest of the evening, do some Q\u0026A with the speakers, etc.",
@@ -7597,7 +7846,7 @@
     {
       "meetupID": "sthlm-k8s",
       "name": "Stockholm Kubernetes and Cloud Native Computing",
-      "members": 634,
+      "members": 635,
       "photo": "https://secure.meetupstatic.com/photos/event/1/a/9/0/highres_469446800.jpeg",
       "city": "Stockholm",
       "country": "sweden",
@@ -7726,6 +7975,7 @@
           },
           "presentations": [
             {
+              "duration": "15m0s",
               "startTime": "17:45",
               "endTime": "18:00",
               "title": "Doors open",
@@ -7733,6 +7983,7 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
               "startTime": "18:00",
               "endTime": "18:10",
               "title": "Dave Zolotusky - “Welcome and intro to CNCF”",
@@ -7740,6 +7991,8 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
+              "delay": "25m0s",
               "startTime": "18:35",
               "endTime": "19:05",
               "title": "Torkel Ödegaard - “What’s going on at Grafana?”",
@@ -7747,6 +8000,8 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:10",
               "endTime": "19:40",
               "title": "Mak Ahmad - “A good intro / deep dive into Istio”",
@@ -7754,6 +8009,8 @@
               "speakers": null
             },
             {
+              "duration": "1h15m0s",
+              "delay": "5m0s",
               "startTime": "19:45",
               "endTime": "21:00",
               "title": "Mingle",
@@ -7761,6 +8018,7 @@
               "speakers": null
             },
             {
+              "duration": "0s",
               "startTime": "21:00",
               "endTime": "21:00",
               "title": "Doors Close",
@@ -7782,6 +8040,7 @@
           },
           "presentations": [
             {
+              "duration": "30m0s",
               "startTime": "17:30",
               "endTime": "18:00",
               "title": "Doors open",
@@ -7789,6 +8048,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Secure SDLC and containers",
@@ -7796,6 +8056,8 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "18:35",
               "endTime": "19:05",
               "title": "Provisioning and Orchestrating K8s",
@@ -7803,6 +8065,8 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:10",
               "endTime": "19:40",
               "title": "Persistent Volumes to StatefulSets: All About Managing Persistent Data in Kubernetes",
@@ -7810,6 +8074,8 @@
               "speakers": null
             },
             {
+              "duration": "1h15m0s",
+              "delay": "5m0s",
               "startTime": "19:45",
               "endTime": "21:00",
               "title": "Mingle",
@@ -7817,6 +8083,7 @@
               "speakers": null
             },
             {
+              "duration": "0s",
               "startTime": "21:00",
               "endTime": "21:00",
               "title": "Doors Closed",
@@ -7846,6 +8113,8 @@
           },
           "presentations": [
             {
+              "duration": "15m0s",
+              "delay": "17h45m0s",
               "startTime": "17:45",
               "endTime": "18:00",
               "title": "Doors open",
@@ -7853,6 +8122,8 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
+              "delay": "10m0s",
               "startTime": "18:10",
               "endTime": "18:20",
               "title": "Kick Off - Dave Zolotusky, Spotify",
@@ -7860,6 +8131,7 @@
               "speakers": null
             },
             {
+              "duration": "10m0s",
               "startTime": "18:20",
               "endTime": "18:30",
               "title": "Jonathan Grahl, King",
@@ -7867,6 +8139,8 @@
               "speakers": null
             },
             {
+              "duration": "20m0s",
+              "delay": "5m0s",
               "startTime": "18:35",
               "endTime": "18:55",
               "title": "Cloud Native CI/CD - Marcus Olsson",
@@ -7874,6 +8148,8 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:00",
               "endTime": "19:30",
               "title": "Chaos Engineering with a service mesh - Julien Bisconti",
@@ -7881,6 +8157,7 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
               "startTime": "19:30",
               "endTime": "20:00",
               "title": "Break / Chat",
@@ -7888,6 +8165,7 @@
               "speakers": null
             },
             {
+              "duration": "0s",
               "startTime": "20:00",
               "endTime": "20:00",
               "title": "Doors Close",
@@ -7901,7 +8179,7 @@
     {
       "meetupID": "Kubernetes-Tampere",
       "name": "CNCF \u0026 Kubernetes Tampere",
-      "members": 152,
+      "members": 151,
       "photo": "https://secure.meetupstatic.com/photos/event/2/0/4/f/highres_477548271.jpeg",
       "city": "Tampere",
       "country": "finland",
@@ -8041,6 +8319,7 @@
           },
           "presentations": [
             {
+              "duration": "10m0s",
               "startTime": "17:00",
               "endTime": "17:10",
               "title": "Arrive to the venue, sit down and network with others ;)",
@@ -8048,6 +8327,7 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
               "startTime": "17:10",
               "endTime": "17:15",
               "title": "Introductionary words from the venue sponsor for this time Netum",
@@ -8055,6 +8335,7 @@
               "speakers": null
             },
             {
+              "duration": "15m0s",
               "startTime": "17:15",
               "endTime": "17:30",
               "title": "Updates from the Community, Lucas Käldström",
@@ -8083,6 +8364,7 @@
               ]
             },
             {
+              "duration": "25m0s",
               "startTime": "17:30",
               "endTime": "17:55",
               "title": "The BASICs, milk to whale baby, food that is required to growth to true Kubernaught",
@@ -8111,6 +8393,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "18:00",
               "endTime": "18:30",
               "title": "Networking, food, drinks",
@@ -8118,6 +8402,7 @@
               "speakers": null
             },
             {
+              "duration": "25m0s",
               "startTime": "18:30",
               "endTime": "18:55",
               "title": "Kubernetes and Container Runtime Enablers to Advanced Platform Features",
@@ -8145,6 +8430,8 @@
               ]
             },
             {
+              "duration": "25m0s",
+              "delay": "5m0s",
               "startTime": "19:00",
               "endTime": "19:25",
               "title": "Introducing new technologies - A grassroots approach",
@@ -8191,6 +8478,8 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "19:30",
               "endTime": "20:00",
               "title": "Networking, table football, video games",
@@ -8242,6 +8531,7 @@
           },
           "presentations": [
             {
+              "duration": "15m0s",
               "startTime": "18:00",
               "endTime": "18:15",
               "title": "Arrive to the venue, sit down, grab a pizza slice and network with others ;)",
@@ -8249,6 +8539,7 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
               "startTime": "18:15",
               "endTime": "18:20",
               "title": "Welcome from the organisers",
@@ -8256,6 +8547,7 @@
               "speakers": null
             },
             {
+              "duration": "5m0s",
               "startTime": "18:20",
               "endTime": "18:25",
               "title": "Introductionary words from the venue sponsor for this time, Cybercom",
@@ -8263,6 +8555,8 @@
               "speakers": null
             },
             {
+              "duration": "30m0s",
+              "delay": "5m0s",
               "startTime": "18:30",
               "endTime": "19:00",
               "title": "Introduction to the cloud-native world of Kubernetes \u0026 CNCF",
@@ -8291,6 +8585,8 @@
               ]
             },
             {
+              "duration": "25m0s",
+              "delay": "5m0s",
               "startTime": "19:05",
               "endTime": "19:30",
               "title": "Setting up a Kubernetes cluster and getting started",
@@ -8318,6 +8614,8 @@
               ]
             },
             {
+              "duration": "25m0s",
+              "delay": "5m0s",
               "startTime": "19:35",
               "endTime": "20:00",
               "title": "Moving from Heroku to AKS",
@@ -8345,6 +8643,8 @@
               ]
             },
             {
+              "duration": "25m0s",
+              "delay": "5m0s",
               "startTime": "20:05",
               "endTime": "20:30",
               "title": "Experiences of different Pipelines and Development workflows on Kubernetes",
@@ -8373,6 +8673,7 @@
               ]
             },
             {
+              "duration": "30m0s",
               "startTime": "20:30",
               "endTime": "21:00",
               "title": "Networking",

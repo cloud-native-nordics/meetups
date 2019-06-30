@@ -19,32 +19,41 @@ meetups:
   id: 254614677
   name: Stockholm Kubernetes and Cloud Native Meetup
   presentations:
-  - endTime: "18:00"
+  - duration: 15m0s
+    endTime: "18:00"
     slides: ""
     speakers: null
     startTime: "17:45"
     title: Doors open
-  - endTime: "18:10"
+  - duration: 10m0s
+    endTime: "18:10"
     slides: ""
     speakers: null
     startTime: "18:00"
     title: Dave Zolotusky - “Welcome and intro to CNCF”
-  - endTime: "19:05"
+  - delay: 25m0s
+    duration: 30m0s
+    endTime: "19:05"
     slides: ""
     speakers: null
     startTime: "18:35"
     title: Torkel Ödegaard - “What’s going on at Grafana?”
-  - endTime: "19:40"
+  - delay: 5m0s
+    duration: 30m0s
+    endTime: "19:40"
     slides: ""
     speakers: null
     startTime: "19:10"
     title: Mak Ahmad - “A good intro / deep dive into Istio”
-  - endTime: "21:00"
+  - delay: 5m0s
+    duration: 1h15m0s
+    endTime: "21:00"
     slides: ""
     speakers: null
     startTime: "19:45"
     title: Mingle
-  - endTime: "21:00"
+  - duration: 0s
+    endTime: "21:00"
     slides: ""
     speakers: null
     startTime: "21:00"
@@ -59,33 +68,42 @@ meetups:
   id: 245823087
   name: Stockholm Kubernetes Meetup
   presentations:
-  - endTime: "18:00"
+  - duration: 30m0s
+    endTime: "18:00"
     slides: ""
     speakers: null
     startTime: "17:30"
     title: Doors open
-  - endTime: "18:30"
+  - duration: 30m0s
+    endTime: "18:30"
     slides: ""
     speakers: null
     startTime: "18:00"
     title: Secure SDLC and containers
-  - endTime: "19:05"
+  - delay: 5m0s
+    duration: 30m0s
+    endTime: "19:05"
     slides: ""
     speakers: null
     startTime: "18:35"
     title: Provisioning and Orchestrating K8s
-  - endTime: "19:40"
+  - delay: 5m0s
+    duration: 30m0s
+    endTime: "19:40"
     slides: ""
     speakers: null
     startTime: "19:10"
     title: 'Persistent Volumes to StatefulSets: All About Managing Persistent Data
       in Kubernetes'
-  - endTime: "21:00"
+  - delay: 5m0s
+    duration: 1h15m0s
+    endTime: "21:00"
     slides: ""
     speakers: null
     startTime: "19:45"
     title: Mingle
-  - endTime: "21:00"
+  - duration: 0s
+    endTime: "21:00"
     slides: ""
     speakers: null
     startTime: "21:00"
@@ -100,37 +118,48 @@ meetups:
   id: 251231228
   name: Cloud Native Stockholm
   presentations:
-  - endTime: "18:00"
+  - delay: 17h45m0s
+    duration: 15m0s
+    endTime: "18:00"
     slides: ""
     speakers: null
     startTime: "17:45"
     title: Doors open
-  - endTime: "18:20"
+  - delay: 10m0s
+    duration: 10m0s
+    endTime: "18:20"
     slides: ""
     speakers: null
     startTime: "18:10"
     title: Kick Off - Dave Zolotusky, Spotify
-  - endTime: "18:30"
+  - duration: 10m0s
+    endTime: "18:30"
     slides: ""
     speakers: null
     startTime: "18:20"
     title: Jonathan Grahl, King
-  - endTime: "18:55"
+  - delay: 5m0s
+    duration: 20m0s
+    endTime: "18:55"
     slides: ""
     speakers: null
     startTime: "18:35"
     title: Cloud Native CI/CD - Marcus Olsson
-  - endTime: "19:30"
+  - delay: 5m0s
+    duration: 30m0s
+    endTime: "19:30"
     slides: ""
     speakers: null
     startTime: "19:00"
     title: Chaos Engineering with a service mesh - Julien Bisconti
-  - endTime: "20:00"
+  - duration: 30m0s
+    endTime: "20:00"
     slides: ""
     speakers: null
     startTime: "19:30"
     title: Break / Chat
-  - endTime: "20:00"
+  - duration: 0s
+    endTime: "20:00"
     slides: ""
     speakers: null
     startTime: "20:00"
@@ -138,7 +167,7 @@ meetups:
   sponsors:
     other: null
     venue: Spotify
-members: 634
+members: 635
 name: Stockholm Kubernetes and Cloud Native Computing
 organizers:
 - dzolo
