@@ -43,6 +43,19 @@ type MeetupGroupsFile struct {
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
 }
 
+type StatsFile struct {
+	AllMeetups MeetupStats            `json:"allMeetups"`
+	PerMeetup  map[string]MeetupStats `json:"perMeetup"`
+}
+
+type MeetupStats struct {
+	Meetups          uint64 `json:"meetups"`
+	Members          uint64 `json:"members"`
+	Attendees        uint64 `json:"attendees"`
+	AverageAttendees uint64 `json:"averageAttendees"`
+	UniqueAttendees  uint64 `json:"uniqueAttendees"`
+}
+
 type Config struct {
 	Sponsors     []Company     `json:"sponsors"`
 	Members      []Company     `json:"members"`

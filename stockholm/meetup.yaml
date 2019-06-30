@@ -87,48 +87,6 @@ meetups:
   sponsors:
     other: null
     venue: null
-- address: Spotify, Regeringsgatan 13, Stockholm
-  attendees: 0
-  date: null
-  duration: 0s
-  id: 251231228
-  name: Cloud Native Stockholm
-  presentations:
-  - delay: 17h45m0s
-    duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Doors open
-  - delay: 10m0s
-    duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Kick Off - Dave Zolotusky, Spotify
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Jonathan Grahl, King
-  - delay: 5m0s
-    duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Cloud Native CI/CD - Marcus Olsson
-  - delay: 5m0s
-    duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Chaos Engineering with a service mesh - Julien Bisconti
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Break / Chat
-  - duration: 0s
-    slides: ""
-    speakers: null
-    title: Doors Close
-  sponsors:
-    other: null
-    venue: Spotify
 members: 635
 name: Stockholm Kubernetes and Cloud Native Computing
 organizers:

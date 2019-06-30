@@ -13,6 +13,9 @@ dry-run: generator/bin/generator
 validate: generator/bin/generator
 	generator/bin/generator --validate
 
+stats: generator/bin/generator
+	generator/bin/generator --stats
+
 test:
 	cd generator && go test
 
