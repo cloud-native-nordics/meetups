@@ -3,7 +3,7 @@ country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
 - address: Langebrogade 1
-  attendees: 50
+  attendees: 51
   date: "2019-08-21T17:00:00Z"
   duration: 3h0m0s
   id: 262635188
@@ -271,7 +271,7 @@ meetups:
   sponsors:
     other: null
     venue: twentythree
-members: 668
+members: 669
 name: Cloud Native Copenhagen
 organizers:
 - laszlo

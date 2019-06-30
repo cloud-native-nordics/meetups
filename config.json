@@ -5068,7 +5068,7 @@
     {
       "meetupID": "Cloud-Native-Copenhagen",
       "name": "Cloud Native Copenhagen",
-      "members": 668,
+      "members": 669,
       "city": "Copenhagen",
       "country": "denmark",
       "organizers": [
@@ -5136,7 +5136,7 @@
           "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
           "date": "2019-08-21T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 50,
+          "attendees": 51,
           "address": "Langebrogade 1",
           "sponsors": {
             "venue": null,
@@ -7635,74 +7635,6 @@
             {
               "duration": "0s",
               "title": "Doors Closed",
-              "slides": "",
-              "speakers": null
-            }
-          ]
-        },
-        {
-          "id": 251231228,
-          "name": "Cloud Native Stockholm",
-          "date": null,
-          "duration": "0s",
-          "attendees": 0,
-          "address": "Spotify, Regeringsgatan 13, Stockholm",
-          "sponsors": {
-            "venue": {
-              "id": "Spotify",
-              "name": "Spotify",
-              "websiteURL": "https://www.spotify.com/",
-              "logoURL": "https://www.scdn.co/i/_global/logos/spotify-logo-lockup-197@2x.png",
-              "countries": [
-                "sweden"
-              ]
-            },
-            "other": null
-          },
-          "presentations": [
-            {
-              "duration": "15m0s",
-              "delay": "17h45m0s",
-              "title": "Doors open",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "duration": "10m0s",
-              "delay": "10m0s",
-              "title": "Kick Off - Dave Zolotusky, Spotify",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "duration": "10m0s",
-              "title": "Jonathan Grahl, King",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "duration": "20m0s",
-              "delay": "5m0s",
-              "title": "Cloud Native CI/CD - Marcus Olsson",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "duration": "30m0s",
-              "delay": "5m0s",
-              "title": "Chaos Engineering with a service mesh - Julien Bisconti",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "duration": "30m0s",
-              "title": "Break / Chat",
-              "slides": "",
-              "speakers": null
-            },
-            {
-              "duration": "0s",
-              "title": "Doors Close",
               "slides": "",
               "speakers": null
             }

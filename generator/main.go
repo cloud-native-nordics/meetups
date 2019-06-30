@@ -19,6 +19,7 @@ var speakersFile = pflag.String("speakers-file", "speakers.yaml", "Point to the 
 var companiesFile = pflag.String("companies-file", "companies.yaml", "Point to the companies.yaml file")
 var rootDir = pflag.String("meetups-dir", ".", "Point to the directory that has all meetup groups as subfolders, each with a meetup.yaml file")
 var dryRun = pflag.Bool("dry-run", true, "Whether to actually apply the changes or not")
+var statsFlag = pflag.Bool("stats", false, "With this flag, the generator generates only the stats.json file")
 var validateFlag = pflag.Bool("validate", false, "Whether to validate the current state of the repo content with the spec")
 var isTesting = false
 
@@ -34,6 +35,9 @@ func run() error {
 	cfg, err := load(*companiesFile, *speakersFile, *rootDir)
 	if err != nil {
 		return err
+	}
+	if *statsFlag {
+		return writeStats(cfg)
 	}
 	if err := update(cfg); err != nil {
 		return err
@@ -189,6 +193,21 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	}
 	result["config.json"] = configJSON
 	return result, nil
+}
+
+func writeStats(cfg *Config) error {
+	result := map[string][]byte{}
+	stats, err := aggregateStats(cfg)
+	if err != nil {
+		return err
+	}
+	statsJSON, err := json.MarshalIndent(stats, "", "  ")
+	if err != nil {
+		return err
+	}
+	result["stats.json"] = statsJSON
+	*dryRun = false
+	return apply(result, *rootDir)
 }
 
 func update(cfg *Config) error {
