@@ -179,7 +179,7 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 	}
 	for _, mg := range cfg.MeetupGroups {
 		mgStat := MeetupStats{}
-		mgStat.Members = mg.Members
+		mgStat.Members = mg.members
 		totalAttendees := uint64(0)
 		// allAttendees maps an user ID to the amount of RSVPs for that user
 		allAttendees := map[uint64]uint64{}

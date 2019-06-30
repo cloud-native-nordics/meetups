@@ -188,7 +188,6 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 type MeetupGroup struct {
 	MeetupID        string     `json:"meetupID"`
 	Name            string     `json:"name"`
-	Members         uint64     `json:"members"`
 	Photo           string     `json:"photo,omitempty"`
 	City            string     `json:"city"`
 	Country         string     `json:"country"`
@@ -196,6 +195,8 @@ type MeetupGroup struct {
 	Meetups         MeetupList `json:"meetups"`
 	IgnoreMeetupIDs []uint64   `json:"ignoreMeetupIDs,omitempty"`
 	CFP             string     `json:"cfp,omitempty"`
+
+	members uint64
 }
 
 // CityLowercase gets the lowercase variant of the city

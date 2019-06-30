@@ -36,11 +36,11 @@ func run() error {
 	if err != nil {
 		return err
 	}
-	if *statsFlag {
-		return writeStats(cfg)
-	}
 	if err := update(cfg); err != nil {
 		return err
+	}
+	if *statsFlag {
+		return writeStats(cfg)
 	}
 	out, err := exec(cfg)
 	if err != nil {
@@ -222,7 +222,7 @@ func update(cfg *Config) error {
 			if err != nil {
 				return err
 			}
-			cfg.MeetupGroups[i].Members = data.Members
+			cfg.MeetupGroups[i].members = data.Members
 			cfg.MeetupGroups[i].Photo = data.Photo.Link
 		}
 		for _, s := range mg.Organizers {
