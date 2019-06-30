@@ -2228,7 +2228,6 @@
     {
       "meetupID": "Cloud-Native-Aarhus",
       "name": "Cloud Native Aarhus",
-      "members": 806,
       "city": "Aarhus",
       "country": "denmark",
       "organizers": [
@@ -2318,7 +2317,6 @@
           "name": "Cloud Native Aarhus Field Trip: LEGO House",
           "date": "2019-09-03T16:00:00Z",
           "duration": "5h45m0s",
-          "attendees": 70,
           "address": "Ole Kirks Plads 1",
           "sponsors": {
             "venue": {
@@ -2339,7 +2337,6 @@
           "name": "Versioning in a Cloud Native landscape",
           "date": "2019-08-08T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 35,
           "address": "Søren Frichs Vej 39",
           "sponsors": {
             "venue": {
@@ -5068,7 +5065,6 @@
     {
       "meetupID": "Cloud-Native-Copenhagen",
       "name": "Cloud Native Copenhagen",
-      "members": 669,
       "city": "Copenhagen",
       "country": "denmark",
       "organizers": [
@@ -5136,7 +5132,6 @@
           "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
           "date": "2019-08-21T17:00:00Z",
           "duration": "3h0m0s",
-          "attendees": 51,
           "address": "Langebrogade 1",
           "sponsors": {
             "venue": null,
@@ -5840,7 +5835,6 @@
     {
       "meetupID": "Kubernetes-Finland",
       "name": "CNCF \u0026 Kubernetes Finland",
-      "members": 742,
       "photo": "https://secure.meetupstatic.com/photos/event/3/b/6/c/highres_463215212.jpeg",
       "city": "Helsinki",
       "country": "finland",
@@ -7418,7 +7412,6 @@
     {
       "meetupID": "sthlm-k8s",
       "name": "Stockholm Kubernetes and Cloud Native Computing",
-      "members": 635,
       "photo": "https://secure.meetupstatic.com/photos/event/1/a/9/0/highres_469446800.jpeg",
       "city": "Stockholm",
       "country": "sweden",
@@ -7645,7 +7638,6 @@
     {
       "meetupID": "Kubernetes-Tampere",
       "name": "CNCF \u0026 Kubernetes Tampere",
-      "members": 151,
       "photo": "https://secure.meetupstatic.com/photos/event/2/0/4/f/highres_477548271.jpeg",
       "city": "Tampere",
       "country": "finland",

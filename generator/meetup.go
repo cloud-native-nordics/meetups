@@ -69,7 +69,6 @@ func setMeetupData(cfg *Config) error {
 				}
 				meetup.Name = ev.Name
 				meetup.Address = ev.Venue.Address
-				meetup.Attendees = ev.RVSPs
 				meetup.Duration = Duration{time.Duration(ev.Duration * 1000 * 1000)}
 				dateTime := fmt.Sprintf("%sT%s:00Z", ev.Date, ev.Time)
 				d, err := time.Parse(time.RFC3339, dateTime)
@@ -77,6 +76,13 @@ func setMeetupData(cfg *Config) error {
 					return err
 				}
 				meetup.Date = Time{d}
+
+				if time.Now().UTC().After(d) {
+					meetup.Attendees = ev.RVSPs
+				} else {
+					meetup.Attendees = 0
+				}
+
 				cfg.MeetupGroups[i].Meetups[j] = meetup
 			}
 		}
@@ -173,15 +179,17 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 	}
 	for _, mg := range cfg.MeetupGroups {
 		mgStat := MeetupStats{}
-		mgStat.Members = mg.Members
+		mgStat.Members = mg.members
 		totalAttendees := uint64(0)
 		// allAttendees maps an user ID to the amount of RSVPs for that user
 		allAttendees := map[uint64]uint64{}
+		priorMeetups := uint64(0)
 		for _, m := range mg.Meetups {
-			totalAttendees += m.Attendees
 			if m.Date.UTC().After(time.Now().UTC()) {
 				continue
 			}
+			priorMeetups++
+			totalAttendees += m.Attendees
 
 			attendance, err := GetAttendanceList(mg.MeetupID, m.ID)
 			if err != nil {
@@ -200,7 +208,7 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 			}
 		}
 		mgStat.Attendees = totalAttendees
-		mgStat.Meetups = uint64(len(mg.Meetups))
+		mgStat.Meetups = priorMeetups
 		mgStat.AverageAttendees = uint64(math.Floor(float64(mgStat.Attendees / mgStat.Meetups)))
 		for _, num := range allAttendees {
 			mgStat.UniqueAttendees += num
