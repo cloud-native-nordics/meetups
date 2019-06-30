@@ -70,42 +70,30 @@ meetups:
   name: Windows containers, Kubernetes in the enterprise
   presentations:
   - duration: 20m0s
-    endTime: "17:20"
     slides: ""
     speakers: null
-    startTime: "17:00"
     title: Gates open
   - duration: 40m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - hans
-    startTime: "17:20"
     title: The state of Windows & Kubernetes, with an Azure flavor
   - duration: 20m0s
-    endTime: "18:20"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break
   - duration: 40m0s
-    endTime: "19:00"
     slides: ""
     speakers:
     - jeppe
-    startTime: "18:20"
     title: From mainframe to Kubernetes
   - duration: 1h0m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:00"
     title: Networking
   - duration: 0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Goodbye
   sponsors:
     other: null
@@ -118,69 +106,49 @@ meetups:
   name: Let's warm-up before KubeCon-CloudNativeCon!
   presentations:
   - duration: 10m0s
-    endTime: "17:40"
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Welcome
   - duration: 15m0s
-    endTime: "17:55"
     slides: ""
     speakers:
     - craig
-    startTime: "17:40"
     title: 'Kubernetes Registry: what it is and why it''s important'
   - duration: 15m0s
-    endTime: "18:10"
     slides: ""
     speakers:
     - sami
-    startTime: "17:55"
     title: Automating Helm deployments to Kubernetes with Helmsman
   - duration: 30m0s
-    endTime: "18:40"
     slides: ""
     speakers: null
-    startTime: "18:10"
     title: Break with sandwiches
   - duration: 15m0s
-    endTime: "18:55"
     slides: ""
     speakers:
     - justin
-    startTime: "18:40"
     title: Serverless Containers with Azure Container Instances
   - duration: 15m0s
-    endTime: "19:10"
     slides: ""
     speakers:
     - guus
-    startTime: "18:55"
     title: Machine API - An easier way to manage nodes in Kubernetes
   - duration: 15m0s
-    endTime: "19:25"
     slides: ""
     speakers: null
-    startTime: "19:10"
     title: Break
   - duration: 35m0s
-    endTime: "20:00"
     slides: ""
     speakers:
     - ihor
-    startTime: "19:25"
     title: Panel Discussion moderated by Ihor Dvoretskyi
   - duration: 30m0s
-    endTime: "20:30"
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Time to mingle
   - duration: 0s
-    endTime: "20:30"
     slides: ""
     speakers: null
-    startTime: "20:30"
     title: Goodbye and see you at KubeCon!
   sponsors:
     other: null
@@ -193,42 +161,30 @@ meetups:
   name: 'Expert night: bare metal and chaos engineering'
   presentations:
   - duration: 30m0s
-    endTime: "17:30"
     slides: ""
     speakers: null
-    startTime: "17:00"
     title: Gates open
   - duration: 5m0s
-    endTime: "17:35"
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Welcome
   - duration: 40m0s
-    endTime: "18:15"
     slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf
     speakers:
     - hans
-    startTime: "17:35"
     title: Network Services on Kubernetes on-premise
   - duration: 15m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:15"
     title: Break
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - martin
-    startTime: "18:30"
     title: Chaos Engineering
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Community chats
   sponsors:
     other: null
@@ -241,44 +197,32 @@ meetups:
   name: 'Lab session: How to Kubernetes?'
   presentations:
   - duration: 30m0s
-    endTime: "17:30"
     slides: ""
     speakers: null
-    startTime: "17:00"
     title: Doors open
   - duration: 15m0s
-    endTime: "17:45"
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Welcome
   - duration: 45m0s
-    endTime: "18:30"
     slides: ""
     speakers:
     - laszlo
     - david
-    startTime: "17:45"
     title: 'First session: foundations of Kubernetes and its primitives'
   - duration: 30m0s
-    endTime: "19:00"
     slides: ""
     speakers: null
-    startTime: "18:30"
     title: Food break and socializing
   - duration: 1h0m0s
-    endTime: "20:00"
     slides: ""
     speakers:
     - laszlo
     - david
-    startTime: "19:00"
     title: 'Second session: let''s deploy'
   - duration: 0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Goodbye
   sponsors:
     other: null
@@ -291,54 +235,38 @@ meetups:
   name: Let's kick-off Cloud Native Copenhagen!
   presentations:
   - duration: 20m0s
-    endTime: "17:20"
     slides: ""
     speakers: null
-    startTime: "17:00"
     title: Doors open
   - duration: 10m0s
-    endTime: "17:30"
     slides: ""
     speakers: null
-    startTime: "17:20"
     title: Welcome from Cloud Native Copenhagen
   - duration: 10m0s
-    endTime: "17:40"
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Welcome from TwentyThree
   - duration: 30m0s
-    endTime: "18:10"
     slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
     speakers:
     - laszlo
-    startTime: "17:40"
     title: What is Cloud Native?
   - duration: 30m0s
-    endTime: "18:40"
     slides: ""
     speakers: null
-    startTime: "18:10"
     title: Food break - group discussions
   - duration: 30m0s
-    endTime: "19:10"
     slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf
     speakers:
     - ewelina
-    startTime: "18:40"
     title: Jenkins as Code
   - duration: 50m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:10"
     title: Group discussions - continued
   - duration: 0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Gates close
   sponsors:
     other: null

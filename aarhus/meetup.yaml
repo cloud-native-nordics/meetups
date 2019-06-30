@@ -30,43 +30,31 @@ meetups:
   name: Cloud Native Streaming with Apache Flink and a Fairytale of Databases
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - rasmussteiniche
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome to JYSK
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - lassenedergaard
-    startTime: "17:15"
     title: Cloud Native Streaming with Apache Flink
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Food and break
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - sorenmathiasen
-    startTime: "18:30"
     title: A Fairytale of Databases
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Discussions and networking
   sponsors:
     other: null
@@ -80,37 +68,27 @@ meetups:
   presentations:
   - delay: 30m0s
     duration: 15m0s
-    endTime: "17:15"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus, OrbitLab, and Tradeshift
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - henrikhoegh
-    startTime: "17:15"
     title: Manage your Cloud Native secrets with Vault
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Food and break
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - henningjacobs
-    startTime: "18:30"
     title: Kubernetes Failure Stories and How to Crash Your Clusters
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Discussions and networking
   sponsors:
     other:
@@ -125,47 +103,34 @@ meetups:
   presentations:
   - delay: 15m0s
     duration: 5m0s
-    endTime: "16:50"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "16:45"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "17:00"
     slides: ""
     speakers:
     - mikerostermund
     - steffanlund
-    startTime: "16:50"
     title: Prometheus experience report from Schneider Electric
   - duration: 30m0s
-    endTime: "17:30"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Introduction to Prometheus
   - duration: 30m0s
-    endTime: "18:00"
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Workshop
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break and food
   - duration: 30m0s
-    endTime: "19:00"
     slides: ""
     speakers: null
-    startTime: "18:30"
     title: Workshop
   - duration: 30m0s
-    endTime: "19:30"
     slides: ""
     speakers:
     - emilingerslev
@@ -174,14 +139,11 @@ meetups:
     - steffanlund
     - andreipredoiu
     - kaspernissen
-    startTime: "19:00"
     title: Panel and Open Space Discussion about Monitoring
   - delay: 30m0s
     duration: -30m0s
-    endTime: "19:30"
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: 2 years of Cloud Native Aarhus celebration with cake
   sponsors:
     other: null
@@ -194,46 +156,34 @@ meetups:
   name: From Mainframe to Cloud Native and State of Windows Containers and Kubernetes
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus
   - delay: -1m0s
     duration: 11m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:04"
     title: Welcome to MobilePay by Rune Birkemose Jakobsen
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - martinankerhave
     - mathiashermann
     - renerotvigjensen
-    startTime: "17:15"
     title: MobilePay from mainframe to Cloud Native and everything in between
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Food and break
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - hans
-    startTime: "18:30"
     title: The state of Windows & Kubernetes, with an Azure flavor
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Discussions and networking
   sponsors:
     other: null
@@ -246,52 +196,38 @@ meetups:
   name: 'Cloud Native Aarhus Hack Nights: Kubernetes 101'
   presentations:
   - duration: 5m0s
-    endTime: "16:35"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "16:30"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "16:45"
     slides: ""
     speakers:
     - henrikhoegh
-    startTime: "16:35"
     title: Mr. Panda's Motivational Magic Show
   - duration: 30m0s
-    endTime: "17:15"
     slides: ""
     speakers:
     - henrikhoegh
     - kaspernissen
     - danielfly
     - rasmussteiniche
-    startTime: "16:45"
     title: Introduction to Kubernetes and workshops
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers: null
-    startTime: "17:15"
     title: Workshop
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Food and break
   - duration: 30m0s
-    endTime: "19:00"
     slides: ""
     speakers: null
-    startTime: "18:30"
     title: Workshop
   - duration: 1h0m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:00"
     title: Raffle and networking
   sponsors:
     other:
@@ -305,45 +241,33 @@ meetups:
   name: 'Cloud Native Stories: TV 2 Play & Spar Nord Bank'
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome from Spar Nord Bank
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - camillalarsen
     - rasmusroemer
-    startTime: "17:15"
     title: The DevOps story, from Spar Nord Bank. A glimpse, of the success stories
       and detours we have experienced, during the past years
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Food and break
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - martinvillumsen
-    startTime: "18:30"
     title: TV 2 Play’s Journey to the Cloud
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Discussions and networking
   sponsors:
     other: null
@@ -356,67 +280,49 @@ meetups:
   name: 'Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects '
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - danielfly
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers:
     - henrikhoegh
-    startTime: "17:05"
     title: Welcome from Praqma
   - duration: 15m0s
-    endTime: "17:30"
     slides: ""
     speakers:
     - mikerostermund
-    startTime: "17:15"
     title: Virtual Kubelet
   - duration: 15m0s
-    endTime: "17:45"
     slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/nats.pdf
     speakers:
     - benjaminnorgaard
-    startTime: "17:30"
     title: NATS
   - duration: 15m0s
-    endTime: "18:00"
     slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/ROOK-Storage-the-Cloud-Native-Way.pdf
     speakers:
     - michaelvittruplarsen
-    startTime: "17:45"
     title: Rook
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Food and break
   - duration: 15m0s
-    endTime: "18:45"
     slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/envoy-proxy-introduction.pdf
     speakers:
     - martinjensen
-    startTime: "18:30"
     title: Envoy
   - delay: -15m0s
     duration: 15m0s
-    endTime: "18:45"
     slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/linkerd-2-introduction.pdf
     speakers:
     - bjornsorensen
-    startTime: "18:30"
     title: Linkerd
   - delay: 15m0s
     duration: 1h0m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:00"
     title: Discussions and networking
   sponsors:
     other: null
@@ -429,44 +335,32 @@ meetups:
   name: 'Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD'
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - rasmussteiniche
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome to BESTSELLER by Paul Skarregaard
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - emilingerslev
-    startTime: "17:15"
     title: Cloud Native CI/CD at Lunar Way
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Food and break
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - christianselech
-    startTime: "18:30"
     title: A Cloud Native data platform in both batch and real-time for Business Intelligence,
       Data Science and system-integrations
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Discussions and networking
   sponsors:
     other: null
@@ -479,48 +373,34 @@ meetups:
   name: From Mainframe to Kubernetes / CloudNativeCon+KubeCon Keynotes Live Stream
   presentations:
   - duration: 15m0s
-    endTime: "16:45"
     slides: ""
     speakers: null
-    startTime: "16:30"
     title: Doors open
   - duration: 5m0s
-    endTime: "16:50"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "16:45"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "17:00"
     slides: ""
     speakers: null
-    startTime: "16:50"
     title: Welcome to Trifork by Morten Kjær Pedersen
   - duration: 45m0s
-    endTime: "17:45"
     slides: ""
     speakers:
     - jeppejohansen
-    startTime: "17:00"
     title: From Mainframe to Kubernetes
   - duration: 15m0s
-    endTime: "18:00"
     slides: ""
     speakers: null
-    startTime: "17:45"
     title: Food and Christmas Beers
   - duration: 1h30m0s
-    endTime: "19:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Day 1 Keynote Live Stream from CloudNativeCon+KubeCon Nort America
   - duration: 30m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:30"
     title: Discussions and networking
   sponsors:
     other: null
@@ -533,56 +413,40 @@ meetups:
   name: '10th Meet-up Anniversary Edition: Cloud Native with Zalando and Uber'
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - rasmussteiniche
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome to Uber by Kåre Kjelstrøm
   - duration: 30m0s
-    endTime: "17:45"
     slides: ""
     speakers:
     - magnusvinther
-    startTime: "17:15"
     title: How we store blobs at Uber
   - duration: 30m0s
-    endTime: "18:15"
     slides: ""
     speakers: null
-    startTime: "17:45"
     title: Break and food
   - duration: 30m0s
-    endTime: "18:45"
     slides: ""
     speakers:
     - mikkeloscarlarsen
-    startTime: "18:15"
     title: Cloud Native Infrastructure @ Zalando
   - duration: 30m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - mikkeloscarlarsen
-    startTime: "18:45"
     title: 'StackSets: Simplifying application management in Kubernetes'
   - duration: 5m0s
-    endTime: "19:20"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: 10th Meet-up Anniversary Raffle (there will be swag)
   - duration: 40m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:20"
     title: Discussions and networking
   sponsors:
     other: null
@@ -595,43 +459,31 @@ meetups:
   name: A Cloud Native Evening with Microsoft
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus
   - duration: 15m0s
-    endTime: "17:20"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome to First Agenda by CTO Peter Kondrup
   - duration: 40m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - gustavkaleta
-    startTime: "17:20"
     title: Part 1
   - duration: 20m0s
-    endTime: "18:20"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break and food
   - duration: 40m0s
-    endTime: "19:00"
     slides: ""
     speakers:
     - gustavkaleta
-    startTime: "18:20"
     title: Part 2
   - duration: 1h0m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:00"
     title: Discussions and networking
   sponsors:
     other: null
@@ -644,49 +496,35 @@ meetups:
   name: 'Cloud Native Aarhus #8: Humio + k8s, Minecraft + k8s, and Observability Panel'
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome to Systematic
   - duration: 35m0s
-    endTime: "17:50"
     slides: ""
     speakers:
     - petermechlenborg
-    startTime: "17:15"
     title: Shipping logs from k8s to Humio
   - duration: 10m0s
-    endTime: "18:00"
     slides: ""
     speakers: null
-    startTime: "17:50"
     title: Short break
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers:
     - henrikhoegh
-    startTime: "18:00"
     title: Minecraft server in Kubernetes
   - duration: 30m0s
-    endTime: "19:00"
     slides: ""
     speakers: null
-    startTime: "18:30"
     title: Observability Panel Discussion and Q&A
   - duration: 1h0m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:00"
     title: Food and networking
   sponsors:
     other: null
@@ -699,44 +537,32 @@ meetups:
   name: 'Cloud Native Aarhus #7: Transition to Cloud Native & Microservices'
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome to Cloud Native Aarhus
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers:
     - rasmussteiniche
-    startTime: "17:05"
     title: Welcome to BESTSELLER
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - peterbroendum
-    startTime: "17:15"
     title: Traditional Ops to Cloud Native
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break and food
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - thomasboeghfangel
-    startTime: "18:30"
     title: Our road to microservices - or how we learned to love async events
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Networking
   sponsors:
     other: null
@@ -749,43 +575,31 @@ meetups:
   name: 'Cloud Native Aarhus #6: Prometheus & Helm'
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome to BoligPortal by Karsten Røjkær Børglum
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - rasmussteiniche
-    startTime: "17:15"
     title: Prometheus 101 - How to get started
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break and food
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - nicolaikobber
-    startTime: "18:30"
     title: Introduction to Helm - The Kubernetes Package Manager
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Networking
   sponsors:
     other: null
@@ -798,17 +612,13 @@ meetups:
   name: Cloud Native Workshop and Networking
   presentations:
   - duration: 30m0s
-    endTime: "17:30"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome and introduction to Kubernetes with a Raspberry Pi cluster
   - duration: 2h30m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Workshop, discussions, "Cloud Native Workshop and Networking"
   sponsors:
     other: null
@@ -822,56 +632,40 @@ meetups:
   presentations:
   - delay: -30m0s
     duration: 30m0s
-    endTime: "17:00"
     slides: ""
     speakers: null
-    startTime: "16:30"
     title: Doors open
   - duration: 10m0s
-    endTime: "17:10"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome to the last CNAa of the year and KubeCon Day 1 recap
   - duration: 5m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:10"
     title: Welcome to Uber, Kåre Kjelstrøm
   - duration: 20m0s
-    endTime: "17:35"
     slides: ""
     speakers:
     - jeppehansen
-    startTime: "17:15"
     title: 'ObjectConfig: Dynamic configuration at Uber'
   - duration: 25m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - mathiasbakberthelsen
-    startTime: "17:35"
     title: Opentracing, and Uber's implementation Jaeger
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break and food
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - davidchristensen
-    startTime: "18:30"
     title: DevOps culture and CICD best practices
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Networking
   sponsors:
     other: null
@@ -884,43 +678,31 @@ meetups:
   name: 'Cloud Native Aarhus #3'
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - danielfly
-    startTime: "17:00"
     title: Welcome
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome to IT Minds by Henning Christensen
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - martinjensen
-    startTime: "17:15"
     title: Adopting Go at Lunar Way
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break with snacks, cheese, and wine
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "18:30"
     title: Istio Service Mesh Free styling
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Networking
   sponsors:
     other: null
@@ -933,43 +715,31 @@ meetups:
   name: 'Cloud Native Aarhus #2'
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome to Stibo Systems
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - torbenhaagh
-    startTime: "17:15"
     title: A way to micro services
   - duration: 30m0s
-    endTime: "18:30"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break and sandwiches
   - duration: 45m0s
-    endTime: "19:15"
     slides: ""
     speakers:
     - henrikhoegh
-    startTime: "18:30"
     title: Kubernetes
   - duration: 45m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Networking
   sponsors:
     other: null
@@ -982,43 +752,31 @@ meetups:
   name: 'Cloud Native Aarhus #2'
   presentations:
   - duration: 5m0s
-    endTime: "17:05"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:00"
     title: Welcome
   - duration: 10m0s
-    endTime: "17:15"
     slides: ""
     speakers: null
-    startTime: "17:05"
     title: Welcome to Lunar Way by Troels Richter
   - duration: 45m0s
-    endTime: "18:00"
     slides: ""
     speakers:
     - kaspernissen
-    startTime: "17:15"
     title: Lunar Way and the Cloud Native Stack
   - duration: 15m0s
-    endTime: "18:15"
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break and sandwiches
   - duration: 45m0s
-    endTime: "19:00"
     slides: ""
     speakers:
     - danielfly
-    startTime: "18:15"
     title: Empowering your local environment with containers
   - duration: 1h0m0s
-    endTime: "20:00"
     slides: ""
     speakers: null
-    startTime: "19:00"
     title: Networking
   sponsors:
     other: null
