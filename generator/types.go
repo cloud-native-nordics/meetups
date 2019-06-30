@@ -226,6 +226,8 @@ func (m *Meetup) DateTime() string {
 }
 
 type Presentation struct {
+	Duration  Duration   `json:"duration"`
+	Delay     *Duration  `json:"delay,omitempty"`
 	StartTime string     `json:"startTime"`
 	EndTime   string     `json:"endTime"`
 	Title     string     `json:"title"`

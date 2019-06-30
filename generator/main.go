@@ -202,7 +202,11 @@ func update(cfg *Config) error {
 		for _, s := range mg.Organizers {
 			cfg.SetSpeakerCountry(s, mg.Country)
 		}
-		for _, m := range mg.Meetups {
+		for j := range mg.Meetups {
+			m := &mg.Meetups[j]
+			if err := setPresentationDurations(m); err != nil {
+				return err
+			}
 			for _, pres := range m.Presentations {
 				for _, s := range pres.Speakers {
 					cfg.SetSpeakerCountry(s, mg.Country)
