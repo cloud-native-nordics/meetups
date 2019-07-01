@@ -5,7 +5,7 @@ meetups:
 - address: Kungsportsavenyen 33
   attendees: 45
   date: "2019-05-09T18:00:00Z"
-  duration: 3h0m0s
+  duration: 2h0m0s
   id: 260863253
   name: 18 months of kubernetes in production and learning
   presentations:
@@ -36,7 +36,7 @@ meetups:
   id: 256374545
   name: Serverless med Knative
   presentations:
-  - duration: 60m0s
+  - duration: 1h0m0s
     slides: ""
     speakers: null
     title: Staffan Olsson - Demo av Knative
@@ -50,10 +50,11 @@ meetups:
   id: 242830009
   name: Metrics och alarm med Prometheus
   presentations:
-  - duration: 60m0s
+  - duration: 1h0m0s
     slides: ""
     speakers: null
-    title: Karl Bergström - Hur monitorerar man, med hjälp av Prometheus, kubernetes status & metrics?
+    title: Karl Bergström - Hur monitorerar man, med hjälp av Prometheus, kubernetes
+      status & metrics?
   sponsors:
     other: null
     venue: null
@@ -64,14 +65,44 @@ meetups:
   id: 241821276
   name: Var med och sänk ett kluster!
   presentations:
-  - duration: 60m0s
+  - duration: 1h0m0s
     slides: ""
     speakers: null
     title: Staffan Olsson - Vad händer när 100 tjänster delar på 10 noder?
   sponsors:
     other: null
     venue: null
+- address: Holtermansgatan 1 D
+  attendees: 30
+  date: "2017-03-01T17:15:00Z"
+  duration: 1h45m0s
+  id: 235779397
+  name: StatefulSet och volymer, eller?
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: ""
+  attendees: 34
+  date: "2016-12-14T17:00:00Z"
+  duration: 2h0m0s
+  id: 235779214
+  name: Kom igång med Kubernetes - och meetup Götet
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: ""
+  attendees: 8
+  date: "2016-11-30T11:30:00Z"
+  duration: 1h30m0s
+  id: 235779901
+  name: Organisatörslunch
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 name: Kubernetes Göteborg
 organizers:
 - jessicaandersson
-photo: https://secure.meetupstatic.com/photos/event/b/9/a/b/600_482747531.jpeg
+photo: https://secure.meetupstatic.com/photos/event/b/9/a/b/highres_482747531.jpeg
