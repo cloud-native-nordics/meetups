@@ -267,10 +267,25 @@ sponsors:
   whiteLogo: true
 - countries:
   - finland
+  - sweden
   id: meltwater
   logoURL: https://d1bile9su2eskg.cloudfront.net/wp-content/themes/meltwater/images/sprites/logo_white.png
   name: Meltwater
   websiteURL: https://underthehood.meltwater.com/
+  whiteLogo: true
+- countries:
+  - sweden
+  id: pagero
+  logoURL: https://mk0pagerolwgibgwnjg6.kinstacdn.com/wp-content/uploads/Pagero-Logotype.jpg
+  name: Pagero
+  websiteURL: https://www.pagero.se
+  whiteLogo: true
+- countries:
+  - sweden
+  id: yolean
+  logoURL: https://www.yolean.com/wp-content/uploads/2017/06/yolean-logo.png
+  name: Yolean
+  websiteURL: https://www.yolean.com/
   whiteLogo: true
 - countries:
   - denmark
