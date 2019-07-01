@@ -19,10 +19,16 @@
 
  - 18:00 - 18:30: Getting Developers to Adopt Your Service 
    - Jessica Andersson, Meltwater
+   - Slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
+   - Recording: https://youtu.be/EpIgwYQlp4c
  - 18:35 - 19:05: Knowing what your Kubernetes cluster is doing 
    - Federico Hernandez, Meltwater
+   - Slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-knowing-what-your-kubernetes-cluster-is-doing.pdf
+   - Recording: https://youtu.be/EpIgwYQlp4c
  - 19:10 - 19:20: Zero downtime upgrades of Kubernetes 
    - Simone Sciarrati, Meltwater
+   - Slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-zero-downtime-kubernetes-cluster-upgrades.pdf
+   - Recording: https://youtu.be/EpIgwYQlp4c
 
 ### Serverless med Knative
 

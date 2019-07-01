@@ -6106,7 +6106,8 @@
             {
               "duration": "30m0s",
               "title": "Getting Developers to Adopt Your Service",
-              "slides": "",
+              "slides": "https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf",
+              "recording": "https://youtu.be/EpIgwYQlp4c",
               "speakers": [
                 {
                   "id": "jessicaandersson",
@@ -6136,7 +6137,8 @@
               "duration": "30m0s",
               "delay": "5m0s",
               "title": "Knowing what your Kubernetes cluster is doing",
-              "slides": "",
+              "slides": "https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-knowing-what-your-kubernetes-cluster-is-doing.pdf",
+              "recording": "https://youtu.be/EpIgwYQlp4c",
               "speakers": [
                 {
                   "id": "federicohernandez",
@@ -6165,7 +6167,8 @@
               "duration": "10m0s",
               "delay": "5m0s",
               "title": "Zero downtime upgrades of Kubernetes",
-              "slides": "",
+              "slides": "https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-zero-downtime-kubernetes-cluster-upgrades.pdf",
+              "recording": "https://youtu.be/EpIgwYQlp4c",
               "speakers": [
                 {
                   "id": "simonesciarrati",
