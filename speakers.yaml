@@ -226,6 +226,46 @@ speakers:
   id: simonesciarrati
   name: Simone Sciarrati
   speakersBureau: ""
+- company: yolean
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: staffanolsson
+  name: Staffan Olsson
+  speakersBureau: ""
+- company: yolean
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: antonlindgren
+  name: Anton Lindgren
+  speakersBureau: ""
+- company: pagero
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: peterrosell
+  name: Peter Rosell
+  speakersBureau: ""
+- company: null
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: jacobhagstedtpsuorra
+  name: Jacob Hagstedt P Suorra
+  speakersBureau: ""
+- company: null
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: karlbergstrom
+  name: Karl Bergström
+  speakersBureau: ""
 - company: nordcloud
   countries:
   - finland

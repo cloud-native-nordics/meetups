@@ -3,6 +3,10 @@
 #### Organizers
 
  - Jessica Andersson, [Meltwater](https://underthehood.meltwater.com/)
+ - Staffan Olsson, [Yolean](https://www.yolean.com/)
+ - Peter Rosell, [Pagero](https://www.pagero.se)
+ - Anton Lindgren, [Yolean](https://www.yolean.com/)
+ - Jacob Hagstedt P Suorra
 
 ### 18 months of kubernetes in production and learning
 
@@ -15,9 +19,9 @@
 
  - 18:00 - 18:30: Getting Developers to Adopt Your Service 
    - Jessica Andersson, Meltwater
- - 18:35 - 19:05: Federico Hernandez - Knowing what your Kubernetes cluster is doing 
+ - 18:35 - 19:05: Knowing what your Kubernetes cluster is doing 
    - Federico Hernandez, Meltwater
- - 19:10 - 19:20: Simone Sciarrati - Zero downtime upgrades of Kubernetes 
+ - 19:10 - 19:20: Zero downtime upgrades of Kubernetes 
    - Simone Sciarrati, Meltwater
 
 ### Serverless med Knative
@@ -29,7 +33,8 @@
 
 #### Agenda
 
- - 17:00 - 18:00: Staffan Olsson - Demo av Knative 
+ - 17:00 - 18:00: Demo av Knative 
+   - Staffan Olsson, Yolean
 
 ### Metrics och alarm med Prometheus
 
@@ -40,7 +45,8 @@
 
 #### Agenda
 
- - 17:00 - 18:00: Karl Bergström - Hur monitorerar man, med hjälp av Prometheus, kubernetes status & metrics? 
+ - 17:00 - 18:00: Hur monitorerar man, med hjälp av Prometheus, kubernetes status & metrics? 
+   - Karl Bergström
 
 ### Var med och sänk ett kluster!
 
@@ -51,7 +57,8 @@
 
 #### Agenda
 
- - 17:00 - 18:00: Staffan Olsson - Vad händer när 100 tjänster delar på 10 noder? 
+ - 17:00 - 18:00: Vad händer när 100 tjänster delar på 10 noder? 
+   - Staffan Olsson, Yolean
 
 ### StatefulSet och volymer, eller?
 

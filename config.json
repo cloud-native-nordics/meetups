@@ -1295,6 +1295,88 @@
       "speakersBureau": ""
     },
     {
+      "id": "staffanolsson",
+      "name": "Staffan Olsson",
+      "email": "",
+      "company": {
+        "id": "yolean",
+        "name": "Yolean",
+        "websiteURL": "https://www.yolean.com/",
+        "logoURL": "https://www.yolean.com/wp-content/uploads/2017/06/yolean-logo.png",
+        "whiteLogo": true,
+        "countries": [
+          "sweden"
+        ]
+      },
+      "countries": [
+        "sweden"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "antonlindgren",
+      "name": "Anton Lindgren",
+      "email": "",
+      "company": {
+        "id": "yolean",
+        "name": "Yolean",
+        "websiteURL": "https://www.yolean.com/",
+        "logoURL": "https://www.yolean.com/wp-content/uploads/2017/06/yolean-logo.png",
+        "whiteLogo": true,
+        "countries": [
+          "sweden"
+        ]
+      },
+      "countries": [
+        "sweden"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "peterrosell",
+      "name": "Peter Rosell",
+      "email": "",
+      "company": {
+        "id": "pagero",
+        "name": "Pagero",
+        "websiteURL": "https://www.pagero.se",
+        "logoURL": "https://mk0pagerolwgibgwnjg6.kinstacdn.com/wp-content/uploads/Pagero-Logotype.jpg",
+        "whiteLogo": true,
+        "countries": [
+          "sweden"
+        ]
+      },
+      "countries": [
+        "sweden"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "jacobhagstedtpsuorra",
+      "name": "Jacob Hagstedt P Suorra",
+      "email": "",
+      "company": null,
+      "countries": [
+        "sweden"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "karlbergstrom",
+      "name": "Karl Bergström",
+      "email": "",
+      "company": null,
+      "countries": [
+        "sweden"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
       "id": "piotr",
       "name": "Piotr Kieszczyński",
       "email": "",
@@ -5925,6 +6007,77 @@
           ],
           "github": "",
           "speakersBureau": ""
+        },
+        {
+          "id": "staffanolsson",
+          "name": "Staffan Olsson",
+          "email": "",
+          "company": {
+            "id": "yolean",
+            "name": "Yolean",
+            "websiteURL": "https://www.yolean.com/",
+            "logoURL": "https://www.yolean.com/wp-content/uploads/2017/06/yolean-logo.png",
+            "whiteLogo": true,
+            "countries": [
+              "sweden"
+            ]
+          },
+          "countries": [
+            "sweden"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        },
+        {
+          "id": "peterrosell",
+          "name": "Peter Rosell",
+          "email": "",
+          "company": {
+            "id": "pagero",
+            "name": "Pagero",
+            "websiteURL": "https://www.pagero.se",
+            "logoURL": "https://mk0pagerolwgibgwnjg6.kinstacdn.com/wp-content/uploads/Pagero-Logotype.jpg",
+            "whiteLogo": true,
+            "countries": [
+              "sweden"
+            ]
+          },
+          "countries": [
+            "sweden"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        },
+        {
+          "id": "antonlindgren",
+          "name": "Anton Lindgren",
+          "email": "",
+          "company": {
+            "id": "yolean",
+            "name": "Yolean",
+            "websiteURL": "https://www.yolean.com/",
+            "logoURL": "https://www.yolean.com/wp-content/uploads/2017/06/yolean-logo.png",
+            "whiteLogo": true,
+            "countries": [
+              "sweden"
+            ]
+          },
+          "countries": [
+            "sweden"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        },
+        {
+          "id": "jacobhagstedtpsuorra",
+          "name": "Jacob Hagstedt P Suorra",
+          "email": "",
+          "company": null,
+          "countries": [
+            "sweden"
+          ],
+          "github": "",
+          "speakersBureau": ""
         }
       ],
       "meetups": [
@@ -5982,7 +6135,7 @@
             {
               "duration": "30m0s",
               "delay": "5m0s",
-              "title": "Federico Hernandez - Knowing what your Kubernetes cluster is doing",
+              "title": "Knowing what your Kubernetes cluster is doing",
               "slides": "",
               "speakers": [
                 {
@@ -6011,7 +6164,7 @@
             {
               "duration": "10m0s",
               "delay": "5m0s",
-              "title": "Simone Sciarrati - Zero downtime upgrades of Kubernetes",
+              "title": "Zero downtime upgrades of Kubernetes",
               "slides": "",
               "speakers": [
                 {
@@ -6053,9 +6206,30 @@
           "presentations": [
             {
               "duration": "1h0m0s",
-              "title": "Staffan Olsson - Demo av Knative",
+              "title": "Demo av Knative",
               "slides": "",
-              "speakers": null
+              "speakers": [
+                {
+                  "id": "staffanolsson",
+                  "name": "Staffan Olsson",
+                  "email": "",
+                  "company": {
+                    "id": "yolean",
+                    "name": "Yolean",
+                    "websiteURL": "https://www.yolean.com/",
+                    "logoURL": "https://www.yolean.com/wp-content/uploads/2017/06/yolean-logo.png",
+                    "whiteLogo": true,
+                    "countries": [
+                      "sweden"
+                    ]
+                  },
+                  "countries": [
+                    "sweden"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
             }
           ]
         },
@@ -6073,9 +6247,21 @@
           "presentations": [
             {
               "duration": "1h0m0s",
-              "title": "Karl Bergström - Hur monitorerar man, med hjälp av Prometheus, kubernetes status \u0026 metrics?",
+              "title": "Hur monitorerar man, med hjälp av Prometheus, kubernetes status \u0026 metrics?",
               "slides": "",
-              "speakers": null
+              "speakers": [
+                {
+                  "id": "karlbergstrom",
+                  "name": "Karl Bergström",
+                  "email": "",
+                  "company": null,
+                  "countries": [
+                    "sweden"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
             }
           ]
         },
@@ -6093,9 +6279,30 @@
           "presentations": [
             {
               "duration": "1h0m0s",
-              "title": "Staffan Olsson - Vad händer när 100 tjänster delar på 10 noder?",
+              "title": "Vad händer när 100 tjänster delar på 10 noder?",
               "slides": "",
-              "speakers": null
+              "speakers": [
+                {
+                  "id": "staffanolsson",
+                  "name": "Staffan Olsson",
+                  "email": "",
+                  "company": {
+                    "id": "yolean",
+                    "name": "Yolean",
+                    "websiteURL": "https://www.yolean.com/",
+                    "logoURL": "https://www.yolean.com/wp-content/uploads/2017/06/yolean-logo.png",
+                    "whiteLogo": true,
+                    "countries": [
+                      "sweden"
+                    ]
+                  },
+                  "countries": [
+                    "sweden"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
             }
           ]
         },

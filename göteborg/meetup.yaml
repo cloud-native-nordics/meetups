@@ -19,13 +19,13 @@ meetups:
     slides: ""
     speakers:
     - federicohernandez
-    title: Federico Hernandez - Knowing what your Kubernetes cluster is doing
+    title: Knowing what your Kubernetes cluster is doing
   - delay: 5m0s
     duration: 10m0s
     slides: ""
     speakers:
     - simonesciarrati
-    title: Simone Sciarrati - Zero downtime upgrades of Kubernetes
+    title: Zero downtime upgrades of Kubernetes
   sponsors:
     other: null
     venue: meltwater
@@ -38,8 +38,9 @@ meetups:
   presentations:
   - duration: 1h0m0s
     slides: ""
-    speakers: null
-    title: Staffan Olsson - Demo av Knative
+    speakers:
+    - staffanolsson
+    title: Demo av Knative
   sponsors:
     other: null
     venue: null
@@ -52,9 +53,9 @@ meetups:
   presentations:
   - duration: 1h0m0s
     slides: ""
-    speakers: null
-    title: Karl Bergström - Hur monitorerar man, med hjälp av Prometheus, kubernetes
-      status & metrics?
+    speakers:
+    - karlbergstrom
+    title: Hur monitorerar man, med hjälp av Prometheus, kubernetes status & metrics?
   sponsors:
     other: null
     venue: null
@@ -67,8 +68,9 @@ meetups:
   presentations:
   - duration: 1h0m0s
     slides: ""
-    speakers: null
-    title: Staffan Olsson - Vad händer när 100 tjänster delar på 10 noder?
+    speakers:
+    - staffanolsson
+    title: Vad händer när 100 tjänster delar på 10 noder?
   sponsors:
     other: null
     venue: null
@@ -105,4 +107,8 @@ meetups:
 name: Kubernetes Göteborg
 organizers:
 - jessicaandersson
+- staffanolsson
+- peterrosell
+- antonlindgren
+- jacobhagstedtpsuorra
 photo: https://secure.meetupstatic.com/photos/event/b/9/a/b/highres_482747531.jpeg
