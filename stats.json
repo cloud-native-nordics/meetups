@@ -1,7 +1,7 @@
 {
   "allMeetups": {
     "meetups": 45,
-    "members": 3003,
+    "members": 3005,
     "attendees": 2783,
     "averageAttendees": 61,
     "uniqueAttendees": 1507
@@ -9,28 +9,28 @@
   "perMeetup": {
     "aarhus": {
       "meetups": 20,
-      "members": 806,
+      "members": 807,
       "attendees": 1130,
       "averageAttendees": 56,
       "uniqueAttendees": 457
     },
     "copenhagen": {
       "meetups": 10,
-      "members": 669,
+      "members": 670,
       "attendees": 483,
       "averageAttendees": 48,
       "uniqueAttendees": 316
     },
     "helsinki": {
       "meetups": 9,
-      "members": 742,
+      "members": 741,
       "attendees": 690,
       "averageAttendees": 76,
       "uniqueAttendees": 365
     },
     "stockholm": {
       "meetups": 3,
-      "members": 635,
+      "members": 636,
       "attendees": 332,
       "averageAttendees": 110,
       "uniqueAttendees": 273
