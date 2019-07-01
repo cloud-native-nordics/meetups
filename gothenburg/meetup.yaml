@@ -1,0 +1,77 @@
+city: Göteborg
+country: sweden
+meetupID: Kubernetes-Goteborg
+meetups:
+- address: Kungsportsavenyen 33
+  attendees: 45
+  date: "2019-05-09T18:00:00Z"
+  duration: 3h0m0s
+  id: 260863253
+  name: 18 months of kubernetes in production and learning
+  presentations:
+  - duration: 30m0s
+    slides: ""
+    speakers:
+    - jessicaandersson
+    title: Getting Developers to Adopt Your Service
+  - delay: 5m0s
+    duration: 30m0s
+    slides: ""
+    speakers:
+    - federicohernandez
+    title: Federico Hernandez - Knowing what your Kubernetes cluster is doing
+  - delay: 5m0s
+    duration: 10m0s
+    slides: ""
+    speakers:
+    - simonesciarrati
+    title: Simone Sciarrati - Zero downtime upgrades of Kubernetes
+  sponsors:
+    other: null
+    venue: meltwater
+- address: Östra Hamngatan 50B
+  attendees: 33
+  date: "2018-11-21T17:00:00Z"
+  duration: 2h0m0s
+  id: 256374545
+  name: Serverless med Knative
+  presentations:
+  - duration: 60m0s
+    slides: ""
+    speakers: null
+    title: Staffan Olsson - Demo av Knative
+  sponsors:
+    other: null
+    venue: null
+- address: Östra Hamngatan 50B
+  attendees: 36
+  date: "2017-10-25T17:00:00Z"
+  duration: 2h0m0s
+  id: 242830009
+  name: Metrics och alarm med Prometheus
+  presentations:
+  - duration: 60m0s
+    slides: ""
+    speakers: null
+    title: Karl Bergström - Hur monitorerar man, med hjälp av Prometheus, kubernetes status & metrics?
+  sponsors:
+    other: null
+    venue: null
+- address: Holtermansgatan 1 D
+  attendees: 14
+  date: "2017-08-30T17:00:00Z"
+  duration: 1h0m0s
+  id: 241821276
+  name: Var med och sänk ett kluster!
+  presentations:
+  - duration: 60m0s
+    slides: ""
+    speakers: null
+    title: Staffan Olsson - Vad händer när 100 tjänster delar på 10 noder?
+  sponsors:
+    other: null
+    venue: null
+name: Kubernetes Göteborg
+organizers:
+- jessicaandersson
+photo: https://secure.meetupstatic.com/photos/event/b/9/a/b/600_482747531.jpeg

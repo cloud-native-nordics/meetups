@@ -204,10 +204,27 @@ speakers:
 - company: meltwater
   countries:
   - finland
+  - sweden
   email: ""
   github: ""
   id: jessicaandersson
   name: Jessica Andersson
+  speakersBureau: ""
+- company: meltwater
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: federicohernandez
+  name: Federico Hernandez
+  speakersBureau: ""
+- company: meltwater
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: simonesciarrati
+  name: Simone Sciarrati
   speakersBureau: ""
 - company: nordcloud
   countries:
