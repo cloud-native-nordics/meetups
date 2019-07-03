@@ -750,6 +750,15 @@
       ]
     },
     {
+      "id": "neurospace",
+      "name": "neurospace",
+      "websiteURL": "https://neurospace.io",
+      "logoURL": "https://neurospace.io/img/brand/logo-1500x1500.png",
+      "countries": [
+        "denmark"
+      ]
+    },
+    {
       "id": "praqma",
       "name": "Praqma",
       "websiteURL": "https://praqma.com",

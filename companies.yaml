@@ -107,6 +107,12 @@ members:
   websiteURL: https://lunarway.com
 - countries:
   - denmark
+  id: neurospace
+  logoURL: https://neurospace.io/img/brand/logo-1500x1500.png
+  name: neurospace
+  websiteURL: https://neurospace.io
+- countries:
+  - denmark
   id: praqma
   logoURL: https://www.praqma.com/images/logo_eficode.png
   name: Praqma
