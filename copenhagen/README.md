@@ -6,6 +6,15 @@
  - Jasmine Crozier, [Praqma](https://www.praqma.com/)
  - Jeppe Johansen, [Whyyy](https://whyyy.dk/)
 
+### Cloud Native Logging and Application Performance Management
+
+ - Date: 10 September, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/262668370
+
+
+#### Agenda
+
+
 ### Cloud Native Stories: TV 2 Play & Spar Nord Bank
 
  - Date: 21 August, 2019 at 17:00 - 20:00
