@@ -2473,7 +2473,7 @@
           "name": "Cloud Native Aarhus Field Trip: LEGO House",
           "date": "2019-09-03T16:00:00Z",
           "duration": "5h45m0s",
-          "address": "Ole Kirks Plads 1",
+          "address": "Ole Kirks Vej 1",
           "sponsors": {
             "venue": {
               "id": "lego",
@@ -5283,6 +5283,18 @@
         }
       ],
       "meetups": [
+        {
+          "id": 262668370,
+          "name": "Cloud Native Logging and Application Performance Management",
+          "date": "2019-09-10T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Landemærket 10",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
         {
           "id": 262635188,
           "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",

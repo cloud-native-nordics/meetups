@@ -2,6 +2,15 @@ city: Copenhagen
 country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
+- address: Landemærket 10
+  date: "2019-09-10T17:00:00Z"
+  duration: 3h0m0s
+  id: 262668370
+  name: Cloud Native Logging and Application Performance Management
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Langebrogade 1
   date: "2019-08-21T17:00:00Z"
   duration: 3h0m0s
