@@ -12,7 +12,7 @@ const (
 
 #### Organizers
 
-{{ range .Organizers }} - {{ .Name }}{{if .Github }} ([@{{ .Github }}](https://github.com/{{ .Github }})){{end}}{{if .Title }}, {{ .Title }}{{end}}{{if .Company }}, [{{ .Company.Name }}]({{ .Company.WebsiteURL }}){{end}}{{if .Email }}, {{ .Email }}{{end}}
+{{ range .Organizers }} - {{ . }}
 {{end}}{{if .CFP}}
 #### Submit a talk
 
@@ -31,7 +31,7 @@ if you're interested in speaking in this meetup, fill out this form: {{.CFP}}
 #### Agenda
 
 {{ range .Presentations }} - {{ .StartTime }} - {{ .EndTime }}: {{ .Title }} {{ range .Speakers }}
-   - {{ .Name }}{{ if .Title }}, {{ .Title }}{{end}}{{ if .Company }}, {{ .Company.Name }}{{end}}{{end}}{{ if .Slides }}
+   - {{ . }}{{end}}{{ if .Slides }}
    - Slides: {{ .Slides }}{{end}}{{ if .Recording }}
    - Recording: {{ .Recording }}{{end}}
 {{end}}{{end}}`
@@ -40,7 +40,8 @@ if you're interested in speaking in this meetup, fill out this form: {{.CFP}}
 
 Repository to gather all meetup information and slides from Cloud Native Nordic meetups:
 
-{{ range .MeetupGroups }}* [{{ .City }}]({{ .CityLowercase }}/README.md)
+{{ range .MeetupGroups }}* [{{ .City }}]({{ .CityLowercase }}/README.md){{ range .Organizers }}
+  * {{ . }}{{end}}
 {{end}}
 ## Join our Community!
 

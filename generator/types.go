@@ -160,6 +160,23 @@ type speakerInternal struct {
 	SpeakersBureau string    `json:"speakersBureau"`
 }
 
+func (s Speaker) String() string {
+	str := s.Name
+	if len(s.Github) != 0 {
+		str += fmt.Sprintf(" [@%s](https://github.com/%s)", s.Github, s.Github)
+	}
+	if len(s.Title) != 0 {
+		str += fmt.Sprintf(", %s", s.Title)
+	}
+	if s.Company != nil {
+		str += fmt.Sprintf(", [%s](%s)", s.Company.Name, s.Company.WebsiteURL)
+	}
+	if len(s.SpeakersBureau) != 0 {
+		str += fmt.Sprintf(", [Contact](https://www.cncf.io/speaker/%s)", s.SpeakersBureau)
+	}
+	return str
+}
+
 func (s Speaker) MarshalJSON() ([]byte, error) {
 	if shouldMarshalSpeakerID {
 		return []byte(`"` + s.ID + `"`), nil
