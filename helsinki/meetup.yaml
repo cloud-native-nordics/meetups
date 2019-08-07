@@ -1,3 +1,4 @@
+cfp: https://bit.ly/k8sfin-cfp
 city: Helsinki
 country: finland
 ignoreMeetupIDs:
@@ -13,57 +14,51 @@ meetups:
   id: 261376372
   name: Summer Meetup in Helsinki
   presentations:
-  - endTime: "18:10"
+  - duration: 10m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Arrive to the venue, sit down, grab a pizza slice and network with others
       ;)
-  - endTime: "18:20"
+  - delay: 5m0s
+    duration: 5m0s
     slides: ""
     speakers: null
-    startTime: "18:15"
     title: Introductionary words from the venue sponsor for this time, NordCloud
-  - endTime: "18:30"
+  - duration: 10m0s
     slides: ""
     speakers:
     - luxas
     - annie
-    startTime: "18:20"
     title: Welcome to our meetup
-  - endTime: "18:40"
+  - duration: 10m0s
     slides: ""
     speakers:
     - annie
-    startTime: "18:30"
     title: How to become a (great) meetup speaker!
-  - endTime: "19:00"
+  - duration: 20m0s
     slides: https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version
     speakers:
     - jnummelin
-    startTime: "18:40"
     title: Make your Kubernetes Cluster safe for DevOps
-  - endTime: "19:15"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "19:00"
     title: Networking, food, drinks
-  - endTime: "19:45"
+  - duration: 30m0s
     slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
     speakers:
     - jessicaandersson
-    startTime: "19:15"
     title: Getting Developers to Adopt Your Service
-  - endTime: "20:20"
+  - delay: 5m0s
+    duration: 30m0s
     slides: ""
     speakers:
     - piotr
-    startTime: "19:50"
     title: An introduction to Istio
-  - endTime: "21:00"
+  - delay: 15m0s
+    duration: 25m0s
     slides: ""
     speakers: null
-    startTime: "20:35"
     title: Networking time
   sponsors:
     other:
@@ -77,11 +72,10 @@ meetups:
   id: 259072993
   name: Kubernetes 101 Hands-On Workshop
   presentations:
-  - endTime: "20:30"
+  - duration: 3h30m0s
     slides: https://docs.google.com/presentation/d/1LJCqZjm5aGFypoZ4fG-ELBe0tcK6pfcN7H8qIrh6pIU
     speakers:
     - luxas
-    startTime: "17:00"
     title: Kubernetes 101 Hands-On Workshop
   sponsors:
     other:
@@ -96,44 +90,41 @@ meetups:
   id: 256936479
   name: Winter Kubernetes Meetup
   presentations:
-  - endTime: "18:15"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Arrive to the venue, sit down, grab a pizza slice and network with others
       ;)
-  - endTime: "18:20"
+  - duration: 5m0s
     slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-january-2019
     speakers: null
-    startTime: "18:15"
     title: Welcome from the organisers
-  - endTime: "18:25"
+  - duration: 5m0s
     slides: ""
     speakers: null
-    startTime: "18:20"
     title: Introductionary words from the venue sponsor for this time, Accenture
-  - endTime: "19:00"
+  - delay: 5m0s
+    duration: 30m0s
     slides: https://docs.google.com/presentation/d/1_1NpDUiejmEYdpplIqOEtepv7V6Yc0G2uFp4dVaQ70k/edit#slide=id.g4c8185cd42_0_0
     speakers:
     - jörg
-    startTime: "18:30"
     title: Update from KubeCon Seattle 2018
-  - endTime: "19:35"
+  - delay: 5m0s
+    duration: 30m0s
     slides: https://speakerdeck.com/salkin/kubernetes-at-scale-on-remote-sites
     speakers:
     - niklas
-    startTime: "19:05"
     title: A journey towards Kubernetes at scale on remote unattended sites
-  - endTime: "20:10"
+  - delay: 5m0s
+    duration: 30m0s
     slides: https://www.slideshare.net/oscarrenalias/enterprise-open-source
     speakers:
     - oscar
-    startTime: "19:40"
     title: How to make your company start contributing to open source
-  - endTime: "20:50"
+  - delay: 5m0s
+    duration: 35m0s
     slides: ""
     speakers: null
-    startTime: "20:15"
     title: Networking time & optional Accenture lab prototypes
   recording: TBA
   sponsors:
@@ -148,52 +139,50 @@ meetups:
   id: 255665681
   name: Pre-Slush Kubernetes Meetup
   presentations:
-  - endTime: "18:15"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Arrive to the venue, sit down, grab a pizza slice and network with others
       ;)
-  - endTime: "18:25"
+  - duration: 10m0s
     slides: ""
     speakers: null
-    startTime: "18:15"
     title: Welcome from the organizers
-  - endTime: "18:40"
+  - delay: 5m0s
+    duration: 10m0s
     slides: https://speakerdeck.com/luxas/update-from-the-ever-changing-kubernetes-landscape-december-2018-ac645b18-b457-4d41-8175-426d2ac046c9
     speakers:
     - luxas
-    startTime: "18:30"
     title: Update from the cloud native ecosystem
-  - endTime: "19:00"
+  - delay: 5m0s
+    duration: 15m0s
     slides: ""
     speakers:
     - christina
-    startTime: "18:45"
     title: 10 Emerging Trends to Watch for in 2019
-  - endTime: "19:30"
+  - delay: 5m0s
+    duration: 25m0s
     slides: https://drive.google.com/file/d/1VLnM57l0ABCgZE2aelQuPm4P0mIJafTz/view
     speakers:
     - mikko
-    startTime: "19:05"
     title: Vincit's road to using Kubernetes in the cloud
-  - endTime: "20:00"
+  - delay: 5m0s
+    duration: 25m0s
     slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
     speakers:
     - anoop
-    startTime: "19:35"
     title: Implementing the Container Storage Interface (CSI)
-  - endTime: "20:30"
+  - delay: 5m0s
+    duration: 25m0s
     slides: https://docs.google.com/presentation/d/1HjlhAcm8yK29j8NPkwQl0w5ZXeTxcBsRF_wsioKBrjA/edit#slide=id.g498ec9e817_0_0
     speakers:
     - rasmus
-    startTime: "20:05"
     title: No need to build it yourself - Kubernetes using GKE, Terraform, Helm &
       Jenkins
-  - endTime: "21:00"
+  - delay: 5m0s
+    duration: 25m0s
     slides: ""
     speakers: null
-    startTime: "20:35"
     title: Networking time
   recording: https://www.youtube.com/watch?v=CfMKDg_iprg
   sponsors:
@@ -208,51 +197,47 @@ meetups:
   id: 252546014
   name: Kubernetes Autumn Meetup
   presentations:
-  - endTime: "18:15"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Arrive to the venue, sit down, grab a pizza slice and network with others
       ;)
-  - endTime: "18:20"
+  - duration: 5m0s
     slides: ""
     speakers: null
-    startTime: "18:15"
     title: Welcome from the organizers
-  - endTime: "18:35"
+  - delay: 5m0s
+    duration: 10m0s
     slides: ""
     speakers:
     - tommi
-    startTime: "18:25"
     title: Introductionary words from the venue sponsor for this time, Elisa
-  - endTime: "19:00"
+  - delay: 5m0s
+    duration: 20m0s
     slides: https://www.slideshare.net/AnnieTalvasto/manage-kubernetes-application-complexity-with-helm
     speakers:
     - annie
-    startTime: "18:40"
     title: Manage Kubernetes application complexity with Helm
-  - endTime: "19:30"
+  - duration: 30m0s
     slides: https://www.slideshare.net/jerryjalava/kubernetes-security-journey
     speakers:
     - jerry
-    startTime: "19:00"
     title: Kubernetes' Security Features
-  - endTime: "19:55"
+  - delay: 5m0s
+    duration: 20m0s
     slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
     speakers:
     - marek
-    startTime: "19:35"
     title: Lessons learned when building a Kubernetes distribution
-  - endTime: "20:20"
+  - delay: 5m0s
+    duration: 20m0s
     slides: https://drive.google.com/file/d/1JxBgTSPgFtAtNOxri5iyMHtYGC3t46NR/view
     speakers:
     - severi
-    startTime: "20:00"
     title: Orchestrate VMs on top of Kubernetes
-  - endTime: "21:00"
+  - duration: 40m0s
     slides: ""
     speakers: null
-    startTime: "20:20"
     title: Time for networking
   recording: https://www.youtube.com/watch?v=3ZWKm26Aw9Q
   sponsors:
@@ -267,44 +252,40 @@ meetups:
   id: 250712383
   name: Kubernetes Summer Meetup
   presentations:
-  - endTime: "18:15"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Grab some food and socialize!
-  - endTime: "18:20"
+  - duration: 5m0s
     slides: ""
     speakers: null
-    startTime: "18:15"
     title: Welcome from the organizers
-  - endTime: "18:35"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "18:20"
     title: Introductionary words from Nordea
-  - endTime: "19:10"
+  - delay: 5m0s
+    duration: 30m0s
     slides: ""
     speakers:
     - teemu
-    startTime: "18:40"
     title: Kubernetes & Enterprises
-  - endTime: "19:45"
+  - delay: 5m0s
+    duration: 30m0s
     slides: ""
     speakers:
     - markku
-    startTime: "19:15"
     title: Automated credentialless access management in the era of super scalable
       cloud native services
-  - endTime: "20:00"
+  - delay: 5m0s
+    duration: 10m0s
     slides: ""
     speakers:
     - luxas
-    startTime: "19:50"
     title: My experience at KubeCon Copenhagen
-  - endTime: "21:00"
+  - duration: 1h0m0s
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Socialize and network with the people around you!
   recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
   sponsors:
@@ -319,41 +300,38 @@ meetups:
   id: 248641731
   name: April Meetup -- Let's learn some Kubernetes concepts!
   presentations:
-  - endTime: "18:20"
+  - duration: 20m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Grab some food and socialize!
-  - endTime: "18:30"
+  - delay: 5m0s
+    duration: 5m0s
     slides: ""
     speakers: null
-    startTime: "18:25"
     title: Welcome from the organizers
-  - endTime: "18:40"
+  - duration: 10m0s
     recording: https://youtu.be/zS801na8KSA
     slides: https://speakerdeck.com/luxas/kubernetes-finland-april-2018-cncf-update
     speakers:
     - luxas
-    startTime: "18:30"
     title: Short CNCF update
-  - endTime: "19:25"
+  - delay: 5m0s
+    duration: 40m0s
     recording: https://youtu.be/XzjgtSzlj0w
     slides: https://speakerdeck.com/luxas/intro-to-the-essential-api-resources-in-kubernetes
     speakers:
     - luxas
-    startTime: "18:45"
     title: Intro to the essential API resources in Kubernetes
-  - endTime: "20:00"
+  - delay: 5m0s
+    duration: 30m0s
     recording: https://youtu.be/xUnzZAOwans
     slides: https://speakerdeck.com/kad/kubernetes-advanced-platform-features
     speakers:
     - alexander
-    startTime: "19:30"
     title: Kubernetes advanced platform features
-  - endTime: "21:00"
+  - duration: 1h0m0s
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Socialize and network with the people around you!
   recording: https://www.youtube.com/watch?v=JhBgGv0xCE0
   sponsors:
@@ -370,36 +348,34 @@ meetups:
   id: 247553023
   name: Winter Meetup -- Let's catch up on the latest news in the ecosystem
   presentations:
-  - endTime: "18:20"
+  - duration: 20m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Grab some food and socialize!
-  - endTime: "18:50"
+  - delay: 5m0s
+    duration: 25m0s
     recording: https://youtu.be/YTpihD6TdOE
     slides: https://speakerdeck.com/luxas/winter-update-from-the-cloud-native-world-cncf-and-kubernetes-finland-meetup-in-helsinki
     speakers:
     - luxas
-    startTime: "18:25"
     title: Winter Update from the Cloud Native World
-  - endTime: "19:25"
+  - delay: 5m0s
+    duration: 30m0s
     recording: https://youtu.be/oHVACKKPuw0
     slides: https://www.slideshare.net/karlots/kubernetes-in-azure
     speakers:
     - karl
-    startTime: "18:55"
     title: Kubernetes in Azure
-  - endTime: "20:00"
+  - delay: 5m0s
+    duration: 30m0s
     recording: https://youtu.be/f1h3sew3KZY
     slides: ""
     speakers:
     - teemu
-    startTime: "19:30"
     title: CRDs in Action
-  - endTime: "21:00"
+  - duration: 1h0m0s
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Socialize and network with the people around you!
   recording: https://www.youtube.com/watch?v=4ZMEejSX8nM
   sponsors:
@@ -416,43 +392,39 @@ meetups:
   id: 242096170
   name: First Kubernetes & CNCF meetup in Finland -- Kubernetes v1.8 celebration party
   presentations:
-  - endTime: "18:30"
+  - duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: The meetup officially starts. Grab a pizza and a drink, and talk to the
       talented person next to you!
-  - endTime: "18:45"
+  - duration: 15m0s
     slides: ""
     speakers:
     - luxas
-    startTime: "18:30"
     title: Welcome from the organizers
-  - endTime: "19:15"
+  - duration: 30m0s
     recording: https://youtu.be/9Oc69MpmCoU
     slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup
     speakers:
     - luxas
-    startTime: "18:45"
     title: An introduction to the cloud native world of Kubernetes
-  - endTime: "19:50"
+  - delay: 5m0s
+    duration: 30m0s
     recording: https://youtu.be/rvFQkhue95c
     slides: ""
     speakers:
     - teemu
-    startTime: "19:20"
     title: Let's have fun with serverless applications on Kubernetes
-  - endTime: "20:30"
+  - delay: 10m0s
+    duration: 30m0s
     recording: https://youtu.be/H92nfJt3ymo
     slides: ""
     speakers:
     - michael
-    startTime: "20:00"
     title: Kubernetes on AWS at Zalando
-  - endTime: "21:00"
+  - duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "20:30"
     title: Feel free to hang out with the people for the rest of the evening, do some
       Q&A with the speakers, etc.
   recording: https://youtu.be/9ZY-m4vAhiQ
@@ -463,7 +435,6 @@ meetups:
     - emblica
     - upcloud
     venue: upcloud
-members: 734
 name: CNCF & Kubernetes Finland
 organizers:
 - luxas

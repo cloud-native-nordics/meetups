@@ -7,6 +7,10 @@
  - Jussi Nummelin ([@jnummelin](https://github.com/jnummelin)), [Kontena](https://kontena.io)
  - Sakari Hoisko, [Eficode](https://www.eficode.com/home)
 
+#### Submit a talk
+
+if you're interested in speaking in this meetup, fill out this form: https://bit.ly/k8sfin-cfp
+
 ### Summer Kubernetes Tampere Meetup
 
  - Date: 13 June, 2019 at 17:00 - 20:00

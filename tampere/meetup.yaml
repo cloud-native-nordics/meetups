@@ -1,3 +1,4 @@
+cfp: https://bit.ly/k8sfin-cfp
 city: Tampere
 country: finland
 meetupID: Kubernetes-Tampere
@@ -19,51 +20,46 @@ meetups:
   id: 258970382
   name: April Kubernetes Tampere Meetup
   presentations:
-  - endTime: "17:10"
+  - duration: 10m0s
     slides: https://docs.google.com/presentation/d/1ErgRYDXbG2ggL7M1W0U3tNx4qYaunoZTsMDwaOzs3SA
     speakers: null
-    startTime: "17:00"
     title: Arrive to the venue, sit down and network with others ;)
-  - endTime: "17:15"
+  - duration: 5m0s
     slides: ""
     speakers: null
-    startTime: "17:10"
     title: Introductionary words from the venue sponsor for this time Netum
-  - endTime: "17:30"
+  - duration: 15m0s
     slides: https://speakerdeck.com/luxas/update-from-the-cloud-native-world-of-cncf-april-2019
     speakers:
     - luxas
-    startTime: "17:15"
     title: Updates from the Community, Lucas Käldström
-  - endTime: "17:55"
+  - duration: 25m0s
     slides: ""
     speakers:
     - hoisko
-    startTime: "17:30"
     title: The BASICs, milk to whale baby, food that is required to growth to true
       Kubernaught
-  - endTime: "18:30"
+  - delay: 5m0s
+    duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Networking, food, drinks
-  - endTime: "18:55"
+  - duration: 25m0s
     slides: ""
     speakers:
     - mylinen
-    startTime: "18:30"
     title: Kubernetes and Container Runtime Enablers to Advanced Platform Features
-  - endTime: "19:25"
+  - delay: 5m0s
+    duration: 25m0s
     slides: https://docs.google.com/presentation/d/1fPE9WvFSx9nQ0SiXD-Q3U7GEOELztunqEdHKrN8hfF4
     speakers:
     - netumoliver
     - mpmattila
-    startTime: "19:00"
     title: Introducing new technologies - A grassroots approach
-  - endTime: "20:00"
+  - delay: 5m0s
+    duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "19:30"
     title: Networking, table football, video games
   recording: https://youtu.be/rnpMBRe0CY0
   sponsors:
@@ -78,50 +74,46 @@ meetups:
   id: 257164934
   name: First Kubernetes and CNCF Tampere Meetup
   presentations:
-  - endTime: "18:15"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Arrive to the venue, sit down, grab a pizza slice and network with others
       ;)
-  - endTime: "18:20"
+  - duration: 5m0s
     slides: ""
     speakers: null
-    startTime: "18:15"
     title: Welcome from the organisers
-  - endTime: "18:25"
+  - duration: 5m0s
     slides: ""
     speakers: null
-    startTime: "18:20"
     title: Introductionary words from the venue sponsor for this time, Cybercom
-  - endTime: "19:00"
+  - delay: 5m0s
+    duration: 30m0s
     slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019
     speakers:
     - luxas
-    startTime: "18:30"
     title: Introduction to the cloud-native world of Kubernetes & CNCF
-  - endTime: "19:30"
+  - delay: 5m0s
+    duration: 25m0s
     slides: https://speakerdeck.com/jnummelin/geting-started-with-kubernetes
     speakers:
     - jnummelin
-    startTime: "19:05"
     title: Setting up a Kubernetes cluster and getting started
-  - endTime: "20:00"
+  - delay: 5m0s
+    duration: 25m0s
     slides: https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing
     speakers:
     - poutanen
-    startTime: "19:35"
     title: Moving from Heroku to AKS
-  - endTime: "20:30"
+  - delay: 5m0s
+    duration: 25m0s
     slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
     speakers:
     - ylenius
-    startTime: "20:05"
     title: Experiences of different Pipelines and Development workflows on Kubernetes
-  - endTime: "21:00"
+  - duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "20:30"
     title: Networking
   recording: https://youtu.be/PvrFMc9bZ-k
   sponsors:
@@ -129,7 +121,6 @@ meetups:
     - luxaslabs
     - cncf
     venue: cybercom
-members: 151
 name: CNCF & Kubernetes Tampere
 organizers:
 - luxas

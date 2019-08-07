@@ -6,6 +6,24 @@
  - Jasmine Crozier, [Praqma](https://www.praqma.com/)
  - Jeppe Johansen, [Whyyy](https://whyyy.dk/)
 
+### Cloud Native Logging and Application Performance Management
+
+ - Date: 10 September, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/262668370
+
+
+#### Agenda
+
+
+### Cloud Native Stories: TV 2 Play & Spar Nord Bank
+
+ - Date: 21 August, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/262635188
+
+
+#### Agenda
+
+
 ### Cloud Native Copenhagen Hack Nights: Kubernetes 101
 
  - Date: 11 June, 2019 at 13:00 - 16:00
@@ -104,7 +122,7 @@
  - Date: 8 March, 2018 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/247310136
  - Attendees (according to meetup.com): 29
- - Venue sponsor: [Trifork](https://trifork.com/)
+ - Venue sponsor: [Trifork A/S](https://trifork.com/)
 
 #### Agenda
 

@@ -2,6 +2,24 @@ city: Copenhagen
 country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
+- address: Landemærket 10
+  date: "2019-09-10T17:00:00Z"
+  duration: 3h0m0s
+  id: 262668370
+  name: Cloud Native Logging and Application Performance Management
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Langebrogade 1
+  date: "2019-08-21T17:00:00Z"
+  duration: 3h0m0s
+  id: 262635188
+  name: 'Cloud Native Stories: TV 2 Play & Spar Nord Bank'
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Vester Søgade 6
   attendees: 35
   date: "2019-06-11T13:00:00Z"
@@ -59,37 +77,31 @@ meetups:
   id: 255293027
   name: Windows containers, Kubernetes in the enterprise
   presentations:
-  - endTime: "17:20"
+  - duration: 20m0s
     slides: ""
     speakers: null
-    startTime: "17:00"
     title: Gates open
-  - endTime: "18:00"
+  - duration: 40m0s
     slides: ""
     speakers:
     - hans
-    startTime: "17:20"
     title: The state of Windows & Kubernetes, with an Azure flavor
-  - endTime: "18:20"
+  - duration: 20m0s
     slides: ""
     speakers: null
-    startTime: "18:00"
     title: Break
-  - endTime: "19:00"
+  - duration: 40m0s
     slides: ""
     speakers:
     - jeppe
-    startTime: "18:20"
     title: From mainframe to Kubernetes
-  - endTime: "20:00"
+  - duration: 1h0m0s
     slides: ""
     speakers: null
-    startTime: "19:00"
     title: Networking
-  - endTime: "20:00"
+  - duration: 0s
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Goodbye
   sponsors:
     other: null
@@ -101,60 +113,50 @@ meetups:
   id: 249226057
   name: Let's warm-up before KubeCon-CloudNativeCon!
   presentations:
-  - endTime: "17:40"
+  - duration: 10m0s
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Welcome
-  - endTime: "17:55"
+  - duration: 15m0s
     slides: ""
     speakers:
     - craig
-    startTime: "17:40"
     title: 'Kubernetes Registry: what it is and why it''s important'
-  - endTime: "18:10"
+  - duration: 15m0s
     slides: ""
     speakers:
     - sami
-    startTime: "17:55"
     title: Automating Helm deployments to Kubernetes with Helmsman
-  - endTime: "18:40"
+  - duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "18:10"
     title: Break with sandwiches
-  - endTime: "18:55"
+  - duration: 15m0s
     slides: ""
     speakers:
     - justin
-    startTime: "18:40"
     title: Serverless Containers with Azure Container Instances
-  - endTime: "19:10"
+  - duration: 15m0s
     slides: ""
     speakers:
     - guus
-    startTime: "18:55"
     title: Machine API - An easier way to manage nodes in Kubernetes
-  - endTime: "19:25"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "19:10"
     title: Break
-  - endTime: "20:00"
+  - duration: 35m0s
     slides: ""
     speakers:
     - ihor
-    startTime: "19:25"
     title: Panel Discussion moderated by Ihor Dvoretskyi
-  - endTime: "20:30"
+  - duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Time to mingle
-  - endTime: "20:30"
+  - duration: 0s
     slides: ""
     speakers: null
-    startTime: "20:30"
     title: Goodbye and see you at KubeCon!
   sponsors:
     other: null
@@ -166,37 +168,31 @@ meetups:
   id: 247310136
   name: 'Expert night: bare metal and chaos engineering'
   presentations:
-  - endTime: "17:30"
+  - duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "17:00"
     title: Gates open
-  - endTime: "17:35"
+  - duration: 5m0s
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Welcome
-  - endTime: "18:15"
+  - duration: 40m0s
     slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf
     speakers:
     - hans
-    startTime: "17:35"
     title: Network Services on Kubernetes on-premise
-  - endTime: "18:30"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "18:15"
     title: Break
-  - endTime: "19:15"
+  - duration: 45m0s
     slides: ""
     speakers:
     - martin
-    startTime: "18:30"
     title: Chaos Engineering
-  - endTime: "20:00"
+  - duration: 45m0s
     slides: ""
     speakers: null
-    startTime: "19:15"
     title: Community chats
   sponsors:
     other: null
@@ -208,39 +204,33 @@ meetups:
   id: 246008132
   name: 'Lab session: How to Kubernetes?'
   presentations:
-  - endTime: "17:30"
+  - duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "17:00"
     title: Doors open
-  - endTime: "17:45"
+  - duration: 15m0s
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Welcome
-  - endTime: "18:30"
+  - duration: 45m0s
     slides: ""
     speakers:
     - laszlo
     - david
-    startTime: "17:45"
     title: 'First session: foundations of Kubernetes and its primitives'
-  - endTime: "19:00"
+  - duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "18:30"
     title: Food break and socializing
-  - endTime: "20:00"
+  - duration: 1h0m0s
     slides: ""
     speakers:
     - laszlo
     - david
-    startTime: "19:00"
     title: 'Second session: let''s deploy'
-  - endTime: "20:00"
+  - duration: 0s
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Goodbye
   sponsors:
     other: null
@@ -252,52 +242,43 @@ meetups:
   id: 245248552
   name: Let's kick-off Cloud Native Copenhagen!
   presentations:
-  - endTime: "17:20"
+  - duration: 20m0s
     slides: ""
     speakers: null
-    startTime: "17:00"
     title: Doors open
-  - endTime: "17:30"
+  - duration: 10m0s
     slides: ""
     speakers: null
-    startTime: "17:20"
     title: Welcome from Cloud Native Copenhagen
-  - endTime: "17:40"
+  - duration: 10m0s
     slides: ""
     speakers: null
-    startTime: "17:30"
     title: Welcome from TwentyThree
-  - endTime: "18:10"
+  - duration: 30m0s
     slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
     speakers:
     - laszlo
-    startTime: "17:40"
     title: What is Cloud Native?
-  - endTime: "18:40"
+  - duration: 30m0s
     slides: ""
     speakers: null
-    startTime: "18:10"
     title: Food break - group discussions
-  - endTime: "19:10"
+  - duration: 30m0s
     slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf
     speakers:
     - ewelina
-    startTime: "18:40"
     title: Jenkins as Code
-  - endTime: "20:00"
+  - duration: 50m0s
     slides: ""
     speakers: null
-    startTime: "19:10"
     title: Group discussions - continued
-  - endTime: "20:00"
+  - duration: 0s
     slides: ""
     speakers: null
-    startTime: "20:00"
     title: Gates close
   sponsors:
     other: null
     venue: twentythree
-members: 650
 name: Cloud Native Copenhagen
 organizers:
 - laszlo

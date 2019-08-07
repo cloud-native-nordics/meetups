@@ -5,28 +5,36 @@
       "name": "luxas labs",
       "websiteURL": "https://luxaslabs.com",
       "logoURL": "",
-      "countries": null
+      "countries": [
+        "finland"
+      ]
     },
     {
       "id": "futurice",
       "name": "Futurice",
       "websiteURL": "https://www.futurice.com/",
       "logoURL": "",
-      "countries": null
+      "countries": [
+        "finland"
+      ]
     },
     {
       "id": "kontena",
       "name": "Kontena",
       "websiteURL": "https://kontena.io",
       "logoURL": "",
-      "countries": null
+      "countries": [
+        "finland"
+      ]
     },
     {
       "id": "cybercom",
       "name": "Cybercom",
       "websiteURL": "https://www.cybercom.com/",
       "logoURL": "",
-      "countries": null
+      "countries": [
+        "finland"
+      ]
     },
     {
       "id": "netum",
@@ -48,9 +56,13 @@
         "name": "luxas labs",
         "websiteURL": "https://luxaslabs.com",
         "logoURL": "",
-        "countries": null
+        "countries": [
+          "finland"
+        ]
       },
-      "countries": null,
+      "countries": [
+        "finland"
+      ],
       "github": "luxas",
       "speakersBureau": ""
     },
@@ -60,7 +72,9 @@
       "title": "Student",
       "email": "",
       "company": null,
-      "countries": null,
+      "countries": [
+        "finland"
+      ],
       "github": "",
       "speakersBureau": ""
     },
@@ -73,9 +87,13 @@
         "name": "Kontena",
         "websiteURL": "https://kontena.io",
         "logoURL": "",
-        "countries": null
+        "countries": [
+          "finland"
+        ]
       },
-      "countries": null,
+      "countries": [
+        "finland"
+      ],
       "github": "",
       "speakersBureau": ""
     },
@@ -88,9 +106,13 @@
         "name": "Futurice",
         "websiteURL": "https://www.futurice.com/",
         "logoURL": "",
-        "countries": null
+        "countries": [
+          "finland"
+        ]
       },
-      "countries": null,
+      "countries": [
+        "finland"
+      ],
       "github": "",
       "speakersBureau": ""
     },
@@ -103,9 +125,13 @@
         "name": "Cybercom",
         "websiteURL": "https://www.cybercom.com/",
         "logoURL": "",
-        "countries": null
+        "countries": [
+          "finland"
+        ]
       },
-      "countries": null,
+      "countries": [
+        "finland"
+      ],
       "github": "",
       "speakersBureau": ""
     }
@@ -114,7 +140,6 @@
     {
       "meetupID": "Kubernetes-Finland",
       "name": "CNCF \u0026 Kubernetes Finland",
-      "members": 0,
       "city": "Tampere",
       "country": "finland",
       "organizers": [
@@ -128,9 +153,13 @@
             "name": "luxas labs",
             "websiteURL": "https://luxaslabs.com",
             "logoURL": "",
-            "countries": null
+            "countries": [
+              "finland"
+            ]
           },
-          "countries": null,
+          "countries": [
+            "finland"
+          ],
           "github": "luxas",
           "speakersBureau": ""
         },
@@ -140,17 +169,19 @@
           "title": "Student",
           "email": "",
           "company": null,
-          "countries": null,
+          "countries": [
+            "finland"
+          ],
           "github": "",
           "speakersBureau": ""
         }
       ],
       "meetups": [
         {
-          "id": 1234,
+          "id": 1230,
           "name": "Winter Kubernetes Meetup",
-          "date": null,
-          "duration": "0s",
+          "date": "2019-01-17T18:00:00Z",
+          "duration": "3h0m0s",
           "recording": "http://youtu.be/foobar",
           "attendees": 100,
           "address": "Street 1, Postal Code, Country",
@@ -160,7 +191,9 @@
               "name": "Accenture",
               "websiteURL": "https://accenture.com",
               "logoURL": "",
-              "countries": null
+              "countries": [
+                "finland"
+              ]
             },
             "other": [
               {
@@ -168,35 +201,34 @@
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
                 "logoURL": "",
-                "countries": null
+                "countries": [
+                  "finland"
+                ]
               }
             ]
           },
           "presentations": [
             {
-              "startTime": "18:00",
-              "endTime": "18:15",
+              "duration": "15m0s",
               "title": "Arrive to the venue, sit down, grab a pizza slice and network with others ;)",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "18:15",
-              "endTime": "18:20",
+              "duration": "5m0s",
               "title": "Welcome from the organisers",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "18:20",
-              "endTime": "18:25",
+              "duration": "5m0s",
               "title": "Introductionary words from the venue sponsor for this time, Cybercom",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "18:30",
-              "endTime": "19:00",
+              "duration": "30m0s",
+              "delay": "5m0s",
               "title": "Introduction to the cloud-native world of Kubernetes \u0026 CNCF",
               "slides": "https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019",
               "speakers": [
@@ -210,17 +242,21 @@
                     "name": "luxas labs",
                     "websiteURL": "https://luxaslabs.com",
                     "logoURL": "",
-                    "countries": null
+                    "countries": [
+                      "finland"
+                    ]
                   },
-                  "countries": null,
+                  "countries": [
+                    "finland"
+                  ],
                   "github": "luxas",
                   "speakersBureau": ""
                 }
               ]
             },
             {
-              "startTime": "19:05",
-              "endTime": "19:30",
+              "duration": "25m0s",
+              "delay": "5m0s",
               "title": "Setting up a Kubernetes cluster and getting started",
               "slides": "https://speakerdeck.com/jnummelin/geting-started-with-kubernetes",
               "speakers": [
@@ -233,17 +269,21 @@
                     "name": "Kontena",
                     "websiteURL": "https://kontena.io",
                     "logoURL": "",
-                    "countries": null
+                    "countries": [
+                      "finland"
+                    ]
                   },
-                  "countries": null,
+                  "countries": [
+                    "finland"
+                  ],
                   "github": "",
                   "speakersBureau": ""
                 }
               ]
             },
             {
-              "startTime": "19:35",
-              "endTime": "20:00",
+              "duration": "25m0s",
+              "delay": "5m0s",
               "title": "Moving from Heroku to AKS",
               "slides": "https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing",
               "speakers": [
@@ -256,17 +296,21 @@
                     "name": "Futurice",
                     "websiteURL": "https://www.futurice.com/",
                     "logoURL": "",
-                    "countries": null
+                    "countries": [
+                      "finland"
+                    ]
                   },
-                  "countries": null,
+                  "countries": [
+                    "finland"
+                  ],
                   "github": "",
                   "speakersBureau": ""
                 }
               ]
             },
             {
-              "startTime": "20:05",
-              "endTime": "20:30",
+              "duration": "25m0s",
+              "delay": "5m0s",
               "title": "Experiences of different Pipelines and Development workflows on Kubernetes",
               "slides": "https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view",
               "speakers": [
@@ -279,17 +323,20 @@
                     "name": "Cybercom",
                     "websiteURL": "https://www.cybercom.com/",
                     "logoURL": "",
-                    "countries": null
+                    "countries": [
+                      "finland"
+                    ]
                   },
-                  "countries": null,
+                  "countries": [
+                    "finland"
+                  ],
                   "github": "",
                   "speakersBureau": ""
                 }
               ]
             },
             {
-              "startTime": "20:30",
-              "endTime": "21:00",
+              "duration": "30m0s",
               "title": "Networking",
               "slides": "",
               "speakers": null
@@ -297,10 +344,10 @@
           ]
         },
         {
-          "id": 1230,
+          "id": 1234,
           "name": "Winter Kubernetes Meetup",
-          "date": null,
-          "duration": "0s",
+          "date": "2017-10-04T18:00:00Z",
+          "duration": "3h0m0s",
           "recording": "http://youtu.be/foobar",
           "attendees": 100,
           "address": "Street 1, Postal Code, Country",
@@ -310,7 +357,9 @@
               "name": "Accenture",
               "websiteURL": "https://accenture.com",
               "logoURL": "",
-              "countries": null
+              "countries": [
+                "finland"
+              ]
             },
             "other": [
               {
@@ -318,35 +367,33 @@
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
                 "logoURL": "",
-                "countries": null
+                "countries": [
+                  "finland"
+                ]
               }
             ]
           },
           "presentations": [
             {
-              "startTime": "18:00",
-              "endTime": "18:15",
+              "duration": "15m0s",
               "title": "Arrive to the venue, sit down, grab a pizza slice and network with others ;)",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "18:15",
-              "endTime": "18:20",
+              "duration": "5m0s",
               "title": "Welcome from the organisers",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "18:20",
-              "endTime": "18:25",
+              "duration": "5m0s",
               "title": "Introductionary words from the venue sponsor for this time, Cybercom",
               "slides": "",
               "speakers": null
             },
             {
-              "startTime": "18:30",
-              "endTime": "19:00",
+              "duration": "30m0s",
               "title": "Introduction to the cloud-native world of Kubernetes \u0026 CNCF",
               "slides": "https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019",
               "speakers": [
@@ -360,17 +407,21 @@
                     "name": "luxas labs",
                     "websiteURL": "https://luxaslabs.com",
                     "logoURL": "",
-                    "countries": null
+                    "countries": [
+                      "finland"
+                    ]
                   },
-                  "countries": null,
+                  "countries": [
+                    "finland"
+                  ],
                   "github": "luxas",
                   "speakersBureau": ""
                 }
               ]
             },
             {
-              "startTime": "19:05",
-              "endTime": "19:30",
+              "duration": "25m0s",
+              "delay": "5m0s",
               "title": "Setting up a Kubernetes cluster and getting started",
               "slides": "https://speakerdeck.com/jnummelin/geting-started-with-kubernetes",
               "speakers": [
@@ -383,17 +434,21 @@
                     "name": "Kontena",
                     "websiteURL": "https://kontena.io",
                     "logoURL": "",
-                    "countries": null
+                    "countries": [
+                      "finland"
+                    ]
                   },
-                  "countries": null,
+                  "countries": [
+                    "finland"
+                  ],
                   "github": "",
                   "speakersBureau": ""
                 }
               ]
             },
             {
-              "startTime": "19:35",
-              "endTime": "20:00",
+              "duration": "25m0s",
+              "delay": "5m0s",
               "title": "Moving from Heroku to AKS",
               "slides": "https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing",
               "speakers": [
@@ -406,17 +461,21 @@
                     "name": "Futurice",
                     "websiteURL": "https://www.futurice.com/",
                     "logoURL": "",
-                    "countries": null
+                    "countries": [
+                      "finland"
+                    ]
                   },
-                  "countries": null,
+                  "countries": [
+                    "finland"
+                  ],
                   "github": "",
                   "speakersBureau": ""
                 }
               ]
             },
             {
-              "startTime": "20:05",
-              "endTime": "20:30",
+              "duration": "25m0s",
+              "delay": "5m0s",
               "title": "Experiences of different Pipelines and Development workflows on Kubernetes",
               "slides": "https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view",
               "speakers": [
@@ -429,17 +488,20 @@
                     "name": "Cybercom",
                     "websiteURL": "https://www.cybercom.com/",
                     "logoURL": "",
-                    "countries": null
+                    "countries": [
+                      "finland"
+                    ]
                   },
-                  "countries": null,
+                  "countries": [
+                    "finland"
+                  ],
                   "github": "",
                   "speakersBureau": ""
                 }
               ]
             },
             {
-              "startTime": "20:30",
-              "endTime": "21:00",
+              "duration": "30m0s",
               "title": "Networking",
               "slides": "",
               "speakers": null

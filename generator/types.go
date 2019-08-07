@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"sort"
 	"strings"
+	"time"
 )
 
 var (
@@ -40,6 +41,19 @@ func (s *SpeakersFile) SetGlobalMap() {
 
 type MeetupGroupsFile struct {
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
+}
+
+type StatsFile struct {
+	AllMeetups MeetupStats            `json:"allMeetups"`
+	PerMeetup  map[string]MeetupStats `json:"perMeetup"`
+}
+
+type MeetupStats struct {
+	Meetups          uint64 `json:"meetups"`
+	Members          uint64 `json:"members"`
+	Attendees        uint64 `json:"attendees"`
+	AverageAttendees uint64 `json:"averageAttendees"`
+	UniqueAttendees  uint64 `json:"uniqueAttendees"`
 }
 
 type Config struct {
@@ -174,13 +188,15 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 type MeetupGroup struct {
 	MeetupID        string     `json:"meetupID"`
 	Name            string     `json:"name"`
-	Members         uint64     `json:"members"`
 	Photo           string     `json:"photo,omitempty"`
 	City            string     `json:"city"`
 	Country         string     `json:"country"`
 	Organizers      []*Speaker `json:"organizers"`
 	Meetups         MeetupList `json:"meetups"`
 	IgnoreMeetupIDs []uint64   `json:"ignoreMeetupIDs,omitempty"`
+	CFP             string     `json:"cfp,omitempty"`
+
+	members uint64
 }
 
 // CityLowercase gets the lowercase variant of the city
@@ -211,26 +227,38 @@ type Meetup struct {
 	Date          Time           `json:"date,omitempty"`
 	Duration      Duration       `json:"duration,omitempty"`
 	Recording     string         `json:"recording,omitempty"`
-	Attendees     uint64         `json:"attendees"`
+	Attendees     uint64         `json:"attendees,omitempty"`
 	Address       string         `json:"address"`
 	Sponsors      Sponsors       `json:"sponsors"`
 	Presentations []Presentation `json:"presentations"`
 }
 
 func (m *Meetup) DateTime() string {
-	year, month, day := m.Date.Date()
-	hour, min, _ := m.Date.Clock()
-	hour2, min2, _ := m.Date.Add(m.Duration.Duration).Clock()
+	d := m.Date.UTC()
+	year, month, day := d.Date()
+	hour, min, _ := d.Clock()
+	hour2, min2, _ := d.Add(m.Duration.Duration).Clock()
 	return fmt.Sprintf("%d %s, %d at %d:%02d - %d:%02d", day, month, year, hour, min, hour2, min2)
 }
 
 type Presentation struct {
-	StartTime string     `json:"startTime"`
-	EndTime   string     `json:"endTime"`
+	Duration  Duration   `json:"duration"`
+	Delay     *Duration  `json:"delay,omitempty"`
 	Title     string     `json:"title"`
 	Slides    string     `json:"slides"`
 	Recording string     `json:"recording,omitempty"`
 	Speakers  []*Speaker `json:"speakers"`
+
+	start time.Time
+	end   time.Time
+}
+
+func (p *Presentation) StartTime() string {
+	return fmt.Sprintf("%d:%02d", p.start.UTC().Hour(), p.start.UTC().Minute())
+}
+
+func (p *Presentation) EndTime() string {
+	return fmt.Sprintf("%d:%02d", p.end.UTC().Hour(), p.end.UTC().Minute())
 }
 
 type Sponsors struct {
