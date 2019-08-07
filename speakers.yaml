@@ -2,6 +2,7 @@ speakers:
 - company: luxaslabs
   countries:
   - finland
+  - sweden
   email: lucas@luxaslabs.com
   github: luxas
   id: luxas
@@ -249,6 +250,38 @@ speakers:
   github: ""
   id: peterrosell
   name: Peter Rosell
+  speakersBureau: ""
+- company: codemill
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: lindaalmersson
+  name: Linda Almersson
+  speakersBureau: ""
+- company: codemill
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: eriklindskog
+  name: Erik Lindskog
+  speakersBureau: ""
+- company: elastisys
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: tordsson
+  name: Johan Tordsson
+  speakersBureau: ""
+- company: elastisys
+  countries:
+  - sweden
+  email: ""
+  github: ""
+  id: robertwinter
+  name: Robert Winter
   speakersBureau: ""
 - company: null
   countries:
