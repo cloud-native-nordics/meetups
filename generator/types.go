@@ -49,11 +49,13 @@ type StatsFile struct {
 }
 
 type MeetupStats struct {
-	Meetups          uint64 `json:"meetups"`
-	Members          uint64 `json:"members"`
-	Attendees        uint64 `json:"attendees"`
-	AverageAttendees uint64 `json:"averageAttendees"`
-	UniqueAttendees  uint64 `json:"uniqueAttendees"`
+	Sponsors     uint64 `json:"sponsors"`
+	Speakers     uint64 `json:"speakers"`
+	Meetups      uint64 `json:"meetups"`
+	Members      uint64 `json:"members"`
+	TotalRSVPs   uint64 `json:"totalRSVPs"`
+	AverageRSVPs uint64 `json:"averageRSVPs"`
+	UniqueRSVPs  uint64 `json:"uniqueRSVPs"`
 }
 
 type Config struct {
