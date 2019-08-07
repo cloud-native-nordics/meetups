@@ -626,6 +626,15 @@
       "countries": [
         "denmark"
       ]
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "websiteURL": "https://oracle.com",
+      "logoURL": "https://www.oracle.com/webfolder/s/brand/assets/i/specimens/identity/logo/badge-color-print.gif",
+      "countries": [
+        "denmark"
+      ]
     }
   ],
   "members": [
@@ -2550,9 +2559,312 @@
       ],
       "github": "",
       "speakersBureau": ""
+    },
+    {
+      "id": "arnemejlholm",
+      "name": "Arne Mejlholm",
+      "title": "Systems Engineer",
+      "email": "",
+      "company": {
+        "id": "sparnordbank",
+        "name": "Spar Nord Bank",
+        "websiteURL": "https://www.sparnord.dk/",
+        "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+        "countries": [
+          "denmark"
+        ]
+      },
+      "countries": [
+        "denmark"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "simonbengtsson",
+      "name": "Simon Bengtsson",
+      "title": "Systems Engineer",
+      "email": "",
+      "company": {
+        "id": "sparnordbank",
+        "name": "Spar Nord Bank",
+        "websiteURL": "https://www.sparnord.dk/",
+        "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+        "countries": [
+          "denmark"
+        ]
+      },
+      "countries": [
+        "denmark"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "allanhojgaardjensen",
+      "name": "Allan Hojgaard Jensen",
+      "title": "Cloud Platform Architect",
+      "email": "",
+      "company": {
+        "id": "oracle",
+        "name": "Oracle",
+        "websiteURL": "https://oracle.com",
+        "logoURL": "https://www.oracle.com/webfolder/s/brand/assets/i/specimens/identity/logo/badge-color-print.gif",
+        "countries": [
+          "denmark"
+        ]
+      },
+      "countries": [
+        "denmark"
+      ],
+      "github": "",
+      "speakersBureau": ""
     }
   ],
   "meetupGroups": [
+    {
+      "meetupID": "Cloud-Native-Aalborg",
+      "name": "Cloud Native Aalborg",
+      "city": "Aalborg",
+      "country": "denmark",
+      "organizers": [
+        {
+          "id": "allanhojgaardjensen",
+          "name": "Allan Hojgaard Jensen",
+          "title": "Cloud Platform Architect",
+          "email": "",
+          "company": {
+            "id": "oracle",
+            "name": "Oracle",
+            "websiteURL": "https://oracle.com",
+            "logoURL": "https://www.oracle.com/webfolder/s/brand/assets/i/specimens/identity/logo/badge-color-print.gif",
+            "countries": [
+              "denmark"
+            ]
+          },
+          "countries": [
+            "denmark"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        },
+        {
+          "id": "arnemejlholm",
+          "name": "Arne Mejlholm",
+          "title": "Systems Engineer",
+          "email": "",
+          "company": {
+            "id": "sparnordbank",
+            "name": "Spar Nord Bank",
+            "websiteURL": "https://www.sparnord.dk/",
+            "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+            "countries": [
+              "denmark"
+            ]
+          },
+          "countries": [
+            "denmark"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        },
+        {
+          "id": "simonbengtsson",
+          "name": "Simon Bengtsson",
+          "title": "Systems Engineer",
+          "email": "",
+          "company": {
+            "id": "sparnordbank",
+            "name": "Spar Nord Bank",
+            "websiteURL": "https://www.sparnord.dk/",
+            "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+            "countries": [
+              "denmark"
+            ]
+          },
+          "countries": [
+            "denmark"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        },
+        {
+          "id": "camillalarsen",
+          "name": "Camilla Larsen",
+          "title": "Systems Engineer",
+          "email": "",
+          "company": {
+            "id": "sparnordbank",
+            "name": "Spar Nord Bank",
+            "websiteURL": "https://www.sparnord.dk/",
+            "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+            "countries": [
+              "denmark"
+            ]
+          },
+          "countries": [
+            "denmark"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        }
+      ],
+      "meetups": [
+        {
+          "id": 263744803,
+          "name": "#1 - Initial Meetup in Cloud Native Aalborg",
+          "date": "2019-09-04T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Skelagervej 15",
+          "sponsors": {
+            "venue": {
+              "id": "sparnordbank",
+              "name": "Spar Nord Bank",
+              "websiteURL": "https://www.sparnord.dk/",
+              "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+              "countries": [
+                "denmark"
+              ]
+            },
+            "other": null
+          },
+          "presentations": [
+            {
+              "duration": "15m0s",
+              "title": "Welcome from Sparnord",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "10m0s",
+              "title": "Welcome from the organizers",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "ihor",
+                  "name": "Ihor Dvoretskyi",
+                  "email": "",
+                  "company": {
+                    "id": "cncf",
+                    "name": "Cloud Native Computing Foundation (CNCF)",
+                    "websiteURL": "https://www.cncf.io/",
+                    "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
+                    "countries": [
+                      "denmark",
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "10m0s",
+              "title": "What is Cloud Native",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "ihor",
+                  "name": "Ihor Dvoretskyi",
+                  "email": "",
+                  "company": {
+                    "id": "cncf",
+                    "name": "Cloud Native Computing Foundation (CNCF)",
+                    "websiteURL": "https://www.cncf.io/",
+                    "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
+                    "countries": [
+                      "denmark",
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "35m0s",
+              "title": "How Cloud Native is used in Sparnord",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "camillalarsen",
+                  "name": "Camilla Larsen",
+                  "title": "Systems Engineer",
+                  "email": "",
+                  "company": {
+                    "id": "sparnordbank",
+                    "name": "Spar Nord Bank",
+                    "websiteURL": "https://www.sparnord.dk/",
+                    "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "25m0s",
+              "title": "Food and Networking",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "15m0s",
+              "title": "DIY k8s in 10 minutes/how to install kubernetes fast",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "arnemejlholm",
+                  "name": "Arne Mejlholm",
+                  "title": "Systems Engineer",
+                  "email": "",
+                  "company": {
+                    "id": "sparnordbank",
+                    "name": "Spar Nord Bank",
+                    "websiteURL": "https://www.sparnord.dk/",
+                    "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "10m0s",
+              "title": "Survey",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "1h0m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "meetupID": "Cloud-Native-Aarhus",
       "name": "Cloud Native Aarhus",

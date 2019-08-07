@@ -2,6 +2,11 @@
 
 Repository to gather all meetup information and slides from Cloud Native Nordic meetups:
 
+* [Aalborg](aalborg/README.md)
+  * Allan Hojgaard Jensen, Cloud Platform Architect, [Oracle](https://oracle.com)
+  * Arne Mejlholm, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
+  * Simon Bengtsson, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
+  * Camilla Larsen, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
 * [Aarhus](aarhus/README.md)
   * Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way A/S](https://www.lunarway.com)
   * Rasmus Steiniche, Software Architect, DevOps and Cloud Native, [BESTSELLER](https://bestseller.com/)

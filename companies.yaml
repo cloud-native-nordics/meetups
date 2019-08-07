@@ -541,3 +541,9 @@ sponsors:
   logoURL: https://www.lego.com/r/www/r/aboutus/-/media/aboutus/img/lego-logo_rgb.png
   name: LEGO
   websiteURL: https://lego.com
+- countries:
+  - denmark
+  id: oracle
+  logoURL: https://www.oracle.com/webfolder/s/brand/assets/i/specimens/identity/logo/badge-color-print.gif
+  name: Oracle
+  websiteURL: https://oracle.com
