@@ -9,10 +9,53 @@ meetups:
   duration: 3h0m0s
   id: 261344385
   name: Summer Kubernetes Tampere Meetup
-  presentations: null
+  presentations:
+  - duration: 10m0s
+    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-june-2019
+    speakers: null
+    title: Arrive to the venue, sit down and network with others ;)
+  - duration: 5m0s
+    slides: ""
+    speakers: null
+    title: Introductionary words from the venue sponsor for this time futurice
+  - duration: 15m0s
+    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-june-2019
+    speakers:
+    - luxas
+    title: Updates from the Cloud Native Nordics Community, Lucas Käldström
+  - duration: 25m0s
+    slides: https://sway.office.com/E8e1CyZyk9LCrhxY
+    speakers:
+    - sergeysedelnikov
+    title: Kubernetes as a service in Azure (Azure Kubernetes Service) for Real-Time
+      API with NATS and HEMERA
+  - delay: 5m0s
+    duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking, food, drinks
+  - duration: 25m0s
+    slides: https://www.slideshare.net/cybette/kubernetes-tampere-meetup-june-2019-community-operators-and-more
+    speakers:
+    - carolchen
+    title: Reflections from my first KubeCon - communities, operators, and more
+  - delay: 5m0s
+    duration: 25m0s
+    slides: https://drive.google.com/file/d/1mp2NvqBcRhDFvbf-z1OkJd4U7fh8waKE/view?usp=sharing
+    speakers:
+    - cihanbebek
+    title: Serverless - A natural step in DevOps thinking
+  - delay: 5m0s
+    duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking
+  recording: https://youtu.be/rnpMBRe0CY0
   sponsors:
-    other: null
-    venue: null
+    other:
+    - luxaslabs
+    - cncf
+    venue: futurice
 - address: Kalevantie 7
   attendees: 48
   date: "2019-04-04T17:00:00Z"

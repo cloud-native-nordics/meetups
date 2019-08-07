@@ -202,6 +202,30 @@ speakers:
   id: mpmattila
   name: Mika Mattila
   speakersBureau: ""
+- company: storaenso
+  countries:
+  - finland
+  email: sergey.sedelnikov@storaenso.com
+  github: serge-sedelnikov
+  id: sergeysedelnikov
+  name: Sergey Sedelnikov
+  speakersBureau: ""
+- company: futurice
+  countries:
+  - finland
+  email: cihan.m.bebek@gmail.com
+  github: Keksike
+  id: cihanbebek
+  name: Cihan Bebek
+  speakersBureau: ""
+- company: redhat
+  countries:
+  - finland
+  email: carol.chen@redhat.com
+  github: cybette
+  id: carolchen
+  name: Carol Chen
+  speakersBureau: ""
 - company: meltwater
   countries:
   - finland
