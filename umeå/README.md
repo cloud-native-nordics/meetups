@@ -2,20 +2,20 @@
 
 #### Organizers
 
- - Robert Winter, [Elastisys](https://elastisys.com)
+ - Robert Winter, [Elastisys](https://elastisys.com/)
  - Erik Lindskog, [Codemill](https://codemill.se/)
- - Johan Tordsson, [Elastisys](https://elastisys.com)
+ - Johan Tordsson, [Elastisys](https://elastisys.com/)
 
 ### Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona 
 
  - Date: 28 May, 2019 at 17:00 - 19:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Northern-Sweden/events/261450080
  - Attendees (according to meetup.com): 19
- - Venue sponsor: [Elastisys](https://elastisys.com)
+ - Venue sponsor: [Elastisys](https://elastisys.com/)
 
 #### Agenda
 
- - 17:00 - 18:30:  
+ - 17:00 - 18:30: Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona 
    - Linda Almersson, Codemill
    - Johan Tordsson, Elastisys
 
@@ -24,7 +24,7 @@
  - Date: 7 May, 2019 at 17:00 - 19:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Northern-Sweden/events/260276456
  - Attendees (according to meetup.com): 36
- - Venue sponsor: [Xlent Norr](https://www.xlent.se)
+ - Venue sponsor: [Xlent Norr](https://www.xlent.se/)
 
 #### Agenda
 
@@ -45,22 +45,13 @@
    - Erik Lindskog, Codemill
    - Linda Almersson, Codemill
    - Johan Tordsson, Elastisys
-   - Jonas Engman, Nasdaq
-   - Magnus Forsell, CGI
-   - Anders Sigfridsson, Omegapoint
-   - Kim Nilsson, Realspring
-   - Martin Nordin, Sartorius Stedim
-   - Jonas Eklund, Skatteverket
-   - Steve Widinghoff, Storytel
-   - Márton Szűcs, Tempus Information Systems
-   - Per Engman, Tieto
 
 ### Cloud-native, Kubernetes and trends
 
  - Date: 20 November, 2018 at 17:00 - 19:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Northern-Sweden/events/255929396
  - Attendees (according to meetup.com): 45
- - Venue sponsor: [Elastisys](https://elastisys.com)
+ - Venue sponsor: [Elastisys](https://elastisys.com/)
 
 #### Agenda
 
