@@ -274,6 +274,12 @@ sponsors:
   whiteLogo: true
 - countries:
   - finland
+  id: storaenso
+  logoURL: https://www.storaenso.com/-/media/System-images/logo-png.png
+  name: Stora Enso
+  websiteURL: https://www.storaenso.com/
+- countries:
+  - finland
   - sweden
   id: meltwater
   logoURL: https://d1bile9su2eskg.cloudfront.net/wp-content/themes/meltwater/images/sprites/logo_white.png
