@@ -7,6 +7,55 @@ organizers:
 - jnummelin
 - hoisko
 meetups:
+- name: Summer Kubernetes Tampere Meetup
+  id: 261344385
+  dateInternal: 13th of June, 2019 at 5pm - 8pm
+  attendees: 50
+  address: Kelloportinkatu 1 D, 33100 Tampere, Finland
+  recording: https://youtu.be/aZA7kJyeF6I
+  sponsors:
+    venue: futurice
+    other:
+    - luxaslabs
+    - cncf
+  presentations:
+  - startTime: 17:00
+    endTime: 17:10
+    title: Arrive to the venue, sit down and network with others ;)
+    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-june-2019
+  - startTime: 17:10
+    endTime: 17:15
+    title: Introductionary words from the venue sponsor for this time futurice
+  - startTime: 17:15
+    endTime: 17:30
+    title: Updates from the Cloud Native Nordics Community, Lucas Käldström
+    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-june-2019
+    speakers: 
+    - luxas
+  - startTime: 17:30
+    endTime: 17:55
+    title: Kubernetes as a service in Azure (Azure Kubernetes Service) for Real-Time API with NATS and HEMERA
+    slides: https://sway.office.com/E8e1CyZyk9LCrhxY
+    speakers: 
+    - sedelnikov
+  - startTime: 18:00
+    endTime: 18:30
+    title: Networking, food, drinks
+  - startTime: 18:30
+    endTime: 18:55
+    title: Reflections from my first KubeCon - communities, operators, and more
+    slides: https://www.slideshare.net/cybette/kubernetes-tampere-meetup-june-2019-community-operators-and-more
+    speakers: 
+    - chen
+  - startTime: 19:00
+    endTime: 19:25
+    title: Serverless - A natural step in DevOps thinking
+    slides: https://drive.google.com/file/d/1mp2NvqBcRhDFvbf-z1OkJd4U7fh8waKE/view?usp=sharing
+    speakers: 
+    - bebek
+  - startTime: 19:30
+    endTime: 20:00
+    title: Networking
 - name: April Kubernetes Tampere Meetup
   id: 258970382
   dateInternal: 4th of April, 2019 at 5pm - 8pm

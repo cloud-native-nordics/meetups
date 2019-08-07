@@ -172,3 +172,6 @@ companies:
 - id: elastx
   name: ELASTX
   websiteURL: https://elastx.se/en
+- id: storaenso
+  name: Stora Enso 
+  websiteURL: https://www.storaenso.com

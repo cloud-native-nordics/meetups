@@ -224,3 +224,13 @@ speakers:
 - id: iljoo
   name: Ilia Mikhailov
   github: iljoo
+- id: sedelnikov
+  name: Sergey Sedelnikov
+  github: serge-sedelnikov
+  company: storaenso
+- id: chen
+  name: Carol
+  company: redhat
+- id: bebek
+  name: Cihan Bebek
+  company: futurice

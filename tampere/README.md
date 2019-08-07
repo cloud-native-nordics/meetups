@@ -7,6 +7,37 @@
  - Jussi Nummelin ([@jnummelin](https://github.com/jnummelin)), [Kontena](https://kontena.io)
  - Sakari Hoisko, [Eficode](https://www.eficode.com/home)
 
+### Summer Kubernetes Tampere Meetup
+
+ - Date: 13th of June, 2019 at 5pm - 8pm
+ - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/261344385/
+ - Recording: https://youtu.be/aZA7kJyeF6I
+ - Attendees (according to meetup.com): 50
+ - Venue sponsor: [Futurice](https://www.futurice.com/)
+ - Meetup sponsors:
+   - [luxas labs](https://luxaslabs.com)
+   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+
+#### Agenda
+
+ - 17:00 - 17:10: Arrive to the venue, sit down and network with others ;) 
+   - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-june-2019
+ - 17:10 - 17:15: Introductionary words from the venue sponsor for this time futurice 
+ - 17:15 - 17:30: Updates from the Cloud Native Nordics Community, Lucas Käldström 
+   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-june-2019
+ - 17:30 - 17:55: Kubernetes as a service in Azure (Azure Kubernetes Service) for Real-Time API with NATS and HEMERA 
+   - Sergey Sedelnikov, Stora Enso
+   - Slides: https://sway.office.com/E8e1CyZyk9LCrhxY
+ - 18:00 - 18:30: Networking, food, drinks 
+ - 18:30 - 18:55: Reflections from my first KubeCon - communities, operators, and more 
+   - Carol, Red Hat
+   - Slides: https://www.slideshare.net/cybette/kubernetes-tampere-meetup-june-2019-community-operators-and-more
+ - 19:00 - 19:25: Serverless - A natural step in DevOps thinking 
+   - Cihan Bebek, Futurice
+   - Slides: https://drive.google.com/file/d/1mp2NvqBcRhDFvbf-z1OkJd4U7fh8waKE/view?usp=sharing
+ - 19:30 - 20:00: Networking 
+
 ### April Kubernetes Tampere Meetup
 
  - Date: 4th of April, 2019 at 5pm - 8pm
