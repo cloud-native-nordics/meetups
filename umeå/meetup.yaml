@@ -9,7 +9,7 @@ meetups:
   id: 261450080
   name: 'Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona '
   presentations:
-  - duration: 90m
+  - duration: 1h30m0s
     slides: ""
     speakers:
     - lindaalmersson
@@ -25,11 +25,11 @@ meetups:
   id: 260276456
   name: What does “production ready” really mean for a Kubernetes cluster?
   presentations:
-  - duration: 1h
+  - delay: 30m0s
+    duration: 1h0m0s
     slides: https://speakerdeck.com/luxas/what-does-production-ready-really-mean-for-a-kubernetes-cluster-umea-may-2019
     speakers:
     - luxas
-    delay: 30m
     title: What does “production ready” really mean for a Kubernetes cluster?
   sponsors:
     other: null
@@ -41,22 +41,13 @@ meetups:
   id: 257861742
   name: Cloud native lightning talks
   presentations:
-  - duration: 1h
+  - delay: 30m0s
+    duration: 1h0m0s
     slides: ""
     speakers:
     - eriklindskog
     - lindaalmersson
     - tordsson
-    - jonasengman
-    - magnusforsell
-    - anderssigfridsson
-    - kimnilsson
-    - martinnordin
-    - jonaseklund
-    - stevewidinghoff
-    - martonszucs
-    - perengman
-    delay: 30m
     title: Lightning talks
   sponsors:
     other: null
@@ -68,11 +59,11 @@ meetups:
   id: 255929396
   name: Cloud-native, Kubernetes and trends
   presentations:
-  - duration: 1h
+  - delay: 30m0s
+    duration: 1h0m0s
     slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-november-2018
     speakers:
     - luxas
-    delay: 30m
     title: Intro to the cloud-native world with Kubernetes
   sponsors:
     other: null
