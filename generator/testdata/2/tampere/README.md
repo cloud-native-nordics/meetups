@@ -2,7 +2,7 @@
 
 #### Organizers
 
- - Lucas Käldström ([@luxas](https://github.com/luxas)), CNCF Ambassador, [luxas labs](https://luxaslabs.com), lucas@luxaslabs.com
+ - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com)
  - Annie Talvasto, Student
 
 ### Winter Kubernetes Meetup
@@ -21,16 +21,16 @@
  - 18:15 - 18:20: Welcome from the organisers 
  - 18:20 - 18:25: Introductionary words from the venue sponsor for this time, Cybercom 
  - 18:30 - 19:00: Introduction to the cloud-native world of Kubernetes & CNCF 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com)
    - Slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019
  - 19:05 - 19:30: Setting up a Kubernetes cluster and getting started 
-   - Jussi Nummelin, Kontena
+   - Jussi Nummelin, [Kontena](https://kontena.io)
    - Slides: https://speakerdeck.com/jnummelin/geting-started-with-kubernetes
  - 19:35 - 20:00: Moving from Heroku to AKS 
-   - Ilkka Poutanen, Futurice
+   - Ilkka Poutanen, [Futurice](https://www.futurice.com/)
    - Slides: https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing
  - 20:05 - 20:30: Experiences of different Pipelines and Development workflows on Kubernetes 
-   - Toni Ylenius, Cybercom
+   - Toni Ylenius, [Cybercom](https://www.cybercom.com/)
    - Slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
  - 20:30 - 21:00: Networking 
 
@@ -50,15 +50,15 @@
  - 18:15 - 18:20: Welcome from the organisers 
  - 18:20 - 18:25: Introductionary words from the venue sponsor for this time, Cybercom 
  - 18:25 - 18:55: Introduction to the cloud-native world of Kubernetes & CNCF 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com)
    - Slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-january-2019
  - 19:00 - 19:25: Setting up a Kubernetes cluster and getting started 
-   - Jussi Nummelin, Kontena
+   - Jussi Nummelin, [Kontena](https://kontena.io)
    - Slides: https://speakerdeck.com/jnummelin/geting-started-with-kubernetes
  - 19:30 - 19:55: Moving from Heroku to AKS 
-   - Ilkka Poutanen, Futurice
+   - Ilkka Poutanen, [Futurice](https://www.futurice.com/)
    - Slides: https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing
  - 20:00 - 20:25: Experiences of different Pipelines and Development workflows on Kubernetes 
-   - Toni Ylenius, Cybercom
+   - Toni Ylenius, [Cybercom](https://www.cybercom.com/)
    - Slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
  - 20:25 - 20:55: Networking 

@@ -16,8 +16,8 @@
 #### Agenda
 
  - 17:00 - 18:30: Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona 
-   - Linda Almersson, Codemill
-   - Johan Tordsson, Elastisys
+   - Linda Almersson, [Codemill](https://codemill.se/)
+   - Johan Tordsson, [Elastisys](https://elastisys.com/)
 
 ### What does “production ready” really mean for a Kubernetes cluster?
 
@@ -29,7 +29,7 @@
 #### Agenda
 
  - 17:30 - 18:30: What does “production ready” really mean for a Kubernetes cluster? 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
    - Slides: https://speakerdeck.com/luxas/what-does-production-ready-really-mean-for-a-kubernetes-cluster-umea-may-2019
 
 ### Cloud native lightning talks
@@ -42,9 +42,9 @@
 #### Agenda
 
  - 17:30 - 18:30: Lightning talks 
-   - Erik Lindskog, Codemill
-   - Linda Almersson, Codemill
-   - Johan Tordsson, Elastisys
+   - Erik Lindskog, [Codemill](https://codemill.se/)
+   - Linda Almersson, [Codemill](https://codemill.se/)
+   - Johan Tordsson, [Elastisys](https://elastisys.com/)
 
 ### Cloud-native, Kubernetes and trends
 
@@ -56,5 +56,5 @@
 #### Agenda
 
  - 17:30 - 18:30: Intro to the cloud-native world with Kubernetes 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
    - Slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-november-2018

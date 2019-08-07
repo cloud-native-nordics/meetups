@@ -2,7 +2,7 @@
 
 #### Organizers
 
- - Lucas Käldström ([@luxas](https://github.com/luxas)), CNCF Ambassador, [luxas labs](https://luxaslabs.com), lucas@luxaslabs.com
+ - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
  - Annie Talvasto, [Microsoft](https://www.microsoft.com)
  - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 
@@ -25,19 +25,19 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
  - 18:00 - 18:10: Arrive to the venue, sit down, grab a pizza slice and network with others ;) 
  - 18:15 - 18:20: Introductionary words from the venue sponsor for this time, NordCloud 
  - 18:20 - 18:30: Welcome to our meetup 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
-   - Annie Talvasto, Microsoft
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+   - Annie Talvasto, [Microsoft](https://www.microsoft.com)
  - 18:30 - 18:40: How to become a (great) meetup speaker! 
-   - Annie Talvasto, Microsoft
+   - Annie Talvasto, [Microsoft](https://www.microsoft.com)
  - 18:40 - 19:00: Make your Kubernetes Cluster safe for DevOps 
-   - Jussi Nummelin, Kontena
+   - Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
    - Slides: https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version
  - 19:00 - 19:15: Networking, food, drinks 
  - 19:15 - 19:45: Getting Developers to Adopt Your Service 
-   - Jessica Andersson, Meltwater
+   - Jessica Andersson, [Meltwater](https://underthehood.meltwater.com/)
    - Slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
  - 19:50 - 20:20: An introduction to Istio 
-   - Piotr Kieszczyński, NordCloud
+   - Piotr Kieszczyński, [NordCloud](https://nordcloud.com/)
  - 20:35 - 21:00: Networking time 
 
 ### Kubernetes 101 Hands-On Workshop
@@ -54,7 +54,7 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
 #### Agenda
 
  - 17:00 - 20:30: Kubernetes 101 Hands-On Workshop 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
    - Slides: https://docs.google.com/presentation/d/1LJCqZjm5aGFypoZ4fG-ELBe0tcK6pfcN7H8qIrh6pIU
 
 ### Winter Kubernetes Meetup
@@ -75,13 +75,13 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
    - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-january-2019
  - 18:20 - 18:25: Introductionary words from the venue sponsor for this time, Accenture 
  - 18:30 - 19:00: Update from KubeCon Seattle 2018 
-   - Jörg Schad, Mesosphere
+   - Jörg Schad, [Mesosphere](https://www.mesosphere.com/)
    - Slides: https://docs.google.com/presentation/d/1_1NpDUiejmEYdpplIqOEtepv7V6Yc0G2uFp4dVaQ70k/edit#slide=id.g4c8185cd42_0_0
  - 19:05 - 19:35: A journey towards Kubernetes at scale on remote unattended sites 
-   - Niklas Wik, Nokia
+   - Niklas Wik, [Nokia](https://www.nokia.fi/)
    - Slides: https://speakerdeck.com/salkin/kubernetes-at-scale-on-remote-sites
  - 19:40 - 20:10: How to make your company start contributing to open source 
-   - Oscar Renalias, Accenture
+   - Oscar Renalias, [Accenture](https://accenture.com)
    - Slides: https://www.slideshare.net/oscarrenalias/enterprise-open-source
  - 20:15 - 20:50: Networking time & optional Accenture lab prototypes 
 
@@ -101,18 +101,18 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
  - 18:00 - 18:15: Arrive to the venue, sit down, grab a pizza slice and network with others ;) 
  - 18:15 - 18:25: Welcome from the organizers 
  - 18:30 - 18:40: Update from the cloud native ecosystem 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
    - Slides: https://speakerdeck.com/luxas/update-from-the-ever-changing-kubernetes-landscape-december-2018-ac645b18-b457-4d41-8175-426d2ac046c9
  - 18:45 - 19:00: 10 Emerging Trends to Watch for in 2019 
-   - Christina Warren, Microsoft
+   - Christina Warren, [Microsoft](https://www.microsoft.com)
  - 19:05 - 19:30: Vincit's road to using Kubernetes in the cloud 
-   - Mikko Hällfors, Vincit
+   - Mikko Hällfors, [Vincit](https://www.vincit.fi)
    - Slides: https://drive.google.com/file/d/1VLnM57l0ABCgZE2aelQuPm4P0mIJafTz/view
  - 19:35 - 20:00: Implementing the Container Storage Interface (CSI) 
-   - Anoop Vijayan, Tuxera Oy
+   - Anoop Vijayan, [Tuxera Oy](https://www.tuxera.com)
    - Slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
  - 20:05 - 20:30: No need to build it yourself - Kubernetes using GKE, Terraform, Helm & Jenkins 
-   - Rasmus Selsmark, Unity
+   - Rasmus Selsmark, [Unity](https://www.unity.com)
    - Slides: https://docs.google.com/presentation/d/1HjlhAcm8yK29j8NPkwQl0w5ZXeTxcBsRF_wsioKBrjA/edit#slide=id.g498ec9e817_0_0
  - 20:35 - 21:00: Networking time 
 
@@ -134,13 +134,13 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
  - 18:25 - 18:35: Introductionary words from the venue sponsor for this time, Elisa 
    - Tommi Berg
  - 18:40 - 19:00: Manage Kubernetes application complexity with Helm 
-   - Annie Talvasto, Microsoft
+   - Annie Talvasto, [Microsoft](https://www.microsoft.com)
    - Slides: https://www.slideshare.net/AnnieTalvasto/manage-kubernetes-application-complexity-with-helm
  - 19:00 - 19:30: Kubernetes' Security Features 
-   - Jerry Jalava, Qvik
+   - Jerry Jalava, [Qvik](https://www.qvik.com)
    - Slides: https://www.slideshare.net/jerryjalava/kubernetes-security-journey
  - 19:35 - 19:55: Lessons learned when building a Kubernetes distribution 
-   - Marek Jelen, Red Hat
+   - Marek Jelen, [Red Hat](https://www.redhat.com)
    - Slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
  - 20:00 - 20:20: Orchestrate VMs on top of Kubernetes 
    - Severi Haverila
@@ -164,11 +164,11 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
  - 18:15 - 18:20: Welcome from the organizers 
  - 18:20 - 18:35: Introductionary words from Nordea 
  - 18:40 - 19:10: Kubernetes & Enterprises 
-   - Teemu Heikkilä, Emblica
+   - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
  - 19:15 - 19:45: Automated credentialless access management in the era of super scalable cloud native services 
-   - Markku Rossi, CTO, SSH.COM
+   - Markku Rossi, CTO, [SSH.COM](https://www.ssh.com/)
  - 19:50 - 20:00: My experience at KubeCon Copenhagen 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
  - 20:00 - 21:00: Socialize and network with the people around you! 
 
 ### April Meetup -- Let's learn some Kubernetes concepts!
@@ -189,15 +189,15 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
  - 18:00 - 18:20: Grab some food and socialize! 
  - 18:25 - 18:30: Welcome from the organizers 
  - 18:30 - 18:40: Short CNCF update 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
    - Slides: https://speakerdeck.com/luxas/kubernetes-finland-april-2018-cncf-update
    - Recording: https://youtu.be/zS801na8KSA
  - 18:45 - 19:25: Intro to the essential API resources in Kubernetes 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
    - Slides: https://speakerdeck.com/luxas/intro-to-the-essential-api-resources-in-kubernetes
    - Recording: https://youtu.be/XzjgtSzlj0w
  - 19:30 - 20:00: Kubernetes advanced platform features 
-   - Alexander Kanevskiy, Intel
+   - Alexander Kanevskiy, [Intel](https://www.intel.com)
    - Slides: https://speakerdeck.com/kad/kubernetes-advanced-platform-features
    - Recording: https://youtu.be/xUnzZAOwans
  - 20:00 - 21:00: Socialize and network with the people around you! 
@@ -219,15 +219,15 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
 
  - 18:00 - 18:20: Grab some food and socialize! 
  - 18:25 - 18:50: Winter Update from the Cloud Native World 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
    - Slides: https://speakerdeck.com/luxas/winter-update-from-the-cloud-native-world-cncf-and-kubernetes-finland-meetup-in-helsinki
    - Recording: https://youtu.be/YTpihD6TdOE
  - 18:55 - 19:25: Kubernetes in Azure 
-   - Karl Ots, Kompozure
+   - Karl Ots, [Kompozure](https://www.kompozure.com)
    - Slides: https://www.slideshare.net/karlots/kubernetes-in-azure
    - Recording: https://youtu.be/oHVACKKPuw0
  - 19:30 - 20:00: CRDs in Action 
-   - Teemu Heikkilä, Emblica
+   - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
    - Recording: https://youtu.be/f1h3sew3KZY
  - 20:00 - 21:00: Socialize and network with the people around you! 
 
@@ -248,15 +248,15 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
 
  - 18:00 - 18:30: The meetup officially starts. Grab a pizza and a drink, and talk to the talented person next to you! 
  - 18:30 - 18:45: Welcome from the organizers 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
  - 18:45 - 19:15: An introduction to the cloud native world of Kubernetes 
-   - Lucas Käldström, CNCF Ambassador, luxas labs
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
    - Slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup
    - Recording: https://youtu.be/9Oc69MpmCoU
  - 19:20 - 19:50: Let's have fun with serverless applications on Kubernetes 
-   - Teemu Heikkilä, Emblica
+   - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
    - Recording: https://youtu.be/rvFQkhue95c
  - 20:00 - 20:30: Kubernetes on AWS at Zalando 
-   - Michael Duergner, Zalando
+   - Michael Duergner, [Zalando](https://www.zalando.com)
    - Recording: https://youtu.be/H92nfJt3ymo
  - 20:30 - 21:00: Feel free to hang out with the people for the rest of the evening, do some Q&A with the speakers, etc. 

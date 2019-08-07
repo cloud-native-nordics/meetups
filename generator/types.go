@@ -49,11 +49,13 @@ type StatsFile struct {
 }
 
 type MeetupStats struct {
-	Meetups          uint64 `json:"meetups"`
-	Members          uint64 `json:"members"`
-	Attendees        uint64 `json:"attendees"`
-	AverageAttendees uint64 `json:"averageAttendees"`
-	UniqueAttendees  uint64 `json:"uniqueAttendees"`
+	Sponsors     uint64 `json:"sponsors"`
+	Speakers     uint64 `json:"speakers"`
+	Meetups      uint64 `json:"meetups"`
+	Members      uint64 `json:"members"`
+	TotalRSVPs   uint64 `json:"totalRSVPs"`
+	AverageRSVPs uint64 `json:"averageRSVPs"`
+	UniqueRSVPs  uint64 `json:"uniqueRSVPs"`
 }
 
 type Config struct {
@@ -158,6 +160,23 @@ type speakerInternal struct {
 	Github         string    `json:"github"`
 	Twitter        string    `json:"twitter,omitempty"`
 	SpeakersBureau string    `json:"speakersBureau"`
+}
+
+func (s Speaker) String() string {
+	str := s.Name
+	if len(s.Github) != 0 {
+		str += fmt.Sprintf(" [@%s](https://github.com/%s)", s.Github, s.Github)
+	}
+	if len(s.Title) != 0 {
+		str += fmt.Sprintf(", %s", s.Title)
+	}
+	if s.Company != nil {
+		str += fmt.Sprintf(", [%s](%s)", s.Company.Name, s.Company.WebsiteURL)
+	}
+	if len(s.SpeakersBureau) != 0 {
+		str += fmt.Sprintf(", [Contact](https://www.cncf.io/speaker/%s)", s.SpeakersBureau)
+	}
+	return str
 }
 
 func (s Speaker) MarshalJSON() ([]byte, error) {

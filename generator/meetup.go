@@ -189,16 +189,33 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 
 			mgStat := MeetupStats{}
 			mgStat.Members = mg.members
-			totalAttendees := uint64(0)
-			// allAttendees maps an user ID to the amount of RSVPs for that user
-			allAttendees := map[uint64]uint64{}
+			totalRSVPs := uint64(0)
+			// allRSVPs maps an user ID to the amount of RSVPs for that user
+			allRSVPs := map[uint64]uint64{}
+			sponsors := map[string]bool{}
+			speakers := map[string]bool{}
 			priorMeetups := uint64(0)
 			for _, m := range mg.Meetups {
 				if m.Date.UTC().After(time.Now().UTC()) {
 					continue
 				}
 				priorMeetups++
-				totalAttendees += m.Attendees
+				totalRSVPs += m.Attendees
+				for _, pres := range m.Presentations {
+					for _, s := range pres.Speakers {
+						if _, ok := speakers[string(s.ID)]; !ok {
+							speakers[string(s.ID)] = true
+						}
+					}
+				}
+				for _, c := range append(m.Sponsors.Other, m.Sponsors.Venue) {
+					if c == nil {
+						continue
+					}
+					if _, ok := sponsors[string(c.ID)]; !ok {
+						sponsors[string(c.ID)] = true
+					}
+				}
 
 				attendance, err := GetAttendanceList(mg.MeetupID, m.ID)
 				if err != nil {
@@ -209,30 +226,34 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 					if attendee.RSVP.Response != "yes" {
 						continue
 					}
-					rsvps, ok := allAttendees[attendee.Member.ID]
+					rsvps, ok := allRSVPs[attendee.Member.ID]
 					if ok {
-						allAttendees[attendee.Member.ID] = rsvps + attendee.RSVP.Guests
+						allRSVPs[attendee.Member.ID] = rsvps + attendee.RSVP.Guests
 					} else {
-						allAttendees[attendee.Member.ID] = 1 + attendee.RSVP.Guests
+						allRSVPs[attendee.Member.ID] = 1 + attendee.RSVP.Guests
 					}
 				}
 			}
-			mgStat.Attendees = totalAttendees
+			mgStat.Speakers = uint64(len(speakers))
+			mgStat.Sponsors = uint64(len(sponsors))
+			mgStat.TotalRSVPs = totalRSVPs
 			mgStat.Meetups = priorMeetups
-			mgStat.AverageAttendees = uint64(math.Floor(float64(mgStat.Attendees / mgStat.Meetups)))
-			for _, num := range allAttendees {
-				mgStat.UniqueAttendees += num
+			mgStat.AverageRSVPs = uint64(math.Floor(float64(mgStat.TotalRSVPs / mgStat.Meetups)))
+			for _, num := range allRSVPs {
+				mgStat.UniqueRSVPs += num
 			}
 
 			s.PerMeetup[mg.CityLowercase()] = mgStat
 
 			s.AllMeetups.Meetups += mgStat.Meetups
 			s.AllMeetups.Members += mgStat.Members
-			s.AllMeetups.Attendees += mgStat.Attendees
-			s.AllMeetups.UniqueAttendees += mgStat.UniqueAttendees
+			s.AllMeetups.TotalRSVPs += mgStat.TotalRSVPs
+			s.AllMeetups.UniqueRSVPs += mgStat.UniqueRSVPs
 		}(mg)
 	}
 	wg.Wait()
-	s.AllMeetups.AverageAttendees = uint64(math.Floor(float64(s.AllMeetups.Attendees / s.AllMeetups.Meetups)))
+	s.AllMeetups.Sponsors = uint64(len(cfg.Sponsors))
+	s.AllMeetups.Speakers = uint64(len(cfg.Speakers))
+	s.AllMeetups.AverageRSVPs = uint64(math.Floor(float64(s.AllMeetups.TotalRSVPs / s.AllMeetups.Meetups)))
 	return s, nil
 }
