@@ -3,6 +3,8 @@
 Repository to gather all meetup information and slides from Cloud Native Nordic meetups:
 
 * [Helsinki](helsinki/README.md)
+  * Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com)
+  * Annie Talvasto, Student
 
 ## Join our Community!
 

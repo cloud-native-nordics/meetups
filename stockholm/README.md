@@ -2,11 +2,11 @@
 
 #### Organizers
 
- - Dave Zolotusky ([@dzolotusky](https://github.com/dzolotusky)), CNCF Ambassador, Software Engineer, [Spotify](https://www.spotify.com/)
- - Matthias Grüter ([@mattgruter](https://github.com/mattgruter)), [Spotify](https://www.spotify.com/)
- - Ilia Mikhailov ([@iljoo](https://github.com/iljoo))
- - Viktor Ekmark ([@fyx](https://github.com/fyx)), [ELASTX](https://elastx.se/en)
- - Andreas Holmsten ([@holmsten](https://github.com/holmsten)), [ELASTX](https://elastx.se/en)
+ - Dave Zolotusky [@dzolotusky](https://github.com/dzolotusky), CNCF Ambassador, Software Engineer, [Spotify](https://www.spotify.com/)
+ - Matthias Grüter [@mattgruter](https://github.com/mattgruter), [Spotify](https://www.spotify.com/)
+ - Ilia Mikhailov [@iljoo](https://github.com/iljoo)
+ - Viktor Ekmark [@fyx](https://github.com/fyx), [ELASTX](https://elastx.se/en)
+ - Andreas Holmsten [@holmsten](https://github.com/holmsten), [ELASTX](https://elastx.se/en)
 
 ### Stockholm K8S and CNCF May 2019
 
