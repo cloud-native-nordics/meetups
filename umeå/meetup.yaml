@@ -9,13 +9,12 @@ meetups:
   id: 261450080
   name: 'Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona '
   presentations:
-  - endTime: "18:30"
+  - duration: 90m
     slides: ""
     speakers:
     - lindaalmersson
     - tordsson
-    startTime: "17:00"
-    title: ""
+    title: Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona
   sponsors:
     other: null
     venue: elastisys
@@ -26,11 +25,11 @@ meetups:
   id: 260276456
   name: What does “production ready” really mean for a Kubernetes cluster?
   presentations:
-  - endTime: "18:30"
+  - duration: 1h
     slides: https://speakerdeck.com/luxas/what-does-production-ready-really-mean-for-a-kubernetes-cluster-umea-may-2019
     speakers:
     - luxas
-    startTime: "17:30"
+    delay: 30m
     title: What does “production ready” really mean for a Kubernetes cluster?
   sponsors:
     other: null
@@ -42,7 +41,7 @@ meetups:
   id: 257861742
   name: Cloud native lightning talks
   presentations:
-  - endTime: "18:30"
+  - duration: 1h
     slides: ""
     speakers:
     - eriklindskog
@@ -57,7 +56,7 @@ meetups:
     - stevewidinghoff
     - martonszucs
     - perengman
-    startTime: "17:30"
+    delay: 30m
     title: Lightning talks
   sponsors:
     other: null
@@ -69,16 +68,15 @@ meetups:
   id: 255929396
   name: Cloud-native, Kubernetes and trends
   presentations:
-  - endTime: "18:30"
+  - duration: 1h
     slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-november-2018
     speakers:
     - luxas
-    startTime: "17:30"
+    delay: 30m
     title: Intro to the cloud-native world with Kubernetes
   sponsors:
     other: null
     venue: elastisys
-members: 128
 name: Cloud Native Northern Sweden
 organizers:
 - robertwinter
