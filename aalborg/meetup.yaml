@@ -1,0 +1,55 @@
+city: Aalborg
+country: denmark
+meetupID: Cloud-Native-Aalborg
+meetups:
+- address: Skelagervej 15
+  date: "2019-09-04T17:00:00Z"
+  duration: 3h0m0s
+  id: 263744803
+  name: '#1 - Initial Meetup in Cloud Native Aalborg'
+  presentations:
+  - duration: 15m0s
+    slides: ""
+    speakers: null
+    title: Welcome from Sparnord
+  - duration: 10m0s
+    slides: ""
+    speakers:
+    - ihor
+    title: Welcome from the organizers
+  - duration: 10m0s
+    slides: ""
+    speakers:
+    - ihor
+    title: What is Cloud Native
+  - duration: 35m0s
+    slides: ""
+    speakers:
+    - camillalarsen
+    title: How Cloud Native is used in Sparnord
+  - duration: 25m0s
+    slides: ""
+    speakers: null
+    title: Food and Networking
+  - duration: 15m0s
+    slides: ""
+    speakers:
+    - arnemejlholm
+    title: DIY k8s in 10 minutes/how to install kubernetes fast
+  - duration: 10m0s
+    slides: ""
+    speakers: null
+    title: Survey
+  - duration: 1h0m0s
+    slides: ""
+    speakers: null
+    title: Networking
+  sponsors:
+    other: null
+    venue: sparnordbank
+name: Cloud Native Aalborg
+organizers:
+- allanhojgaardjensen
+- arnemejlholm
+- simonbengtsson
+- camillalarsen

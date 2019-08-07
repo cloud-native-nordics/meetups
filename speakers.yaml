@@ -724,3 +724,30 @@ speakers:
   id: renerotvigjensen
   name: René Rotvig Jensen
   speakersBureau: ""
+- company: sparnordbank
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: arnemejlholm
+  name: Arne Mejlholm
+  speakersBureau: ""
+  title: Systems Engineer
+- company: sparnordbank
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: simonbengtsson
+  name: Simon Bengtsson
+  speakersBureau: ""
+  title: Systems Engineer
+- company: oracle
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: allanhojgaardjensen
+  name: Allan Hojgaard Jensen
+  speakersBureau: ""
+  title: Cloud Platform Architect
