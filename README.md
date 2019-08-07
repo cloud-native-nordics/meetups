@@ -32,6 +32,10 @@ Repository to gather all meetup information and slides from Cloud Native Nordic 
   * Oliver Joggerst [@oliverjoggerst](https://github.com/oliverjoggerst), [Netum](https://www.netum.fi/)
   * Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
   * Sakari Hoisko, [Eficode](https://www.eficode.com/home)
+* [Umeå](umeå/README.md)
+  * Robert Winter, [Elastisys](https://elastisys.com/)
+  * Erik Lindskog, [Codemill](https://codemill.se/)
+  * Johan Tordsson, [Elastisys](https://elastisys.com/)
 
 ## Join our Community!
 
