@@ -9,7 +9,7 @@ Repository to gather all meetup information and slides from Cloud Native Nordic 
   * Camilla Larsen, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
 * [Aarhus](aarhus/README.md)
   * Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way A/S](https://www.lunarway.com)
-  * Rasmus Steiniche, Software Architect, DevOps and Cloud Native, [BESTSELLER](https://bestseller.com/)
+  * Rasmus Steiniche, CEO, [neurospace](https://neurospace.io)
   * Henrik Høegh, [Praqma](https://www.praqma.com/)
   * Daniel Fly, [Zitcom](https://www.zitcom.dk/)
 * [Copenhagen](copenhagen/README.md)
