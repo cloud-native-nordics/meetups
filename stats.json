@@ -1,46 +1,55 @@
 {
   "allMeetups": {
-    "sponsors": 67,
-    "speakers": 89,
-    "meetups": 56,
-    "members": 3614,
-    "totalRSVPs": 3128,
+    "sponsors": 69,
+    "speakers": 95,
+    "meetups": 59,
+    "members": 3814,
+    "totalRSVPs": 3259,
     "averageRSVPs": 55,
-    "uniqueRSVPs": 1727
+    "uniqueRSVPs": 1780
   },
   "perMeetup": {
+    "aalborg": {
+      "sponsors": 0,
+      "speakers": 0,
+      "meetups": 0,
+      "members": 57,
+      "totalRSVPs": 0,
+      "averageRSVPs": 0,
+      "uniqueRSVPs": 0
+    },
     "aarhus": {
       "sponsors": 15,
       "speakers": 35,
-      "meetups": 20,
-      "members": 834,
-      "totalRSVPs": 1130,
-      "averageRSVPs": 56,
-      "uniqueRSVPs": 456
+      "meetups": 22,
+      "members": 852,
+      "totalRSVPs": 1203,
+      "averageRSVPs": 54,
+      "uniqueRSVPs": 472
     },
     "copenhagen": {
       "sponsors": 5,
       "speakers": 11,
-      "meetups": 10,
-      "members": 703,
-      "totalRSVPs": 483,
-      "averageRSVPs": 48,
-      "uniqueRSVPs": 316
+      "meetups": 11,
+      "members": 736,
+      "totalRSVPs": 541,
+      "averageRSVPs": 49,
+      "uniqueRSVPs": 354
     },
     "göteborg": {
       "sponsors": 1,
       "speakers": 5,
       "meetups": 7,
-      "members": 398,
+      "members": 430,
       "totalRSVPs": 200,
       "averageRSVPs": 28,
-      "uniqueRSVPs": 136
+      "uniqueRSVPs": 135
     },
     "helsinki": {
       "sponsors": 12,
       "speakers": 21,
       "meetups": 9,
-      "members": 752,
+      "members": 786,
       "totalRSVPs": 690,
       "averageRSVPs": 76,
       "uniqueRSVPs": 365
@@ -49,16 +58,16 @@
       "sponsors": 1,
       "speakers": 0,
       "meetups": 3,
-      "members": 644,
+      "members": 648,
       "totalRSVPs": 332,
       "averageRSVPs": 110,
       "uniqueRSVPs": 273
     },
     "tampere": {
-      "sponsors": 4,
-      "speakers": 8,
+      "sponsors": 5,
+      "speakers": 11,
       "meetups": 3,
-      "members": 153,
+      "members": 173,
       "totalRSVPs": 148,
       "averageRSVPs": 49,
       "uniqueRSVPs": 96
@@ -67,7 +76,7 @@
       "sponsors": 3,
       "speakers": 4,
       "meetups": 4,
-      "members": 130,
+      "members": 132,
       "totalRSVPs": 145,
       "averageRSVPs": 36,
       "uniqueRSVPs": 85
