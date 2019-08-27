@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"log"
 	"sort"
 	"strings"
 	"time"
@@ -23,20 +24,8 @@ type CompaniesFile struct {
 	Members  []Company `json:"members"`
 }
 
-func (c *CompaniesFile) SetGlobalMap() {
-	for i, co := range c.Sponsors {
-		globalCompanyMap[co.ID] = &c.Sponsors[i]
-	}
-}
-
 type SpeakersFile struct {
 	Speakers []Speaker `json:"speakers"`
-}
-
-func (s *SpeakersFile) SetGlobalMap() {
-	for i, sp := range s.Speakers {
-		globalSpeakerMap[sp.ID] = &s.Speakers[i]
-	}
 }
 
 type MeetupGroupsFile struct {
@@ -136,11 +125,18 @@ func (c *Company) UnmarshalJSON(b []byte) error {
 	ctest := companyInternal{}
 	if err := json.Unmarshal(b, &ctest); err == nil {
 		c.companyInternal = ctest
+		if _, ok := globalCompanyMap[c.ID]; !ok {
+			globalCompanyMap[c.ID] = c
+		}
 		return nil
 	}
 	cid := CompanyID("")
 	if err := json.Unmarshal(b, &cid); err == nil {
-		*c = *globalCompanyMap[cid]
+		company, ok := globalCompanyMap[cid]
+		if !ok {
+			log.Fatalf("company reference not found: %s", cid)
+		}
+		*c = *company
 		return nil
 	}
 	return fmt.Errorf("couldn't marshal company")
@@ -190,13 +186,16 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 	stest := speakerInternal{}
 	if err := json.Unmarshal(b, &stest); err == nil {
 		s.speakerInternal = stest
+		if _, ok := globalSpeakerMap[s.ID]; !ok {
+			globalSpeakerMap[s.ID] = s
+		}
 		return nil
 	}
 	sid := SpeakerID("")
 	if err := json.Unmarshal(b, &sid); err == nil {
 		speaker, ok := globalSpeakerMap[sid]
 		if !ok {
-			return fmt.Errorf("speaker reference not found: %s", sid)
+			log.Fatalf("speaker reference not found: %s", sid)
 		}
 		*s = *speaker
 		return nil
