@@ -237,8 +237,10 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 			mgStat.Speakers = uint64(len(speakers))
 			mgStat.Sponsors = uint64(len(sponsors))
 			mgStat.TotalRSVPs = totalRSVPs
-			mgStat.Meetups = priorMeetups
-			mgStat.AverageRSVPs = uint64(math.Floor(float64(mgStat.TotalRSVPs / mgStat.Meetups)))
+			if priorMeetups > 0 {
+				mgStat.Meetups = priorMeetups
+				mgStat.AverageRSVPs = uint64(math.Floor(float64(totalRSVPs / priorMeetups)))
+			}
 			for _, num := range allRSVPs {
 				mgStat.UniqueRSVPs += num
 			}
