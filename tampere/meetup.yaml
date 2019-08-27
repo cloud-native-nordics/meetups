@@ -3,6 +3,15 @@ city: Tampere
 country: finland
 meetupID: Kubernetes-Tampere
 meetups:
+- address: Pinninkatu 47
+  date: "2019-08-28T17:00:00Z"
+  duration: 3h0m0s
+  id: 263932460
+  name: August Kubernetes Meetup in Tampere
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Kelloportinkatu 1 D
   attendees: 50
   date: "2019-06-13T17:00:00Z"

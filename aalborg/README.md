@@ -2,7 +2,7 @@
 
 #### Organizers
 
- - Allan Hojgaard Jensen, Cloud Platform Architect, [Oracle](https://oracle.com)
+ - Allan Hojgaard Jensen, Cloud Platform Architect, [Oracle](https://www.oracle.com)
  - Arne Mejlholm, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
  - Simon Bengtsson, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
  - Camilla Larsen, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)

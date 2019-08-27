@@ -2,6 +2,24 @@ city: Göteborg
 country: sweden
 meetupID: Kubernetes-Goteborg
 meetups:
+- address: Vallgatan 22
+  date: "2019-09-05T18:00:00Z"
+  duration: 3h0m0s
+  id: 263937712
+  name: September meetup in Gothenburg
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: ""
+  date: "2019-08-27T17:40:00Z"
+  duration: 3h0m0s
+  id: 263936791
+  name: Kubernetes Göteborg & CloudNativeGbg#4 - Automation in Cloud Native Environments
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Kungsportsavenyen 33
   attendees: 45
   date: "2019-05-09T18:00:00Z"
