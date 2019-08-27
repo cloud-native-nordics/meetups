@@ -12,6 +12,7 @@ meetups:
     other: null
     venue: null
 - address: Langebrogade 1
+  attendees: 58
   date: "2019-08-21T17:00:00Z"
   duration: 3h0m0s
   id: 262635188

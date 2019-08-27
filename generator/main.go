@@ -61,7 +61,6 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 	if err := yaml.UnmarshalStrict(companiesContent, companiesObj); err != nil {
 		return nil, err
 	}
-	companiesObj.SetGlobalMap()
 	speakersObj := &SpeakersFile{}
 	speakersContent, err := ioutil.ReadFile(speakersPath)
 	if err != nil {
@@ -70,7 +69,6 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 	if err := yaml.UnmarshalStrict(speakersContent, speakersObj); err != nil {
 		return nil, err
 	}
-	speakersObj.SetGlobalMap()
 	meetupGroups := []MeetupGroup{}
 
 	err = filepath.Walk(meetupsDir, func(path string, info os.FileInfo, err error) error {

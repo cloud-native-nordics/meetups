@@ -405,7 +405,7 @@ speakers:
   speakersBureau: ""
   title: Cloud Architect/SRE, CNCF Ambassador
   twitter: phennex
-- company: bestseller
+- company: neurospace
   countries:
   - denmark
   email: ""
@@ -413,7 +413,7 @@ speakers:
   id: rasmussteiniche
   name: Rasmus Steiniche
   speakersBureau: ""
-  title: Software Architect, DevOps and Cloud Native
+  title: CEO
 - company: sparnordbank
   countries:
   - denmark

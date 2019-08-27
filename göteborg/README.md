@@ -8,6 +8,24 @@
  - Anton Lindgren, [Yolean](https://www.yolean.com/)
  - Jacob Hagstedt P Suorra
 
+### September meetup in Gothenburg
+
+ - Date: 5 September, 2019 at 18:00 - 21:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/263937712
+
+
+#### Agenda
+
+
+### Kubernetes Göteborg & CloudNativeGbg#4 - Automation in Cloud Native Environments
+
+ - Date: 27 August, 2019 at 17:40 - 20:40
+ - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/263936791
+
+
+#### Agenda
+
+
 ### 18 months of kubernetes in production and learning
 
  - Date: 9 May, 2019 at 18:00 - 20:00
