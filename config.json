@@ -7055,19 +7055,6 @@
       ],
       "meetups": [
         {
-          "id": 264000004,
-          "name": "August Meetup in Tampere",
-          "date": "2019-08-28T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 2,
-          "address": "Pinninkatu 47",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
-        },
-        {
           "id": 263999844,
           "name": "August Meetup in Helsinki",
           "date": "2019-08-27T18:00:00Z",
@@ -8613,7 +8600,8 @@
       "ignoreMeetupIDs": [
         257897399,
         259129795,
-        261352635
+        261352635,
+        264000004
       ],
       "cfp": "https://bit.ly/k8sfin-cfp"
     },

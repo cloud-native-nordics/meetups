@@ -5,18 +5,11 @@ ignoreMeetupIDs:
 - 257897399
 - 259129795
 - 261352635
+- 264000004
 meetupID: Kubernetes-Finland
 meetups:
-- address: Pinninkatu 47
-  date: "2019-08-28T17:00:00Z"
-  duration: 3h0m0s
-  id: 264000004
-  name: August Meetup in Tampere
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
 - address: Lapinlahdenkatu 16
+  attendees: 95
   date: "2019-08-27T18:00:00Z"
   duration: 3h0m0s
   id: 263999844

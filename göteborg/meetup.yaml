@@ -12,6 +12,7 @@ meetups:
     other: null
     venue: null
 - address: ""
+  attendees: 1
   date: "2019-08-27T17:40:00Z"
   duration: 3h0m0s
   id: 263936791
