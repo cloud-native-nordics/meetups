@@ -280,6 +280,26 @@ sponsors:
   websiteURL: https://www.storaenso.com/
 - countries:
   - finland
+  id: tribe
+  logoURL: https://tribetampere.com/wp-content/themes/tribetampere/img/tribe-logo-nega.svg
+  name: P47 Tribe Tampere
+  websiteURL: https://tribetampere.com
+  whiteLogo: true
+- countries:
+  - finland
+  id: polarsquad
+  logoURL: https://images.squarespace-cdn.com/content/5cab30ced7819e79770caa7e/1554814571981-0XPW82OI287D8BNCMWEL/polarsquadlogo.png?content-type=image%2Fpng
+  name: Polar Squad
+  websiteURL: https://polarsquad.com
+  whiteLogo: true
+- countries:
+  - finland
+  id: opentext
+  logoURL: https://www.opentext.com/file_source/OpenText/en_US/SVG/opentext-logo-dark.svg
+  name: Open Text
+  websiteURL: https://www.opentext.com
+- countries:
+  - finland
   - sweden
   id: meltwater
   logoURL: https://d1bile9su2eskg.cloudfront.net/wp-content/themes/meltwater/images/sprites/logo_white.png

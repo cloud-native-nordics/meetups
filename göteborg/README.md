@@ -12,6 +12,7 @@
 
  - Date: 5 September, 2019 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/263937712
+ - Attendees (according to meetup.com): 70
 
 
 #### Agenda

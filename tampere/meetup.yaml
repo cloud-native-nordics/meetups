@@ -9,10 +9,52 @@ meetups:
   duration: 3h0m0s
   id: 263932460
   name: August Kubernetes Meetup in Tampere
-  presentations: null
+  presentations:
+  - duration: 10m0s
+    slides: ""
+    speakers: null
+    title: Arrive to the venue, sit down and network with others ;)
+  - duration: 15m0s
+    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-august-2019
+    speakers:
+    - luxas
+    title: Updates from the Cloud Native Nordics Community
+  - duration: 5m0s
+    slides: ""
+    speakers:
+    - terovepsalainen
+    title: Introductionary words from the venue sponsor for this time Polar Squad
+  - duration: 25m0s
+    slides: https://core.opentext.com/pdfjs/web/viewer.html?shortLink=529288245b31ebfb944c46cab5917d3f90fbc6b30a563cdd
+    speakers:
+    - oscarneira
+    title: Reactive Systems in K8s
+  - delay: 5m0s
+    duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking, food, drinks
+  - duration: 25m0s
+    slides: https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version
+    speakers:
+    - jnummelin
+    title: Make your Kubernetes Cluster safe for DevOps
+  - delay: 5m0s
+    duration: 25m0s
+    slides: https://speakerdeck.com/polaryair/the-future-of-the-cloud
+    speakers:
+    - yairetziony
+    title: The Future of The Cloud
+  - delay: 5m0s
+    duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking
   sponsors:
-    other: null
-    venue: null
+    other:
+    - luxaslabs
+    - cncf
+    venue: tribe
 - address: Kelloportinkatu 1 D
   attendees: 50
   date: "2019-06-13T17:00:00Z"

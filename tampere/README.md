@@ -16,10 +16,30 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
  - Date: 28 August, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/263932460
  - Attendees (according to meetup.com): 48
-
+ - Venue sponsor: [P47 Tribe Tampere](https://tribetampere.com)
+ - Meetup sponsors:
+   - [luxas labs](https://luxaslabs.com)
+   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
+ - 17:00 - 17:10: Arrive to the venue, sit down and network with others ;) 
+ - 17:10 - 17:25: Updates from the Cloud Native Nordics Community 
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+   - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-august-2019
+ - 17:25 - 17:30: Introductionary words from the venue sponsor for this time Polar Squad 
+   - Tero Vepsäläinen, [Polar Squad](https://polarsquad.com)
+ - 17:30 - 17:55: Reactive Systems in K8s 
+   - Oscar Neira [@OscarNeira](https://github.com/OscarNeira), [Open Text](https://www.opentext.com)
+   - Slides: https://core.opentext.com/pdfjs/web/viewer.html?shortLink=529288245b31ebfb944c46cab5917d3f90fbc6b30a563cdd
+ - 18:00 - 18:30: Networking, food, drinks 
+ - 18:30 - 18:55: Make your Kubernetes Cluster safe for DevOps 
+   - Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
+   - Slides: https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version
+ - 19:00 - 19:25: The Future of The Cloud 
+   - Yair Etziony [@yairlisk](https://github.com/yairlisk), [Polar Squad](https://polarsquad.com)
+   - Slides: https://speakerdeck.com/polaryair/the-future-of-the-cloud
+ - 19:30 - 20:00: Networking 
 
 ### Summer Kubernetes Tampere Meetup
 
