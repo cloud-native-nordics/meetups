@@ -4,14 +4,57 @@ country: finland
 meetupID: Kubernetes-Tampere
 meetups:
 - address: Pinninkatu 47
+  attendees: 48
   date: "2019-08-28T17:00:00Z"
   duration: 3h0m0s
   id: 263932460
   name: August Kubernetes Meetup in Tampere
-  presentations: null
+  presentations:
+  - duration: 10m0s
+    slides: ""
+    speakers: null
+    title: Arrive to the venue, sit down and network with others ;)
+  - duration: 15m0s
+    slides: ""
+    speakers:
+    - luxas
+    title: Updates from the Cloud Native Nordics Community, Lucas Käldström
+  - duration: 5m0s
+    slides: ""
+    speakers:
+    - terovepsalainen
+    title: Introductionary words from the venue sponsor for this time Polar Squad
+  - duration: 25m0s
+    slides: ""
+    speakers:
+    - oscarneira
+    title: Reactive Systems in K8s
+  - delay: 5m0s
+    duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking, food, drinks
+  - duration: 25m0s
+    slides: ""
+    speakers:
+    - jnummelin
+    title: Make your Kubernetes Cluster safe for DevOps
+  - delay: 5m0s
+    duration: 25m0s
+    slides: ""
+    speakers:
+    - yairetziony
+    title: The Future of The Cloud
+  - delay: 5m0s
+    duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking
   sponsors:
-    other: null
-    venue: null
+    other:
+    - luxaslabs
+    - cncf
+    venue: tribe
 - address: Kelloportinkatu 1 D
   attendees: 50
   date: "2019-06-13T17:00:00Z"
