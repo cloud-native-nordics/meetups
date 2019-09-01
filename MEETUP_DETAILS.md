@@ -14,7 +14,7 @@ Apply for speaking at our next meetup here: <CFP Form Link>
 
 Don't forget we have a Swag table!
 You can bring your company's or favorite project's swag there for exchange within the group ;)
-Accenture provides the food and venue for the evening, thanks!
+<Venue Sponsor> provides the food and venue for the evening, thanks!
 
 Let's have a fun evening and meet at <Venue Sponsor> on <Date>!
 ```
