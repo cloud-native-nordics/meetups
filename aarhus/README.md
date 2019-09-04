@@ -37,6 +37,7 @@
    - Slides: https://www.slideshare.net/KasperNissen1/should-developers-care-about-dockerfiles-and-kubernetes-resources
  - 19:15 - 19:30: Intro to cloud-verse 
    - Rasmus Steiniche, CEO, [neurospace](https://neurospace.io)
+   - Slides: https://docs.google.com/presentation/d/1p_KzIq-eMHjB6EAOd44JCH004IRiZzmNfKIjip8qlog/edit?usp=sharing
  - 19:30 - 20:30: LEGO House tour with play agents - Connection between physical bricks and digital experiences 
  - 20:30 - 21:45: Bus transport from LEGO House to Aarhus 
 

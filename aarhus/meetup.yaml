@@ -50,7 +50,7 @@ meetups:
     - kaspernissen
     title: Should Developers Care About Dockerfiles and Kubernetes resources?
   - duration: 15m0s
-    slides: ""
+    slides: https://docs.google.com/presentation/d/1p_KzIq-eMHjB6EAOd44JCH004IRiZzmNfKIjip8qlog/edit?usp=sharing
     speakers:
     - rasmussteiniche
     title: Intro to cloud-verse
