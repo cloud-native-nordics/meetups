@@ -9140,7 +9140,7 @@
             {
               "duration": "5m0s",
               "title": "Introductionary words from the venue sponsor for this time Polar Squad",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-august-2019",
               "speakers": [
                 {
                   "id": "terovepsalainen",
@@ -9194,7 +9194,7 @@
               "duration": "30m0s",
               "delay": "5m0s",
               "title": "Networking, food, drinks",
-              "slides": "",
+              "slides": "https://core.opentext.com/pdfjs/web/viewer.html?shortLink=529288245b31ebfb944c46cab5917d3f90fbc6b30a563cdd",
               "speakers": null
             },
             {
