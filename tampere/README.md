@@ -28,14 +28,18 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
    - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
  - 17:25 - 17:30: Introductionary words from the venue sponsor for this time Polar Squad 
    - Tero Vepsäläinen, [Polar Squad](https://polarsquad.com)
+   - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-august-2019
  - 17:30 - 17:55: Reactive Systems in K8s 
    - Oscar Neira [@OscarNeira](https://github.com/OscarNeira), [Open Text](https://www.opentext.com)
  - 18:00 - 18:30: Networking, food, drinks 
+   - Slides: https://core.opentext.com/pdfjs/web/viewer.html?shortLink=529288245b31ebfb944c46cab5917d3f90fbc6b30a563cdd
  - 18:30 - 18:55: Make your Kubernetes Cluster safe for DevOps 
    - Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
  - 19:00 - 19:25: The Future of The Cloud 
    - Yair Etziony [@yairlisk](https://github.com/yairlisk), [Polar Squad](https://polarsquad.com)
+   - Slides: https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version
  - 19:30 - 20:00: Networking 
+   - Slides: https://speakerdeck.com/polaryair/the-future-of-the-cloud
 
 ### Summer Kubernetes Tampere Meetup
 

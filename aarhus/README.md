@@ -7,10 +7,20 @@
  - Henrik Høegh, [Praqma](https://praqma.com)
  - Daniel Fly, [Zitcom](https://www.zitcom.dk/)
 
+### Cloud Native Aarhus: Google Cloud
+
+ - Date: 24 September, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/264325804
+
+
+#### Agenda
+
+
 ### Cloud Native Aarhus Field Trip: LEGO House
 
  - Date: 3 September, 2019 at 16:00 - 21:45
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262602452
+ - Attendees (according to meetup.com): 67
  - Venue sponsor: [LEGO](https://lego.com)
 
 #### Agenda

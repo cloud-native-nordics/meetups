@@ -3041,10 +3041,23 @@
       ],
       "meetups": [
         {
+          "id": 264325804,
+          "name": "Cloud Native Aarhus: Google Cloud",
+          "date": "2019-09-24T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Hack Kampmanns Pl. 2",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
           "id": 262602452,
           "name": "Cloud Native Aarhus Field Trip: LEGO House",
           "date": "2019-09-03T16:00:00Z",
           "duration": "5h45m0s",
+          "attendees": 67,
           "address": "Ole Kirks Plads 1",
           "sponsors": {
             "venue": {
@@ -6707,7 +6720,7 @@
           "date": "2019-08-27T17:40:00Z",
           "duration": "3h0m0s",
           "attendees": 1,
-          "address": "",
+          "address": "Kungstorget 7",
           "sponsors": {
             "venue": null,
             "other": null
@@ -9000,7 +9013,7 @@
             {
               "duration": "5m0s",
               "title": "Introductionary words from the venue sponsor for this time Polar Squad",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-august-2019",
               "speakers": [
                 {
                   "id": "terovepsalainen",
@@ -9054,7 +9067,7 @@
               "duration": "30m0s",
               "delay": "5m0s",
               "title": "Networking, food, drinks",
-              "slides": "",
+              "slides": "https://core.opentext.com/pdfjs/web/viewer.html?shortLink=529288245b31ebfb944c46cab5917d3f90fbc6b30a563cdd",
               "speakers": null
             },
             {
@@ -9087,7 +9100,7 @@
               "duration": "25m0s",
               "delay": "5m0s",
               "title": "The Future of The Cloud",
-              "slides": "",
+              "slides": "https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version",
               "speakers": [
                 {
                   "id": "yairetziony",
@@ -9115,7 +9128,7 @@
               "duration": "30m0s",
               "delay": "5m0s",
               "title": "Networking",
-              "slides": "",
+              "slides": "https://speakerdeck.com/polaryair/the-future-of-the-cloud",
               "speakers": null
             }
           ]
