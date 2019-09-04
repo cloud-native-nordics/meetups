@@ -4,6 +4,7 @@ country: finland
 meetupID: Kubernetes-Tampere
 meetups:
 - address: Pinninkatu 47
+  attendees: 48
   date: "2019-08-28T17:00:00Z"
   duration: 3h0m0s
   id: 263932460

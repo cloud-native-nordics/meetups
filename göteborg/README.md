@@ -21,6 +21,7 @@
 
  - Date: 27 August, 2019 at 17:40 - 20:40
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/263936791
+ - Attendees (according to meetup.com): 1
 
 
 #### Agenda

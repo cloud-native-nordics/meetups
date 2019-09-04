@@ -2953,10 +2953,23 @@
       ],
       "meetups": [
         {
+          "id": 264325804,
+          "name": "Cloud Native Aarhus: Google Cloud",
+          "date": "2019-09-24T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Hack Kampmanns Pl. 2",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
           "id": 262602452,
           "name": "Cloud Native Aarhus Field Trip: LEGO House",
           "date": "2019-09-03T16:00:00Z",
           "duration": "5h45m0s",
+          "attendees": 67,
           "address": "Ole Kirks Plads 1",
           "sponsors": {
             "venue": {
@@ -2970,7 +2983,132 @@
             },
             "other": null
           },
-          "presentations": null
+          "presentations": [
+            {
+              "duration": "1h15m0s",
+              "title": "Bus transport from Aarhus to LEGO House",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "15m0s",
+              "title": "Welcome – digital name tags are given to all and water and snacks are available (LEGO House)",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Opening pitch about LEGO’s cloud vision and journey – LEGO",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "45m0s",
+              "title": "Three combined talks\" by LEGO",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "30m0s",
+              "title": "Dinner break and mingling opportunity",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "10m0s",
+              "title": "Helm - the Package Manager for Kubernetes",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "ihor",
+                  "name": "Ihor Dvoretskyi",
+                  "email": "",
+                  "company": {
+                    "id": "cncf",
+                    "name": "Cloud Native Computing Foundation (CNCF)",
+                    "websiteURL": "https://www.cncf.io/",
+                    "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
+                    "countries": [
+                      "denmark",
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "15m0s",
+              "title": "Should Developers Care About Dockerfiles and Kubernetes resources?",
+              "slides": "https://www.slideshare.net/KasperNissen1/should-developers-care-about-dockerfiles-and-kubernetes-resources",
+              "speakers": [
+                {
+                  "id": "kaspernissen",
+                  "name": "Kasper Nissen",
+                  "title": "Cloud Architect/SRE, CNCF Ambassador",
+                  "email": "kaspernissen@gmail.com",
+                  "company": {
+                    "id": "lunarway",
+                    "name": "Lunar Way",
+                    "websiteURL": "https://lunarway.com",
+                    "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "kaspernissen",
+                  "twitter": "phennex",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "15m0s",
+              "title": "Intro to cloud-verse",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "rasmussteiniche",
+                  "name": "Rasmus Steiniche",
+                  "title": "CEO",
+                  "email": "",
+                  "company": {
+                    "id": "neurospace",
+                    "name": "neurospace",
+                    "websiteURL": "https://neurospace.io",
+                    "logoURL": "https://neurospace.io/img/brand/logo-1500x1500.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "1h0m0s",
+              "title": "LEGO House tour with play agents - Connection between physical bricks and digital experiences",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "1h15m0s",
+              "title": "Bus transport from LEGO House to Aarhus",
+              "slides": "",
+              "speakers": null
+            }
+          ]
         },
         {
           "id": 264122411,
@@ -6618,7 +6756,8 @@
           "name": "Kubernetes Göteborg \u0026 CloudNativeGbg#4 - Automation in Cloud Native Environments",
           "date": "2019-08-27T17:40:00Z",
           "duration": "3h0m0s",
-          "address": "",
+          "attendees": 1,
+          "address": "Kungstorget 7",
           "sponsors": {
             "venue": null,
             "other": null
@@ -6970,6 +7109,7 @@
           "name": "August Meetup in Tampere",
           "date": "2019-08-28T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 2,
           "address": "Pinninkatu 47",
           "sponsors": {
             "venue": null,
@@ -6982,6 +7122,7 @@
           "name": "August Meetup in Helsinki",
           "date": "2019-08-27T18:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 95,
           "address": "Lapinlahdenkatu 16",
           "sponsors": {
             "venue": null,
@@ -8846,6 +8987,7 @@
           "name": "August Kubernetes Meetup in Tampere",
           "date": "2019-08-28T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 48,
           "address": "Pinninkatu 47",
           "sponsors": {
             "venue": null,

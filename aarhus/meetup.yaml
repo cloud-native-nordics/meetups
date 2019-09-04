@@ -2,12 +2,67 @@ city: Aarhus
 country: denmark
 meetupID: Cloud-Native-Aarhus
 meetups:
+- address: Hack Kampmanns Pl. 2
+  date: "2019-09-24T17:00:00Z"
+  duration: 3h0m0s
+  id: 264325804
+  name: 'Cloud Native Aarhus: Google Cloud'
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Ole Kirks Plads 1
+  attendees: 67
   date: "2019-09-03T16:00:00Z"
   duration: 5h45m0s
   id: 262602452
   name: 'Cloud Native Aarhus Field Trip: LEGO House'
-  presentations: null
+  presentations:
+  - duration: 1h15m0s
+    slides: ""
+    speakers: null
+    title: Bus transport from Aarhus to LEGO House
+  - duration: 15m0s
+    slides: ""
+    speakers: null
+    title: Welcome – digital name tags are given to all and water and snacks are available
+      (LEGO House)
+  - duration: 5m0s
+    slides: ""
+    speakers: null
+    title: Opening pitch about LEGO’s cloud vision and journey – LEGO
+  - duration: 45m0s
+    slides: ""
+    speakers: null
+    title: Three combined talks" by LEGO
+  - duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Dinner break and mingling opportunity
+  - duration: 10m0s
+    slides: ""
+    speakers:
+    - ihor
+    title: Helm - the Package Manager for Kubernetes
+  - duration: 15m0s
+    slides: https://www.slideshare.net/KasperNissen1/should-developers-care-about-dockerfiles-and-kubernetes-resources
+    speakers:
+    - kaspernissen
+    title: Should Developers Care About Dockerfiles and Kubernetes resources?
+  - duration: 15m0s
+    slides: ""
+    speakers:
+    - rasmussteiniche
+    title: Intro to cloud-verse
+  - duration: 1h0m0s
+    slides: ""
+    speakers: null
+    title: LEGO House tour with play agents - Connection between physical bricks and
+      digital experiences
+  - duration: 1h15m0s
+    slides: ""
+    speakers: null
+    title: Bus transport from LEGO House to Aarhus
   sponsors:
     other: null
     venue: lego

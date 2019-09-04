@@ -15,6 +15,7 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
 
  - Date: 28 August, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/263932460
+ - Attendees (according to meetup.com): 48
 
 
 #### Agenda

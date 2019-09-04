@@ -7,14 +7,38 @@
  - Henrik Høegh, [Praqma](https://praqma.com)
  - Daniel Fly, [Zitcom](https://www.zitcom.dk/)
 
+### Cloud Native Aarhus: Google Cloud
+
+ - Date: 24 September, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/264325804
+
+
+#### Agenda
+
+
 ### Cloud Native Aarhus Field Trip: LEGO House
 
  - Date: 3 September, 2019 at 16:00 - 21:45
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/262602452
+ - Attendees (according to meetup.com): 67
  - Venue sponsor: [LEGO](https://lego.com)
 
 #### Agenda
 
+ - 16:00 - 17:15: Bus transport from Aarhus to LEGO House 
+ - 17:15 - 17:30: Welcome – digital name tags are given to all and water and snacks are available (LEGO House) 
+ - 17:30 - 17:35: Opening pitch about LEGO’s cloud vision and journey – LEGO 
+ - 17:35 - 18:20: Three combined talks" by LEGO 
+ - 18:20 - 18:50: Dinner break and mingling opportunity 
+ - 18:50 - 19:00: Helm - the Package Manager for Kubernetes 
+   - Ihor Dvoretskyi, [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - 19:00 - 19:15: Should Developers Care About Dockerfiles and Kubernetes resources? 
+   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way](https://lunarway.com)
+   - Slides: https://www.slideshare.net/KasperNissen1/should-developers-care-about-dockerfiles-and-kubernetes-resources
+ - 19:15 - 19:30: Intro to cloud-verse 
+   - Rasmus Steiniche, CEO, [neurospace](https://neurospace.io)
+ - 19:30 - 20:30: LEGO House tour with play agents - Connection between physical bricks and digital experiences 
+ - 20:30 - 21:45: Bus transport from LEGO House to Aarhus 
 
 ### Cloud Native Aarhus Special: Lucas Käldström aka @kubernetesonarm
 
