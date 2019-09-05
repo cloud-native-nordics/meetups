@@ -32,6 +32,7 @@
  - 18:20 - 18:50: Dinner break and mingling opportunity 
  - 18:50 - 19:00: Helm - the Package Manager for Kubernetes 
    - Ihor Dvoretskyi, [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+   - Slides: https://docs.google.com/presentation/d/19qN3ExaXPKWRqAvieHJ8TRYhbMRJ2vx-_rXpYsvpUqw/edit#slide=id.g6136321517_0_172
  - 19:00 - 19:15: Should Developers Care About Dockerfiles and Kubernetes resources? 
    - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way](https://lunarway.com)
    - Slides: https://www.slideshare.net/KasperNissen1/should-developers-care-about-dockerfiles-and-kubernetes-resources

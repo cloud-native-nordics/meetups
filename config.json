@@ -2715,6 +2715,7 @@
           "name": "#1 - Initial Meetup in Cloud Native Aalborg",
           "date": "2019-09-04T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 54,
           "address": "Skelagervej 15",
           "sponsors": {
             "venue": {
@@ -3017,7 +3018,7 @@
             {
               "duration": "10m0s",
               "title": "Helm - the Package Manager for Kubernetes",
-              "slides": "",
+              "slides": "https://docs.google.com/presentation/d/19qN3ExaXPKWRqAvieHJ8TRYhbMRJ2vx-_rXpYsvpUqw/edit#slide=id.g6136321517_0_172",
               "speakers": [
                 {
                   "id": "ihor",

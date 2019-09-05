@@ -40,7 +40,7 @@ meetups:
     speakers: null
     title: Dinner break and mingling opportunity
   - duration: 10m0s
-    slides: ""
+    slides: https://docs.google.com/presentation/d/19qN3ExaXPKWRqAvieHJ8TRYhbMRJ2vx-_rXpYsvpUqw/edit#slide=id.g6136321517_0_172
     speakers:
     - ihor
     title: Helm - the Package Manager for Kubernetes

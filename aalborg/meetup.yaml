@@ -3,6 +3,7 @@ country: denmark
 meetupID: Cloud-Native-Aalborg
 meetups:
 - address: Skelagervej 15
+  attendees: 54
   date: "2019-09-04T17:00:00Z"
   duration: 3h0m0s
   id: 263744803
