@@ -11,6 +11,7 @@
 
  - Date: 4 September, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aalborg/events/263744803
+ - Attendees (according to meetup.com): 54
  - Venue sponsor: [Spar Nord Bank](https://www.sparnord.dk/)
 
 #### Agenda

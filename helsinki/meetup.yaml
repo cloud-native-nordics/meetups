@@ -8,6 +8,7 @@ ignoreMeetupIDs:
 meetupID: Kubernetes-Finland
 meetups:
 - address: Pinninkatu 47
+  attendees: 2
   date: "2019-08-28T17:00:00Z"
   duration: 3h0m0s
   id: 264000004
@@ -17,6 +18,7 @@ meetups:
     other: null
     venue: null
 - address: Lapinlahdenkatu 16
+  attendees: 95
   date: "2019-08-27T18:00:00Z"
   duration: 3h0m0s
   id: 263999844
