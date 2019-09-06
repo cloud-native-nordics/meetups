@@ -226,6 +226,30 @@ speakers:
   id: carolchen
   name: Carol Chen
   speakersBureau: ""
+- company: opentext
+  countries:
+  - finland
+  email: osc.neira.m@gmail.com
+  github: OscarNeira
+  id: oscarneira
+  name: Oscar Neira
+  speakersBureau: ""
+- company: polarsquad
+  countries:
+  - finland
+  email: ""
+  github: yairlisk
+  id: yairetziony
+  name: Yair Etziony
+  speakersBureau: ""
+- company: polarsquad
+  countries:
+  - finland
+  email: hapsahainen@gmail.com
+  github: ""
+  id: terovepsalainen
+  name: Tero Vepsäläinen
+  speakersBureau: ""
 - company: meltwater
   countries:
   - finland

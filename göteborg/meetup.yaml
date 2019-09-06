@@ -3,6 +3,7 @@ country: sweden
 meetupID: Kubernetes-Goteborg
 meetups:
 - address: Vallgatan 22
+  attendees: 70
   date: "2019-09-05T18:00:00Z"
   duration: 3h0m0s
   id: 263937712

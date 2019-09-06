@@ -10,16 +10,6 @@
 
 if you're interested in speaking in this meetup, fill out this form: https://bit.ly/k8sfin-cfp
 
-### August Meetup in Tampere
-
- - Date: 28 August, 2019 at 17:00 - 20:00
- - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264000004
- - Attendees (according to meetup.com): 2
-
-
-#### Agenda
-
-
 ### August Meetup in Helsinki
 
  - Date: 27 August, 2019 at 18:00 - 21:00

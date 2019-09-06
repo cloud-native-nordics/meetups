@@ -236,6 +236,35 @@
       ]
     },
     {
+      "id": "tribe",
+      "name": "P47 Tribe Tampere",
+      "websiteURL": "https://tribetampere.com",
+      "logoURL": "https://tribetampere.com/wp-content/themes/tribetampere/img/tribe-logo-nega.svg",
+      "whiteLogo": true,
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "polarsquad",
+      "name": "Polar Squad",
+      "websiteURL": "https://polarsquad.com",
+      "logoURL": "https://images.squarespace-cdn.com/content/5cab30ced7819e79770caa7e/1554814571981-0XPW82OI287D8BNCMWEL/polarsquadlogo.png?content-type=image%2Fpng",
+      "whiteLogo": true,
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "opentext",
+      "name": "Open Text",
+      "websiteURL": "https://www.opentext.com",
+      "logoURL": "https://www.opentext.com/file_source/OpenText/en_US/SVG/opentext-logo-dark.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
       "id": "meltwater",
       "name": "Meltwater",
       "websiteURL": "https://underthehood.meltwater.com/",
@@ -1342,6 +1371,65 @@
         "finland"
       ],
       "github": "cybette",
+      "speakersBureau": ""
+    },
+    {
+      "id": "oscarneira",
+      "name": "Oscar Neira",
+      "email": "osc.neira.m@gmail.com",
+      "company": {
+        "id": "opentext",
+        "name": "Open Text",
+        "websiteURL": "https://www.opentext.com",
+        "logoURL": "https://www.opentext.com/file_source/OpenText/en_US/SVG/opentext-logo-dark.svg",
+        "countries": [
+          "finland"
+        ]
+      },
+      "countries": [
+        "finland"
+      ],
+      "github": "OscarNeira",
+      "speakersBureau": ""
+    },
+    {
+      "id": "yairetziony",
+      "name": "Yair Etziony",
+      "email": "",
+      "company": {
+        "id": "polarsquad",
+        "name": "Polar Squad",
+        "websiteURL": "https://polarsquad.com",
+        "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
+        "whiteLogo": true,
+        "countries": [
+          "finland"
+        ]
+      },
+      "countries": [
+        "finland"
+      ],
+      "github": "yairlisk",
+      "speakersBureau": ""
+    },
+    {
+      "id": "terovepsalainen",
+      "name": "Tero Vepsäläinen",
+      "email": "hapsahainen@gmail.com",
+      "company": {
+        "id": "polarsquad",
+        "name": "Polar Squad",
+        "websiteURL": "https://polarsquad.com",
+        "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
+        "whiteLogo": true,
+        "countries": [
+          "finland"
+        ]
+      },
+      "countries": [
+        "finland"
+      ],
+      "github": "",
       "speakersBureau": ""
     },
     {
@@ -6745,6 +6833,7 @@
           "name": "September meetup in Gothenburg",
           "date": "2019-09-05T18:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 70,
           "address": "Vallgatan 22",
           "sponsors": {
             "venue": null,
@@ -7105,19 +7194,6 @@
         }
       ],
       "meetups": [
-        {
-          "id": 264000004,
-          "name": "August Meetup in Tampere",
-          "date": "2019-08-28T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 2,
-          "address": "Pinninkatu 47",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
-          "presentations": null
-        },
         {
           "id": 263999844,
           "name": "August Meetup in Helsinki",
@@ -8664,7 +8740,8 @@
       "ignoreMeetupIDs": [
         257897399,
         259129795,
-        261352635
+        261352635,
+        264000004
       ],
       "cfp": "https://bit.ly/k8sfin-cfp"
     },
@@ -8991,10 +9068,197 @@
           "attendees": 48,
           "address": "Pinninkatu 47",
           "sponsors": {
-            "venue": null,
-            "other": null
+            "venue": {
+              "id": "tribe",
+              "name": "P47 Tribe Tampere",
+              "websiteURL": "https://tribetampere.com",
+              "logoURL": "https://tribetampere.com/wp-content/themes/tribetampere/img/tribe-logo-nega.svg",
+              "whiteLogo": true,
+              "countries": [
+                "finland"
+              ]
+            },
+            "other": [
+              {
+                "id": "luxaslabs",
+                "name": "luxas labs",
+                "websiteURL": "https://luxaslabs.com",
+                "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                "countries": [
+                  "finland",
+                  "sweden"
+                ]
+              },
+              {
+                "id": "cncf",
+                "name": "Cloud Native Computing Foundation (CNCF)",
+                "websiteURL": "https://www.cncf.io/",
+                "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
+                "countries": [
+                  "denmark",
+                  "finland"
+                ]
+              }
+            ]
           },
-          "presentations": null
+          "presentations": [
+            {
+              "duration": "10m0s",
+              "title": "Arrive to the venue, sit down and network with others ;)",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "15m0s",
+              "title": "Updates from the Cloud Native Nordics Community",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-august-2019",
+              "speakers": [
+                {
+                  "id": "luxas",
+                  "name": "Lucas Käldström",
+                  "title": "CNCF Ambassador",
+                  "email": "lucas@luxaslabs.com",
+                  "company": {
+                    "id": "luxaslabs",
+                    "name": "luxas labs",
+                    "websiteURL": "https://luxaslabs.com",
+                    "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                    "countries": [
+                      "finland",
+                      "sweden"
+                    ]
+                  },
+                  "countries": [
+                    "finland",
+                    "sweden"
+                  ],
+                  "github": "luxas",
+                  "speakersBureau": "luxas"
+                }
+              ]
+            },
+            {
+              "duration": "5m0s",
+              "title": "Introductionary words from the venue sponsor for this time Polar Squad",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-august-2019",
+              "speakers": [
+                {
+                  "id": "terovepsalainen",
+                  "name": "Tero Vepsäläinen",
+                  "email": "hapsahainen@gmail.com",
+                  "company": {
+                    "id": "polarsquad",
+                    "name": "Polar Squad",
+                    "websiteURL": "https://polarsquad.com",
+                    "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
+                    "whiteLogo": true,
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "25m0s",
+              "title": "Reactive Systems in K8s",
+              "slides": "https://core.opentext.com/pdfjs/web/viewer.html?shortLink=529288245b31ebfb944c46cab5917d3f90fbc6b30a563cdd",
+              "speakers": [
+                {
+                  "id": "oscarneira",
+                  "name": "Oscar Neira",
+                  "email": "osc.neira.m@gmail.com",
+                  "company": {
+                    "id": "opentext",
+                    "name": "Open Text",
+                    "websiteURL": "https://www.opentext.com",
+                    "logoURL": "https://www.opentext.com/file_source/OpenText/en_US/SVG/opentext-logo-dark.svg",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "OscarNeira",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "5m0s",
+              "title": "Networking, food, drinks",
+              "slides": "https://core.opentext.com/pdfjs/web/viewer.html?shortLink=529288245b31ebfb944c46cab5917d3f90fbc6b30a563cdd",
+              "speakers": null
+            },
+            {
+              "duration": "25m0s",
+              "title": "Make your Kubernetes Cluster safe for DevOps",
+              "slides": "https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version",
+              "speakers": [
+                {
+                  "id": "jnummelin",
+                  "name": "Jussi Nummelin",
+                  "email": "",
+                  "company": {
+                    "id": "kontena",
+                    "name": "Kontena",
+                    "websiteURL": "https://kontena.io",
+                    "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3MDkuOSAxODcuMDYiPjx0aXRsZT5Lb250ZW5hX0xvZ29fc29saWRfaG9yaXpvbnRhbDwvdGl0bGU+PHBvbHlnb24gcG9pbnRzPSIyNjkuOSA0Ni42OCAyNTEuOSA0Ni42OCAyMjAuOSA5NS4zOCAyMjAuOSA0Ni41OCAyMDMuOSA0Ni41OCAyMDMuOSAxNDEuOTggMjIwLjkgMTQxLjk4IDIyMC45IDEyMS4zOCAyMzIuMiAxMDMuOTggMjUyLjYgMTQxLjk4IDI3MiAxNDEuOTggMjQxLjcgOTAuNzggMjY5LjkgNDYuNjgiIGZpbGw9IiMzZDkwY2UiLz48cGF0aCBkPSJNMzIzLDQ3LjdIMjk3LjRjLTkuNCwwLTE3LDYuMS0xNywxMy42djY4LjFjMCw3LjUsNy42LDEzLjYsMTcsMTMuNkgzMjNjOS4zLDAsMTctNi4xLDE3LTEzLjZWNjEuM0MzNDAsNTMuOCwzMzIuNCw0Ny43LDMyMyw0Ny43Wm0wLDgxLjdIMjk3LjRWNjEuM0gzMjNaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIC0xLjAyKSIgZmlsbD0iIzNkOTBjZSIvPjxwb2x5Z29uIHBvaW50cz0iMzk5LjUgMTAyLjY4IDM3NS40IDQ2LjU4IDM1NyA0Ni41OCAzNTcgMTQxLjk4IDM3NCAxNDEuOTggMzc0IDc5LjU4IDQwMS41IDE0MS45OCA0MTYuNSAxNDEuOTggNDE2LjUgNDYuNTggMzk5LjUgNDYuNTggMzk5LjUgMTAyLjY4IiBmaWxsPSIjM2Q5MGNlIi8+PHBvbHlnb24gcG9pbnRzPSI0MjkuMyA2MC4yOCA0NTAuNiA2MC4yOCA0NTAuNiAxNDEuOTggNDY3LjYgMTQxLjk4IDQ2Ny42IDYwLjI4IDQ4OC44IDYwLjI4IDQ4OC44IDQ2LjU4IDQyOS4zIDQ2LjU4IDQyOS4zIDYwLjI4IiBmaWxsPSIjM2Q5MGNlIi8+PHBvbHlnb24gcG9pbnRzPSI1MDEuNiAxNDEuOTggNTUyLjYgMTQxLjk4IDU1Mi42IDEyOC4zOCA1MTguNiAxMjguMzggNTE4LjYgOTguMzggNTQ0LjEgOTguMzggNTQ0LjEgODQuNzggNTE4LjYgODQuNzggNTE4LjYgNjAuMTggNTUyLjYgNjAuMTggNTUyLjYgNDYuNTggNTAxLjYgNDYuNTggNTAxLjYgMTQxLjk4IiBmaWxsPSIjM2Q5MGNlIi8+PHBvbHlnb24gcG9pbnRzPSI2MDkuOSA0Ni41OCA2MDkuOSAxMDIuNjggNTg1LjggNDYuNTggNTY3LjQgNDYuNTggNTY3LjQgMTQxLjk4IDU4NC40IDE0MS45OCA1ODQuNCA3OS41OCA2MTEuOSAxNDEuOTggNjI2LjkgMTQxLjk4IDYyNi45IDQ2LjU4IDYwOS45IDQ2LjU4IiBmaWxsPSIjM2Q5MGNlIi8+PHBhdGggZD0iTTY4NC40LDQ3LjZINjYzTDYzNy41LDE0M2gxOGwzLjQtMTMuNmgyOS42bDMuNCwxMy42aDE4Wm0tMjIuMSw2OC4yTDY3NCw3MS40bDExLjEsNDQuNFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgLTEuMDIpIiBmaWxsPSIjM2Q5MGNlIi8+PHBvbHlnb24gcG9pbnRzPSI4MSAwIDU0IDE1LjU5IDI3IDMxLjE4IDAgNDYuNzcgMCA3Ny45NCAwIDEwOS4xMiAwIDE0MC4zIDI3IDE1NS44OCAyNyAxMjQuNzEgMjcgOTMuNTMgMjcgNjIuMzUgNTQgNDYuNzcgNTQgNzcuOTQgNTQgNzcuOTQgNTQgMTA5LjEyIDgxIDkzLjUzIDgxIDkzLjUzIDEwOCA3Ny45NCAxMDggNDYuNzcgMTM1IDMxLjE4IDEwOCAxNS41OSA4MSAwIiBmaWxsPSIjM2Q5MGNlIi8+PHBvbHlnb24gcG9pbnRzPSIxMzUgNjIuMzUgMTM1IDkzLjUzIDEwOCAxMDkuMTIgMTM1IDEyNC43MSAxMzUgMTU1Ljg4IDE2MiAxNDAuMyAxNjIgMTA5LjEyIDE2MiA3Ny45NCAxNjIgNDYuNzcgMTM1IDMxLjE4IDEzNSA2Mi4zNSIgZmlsbD0iIzNkOTBjZSIvPjxwb2x5Z29uIHBvaW50cz0iODEgMTI0LjcxIDU0IDE0MC4yOSA1NCAxNDAuMyA1NCAxNzEuNDcgODEgMTg3LjA2IDEwOCAxNzEuNDcgMTA4IDE0MC4zIDgxIDEyNC43MSA4MSAxMjQuNzEiIGZpbGw9IiMzZDkwY2UiLz48L3N2Zz4=",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "jnummelin",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "25m0s",
+              "delay": "5m0s",
+              "title": "The Future of The Cloud",
+              "slides": "https://speakerdeck.com/polaryair/the-future-of-the-cloud",
+              "speakers": [
+                {
+                  "id": "yairetziony",
+                  "name": "Yair Etziony",
+                  "email": "",
+                  "company": {
+                    "id": "polarsquad",
+                    "name": "Polar Squad",
+                    "websiteURL": "https://polarsquad.com",
+                    "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
+                    "whiteLogo": true,
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "yairlisk",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "5m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
         },
         {
           "id": 261344385,
