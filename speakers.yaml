@@ -65,7 +65,7 @@ speakers:
   id: annie
   name: Annie Talvasto
   speakersBureau: ""
-- company: mesosphere
+- company: d2iq
   countries:
   - finland
   email: ""
@@ -249,6 +249,22 @@ speakers:
   github: ""
   id: terovepsalainen
   name: Tero Vepsäläinen
+  speakersBureau: ""
+- company: d2iq
+  countries:
+  - finland
+  email: ""
+  github: ""
+  id: nickjones
+  name: Nick Jones
+  speakersBureau: ""
+- company: microsoft
+  countries:
+  - finland
+  email: hapsahainen@gmail.com
+  github: ""
+  id: sachinkundu
+  name: Sachin Kundu
   speakersBureau: ""
 - company: meltwater
   countries:
