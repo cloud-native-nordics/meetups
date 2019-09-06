@@ -14,10 +14,51 @@ meetups:
   duration: 3h0m0s
   id: 263999844
   name: August Meetup in Helsinki
-  presentations: null
+  presentations:
+  - duration: 10m0s
+    slides: ""
+    speakers: null
+    title: Arrive at the venue, sit down and network with others
+  - duration: 5m0s
+    slides: ""
+    speakers: null
+    title: Introductionary words from the venue sponsor for this time, UpCloud
+  - duration: 15m0s
+    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-august-2019
+    speakers:
+    - luxas
+    title: Updates from the Cloud Native Nordics Community
+  - duration: 30m0s
+    slides: https://www.slideshare.net/NickJones13/introducing-kudo-kubernetes-operators-the-easy-way-167684205
+    speakers:
+    - nickjones
+    title: Declaratively building Kubernetes operators using KUDO
+  - duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking, food, drinks
+  - duration: 30m0s
+    slides: ""
+    speakers:
+    - sachinkundu
+    title: Deploy Kubernetes clusters with an auditable GitOps flow using Bedrock
+  - delay: 10m0s
+    duration: 30m0s
+    slides: https://speakerdeck.com/luxas/ignite-plus-cluster-api-helsinki-august-meetup
+    speakers:
+    - luxas
+    title: Ignite lightning-fast Firecracker VMs for powering Kubernetes clusters
+  - delay: 5m0s
+    duration: 15m0s
+    slides: ""
+    speakers: null
+    title: Networking
   sponsors:
-    other: null
-    venue: null
+    other:
+    - cncf
+    - luxaslabs
+    - upcloud
+    venue: maria01
 - address: Antinkatu 1A, 4th floor
   attendees: 75
   date: "2019-06-11T18:00:00Z"

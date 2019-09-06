@@ -15,10 +15,29 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
  - Date: 27 August, 2019 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/263999844
  - Attendees (according to meetup.com): 95
-
+ - Venue sponsor: [Maria 01](https://maria.io/)
+ - Meetup sponsors:
+   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+   - [luxas labs](https://luxaslabs.com)
+   - [UpCloud](https://upcloud.com/)
 
 #### Agenda
 
+ - 18:00 - 18:10: Arrive at the venue, sit down and network with others 
+ - 18:10 - 18:15: Introductionary words from the venue sponsor for this time, UpCloud 
+ - 18:15 - 18:30: Updates from the Cloud Native Nordics Community 
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+   - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-august-2019
+ - 18:30 - 19:00: Declaratively building Kubernetes operators using KUDO 
+   - Nick Jones, [D2iQ](https://d2iq.com/)
+   - Slides: https://www.slideshare.net/NickJones13/introducing-kudo-kubernetes-operators-the-easy-way-167684205
+ - 19:00 - 19:30: Networking, food, drinks 
+ - 19:30 - 20:00: Deploy Kubernetes clusters with an auditable GitOps flow using Bedrock 
+   - Sachin Kundu, [Microsoft](https://www.microsoft.com)
+ - 20:10 - 20:40: Ignite lightning-fast Firecracker VMs for powering Kubernetes clusters 
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+   - Slides: https://speakerdeck.com/luxas/ignite-plus-cluster-api-helsinki-august-meetup
+ - 20:45 - 21:00: Networking 
 
 ### Summer Meetup in Helsinki
 
@@ -85,7 +104,7 @@ if you're interested in speaking in this meetup, fill out this form: https://bit
    - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-january-2019
  - 18:20 - 18:25: Introductionary words from the venue sponsor for this time, Accenture 
  - 18:30 - 19:00: Update from KubeCon Seattle 2018 
-   - Jörg Schad, [Mesosphere](https://www.mesosphere.com/)
+   - Jörg Schad, [D2iQ](https://d2iq.com/)
    - Slides: https://docs.google.com/presentation/d/1_1NpDUiejmEYdpplIqOEtepv7V6Yc0G2uFp4dVaQ70k/edit#slide=id.g4c8185cd42_0_0
  - 19:05 - 19:35: A journey towards Kubernetes at scale on remote unattended sites 
    - Niklas Wik, [Nokia](https://www.nokia.fi/)
