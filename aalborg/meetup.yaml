@@ -10,34 +10,40 @@ meetups:
   name: '#1 - Initial Meetup in Cloud Native Aalborg'
   presentations:
   - duration: 15m0s
-    slides: ""
-    speakers: null
+    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
+    speakers:
+    - camillalarsen
     title: Welcome from Sparnord
   - duration: 10m0s
-    slides: ""
+    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
     speakers:
-    - ihor
+    - allanhojgaardjensen
     title: Welcome from the organizers
   - duration: 10m0s
-    slides: ""
+    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
+    speakers:
+    - kaspernissen
+    title: What is Cloud Native Nordics
+  - duration: 10m0s
+    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
     speakers:
     - ihor
     title: What is Cloud Native
   - duration: 35m0s
-    slides: ""
+    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
     speakers:
     - camillalarsen
     title: How Cloud Native is used in Sparnord
-  - duration: 25m0s
+  - duration: 20m0s
     slides: ""
     speakers: null
     title: Food and Networking
   - duration: 15m0s
-    slides: ""
+    slides: https://github.com/Cloud-Native-Aalborg/Meetup-1
     speakers:
     - arnemejlholm
     title: DIY k8s in 10 minutes/how to install kubernetes fast
-  - duration: 10m0s
+  - duration: 5m0s
     slides: ""
     speakers: null
     title: Survey
