@@ -3,6 +3,7 @@ country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
 - address: Landemærket 10
+  attendees: 52
   date: "2019-09-10T17:00:00Z"
   duration: 3h0m0s
   id: 262668370

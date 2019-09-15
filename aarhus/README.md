@@ -7,7 +7,16 @@
  - Henrik Høegh, [Praqma](https://praqma.com)
  - Daniel Fly, [Zitcom](https://www.zitcom.dk/)
 
-### Cloud Native Aarhus: Google Cloud
+### Chaos Engineering with Russ Miles & KubeOne with Alexander Sowitzki
+
+ - Date: 22 October, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/264744301
+
+
+#### Agenda
+
+
+### Cloud Native Aarhus: Google Cloud & Istio
 
  - Date: 24 September, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/264325804

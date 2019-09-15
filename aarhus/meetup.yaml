@@ -2,11 +2,20 @@ city: Aarhus
 country: denmark
 meetupID: Cloud-Native-Aarhus
 meetups:
+- address: Åbogade 15
+  date: "2019-10-22T17:00:00Z"
+  duration: 3h0m0s
+  id: 264744301
+  name: Chaos Engineering with Russ Miles & KubeOne with Alexander Sowitzki
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Hack Kampmanns Pl. 2
   date: "2019-09-24T17:00:00Z"
   duration: 3h0m0s
   id: 264325804
-  name: 'Cloud Native Aarhus: Google Cloud'
+  name: 'Cloud Native Aarhus: Google Cloud & Istio'
   presentations: null
   sponsors:
     other: null

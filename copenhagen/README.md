@@ -10,6 +10,7 @@
 
  - Date: 10 September, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/262668370
+ - Attendees (according to meetup.com): 52
 
 
 #### Agenda
