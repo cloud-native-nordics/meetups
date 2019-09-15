@@ -7,6 +7,27 @@
  - Simon Bengtsson, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
  - Camilla Larsen, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
 
+### #2 - Kubernetes Intro, Automated install and Observability
+
+ - Date: 10 October, 2019 at 16:45 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Aalborg/events/263744855
+ - Venue sponsor: [Spar Nord Bank](https://www.sparnord.dk/)
+
+#### Agenda
+
+ - 16:45 - 17:05: Doors Open 
+ - 17:05 - 17:15: Welcome from Sparnord 
+ - 17:15 - 17:25: Welcome from the organizers 
+   - Allan Hojgaard Jensen, Cloud Platform Architect, [Oracle](https://www.oracle.com)
+ - 17:25 - 17:30: Introduction to kubernetes 
+   - Henrik Høegh, [Praqma](https://praqma.com)
+ - 17:30 - 17:50: Food and Networking 
+ - 17:50 - 18:10: Automating kubernetes installation - and FluxCD 
+   - Arne Mejlholm, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
+ - 18:10 - 18:35: Observability with Prometheus, Grafana and Jaeger 
+   - Arne Mejlholm, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
+ - 18:35 - 19:05: Networking 
+
 ### #1 - Initial Meetup in Cloud Native Aalborg
 
  - Date: 4 September, 2019 at 17:00 - 20:00
