@@ -6262,6 +6262,18 @@
       ],
       "meetups": [
         {
+          "id": 264886621,
+          "name": "Chaos Engineering, Istio \u0026 KubeOne",
+          "date": "2019-10-21T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Langebrogade 1",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
           "id": 262668370,
           "name": "Cloud Native Logging and Application Performance Management",
           "date": "2019-09-10T17:00:00Z",

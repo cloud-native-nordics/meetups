@@ -2,6 +2,15 @@ city: Copenhagen
 country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
+- address: Langebrogade 1
+  date: "2019-10-21T17:00:00Z"
+  duration: 3h0m0s
+  id: 264886621
+  name: Chaos Engineering, Istio & KubeOne
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Landemærket 10
   attendees: 52
   date: "2019-09-10T17:00:00Z"

@@ -6,6 +6,15 @@
  - Jasmine Crozier, [Praqma](https://praqma.com)
  - Jeppe Johansen, [Whyyy](https://whyyy.dk/)
 
+### Chaos Engineering, Istio & KubeOne
+
+ - Date: 21 October, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/264886621
+
+
+#### Agenda
+
+
 ### Cloud Native Logging and Application Performance Management
 
  - Date: 10 September, 2019 at 17:00 - 20:00
