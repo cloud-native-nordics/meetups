@@ -212,7 +212,7 @@ type MeetupGroup struct {
 	Organizers      []*Speaker `json:"organizers"`
 	Meetups         MeetupList `json:"meetups"`
 	IgnoreMeetupIDs []uint64   `json:"ignoreMeetupIDs,omitempty"`
-	CFP             string     `json:"cfp,omitempty"`
+	CFP             string     `json:"cfpLink"`
 
 	members uint64
 }
