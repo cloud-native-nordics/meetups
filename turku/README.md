@@ -6,4 +6,4 @@
 
 #### Submit a talk
 
-if you're interested in speaking in this meetup, fill out this form: https://bit.ly/k8sfin-cfp
+If you're interested in speaking in this meetup, fill out this form: https://bit.ly/k8sfin-cfp
