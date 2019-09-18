@@ -25,7 +25,6 @@ Repository to gather all meetup information and slides from Cloud Native Nordic 
 * [Helsinki](helsinki/README.md)
   * Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
   * Annie Talvasto, [Microsoft](https://www.microsoft.com)
-  * Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 * [Stockholm](stockholm/README.md)
   * Dave Zolotusky [@dzolotusky](https://github.com/dzolotusky), CNCF Ambassador, Software Engineer, [Spotify](https://www.spotify.com/)
   * Matthias Grüter [@mattgruter](https://github.com/mattgruter), [Spotify](https://www.spotify.com/)

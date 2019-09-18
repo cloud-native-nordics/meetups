@@ -4,7 +4,6 @@
 
  - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
  - Annie Talvasto, [Microsoft](https://www.microsoft.com)
- - Teemu Heikkilä, [Emblica](https://www.emblica.fi/)
 
 #### Submit a talk
 
