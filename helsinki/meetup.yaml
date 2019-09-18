@@ -8,6 +8,15 @@ ignoreMeetupIDs:
 - 264000004
 meetupID: Kubernetes-Finland
 meetups:
+- address: Karasvängen 7
+  date: "2019-10-24T18:00:00Z"
+  duration: 3h0m0s
+  id: 264646130
+  name: October Meetup in Helsinki
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Lapinlahdenkatu 16
   attendees: 95
   date: "2019-08-27T18:00:00Z"

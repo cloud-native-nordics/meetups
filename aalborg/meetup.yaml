@@ -3,6 +3,51 @@ country: denmark
 meetupID: Cloud-Native-Aalborg
 meetups:
 - address: Skelagervej 15
+  date: "2019-10-10T16:45:00Z"
+  duration: 3h15m0s
+  id: 263744855
+  name: '#2 - Kubernetes Intro, Automated install and Observability'
+  presentations:
+  - duration: 20m0s
+    slides: ""
+    speakers: null
+    title: Doors Open
+  - duration: 10m0s
+    slides: ""
+    speakers: null
+    title: Welcome from Sparnord
+  - duration: 10m0s
+    slides: ""
+    speakers:
+    - allanhojgaardjensen
+    title: Welcome from the organizers
+  - duration: 5m0s
+    slides: ""
+    speakers:
+    - henrikhoegh
+    title: Introduction to kubernetes
+  - duration: 20m0s
+    slides: ""
+    speakers: null
+    title: Food and Networking
+  - duration: 20m0s
+    slides: ""
+    speakers:
+    - arnemejlholm
+    title: Automating kubernetes installation - and FluxCD
+  - duration: 25m0s
+    slides: ""
+    speakers:
+    - arnemejlholm
+    title: Observability with Prometheus, Grafana and Jaeger
+  - duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking
+  sponsors:
+    other: null
+    venue: sparnordbank
+- address: Skelagervej 15
   attendees: 54
   date: "2019-09-04T17:00:00Z"
   duration: 3h0m0s

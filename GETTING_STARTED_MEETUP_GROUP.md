@@ -100,7 +100,7 @@ meetups:
   id: <meetup event id> - same as the url on meetup.com/<meetup>/events/<id>
   name: '#1 - The title of the initial Meetup event'
   presentations: null
-		....
+.....
  sponsors:
    other: <sponsor for the event -please ensure included in companies.yaml>
 

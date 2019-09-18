@@ -2839,6 +2839,158 @@
       ],
       "meetups": [
         {
+          "id": 263744855,
+          "name": "#2 - Kubernetes Intro, Automated install and Observability",
+          "date": "2019-10-10T16:45:00Z",
+          "duration": "3h15m0s",
+          "address": "Skelagervej 15",
+          "sponsors": {
+            "venue": {
+              "id": "sparnordbank",
+              "name": "Spar Nord Bank",
+              "websiteURL": "https://www.sparnord.dk/",
+              "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+              "countries": [
+                "denmark"
+              ]
+            },
+            "other": null
+          },
+          "presentations": [
+            {
+              "duration": "20m0s",
+              "title": "Doors Open",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "10m0s",
+              "title": "Welcome from Sparnord",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "10m0s",
+              "title": "Welcome from the organizers",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "allanhojgaardjensen",
+                  "name": "Allan Hojgaard Jensen",
+                  "title": "Cloud Platform Architect",
+                  "email": "",
+                  "company": {
+                    "id": "oracle",
+                    "name": "Oracle",
+                    "websiteURL": "https://www.oracle.com",
+                    "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "5m0s",
+              "title": "Introduction to kubernetes",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "henrikhoegh",
+                  "name": "Henrik Høegh",
+                  "email": "",
+                  "company": {
+                    "id": "praqma",
+                    "name": "Praqma",
+                    "websiteURL": "https://praqma.com",
+                    "logoURL": "https://www.praqma.com/images/logo_eficode.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "20m0s",
+              "title": "Food and Networking",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "20m0s",
+              "title": "Automating kubernetes installation - and FluxCD",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "arnemejlholm",
+                  "name": "Arne Mejlholm",
+                  "title": "Systems Engineer",
+                  "email": "",
+                  "company": {
+                    "id": "sparnordbank",
+                    "name": "Spar Nord Bank",
+                    "websiteURL": "https://www.sparnord.dk/",
+                    "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "25m0s",
+              "title": "Observability with Prometheus, Grafana and Jaeger",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "arnemejlholm",
+                  "name": "Arne Mejlholm",
+                  "title": "Systems Engineer",
+                  "email": "",
+                  "company": {
+                    "id": "sparnordbank",
+                    "name": "Spar Nord Bank",
+                    "websiteURL": "https://www.sparnord.dk/",
+                    "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
+        },
+        {
           "id": 263744803,
           "name": "#1 - Initial Meetup in Cloud Native Aalborg",
           "date": "2019-09-04T17:00:00Z",
@@ -3131,8 +3283,20 @@
       ],
       "meetups": [
         {
+          "id": 264744301,
+          "name": "Chaos Engineering with Russ Miles \u0026 KubeOne with Alexander Sowitzki",
+          "date": "2019-10-22T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Åbogade 15",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
           "id": 264325804,
-          "name": "Cloud Native Aarhus: Google Cloud",
+          "name": "Cloud Native Aarhus: Google Cloud \u0026 Istio",
           "date": "2019-09-24T17:00:00Z",
           "duration": "3h0m0s",
           "address": "Hack Kampmanns Pl. 2",
@@ -6098,10 +6262,23 @@
       ],
       "meetups": [
         {
+          "id": 264886621,
+          "name": "Chaos Engineering, Istio \u0026 KubeOne",
+          "date": "2019-10-21T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Langebrogade 1",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
           "id": 262668370,
           "name": "Cloud Native Logging and Application Performance Management",
           "date": "2019-09-10T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 52,
           "address": "Landemærket 10",
           "sponsors": {
             "venue": null,
@@ -7283,6 +7460,18 @@
         }
       ],
       "meetups": [
+        {
+          "id": 264646130,
+          "name": "October Meetup in Helsinki",
+          "date": "2019-10-24T18:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Karasvängen 7",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
         {
           "id": 263999844,
           "name": "August Meetup in Helsinki",
