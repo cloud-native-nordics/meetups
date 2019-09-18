@@ -44,8 +44,10 @@ Go to [https://meetup.com](https://meetup.com) and create an account there. Once
 
 To finish the setup for the Cloud Native Nordics and to be able to have your meetup listed as a meetup under the Cloud Native Nordics umbrella the meetup is created in the [meetup repo](https://github.com/cloud-native-nordics/meetups).
 
-The easiest way to get started is to fork the [meetup repo](https://github.com/cloud-native-nordics/meetups) and create a branch with your meetup, create the `city folder`, please note that the location you chose for the for the meetup group on meetup.com and the folder name must be the same.  
-Once you have created the folder you can create the _meetup.yaml_ file inside the `city folder`, fill in the potential missing speakers and organisation in the speakers.yaml and companies.yaml.
+The easiest way to get started is to fork the [meetup repo](https://github.com/cloud-native-nordics/meetups) and create a branch with your meetup,
+create the new folder called simply `city`, please note that the location you chose for the for the meetup group on meetup.com and the folder name must be the same (including special characters like the Swedish `åäö`).  
+Once you have created the folder you can create the _meetup.yaml_ file inside the `city folder`, fill in the potential missing speakers and organisation
+in the `speakers.yaml` and `companies.yaml`.
 
 * Create the folder named `city`
 * Creating a minimal _meetup.yaml_ file in the `city` folder.
@@ -53,10 +55,13 @@ Once you have created the folder you can create the _meetup.yaml_ file inside th
 Fill in the _meetup.yaml_ file:
 
 ```yaml
-city: <your city>
-country: <your country>
-meetupID: Cloud-Native-<city> - the name of the group from url
-name: Cloud-Native-<City> / Kubernetes
+meetupID: Cloud-Native-<city>
+```
+
+or:
+
+```yaml
+meetupID: Kubernetes-<city>
 ```
 
 The central file is the file mentioned above _meetup.yaml_ which is placed in the `city` folder.
@@ -71,20 +76,23 @@ generator/bin/generator --dry-run=false
 Then you should see stuff being populated into the _meetup.yaml_ file, this is derived from the meetup, using the API offered by meetup.com, e.g.
 
 ``` yaml
-city: <your city>
-country: <your country>
-meetupID: Cloud-Native-<city> - the name of the group from url
-meetups: null  
-name: <Cloud-Native-<City> / Kubernetes
+cfpLink: ""
+city: <City>
+country: <country>
+meetupID: Cloud-Native-<City> / Kubernetes-<City>
+meetups: null
+name: Cloud Native <City> / Kubernetes <City>
 organizers: null
 ```
 
 If you have e.g. a single meetup event defined on meetup.com, it will pick parts of that as well and you will see e.g.:
 
 ``` yaml
-city: <your city>
-country: <your country>
-meetupID: Cloud-Native-<city> - the name of the group from url 
+organizers: null
+cfpLink: ""
+city: <City>
+country: <country>
+meetupID: Cloud-Native-<City> / Kubernetes-<City>
 meetups:
 - address: <address for the event>
   date: "<date and time for event>"
@@ -95,7 +103,7 @@ meetups:
   sponsors:
     other: null
     venue: null
-name: Cloud-Native-<City> / Kubernetes
+name: Cloud Native <City> / Kubernetes <City>
 organizers: null
 ```
 
@@ -115,7 +123,6 @@ meetups:
     ....
  sponsors:
    other: <sponsor for the event -please ensure included in companies.yaml>
-
    venue: <venue for the event - please ensure that its in companies.yaml>
 name: Cloud Native <City>
 organizers:
@@ -132,7 +139,6 @@ Generation of the _README.md_ file inside the `city` folder, the _config.json_ f
 ```console
 $ make
 generator/bin/generator --dry-run=false
-
 ```
 
 The build requires either Docker or Go 1.12 installed. Note that other targets can be seen in the Makefile, too.
@@ -173,53 +179,53 @@ Then you can add the meetup contents etc. in the _meetup.yaml_ file and complete
 ``` yaml
 meetups:
   .....
- name: Summer Kubernetes Tampere Meetup
- presentations:
- - duration: 10m0s
-   slides: “”
-   speakers: null
-   title: Arrive to the venue, sit down and network with others ;)
- - duration: 5m0s
-   slides: ""
-   speakers: null
-   title: Introductionary words from the venue sponsor for this time futurice
- - duration: 15m0s
-   slides: “”
-   speakers:
-   - luxas
-   title: Updates from the Cloud Native Nordics Community, Lucas Käldström
- - duration: 25m0s
-   slides: “”
-   speakers:
-   - sergeysedelnikov
-   title: Kubernetes as a service in Azure (Azure Kubernetes Service) for Real-Time
-     API with NATS and HEMERA
- - delay: 5m0s
-   duration: 30m0s
-   slides: ""
-   speakers: null
-   title: Networking, food, drinks
- - duration: 25m0s
-   slides: “”
-   speakers:
-   - carolchen
-   title: Reflections from my first KubeCon - communities, operators, and more
- - delay: 5m0s
-   duration: 25m0s
-   slides: “”
-   speakers:
-   - cihanbebek
-   title: Serverless - A natural step in DevOps thinking
- - delay: 5m0s
-   duration: 30m0s
-   slides: ""
-   speakers: null
-   title: Networking
- sponsors:
-   other:
-   - luxaslabs
-   - cncf
-   venue: futurice
+  name: Summer Kubernetes Tampere Meetup
+  presentations:
+  - duration: 10m0s
+    slides: “”
+    speakers: null
+    title: Arrive to the venue, sit down and network with others ;)
+  - duration: 5m0s
+    slides: ""
+    speakers: null
+    title: Introductionary words from the venue sponsor for this time futurice
+  - duration: 15m0s
+    slides: “”
+    speakers:
+    - luxas
+    title: Updates from the Cloud Native Nordics Community, Lucas Käldström
+  - duration: 25m0s
+    slides: “”
+    speakers:
+    - sergeysedelnikov
+    title: Kubernetes as a service in Azure (Azure Kubernetes Service) for Real-Time
+      API with NATS and HEMERA
+  - delay: 5m0s
+    duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking, food, drinks
+  - duration: 25m0s
+    slides: “”
+    speakers:
+    - carolchen
+    title: Reflections from my first KubeCon - communities, operators, and more
+  - delay: 5m0s
+    duration: 25m0s
+    slides: “”
+    speakers:
+    - cihanbebek
+    title: Serverless - A natural step in DevOps thinking
+  - delay: 5m0s
+    duration: 30m0s
+    slides: ""
+    speakers: null
+    title: Networking
+  sponsors:
+    other:
+    - luxaslabs
+    - cncf
+    venue: futurice
 ```
 
 Where the name of the speaker is equal to the speaker's name in the _speaker.yaml_ file
