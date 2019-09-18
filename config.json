@@ -3193,7 +3193,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Cloud-Native-Aarhus",
@@ -6194,7 +6195,8 @@
           },
           "presentations": null
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Cloud-Native-Copenhagen",
@@ -6990,7 +6992,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Kubernetes-Goteborg",
@@ -7387,7 +7390,8 @@
           },
           "presentations": null
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Kubernetes-Finland",
@@ -9181,7 +9185,7 @@
         261352635,
         264000004
       ],
-      "cfp": "https://bit.ly/k8sfin-cfp"
+      "cfpLink": "https://bit.ly/k8sfin-cfp"
     },
     {
       "meetupID": "sthlm-k8s",
@@ -9407,7 +9411,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Kubernetes-Tampere",
@@ -10256,7 +10261,7 @@
           ]
         }
       ],
-      "cfp": "https://bit.ly/k8sfin-cfp"
+      "cfpLink": "https://bit.ly/k8sfin-cfp"
     },
     {
       "meetupID": "Cloud-Native-Northern-Sweden",
@@ -10581,7 +10586,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cfpLink": ""
     }
   ]
 }
