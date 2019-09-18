@@ -10264,6 +10264,38 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp"
     },
     {
+      "meetupID": "Kubernetes-Turku",
+      "name": "Kubernetes and CNCF Turku Meetup",
+      "city": "Turku",
+      "country": "finland",
+      "organizers": [
+        {
+          "id": "luxas",
+          "name": "Lucas Käldström",
+          "title": "CNCF Ambassador",
+          "email": "lucas@luxaslabs.com",
+          "company": {
+            "id": "luxaslabs",
+            "name": "luxas labs",
+            "websiteURL": "https://luxaslabs.com",
+            "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+            "countries": [
+              "finland",
+              "sweden"
+            ]
+          },
+          "countries": [
+            "finland",
+            "sweden"
+          ],
+          "github": "luxas",
+          "speakersBureau": "luxas"
+        }
+      ],
+      "meetups": null,
+      "cfpLink": "https://bit.ly/k8sfin-cfp"
+    },
+    {
       "meetupID": "Cloud-Native-Northern-Sweden",
       "name": "Cloud Native Northern Sweden",
       "city": "Umeå",
