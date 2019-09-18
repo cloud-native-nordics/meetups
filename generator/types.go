@@ -33,6 +33,7 @@ type MeetupGroupsFile struct {
 }
 
 type StatsFile struct {
+	MeetupGroups uint64 `json:"meetupGroups"`
 	AllMeetups MeetupStats            `json:"allMeetups"`
 	PerMeetup  map[string]MeetupStats `json:"perMeetup"`
 }
@@ -212,7 +213,7 @@ type MeetupGroup struct {
 	Organizers      []*Speaker `json:"organizers"`
 	Meetups         MeetupList `json:"meetups"`
 	IgnoreMeetupIDs []uint64   `json:"ignoreMeetupIDs,omitempty"`
-	CFP             string     `json:"cfp,omitempty"`
+	CFP             string     `json:"cfpLink"`
 
 	members uint64
 }

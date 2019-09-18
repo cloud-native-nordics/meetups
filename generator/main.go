@@ -23,6 +23,12 @@ var statsFlag = pflag.Bool("stats", false, "With this flag, the generator genera
 var validateFlag = pflag.Bool("validate", false, "Whether to validate the current state of the repo content with the spec")
 var isTesting = false
 
+// this maps the locations returned from meetup.com to what we want to use here.
+// TODO: Maybe skip this and just use "Århus" directly in our
+var cityNameExceptions = map[string]string{
+	"Århus": "Aarhus",
+}
+
 func main() {
 	if err := run(); err != nil {
 		fmt.Println(err.Error())
@@ -214,14 +220,21 @@ func update(cfg *Config) error {
 			return err
 		}
 	}
-	for i, mg := range cfg.MeetupGroups {
+	for i := range cfg.MeetupGroups {
+		mg := &cfg.MeetupGroups[i]
 		if !isTesting {
 			data, err := GetMeetupInfo(mg.MeetupID)
 			if err != nil {
 				return err
 			}
-			cfg.MeetupGroups[i].members = data.Members
-			cfg.MeetupGroups[i].Photo = data.Photo.Link
+			mg.members = data.Members
+			mg.Photo = data.Photo.Link
+			mg.Country = strings.ToLower(data.Country)
+			mg.City = data.City
+			if newName, ok := cityNameExceptions[data.City]; ok {
+				mg.City = newName
+			}
+			mg.Name = data.Name
 		}
 		for _, s := range mg.Organizers {
 			cfg.SetSpeakerCountry(s, mg.Country)
@@ -241,10 +254,7 @@ func update(cfg *Config) error {
 				cfg.SetCompanyCountry(s, mg.Country)
 			}
 		}
-	}
-	for i := range cfg.MeetupGroups {
-		meetupGroup := &cfg.MeetupGroups[i]
-		sort.Sort(meetupGroup.Meetups)
+		sort.Sort(mg.Meetups)
 	}
 	return nil
 }

@@ -2752,7 +2752,7 @@
   "meetupGroups": [
     {
       "meetupID": "Cloud-Native-Aalborg",
-      "name": "Cloud Native Aalborg",
+      "name": "Cloud-Native-Aalborg",
       "city": "Aalborg",
       "country": "denmark",
       "organizers": [
@@ -3193,7 +3193,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Cloud-Native-Aarhus",
@@ -6194,7 +6195,8 @@
           },
           "presentations": null
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Cloud-Native-Copenhagen",
@@ -6990,7 +6992,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Kubernetes-Goteborg",
@@ -7387,11 +7390,12 @@
           },
           "presentations": null
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Kubernetes-Finland",
-      "name": "CNCF \u0026 Kubernetes Finland",
+      "name": "Kubernetes and CNCF Finland Meetup",
       "photo": "https://secure.meetupstatic.com/photos/event/3/b/6/c/highres_463215212.jpeg",
       "city": "Helsinki",
       "country": "finland",
@@ -7429,26 +7433,6 @@
             "logoURL": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31",
             "countries": [
               "denmark",
-              "finland"
-            ]
-          },
-          "countries": [
-            "finland"
-          ],
-          "github": "",
-          "speakersBureau": ""
-        },
-        {
-          "id": "teemu",
-          "name": "Teemu Heikkilä",
-          "email": "",
-          "company": {
-            "id": "emblica",
-            "name": "Emblica",
-            "websiteURL": "https://www.emblica.fi/",
-            "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSIwIDAgMTQxLjgzNzk5NzQzNjUyMzQ0IDMwIiB3aWR0aD0iMTQxLjgzNzk5NzQzNjUyMzQ0IiBoZWlnaHQ9IjMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0gMTAuMzAxIDguNzMzIEMgNC4zMzIgOC43MzMgMCAxMy4xOTUgMCAxOS4zMzkgQyAwIDI1LjQ4MyA0LjM4NyAyOS45ODkgMTAuNDQxIDI5Ljk4OSBDIDE0Ljg2IDI5Ljk4OSAxOC41MjQgMjcuNzEyIDIwLjIzOSAyMy44OTggTCAyMC40MTggMjMuNTAxIEwgMTQuOTAzIDIzLjM1NSBMIDE0LjgxNSAyMy40ODkgQyAxMy45MjQgMjQuODQ0IDEyLjMzMiAyNS42MjEgMTAuNDQzIDI1LjYyMSBDIDcuNzU0IDI1LjYyMSA1Ljc3MyAyMy44OTYgNS4yNzIgMjEuMTE0IEwgNS4yNDYgMjAuOTc3IEwgMjAuNjU2IDIwLjk3NyBMIDIwLjY1NiAyMC42NDMgQyAyMC42NTYgMTYuODE0IDE5LjU3MyAxMy42ODIgMTcuNTIyIDExLjU5NCBDIDE1LjcxNSA5LjczOCAxMy4xNTQgOC43MzMgMTAuMzEzIDguNzMzIE0gNS4yNzIgMTcuMjIxIEwgNS4zMDkgMTcuMDc1IEMgNS45NjMgMTQuNTg0IDcuODQ5IDEzLjA5NyAxMC4zNTUgMTMuMDk3IEMgMTIuNzA1IDEzLjA5MyAxNC43MTkgMTQuNzczIDE1LjEzNyAxNy4wODYgTCAxNS4xNiAxNy4yMjMgWiBNIDQ3LjczOCA4LjczMyBDIDQ1LjE4NSA4LjczMyA0Mi45MTkgOS44MTQgNDEuMDMgMTEuOTQ0IEwgNDAuOTI0IDEyLjA2NSBMIDQwLjg0MiAxMS45MjYgQyAzOS42NDUgOS44MzggMzcuNDk5IDguNzM1IDM0LjYzNiA4LjczNSBDIDMyLjUzIDguNzQ0IDMwLjUwNiA5LjU1NiAyOC45NzkgMTEuMDA3IEwgMjguNzggMTEuMTkyIEwgMjguNzggMTAuOTIxIEwgMjguNzggOS4yNTkgTCAyMy45NzcgOS4yNTkgTCAyMy45NzcgMjkuNDcxIEwgMjguODY1IDI5LjQ3MSBMIDI4Ljg2NSAxNS44NzkgTCAyOC44OTUgMTUuODQ3IEMgMzAuNDczIDE0LjA1OCAzMi4wNDkgMTMuMTg4IDMzLjcxMyAxMy4xODggQyAzNS44NDIgMTMuMTg4IDM3LjE2NSAxNC41OTQgMzcuMTY1IDE2Ljg1OCBMIDM3LjE2NSAyOS40NjYgTCA0Mi4wNTMgMjkuNDY2IEwgNDIuMDUzIDE1Ljg3OSBMIDQyLjA4MyAxNS44NDcgQyA0My42NjEgMTQuMDU4IDQ1LjIzNyAxMy4xODggNDYuOTAxIDEzLjE4OCBDIDQ5LjAzMSAxMy4xODggNTAuMzUzIDE0LjU5NCA1MC4zNTMgMTYuODU4IEwgNTAuMzUzIDI5LjQ2NiBMIDU1LjI1MyAyOS40NjYgTCA1NS4yNTMgMTYuMzgxIEMgNTUuMjUzIDExLjY2MyA1Mi4zNzMgOC43MjQgNDcuNzM4IDguNzI0IE0gNzAuNDExIDguNzMzIEMgNjguMDc1IDguNzMzIDY1LjY0NyA5LjcyMSA2NC4yMjcgMTEuMjUzIEwgNjQuMDIxIDExLjQ4NSBMIDY0LjAyMSAxMS4xODMgQyA2NC4wMzUgMTAuMTU4IDY0LjAzNSA5LjA1NiA2NC4wMzUgNy45OSBMIDY0LjAzNSAwIEwgNTkuMTUzIDAgTCA1OS4xNTMgMjkuNDY2IEwgNjQuMDQyIDI5LjQ2NiBMIDY0LjA0MiAyNy4yOTcgTCA2NC4yNDMgMjcuNTI5IEMgNjUuNjM1IDI5LjA1MyA2Ny45NTYgMzAgNzAuMzI1IDMwIEMgNzYuMjQzIDMwIDgwLjUzNCAyNS41MjIgODAuNTM0IDE5LjM1IEMgODAuNTM0IDEzLjE3OSA3Ni4yNzMgOC43NDUgNzAuNDA2IDguNzQ1IE0gNjkuNzEgMjUuNjgyIEMgNjYuMzQ2IDI1LjY4MiA2My45MSAyMy4wMjEgNjMuOTEgMTkuMzU4IEMgNjMuOTEgMTUuNjk0IDY2LjM1IDEzLjA3NCA2OS43MSAxMy4wNzQgQyA3My4wNyAxMy4wNzQgNzUuNTExIDE1LjcxNyA3NS41MTEgMTkuMzU4IEMgNzUuNTExIDIyLjk5OCA3My4wNyAyNS42ODIgNjkuNzEgMjUuNjgyIE0gODMuMzQ4IDAgTCA4OC4yMzcgMCBMIDg4LjIzNyAyOS40NjYgTCA4My4zNDggMjkuNDY2IFogTSA5NC4yODggMjkuNDY2IEwgOTkuMTc5IDI5LjQ2NiBMIDk5LjE3OSA5LjI1NSBMIDkxLjMzIDkuMjU1IEwgOTEuMzMgMTMuNDA0IEwgOTQuMjg4IDEzLjQwNCBMIDk0LjI4OCAyOS40NjYgTSAxMTcuODk2IDIyLjg5OCBDIDExNi45MDkgMjQuNjU0IDExNS4yMjMgMjUuNjIxIDExMy4xNDEgMjUuNjIxIEMgMTA5Ljc3NSAyNS42MjEgMTA3LjQyNSAyMy4wNTYgMTA3LjQyNSAxOS4zODMgQyAxMDcuNDI1IDE1LjcxIDEwOS44MjkgMTMuMDk5IDExMy4xNDEgMTMuMDk5IEMgMTE1LjIzIDEzLjA5OSAxMTYuOTA5IDE0LjA2NyAxMTcuODk2IDE1LjgyMyBMIDExOC4wMzMgMTYuMDU2IEwgMTIyLjI4OCAxMy45MDEgTCAxMjIuMTQ5IDEzLjY0IEMgMTIwLjU1IDEwLjY2NiAxMTcuMDE3IDguNzQzIDExMy4xNDQgOC43NDMgQyAxMDcuMDQ5IDguNzQzIDEwMi40NSAxMy4zMiAxMDIuNDUgMTkuMzkyIEMgMTAyLjQ1IDI1LjQ2NCAxMDcuMDQ3IDI5Ljk5OCAxMTMuMTQ0IDI5Ljk5OCBDIDExNy4wMTcgMjkuOTk4IDEyMC41NSAyOC4wNzQgMTIyLjE0OSAyNS4wOTkgTCAxMjIuMjg4IDI0Ljg0IEwgMTE4LjAzMyAyMi42NjMgWiBNIDEzMy40MTcgOC43MzMgQyAxMzAuMzMyIDguNzMzIDEyNy4zMTUgOS43NTIgMTI1LjM1MSAxMS40NTkgTCAxMjUuMTYyIDExLjYyNCBMIDEyNy41MTUgMTUuMzM3IEwgMTI3Ljc2OCAxNS4xMzcgQyAxMjguOTI4IDE0LjIwOSAxMzAuODA1IDEzLjExMSAxMzMuMTA1IDEzLjExMSBDIDEzNC41MjUgMTMuMTExIDEzNi45MDUgMTMuNDg3IDEzNi45MDUgMTYgTCAxMzYuOTA1IDE2LjMwNCBDIDEzNi45MDUgMTYuODYxIDEzNi43MTcgMTcuMjMyIDEzNS44MDMgMTcuMjMyIEwgMTMxLjU4IDE3LjIzMiBDIDEyNi45NTYgMTcuMjMyIDEyNC4xOTUgMTkuNTg3IDEyNC4xOTUgMjMuNTI5IEMgMTI0LjE5NSAyNy40NzEgMTI3LjA5MyAzMCAxMzEuNTggMzAgQyAxMzMuNjE1IDMwIDEzNS41MjQgMjkuMzI3IDEzNi43MDggMjguMTk3IEwgMTM2LjkwNSAyOC4wMSBMIDEzNi45MDUgMjkuNDc4IEwgMTQxLjgzOCAyOS40NzggTCAxNDEuODM4IDE2LjA3NCBDIDE0MS44MzggMTEuNjE1IDEzOC41MjkgOC43MzMgMTMzLjQwOSA4LjczMyBNIDEzNi45MDUgMjEuOTkzIEMgMTM2LjkwNSAyMi45MzUgMTM2LjU4NyAyNi4wMTEgMTMyLjQ5NyAyNi4wMTEgQyAxMzAuMTQyIDI2LjAxMSAxMjkuMzA0IDI0LjU5NiAxMjkuMzA0IDIzLjM4NSBDIDEyOS4zMDQgMjEuODM4IDEzMC40MDkgMjEuMDIxIDEzMi40OTcgMjEuMDIxIEwgMTM1LjEwNyAyMS4wMjEgQyAxMzUuNjYzIDIxLjAzOCAxMzYuMjE5IDIwLjk3NCAxMzYuNzU3IDIwLjgzIEwgMTM2LjkwNyAyMC43ODQgWiBNIDkzLjgwMiAwIEwgOTkuMTc2IDAgTCA5OS4xNzYgNS4zNzQgTCA5My44MDIgNS4zNzQgWiIgc3R5bGU9ImZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KTsiLz4KPC9zdmc+",
-            "whiteLogo": true,
-            "countries": [
               "finland"
             ]
           },
@@ -9201,7 +9185,7 @@
         261352635,
         264000004
       ],
-      "cfp": "https://bit.ly/k8sfin-cfp"
+      "cfpLink": "https://bit.ly/k8sfin-cfp"
     },
     {
       "meetupID": "sthlm-k8s",
@@ -9427,11 +9411,12 @@
             }
           ]
         }
-      ]
+      ],
+      "cfpLink": ""
     },
     {
       "meetupID": "Kubernetes-Tampere",
-      "name": "CNCF \u0026 Kubernetes Tampere",
+      "name": "Kubernetes and CNCF Tampere Meetup",
       "photo": "https://secure.meetupstatic.com/photos/event/2/0/4/f/highres_477548271.jpeg",
       "city": "Tampere",
       "country": "finland",
@@ -10276,7 +10261,39 @@
           ]
         }
       ],
-      "cfp": "https://bit.ly/k8sfin-cfp"
+      "cfpLink": "https://bit.ly/k8sfin-cfp"
+    },
+    {
+      "meetupID": "Kubernetes-Turku",
+      "name": "Kubernetes and CNCF Turku Meetup",
+      "city": "Turku",
+      "country": "finland",
+      "organizers": [
+        {
+          "id": "luxas",
+          "name": "Lucas Käldström",
+          "title": "CNCF Ambassador",
+          "email": "lucas@luxaslabs.com",
+          "company": {
+            "id": "luxaslabs",
+            "name": "luxas labs",
+            "websiteURL": "https://luxaslabs.com",
+            "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+            "countries": [
+              "finland",
+              "sweden"
+            ]
+          },
+          "countries": [
+            "finland",
+            "sweden"
+          ],
+          "github": "luxas",
+          "speakersBureau": "luxas"
+        }
+      ],
+      "meetups": null,
+      "cfpLink": "https://bit.ly/k8sfin-cfp"
     },
     {
       "meetupID": "Cloud-Native-Northern-Sweden",
@@ -10601,7 +10618,8 @@
             }
           ]
         }
-      ]
+      ],
+      "cfpLink": ""
     }
   ]
 }

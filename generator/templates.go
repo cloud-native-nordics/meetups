@@ -16,7 +16,7 @@ const (
 {{end}}{{if .CFP}}
 #### Submit a talk
 
-if you're interested in speaking in this meetup, fill out this form: {{.CFP}}
+If you're interested in speaking in this meetup, fill out this form: {{.CFP}}
 {{end}}{{ range .Meetups }}
 ### {{ .Name }}
 
