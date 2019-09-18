@@ -94,6 +94,9 @@ func setMeetupData(cfg *Config) error {
 
 type MeetupGroupAPI struct {
 	ID      uint64 `json:"id"`
+	Name    string `json:"name"`
+	City    string `json:"untranslated_city"`
+	Country string `json:"localized_country_name"`
 	Members uint64 `json:"members"`
 	Photo   Photo  `json:"group_photo"`
 }
