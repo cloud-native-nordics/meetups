@@ -180,6 +180,7 @@ func setPresentationTimestamps(m *Meetup) error {
 
 func aggregateStats(cfg *Config) (*StatsFile, error) {
 	s := &StatsFile{
+		MeetupGroups: uint64(len(cfg.MeetupGroups)),
 		PerMeetup: map[string]MeetupStats{},
 	}
 
