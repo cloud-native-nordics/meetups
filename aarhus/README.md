@@ -20,10 +20,18 @@
 
  - Date: 24 September, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/264325804
-
+ - Attendees (according to meetup.com): 71
+ - Venue sponsor: [Trifork A/S](https://trifork.com/)
 
 #### Agenda
 
+ - 17:00 - 17:30: How Google Kubernetes Engine is different and what the f*ck is Anthos 
+   - Alejandro Montenegro, Customer Engineer, [Google Cloud](https://cloud.google.com)
+ - 17:30 - 18:00: How Cloud Run is the final destination in my Cloud Native journey 
+   - Kevin Simper, Freelancer, [Blackbeard]()
+ - 18:00 - 18:30: Real world Istio - War stories and Gotchas 
+   - Lasse Højgaard, Software Pilot, [Trifork A/S](https://trifork.com/)
+   - Frederik Mogensen, Software Pilot, [Trifork A/S](https://trifork.com/)
 
 ### Cloud Native Aarhus Field Trip: LEGO House
 

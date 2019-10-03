@@ -568,3 +568,9 @@ sponsors:
   logoURL: https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg
   name: Oracle
   websiteURL: https://oracle.com
+- countries:
+  - denmark
+  id: blackbeard
+  logoURL: ""
+  name: Blackbeard
+  websiteURL: ""

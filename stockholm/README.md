@@ -8,6 +8,15 @@
  - Viktor Ekmark [@fyx](https://github.com/fyx), [ELASTX](https://elastx.se/en)
  - Andreas Holmsten [@holmsten](https://github.com/holmsten), [ELASTX](https://elastx.se/en)
 
+### Chaos, Storage, and Caching
+
+ - Date: 23 October, 2019 at 17:30 - 20:30
+ - Meetup link: https://www.meetup.com/sthlm-k8s/events/265099547
+
+
+#### Agenda
+
+
 ### Stockholm K8S and CNCF May 2019
 
  - Date: 8 May, 2019 at 18:30 - 21:30
