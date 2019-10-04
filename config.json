@@ -3461,7 +3461,7 @@
             {
               "duration": "30m0s",
               "title": "Real world Istio - War stories and Gotchas",
-              "slides": "",
+              "slides": "https://cloud-run-final-destination.surge.sh",
               "speakers": [
                 {
                   "id": "lassehojgaard",

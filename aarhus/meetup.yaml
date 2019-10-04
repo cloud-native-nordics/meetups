@@ -30,7 +30,7 @@ meetups:
     - kevinsimper
     title: How Cloud Run is the final destination in my Cloud Native journey
   - duration: 30m0s
-    slides: ""
+    slides: https://cloud-run-final-destination.surge.sh
     speakers:
     - lassehojgaard
     - frederikmogensen
