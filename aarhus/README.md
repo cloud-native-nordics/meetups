@@ -29,10 +29,11 @@
    - Alejandro Montenegro, Customer Engineer, [Google Cloud](https://cloud.google.com)
  - 17:30 - 18:00: How Cloud Run is the final destination in my Cloud Native journey 
    - Kevin Simper, Freelancer, [Blackbeard]()
+   - Slides: https://cloud-run-final-destination.surge.sh
+   - Recording: https://www.youtube.com/watch?v=oY9Mv9PHu7U
  - 18:00 - 18:30: Real world Istio - War stories and Gotchas 
    - Lasse Højgaard, Software Pilot, [Trifork A/S](https://trifork.com/)
    - Frederik Mogensen, Software Pilot, [Trifork A/S](https://trifork.com/)
-   - Slides: https://cloud-run-final-destination.surge.sh
 
 ### Cloud Native Aarhus Field Trip: LEGO House
 
