@@ -13,14 +13,32 @@ meetups:
     other: null
     venue: null
 - address: Hack Kampmanns Pl. 2
+  attendees: 71
   date: "2019-09-24T17:00:00Z"
   duration: 3h0m0s
   id: 264325804
   name: 'Cloud Native Aarhus: Google Cloud & Istio'
-  presentations: null
+  presentations:
+  - duration: 30m0s
+    slides: ""
+    speakers:
+    - alejandromontenegro
+    title: How Google Kubernetes Engine is different and what the f*ck is Anthos
+  - duration: 30m0s
+    recording: https://www.youtube.com/watch?v=oY9Mv9PHu7U
+    slides: https://cloud-run-final-destination.surge.sh
+    speakers:
+    - kevinsimper
+    title: How Cloud Run is the final destination in my Cloud Native journey
+  - duration: 30m0s
+    slides: ""
+    speakers:
+    - lassehojgaard
+    - frederikmogensen
+    title: Real world Istio - War stories and Gotchas
   sponsors:
     other: null
-    venue: null
+    venue: trifork
 - address: Ole Kirks Plads 1
   attendees: 67
   date: "2019-09-03T16:00:00Z"

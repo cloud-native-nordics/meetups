@@ -2,7 +2,16 @@ cfpLink: https://bit.ly/k8sfin-cfp
 city: Turku
 country: finland
 meetupID: Kubernetes-Turku
-meetups: null
+meetups:
+- address: Lemminkäisenkatu 14B
+  date: "2019-10-31T17:00:00Z"
+  duration: 3h0m0s
+  id: 264987939
+  name: First Kubernetes Turku Meetup!
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 name: Kubernetes and CNCF Turku Meetup
 organizers:
 - luxas

@@ -665,6 +665,15 @@
       "countries": [
         "denmark"
       ]
+    },
+    {
+      "id": "blackbeard",
+      "name": "Blackbeard",
+      "websiteURL": "",
+      "logoURL": "",
+      "countries": [
+        "denmark"
+      ]
     }
   ],
   "members": [
@@ -2747,6 +2756,86 @@
       ],
       "github": "",
       "speakersBureau": ""
+    },
+    {
+      "id": "alejandromontenegro",
+      "name": "Alejandro Montenegro",
+      "title": "Customer Engineer",
+      "email": "",
+      "company": {
+        "id": "google",
+        "name": "Google Cloud",
+        "websiteURL": "https://cloud.google.com",
+        "logoURL": "https://cloud.google.com/_static/e4e95039f4/images/cloud/cloud-logo.svg",
+        "countries": [
+          "finland"
+        ]
+      },
+      "countries": [
+        "denmark"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "kevinsimper",
+      "name": "Kevin Simper",
+      "title": "Freelancer",
+      "email": "",
+      "company": {
+        "id": "blackbeard",
+        "name": "Blackbeard",
+        "websiteURL": "",
+        "logoURL": "",
+        "countries": [
+          "denmark"
+        ]
+      },
+      "countries": [
+        "denmark"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "lassehojgaard",
+      "name": "Lasse Højgaard",
+      "title": "Software Pilot",
+      "email": "",
+      "company": {
+        "id": "trifork",
+        "name": "Trifork A/S",
+        "websiteURL": "https://trifork.com/",
+        "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
+        "countries": [
+          "denmark"
+        ]
+      },
+      "countries": [
+        "denmark"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "frederikmogensen",
+      "name": "Frederik Mogensen",
+      "title": "Software Pilot",
+      "email": "",
+      "company": {
+        "id": "trifork",
+        "name": "Trifork A/S",
+        "websiteURL": "https://trifork.com/",
+        "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
+        "countries": [
+          "denmark"
+        ]
+      },
+      "countries": [
+        "denmark"
+      ],
+      "github": "",
+      "speakersBureau": ""
     }
   ],
   "meetupGroups": [
@@ -3300,12 +3389,124 @@
           "name": "Cloud Native Aarhus: Google Cloud \u0026 Istio",
           "date": "2019-09-24T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 71,
           "address": "Hack Kampmanns Pl. 2",
           "sponsors": {
-            "venue": null,
+            "venue": {
+              "id": "trifork",
+              "name": "Trifork A/S",
+              "websiteURL": "https://trifork.com/",
+              "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
+              "countries": [
+                "denmark"
+              ]
+            },
             "other": null
           },
-          "presentations": null
+          "presentations": [
+            {
+              "duration": "30m0s",
+              "title": "How Google Kubernetes Engine is different and what the f*ck is Anthos",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "alejandromontenegro",
+                  "name": "Alejandro Montenegro",
+                  "title": "Customer Engineer",
+                  "email": "",
+                  "company": {
+                    "id": "google",
+                    "name": "Google Cloud",
+                    "websiteURL": "https://cloud.google.com",
+                    "logoURL": "https://cloud.google.com/_static/e4e95039f4/images/cloud/cloud-logo.svg",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "How Cloud Run is the final destination in my Cloud Native journey",
+              "slides": "https://cloud-run-final-destination.surge.sh",
+              "recording": "https://www.youtube.com/watch?v=oY9Mv9PHu7U",
+              "speakers": [
+                {
+                  "id": "kevinsimper",
+                  "name": "Kevin Simper",
+                  "title": "Freelancer",
+                  "email": "",
+                  "company": {
+                    "id": "blackbeard",
+                    "name": "Blackbeard",
+                    "websiteURL": "",
+                    "logoURL": "",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Real world Istio - War stories and Gotchas",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "lassehojgaard",
+                  "name": "Lasse Højgaard",
+                  "title": "Software Pilot",
+                  "email": "",
+                  "company": {
+                    "id": "trifork",
+                    "name": "Trifork A/S",
+                    "websiteURL": "https://trifork.com/",
+                    "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                },
+                {
+                  "id": "frederikmogensen",
+                  "name": "Frederik Mogensen",
+                  "title": "Software Pilot",
+                  "email": "",
+                  "company": {
+                    "id": "trifork",
+                    "name": "Trifork A/S",
+                    "websiteURL": "https://trifork.com/",
+                    "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
+                    "countries": [
+                      "denmark"
+                    ]
+                  },
+                  "countries": [
+                    "denmark"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            }
+          ]
         },
         {
           "id": 262602452,
@@ -7396,7 +7597,6 @@
     {
       "meetupID": "Kubernetes-Finland",
       "name": "Kubernetes and CNCF Finland Meetup",
-      "photo": "https://secure.meetupstatic.com/photos/event/3/b/6/c/highres_463215212.jpeg",
       "city": "Helsinki",
       "country": "finland",
       "organizers": [
@@ -7445,8 +7645,32 @@
       ],
       "meetups": [
         {
+          "id": 264988078,
+          "name": "First Kubernetes Turku Meetup!",
+          "date": "2019-10-31T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Lemminkäisenkatu 14B",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
+          "id": 265154260,
+          "name": "Kubernetes 101 Hands-On Workshop",
+          "date": "2019-10-29T17:00:00Z",
+          "duration": "4h0m0s",
+          "address": "Åkerlundinkatu 11 A",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
           "id": 264646130,
-          "name": "October Meetup in Helsinki",
+          "name": "October: Chaos Engineering \u0026 KubeOne",
           "date": "2019-10-24T18:00:00Z",
           "duration": "3h0m0s",
           "address": "Karasvängen 7",
@@ -9285,6 +9509,18 @@
       ],
       "meetups": [
         {
+          "id": 265099547,
+          "name": "Chaos, Storage, and Caching",
+          "date": "2019-10-23T17:30:00Z",
+          "duration": "3h0m0s",
+          "address": "Regeringsgatan 29",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        {
           "id": 260846917,
           "name": "Stockholm K8S and CNCF May 2019",
           "date": "2019-05-08T18:30:00Z",
@@ -9417,7 +9653,6 @@
     {
       "meetupID": "Kubernetes-Tampere",
       "name": "Kubernetes and CNCF Tampere Meetup",
-      "photo": "https://secure.meetupstatic.com/photos/event/2/0/4/f/highres_477548271.jpeg",
       "city": "Tampere",
       "country": "finland",
       "organizers": [
@@ -9503,6 +9738,18 @@
         }
       ],
       "meetups": [
+        {
+          "id": 265150836,
+          "name": "Kubernetes 101 Hands-On Workshop",
+          "date": "2019-10-29T17:00:00Z",
+          "duration": "4h0m0s",
+          "address": "Åkerlundinkatu 11 A",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
         {
           "id": 263932460,
           "name": "August Kubernetes Meetup in Tampere",
@@ -10292,7 +10539,20 @@
           "speakersBureau": "luxas"
         }
       ],
-      "meetups": null,
+      "meetups": [
+        {
+          "id": 264987939,
+          "name": "First Kubernetes Turku Meetup!",
+          "date": "2019-10-31T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Lemminkäisenkatu 14B",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        }
+      ],
       "cfpLink": "https://bit.ly/k8sfin-cfp"
     },
     {

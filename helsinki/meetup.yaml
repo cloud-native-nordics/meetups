@@ -8,11 +8,29 @@ ignoreMeetupIDs:
 - 264000004
 meetupID: Kubernetes-Finland
 meetups:
+- address: Lemminkäisenkatu 14B
+  date: "2019-10-31T17:00:00Z"
+  duration: 3h0m0s
+  id: 264988078
+  name: First Kubernetes Turku Meetup!
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
+- address: Åkerlundinkatu 11 A
+  date: "2019-10-29T17:00:00Z"
+  duration: 4h0m0s
+  id: 265154260
+  name: Kubernetes 101 Hands-On Workshop
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Karasvängen 7
   date: "2019-10-24T18:00:00Z"
   duration: 3h0m0s
   id: 264646130
-  name: October Meetup in Helsinki
+  name: 'October: Chaos Engineering & KubeOne'
   presentations: null
   sponsors:
     other: null
@@ -500,4 +518,3 @@ name: Kubernetes and CNCF Finland Meetup
 organizers:
 - luxas
 - annie
-photo: https://secure.meetupstatic.com/photos/event/3/b/6/c/highres_463215212.jpeg

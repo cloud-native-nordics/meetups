@@ -3,6 +3,15 @@ city: Tampere
 country: finland
 meetupID: Kubernetes-Tampere
 meetups:
+- address: Åkerlundinkatu 11 A
+  date: "2019-10-29T17:00:00Z"
+  duration: 4h0m0s
+  id: 265150836
+  name: Kubernetes 101 Hands-On Workshop
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Pinninkatu 47
   attendees: 48
   date: "2019-08-28T17:00:00Z"
@@ -222,4 +231,3 @@ organizers:
 - netumoliver
 - jnummelin
 - hoisko
-photo: https://secure.meetupstatic.com/photos/event/2/0/4/f/highres_477548271.jpeg

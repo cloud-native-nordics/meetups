@@ -3,6 +3,15 @@ city: Stockholm
 country: sweden
 meetupID: sthlm-k8s
 meetups:
+- address: Regeringsgatan 29
+  date: "2019-10-23T17:30:00Z"
+  duration: 3h0m0s
+  id: 265099547
+  name: Chaos, Storage, and Caching
+  presentations: null
+  sponsors:
+    other: null
+    venue: null
 - address: Linnégatan 89C
   attendees: 88
   date: "2019-05-08T18:30:00Z"

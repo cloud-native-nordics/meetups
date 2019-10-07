@@ -9,7 +9,25 @@
 
 If you're interested in speaking in this meetup, fill out this form: https://bit.ly/k8sfin-cfp
 
-### October Meetup in Helsinki
+### First Kubernetes Turku Meetup!
+
+ - Date: 31 October, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264988078
+
+
+#### Agenda
+
+
+### Kubernetes 101 Hands-On Workshop
+
+ - Date: 29 October, 2019 at 17:00 - 21:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/265154260
+
+
+#### Agenda
+
+
+### October: Chaos Engineering & KubeOne
 
  - Date: 24 October, 2019 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264646130

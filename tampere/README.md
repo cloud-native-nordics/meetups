@@ -11,6 +11,15 @@
 
 If you're interested in speaking in this meetup, fill out this form: https://bit.ly/k8sfin-cfp
 
+### Kubernetes 101 Hands-On Workshop
+
+ - Date: 29 October, 2019 at 17:00 - 21:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/265150836
+
+
+#### Agenda
+
+
 ### August Kubernetes Meetup in Tampere
 
  - Date: 28 August, 2019 at 17:00 - 20:00

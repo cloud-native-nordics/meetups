@@ -815,3 +815,39 @@ speakers:
   name: Allan Hojgaard Jensen
   speakersBureau: ""
   title: Cloud Platform Architect
+- company: google
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: alejandromontenegro
+  name: Alejandro Montenegro
+  speakersBureau: ""
+  title: Customer Engineer
+- company: blackbeard
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: kevinsimper
+  name: Kevin Simper
+  speakersBureau: ""
+  title: Freelancer
+- company: trifork
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: lassehojgaard
+  name: Lasse Højgaard
+  speakersBureau: ""
+  title: Software Pilot
+- company: trifork
+  countries:
+  - denmark
+  email: ""
+  github: ""
+  id: frederikmogensen
+  name: Frederik Mogensen
+  speakersBureau: ""
+  title: Software Pilot

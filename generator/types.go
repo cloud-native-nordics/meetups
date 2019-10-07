@@ -33,9 +33,9 @@ type MeetupGroupsFile struct {
 }
 
 type StatsFile struct {
-	MeetupGroups uint64 `json:"meetupGroups"`
-	AllMeetups MeetupStats            `json:"allMeetups"`
-	PerMeetup  map[string]MeetupStats `json:"perMeetup"`
+	MeetupGroups uint64                 `json:"meetupGroups"`
+	AllMeetups   MeetupStats            `json:"allMeetups"`
+	PerMeetup    map[string]MeetupStats `json:"perMeetup"`
 }
 
 type MeetupStats struct {
