@@ -19,16 +19,6 @@ and there will be people that responds to that suggestion and help you getting s
 
 Once the decision for the creation of the meetup group has been decided, there are a couple of things that needs to be addressed.
 
-## Create artwork for your meetup group
-
-Initially you go to the [artwork repository](https://github.com/cloud-native-nordics/artwork) and create the background artwork for
-your future meetup group. Follow the artwork guide and remember to set the permissions for your API key. The end result from following
-the [guide](https://github.com/cloud-native-nordics/artwork/blob/master/slide-background/generator/README.md) is a picture of your `city`
-with streets overlayed onto the background and a Cloud Native Computing Foundation logo.
-
-The easiest way to get started is to fork the repo and create a branch with your artwork and create a pull-request for adding your city
-in the form of a `city`.png, you may want to consider creating a couple of frontpage-images for your Meetup and a couple of images for events.
-
 ## Create the Meetup on Meetup.com
 
 Go to [https://meetup.com](https://meetup.com) and create an account there. Once you have that you can continue with the remaining tasks.
@@ -50,89 +40,39 @@ Once you have created the folder you can create the _meetup.yaml_ file inside th
 in the `speakers.yaml` and `companies.yaml`.
 
 * Create the folder named `city`
-* Creating a minimal _meetup.yaml_ file in the `city` folder.
+* Creating a minimal _meetup.yaml_ file in the `city` folder, with the following specification:
 
 Fill in the _meetup.yaml_ file:
 
 ```yaml
+cfpLink: <link to CFP form>
 meetupID: Cloud-Native-<city>
-```
-
-or:
-
-```yaml
-meetupID: Kubernetes-<city>
-```
-
-The central file is the file mentioned above _meetup.yaml_ which is placed in the `city` folder.
-
-Now you should be ready for the initial population of information from meetup.com into the _meetup.yaml_ file in `your city` folder. To try that please run `make`:
-
-```console
-$ make
-generator/bin/generator --dry-run=false
-```
-
-Then you should see stuff being populated into the _meetup.yaml_ file, this is derived from the meetup, using the API offered by meetup.com, e.g.
-
-``` yaml
-cfpLink: ""
-city: <City>
-country: <country>
-meetupID: Cloud-Native-<City> / Kubernetes-<City>
-meetups: null
-name: Cloud Native <City> / Kubernetes <City>
-organizers: null
-```
-
-If you have e.g. a single meetup event defined on meetup.com, it will pick parts of that as well and you will see e.g.:
-
-``` yaml
-organizers: null
-cfpLink: ""
-city: <City>
-country: <country>
-meetupID: Cloud-Native-<City> / Kubernetes-<City>
-meetups:
-- address: <address for the event>
-  date: "<date and time for event>"
-  duration: <duration of the event>
-  id: <meetup event id> - same as the url on meetup.com/<meetup>/events/<id>
-  name: '#1 - The title of the initial Meetup event'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-name: Cloud Native <City> / Kubernetes <City>
-organizers: null
-```
-
-You can continue adding organizers etc. as seen below by hand.
-
-``` yaml
-city: <your city>
-country: <your country>
-meetupID: Cloud-Native-<City> - the name of the group from url 
-meetups:
-- address: <address for the event>
-  date: "<date and time for event>"
-  duration: <duration of the event>
-  id: <meetup event id> - same as the url on meetup.com/<meetup>/events/<id>
-  name: '#1 - The title of the initial Meetup event'
-  presentations: null
-    ....
- sponsors:
-   other: <sponsor for the event -please ensure included in companies.yaml>
-   venue: <venue for the event - please ensure that its in companies.yaml>
-name: Cloud Native <City>
+latitude: <latitude for your city, e.g. 60.451766>
+longitude: <latitude for your city, e.g. 22.266254>
 organizers:
 - <organizerid>  - remember to check/create the “organizer” <id> in speakers.yaml
 - <co-organizerid>  - remember to check/create the “co-organizer” <id> in speakers.yaml
+meetups:
+  "YYYYMMDD":
+    presentations:
+    - delay: <time between this presentation and the last, e.g. 15m0s>
+      duration: <duration of this presentation, e.g. 1h0m0s>
+      slides: <slide link>
+      speakers:
+      - <speakerid> - reference to speaker listed in speakers.yaml
+      title: <string>
+    recording: <link to recording, if applicable>
+    sponsors:
+      other: <sponsor for the event - please ensure included in companies.yaml>
+      venue: <venue sponsor for the event - please ensure that its in companies.yaml>
 ```
 
 Take a look in the repo in github and see examples from the other cities and their _meetup.yaml_ files.
 
-In order for it to be able to generate the remaining files for your meetup and add the meetup to the cloud-native-nordics group,  it is necessary to make sure that speakers, organizers, co-organizers etc are registered in the _speakers.yaml_ file and the venue and organizer’s/speaker’s company is registered in the _companies.yaml_ file. 
+In order for it to be able to generate the remaining files for your meetup and add the meetup to the
+cloud-native-nordics group, it is necessary to make sure that speakers, organizers, co-organizers etc are
+registered in the _speakers.yaml_ file and the venue and organizer’s/speaker’s company is registered in the
+_companies.yaml_ file.
 
 Generation of the _README.md_ file inside the `city` folder, the _config.json_ file etc. is done by invoking the *Makefile* by running simply `make`:
 
@@ -147,92 +87,51 @@ Once you can run the make generate without errors, you have a _README.md_ file i
 
 Commit and push your changes into your local fork and create  a pull-request for adding your city.
 
+## Create artwork for your meetup group
+
+Initially you go to the [artwork repository](https://github.com/cloud-native-nordics/artwork) and create the background artwork for
+your future meetup group. Follow the artwork guide and remember to set the permissions for your API key. The end result from following
+the [guide](https://github.com/cloud-native-nordics/artwork/blob/master/slide-background/generator/README.md) is a picture of your `city`
+with streets overlayed onto the background and a Cloud Native Computing Foundation logo.
+
+The easiest way to get started is to fork the repo and create a branch with your artwork and create a pull-request for adding your city
+in the form of a `city`.png, you may want to consider creating a couple of frontpage-images for your Meetup and a couple of images for events.
+
 ## Adding a new event to the _meetup.yaml_
 
-You create a new event on meetup.com and add an event host etc. after that you run `make` in order to autogenerate contents:
-
-```console
-$ make
-generator/bin/generator --dry-run=false
-```
-
-A new meetup is added to the meetup.yaml file in the `city` folder, here the example is taken from Tampere Finland.
-
-```yaml
-.....
-meetups:
-.....
-- address: Kelloportinkatu 1 D
- date: "2019-06-13T17:00:00Z"
- duration: 3h0m0s
- id: 261344385
- name: 'Summer Kubernetes Tampere Meetup'
- presentations: null
- sponsors:
-   other: null
-   venue: null
-.....
-```
-
-Then you can add the meetup contents etc. in the _meetup.yaml_ file and complete the entries by hand, e.g. adding the following under:
+Please fill in the meetup contents etc. in the _meetup.yaml_ file by hand, e.g. like this:
 
 ``` yaml
 meetups:
-  .....
-  name: Summer Kubernetes Tampere Meetup
-  presentations:
-  - duration: 10m0s
-    slides: “”
-    speakers: null
-    title: Arrive to the venue, sit down and network with others ;)
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Introductionary words from the venue sponsor for this time futurice
-  - duration: 15m0s
-    slides: “”
-    speakers:
-    - luxas
-    title: Updates from the Cloud Native Nordics Community, Lucas Käldström
-  - duration: 25m0s
-    slides: “”
-    speakers:
-    - sergeysedelnikov
-    title: Kubernetes as a service in Azure (Azure Kubernetes Service) for Real-Time
-      API with NATS and HEMERA
-  - delay: 5m0s
-    duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Networking, food, drinks
-  - duration: 25m0s
-    slides: “”
-    speakers:
-    - carolchen
-    title: Reflections from my first KubeCon - communities, operators, and more
-  - delay: 5m0s
-    duration: 25m0s
-    slides: “”
-    speakers:
-    - cihanbebek
-    title: Serverless - A natural step in DevOps thinking
-  - delay: 5m0s
-    duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    venue: futurice
+  "20190110": # in YYYYMMDD format, specify the date of the meetup
+    presentations:
+    - duration: 10m0s
+      slides: <link to the slides here>
+      speakers: null
+      title: Arrive to the venue, sit down and network with others ;)
+    - duration: 5m0s
+      slides: <link to the slides here>
+      speakers: null
+      title: Introductionary words from the venue sponsor for this time, Futurice
+    - duration: 15m0s
+      slides: <link to the slides here>
+      speakers:
+      - luxas
+      title: Updates from the Cloud Native Nordics Community, Lucas Käldström
+...
+    recording: <link to the recording here>
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      venue: futurice
 ```
 
 Where the name of the speaker is equal to the speaker's name in the _speaker.yaml_ file
 
 Examples:
 
-``` yaml
+```yaml
 - company: futurice
   countries:
   - finland
@@ -301,63 +200,10 @@ You will probably want to add some welcoming text, to the agenda, and a speaker 
 
 When the meetup event has finished you can add slides etc. to the _meetup.yaml_ file and then they will be listed in the _README.md_ in `your-city` folder.
 
-```yaml
-address: Kelloportinkatu 1 D
-attendees: 50
-date: "2019-06-13T17:00:00Z"
-duration: 3h0m0s
-id: 261344385
-name: Summer Kubernetes Tampere Meetup
-presentations:
-- duration: 10m0s
-  slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-june-2019
-  speakers: null
-  title: Arrive to the venue, sit down and network with others ;)
-- duration: 5m0s
-  slides: ""
-  speakers: null
-  title: Introductionary words from the venue sponsor for this time futurice
-- duration: 15m0s
-  slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-tampere-june-2019
-  speakers:
-  - luxas
-  title: Updates from the Cloud Native Nordics Community, Lucas Käldström
-- duration: 25m0s
-  slides: https://sway.office.com/E8e1CyZyk9LCrhxY
-  speakers:
-  - sergeysedelnikov
-  title: Kubernetes as a service in Azure (Azure Kubernetes Service) for Real-Time
-    API with NATS and HEMERA
-- delay: 5m0s
-  duration: 30m0s
-  slides: ""
-  speakers: null
-  title: Networking, food, drinks
-- duration: 25m0s
-  slides: https://www.slideshare.net/cybette/kubernetes-tampere-meetup-june-2019-community-operators-and-more
-  speakers:
-  - carolchen
-  title: Reflections from my first KubeCon - communities, operators, and more
-- delay: 5m0s
-  duration: 25m0s
-  slides: https://drive.google.com/file/d/1mp2NvqBcRhDFvbf-z1OkJd4U7fh8waKE/view?usp=sharing
-  speakers:
-  - cihanbebek
-  title: Serverless - A natural step in DevOps thinking
-- delay: 5m0s
-  duration: 30m0s
-  slides: ""
-  speakers: null
-  title: Networking
-recording: https://youtu.be/rnpMBRe0CY0
-sponsors:
-  other:
-  - luxaslabs
-  - cncf
-  venue: futurice
-```
+Please populate the `.meetup[YYYYMMDD].recording` and `.meetup[YYYYMMDD].presentations[].slides` fields in
+the meetup.yaml files.
 
-You complete these last  entries in _meetup.yaml_ by hand and run:
+You complete these last entries in _meetup.yaml_ by hand and run:
 
 ```console
 $ make
