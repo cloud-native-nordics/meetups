@@ -21,7 +21,7 @@ var dryRun = pflag.Bool("dry-run", true, "Whether to actually apply the changes 
 var statsFlag = pflag.Bool("stats", false, "With this flag, the generator generates only the stats.json file")
 var validateFlag = pflag.Bool("validate", false, "Whether to validate the current state of the repo content with the spec")
 var isTesting = false
-var unmarshal = yaml.Unmarshal
+var unmarshal = yaml.UnmarshalStrict
 
 // this maps the locations returned from meetup.com to what we want to use here.
 // TODO: Maybe skip this and just use "Århus" directly in our
