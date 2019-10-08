@@ -33,60 +33,55 @@ type EventData struct {
 	RVSPs    uint64      `json:"yes_rsvp_count"`
 }
 
+func (ev *EventData) GetTime() (*Time, error) {
+	dateTime := fmt.Sprintf("%sT%s:00Z", ev.Date, ev.Time)
+	d, err := time.Parse(time.RFC3339, dateTime)
+	if err != nil {
+		return nil, err
+	}
+	return &Time{d}, nil
+}
+
 type EventVenue struct {
 	Address string `json:"address_1"`
 }
 
 func setMeetupData(cfg *Config) error {
-	for i, mg := range cfg.MeetupGroups {
+	for i := range cfg.MeetupGroups {
+		mg := &cfg.MeetupGroups[i]
 		if mg.MeetupID == "" {
 			continue
+		}
+		if mg.AutoMeetups == nil {
+			mg.AutoMeetups = map[string]AutogenMeetup{}
 		}
 		events, err := GetMeetupEvents(mg.MeetupID)
 		if err != nil {
 			return err
 		}
 		for _, ev := range events {
-			found := false
-			for _, meetup := range mg.Meetups {
-				if meetup.ID == uint64(ev.ID) {
-					found = true
-				}
-			}
 			for _, ign := range mg.IgnoreMeetupIDs {
 				if ign == uint64(ev.ID) {
-					found = true
-				}
-			}
-			if !found {
-				cfg.MeetupGroups[i].Meetups = append(cfg.MeetupGroups[i].Meetups, Meetup{
-					ID: uint64(ev.ID),
-				})
-			}
-		}
-		for _, ev := range events {
-			for j, meetup := range cfg.MeetupGroups[i].Meetups {
-				if meetup.ID != uint64(ev.ID) {
 					continue
 				}
-				meetup.Name = ev.Name
-				meetup.Address = ev.Venue.Address
-				meetup.Duration = Duration{time.Duration(ev.Duration * 1000 * 1000)}
-				dateTime := fmt.Sprintf("%sT%s:00Z", ev.Date, ev.Time)
-				d, err := time.Parse(time.RFC3339, dateTime)
-				if err != nil {
-					return err
-				}
-				meetup.Date = Time{d}
-
-				if time.Now().UTC().After(d) {
-					meetup.Attendees = ev.RVSPs
-				} else {
-					meetup.Attendees = 0
-				}
-
-				cfg.MeetupGroups[i].Meetups[j] = meetup
 			}
+			t, err := ev.GetTime()
+			if err != nil {
+				return err
+			}
+			meetup := AutogenMeetup{}
+			meetup.ID = uint64(ev.ID)
+			meetup.Date = *t
+			meetup.Name = ev.Name
+			meetup.Address = ev.Venue.Address
+			meetup.Duration = Duration{time.Duration(ev.Duration * 1000 * 1000)}
+
+			if time.Now().UTC().After(meetup.Date.Time) {
+				meetup.Attendees = ev.RVSPs
+			} else {
+				meetup.Attendees = 0
+			}
+			mg.AutoMeetups[t.YYYYMMDD()] = meetup
 		}
 	}
 	return nil

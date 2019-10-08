@@ -17,7 +17,7 @@ const (
 #### Submit a talk
 
 If you're interested in speaking in this meetup, fill out this form: {{.CFP}}
-{{end}}{{ range .Meetups }}
+{{end}}{{ range .MeetupList }}
 ### {{ .Name }}
 
  - Date: {{ .DateTime }}

@@ -205,27 +205,57 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 }
 
 type AutogenMeetupGroup struct {
-	Photo   string `json:"photo,omitempty"`
-	Name    string `json:"name"`
-	City    string `json:"city"`
-	Country string `json:"country"`
+	Photo       string                   `json:"photo,omitempty"`
+	Name        string                   `json:"name"`
+	City        string                   `json:"city"`
+	Country     string                   `json:"country"`
+	AutoMeetups map[string]AutogenMeetup `json:"autoMeetups"`
 }
 
 type MeetupGroup struct {
 	*AutogenMeetupGroup `json:",inline,omitempty"`
 
-	MeetupID        string     `json:"meetupID"`
-	Organizers      []*Speaker `json:"organizers"`
-	Meetups         MeetupList `json:"meetups"`
-	IgnoreMeetupIDs []uint64   `json:"ignoreMeetupIDs,omitempty"`
-	CFP             string     `json:"cfpLink"`
+	MeetupID        string            `json:"meetupID"`
+	Organizers      []*Speaker        `json:"organizers"`
+	IgnoreMeetupIDs []uint64          `json:"ignoreMeetupIDs,omitempty"`
+	CFP             string            `json:"cfpLink"`
+	OldMeetups      MeetupList        `json:"meetups,omitempty"`
+	Meetups         map[string]Meetup `json:"meetups2"`
+	MeetupList      MeetupList        `json:"-"`
 
 	members uint64
+}
+
+func (mg *MeetupGroup) ApplyGeneratedData() {
+	for key, autoMeetup := range mg.AutoMeetups {
+		m, ok := mg.Meetups[key]
+		if !ok {
+			fmt.Printf("didn't find meetup with date %q\n", key)
+			continue
+		}
+		m.AutogenMeetup = &autoMeetup
+		mg.Meetups[key] = m
+	}
+	mg.Meetups = map[string]Meetup{}
+	for _, m := range mg.OldMeetups {
+		key := m.Date.YYYYMMDD()
+		mg.Meetups[key] = m
+	}
+	mg.OldMeetups = nil
 }
 
 // CityLowercase gets the lowercase variant of the city
 func (mg *MeetupGroup) CityLowercase() string {
 	return strings.ToLower(mg.City)
+}
+
+func (mg *MeetupGroup) SetMeetupList() {
+	marr := []Meetup{}
+	for _, m := range mg.Meetups {
+		marr = append(marr, m)
+	}
+	mg.MeetupList = MeetupList(marr)
+	sort.Sort(mg.MeetupList)
 }
 
 // MeetupList is a slice of meetups implementing sort.Interface
@@ -245,16 +275,20 @@ func (ml MeetupList) Swap(i, j int) {
 	ml[i], ml[j] = ml[j], ml[i]
 }
 
+type AutogenMeetup struct {
+	ID        uint64   `json:"id"`
+	Name      string   `json:"name"`
+	Date      Time     `json:"date,omitempty"`
+	Duration  Duration `json:"duration,omitempty"`
+	Attendees uint64   `json:"attendees,omitempty"`
+	Address   string   `json:"address"`
+}
+
 type Meetup struct {
-	ID            uint64         `json:"id"`
-	Name          string         `json:"name"`
-	Date          Time           `json:"date,omitempty"`
-	Duration      Duration       `json:"duration,omitempty"`
-	Recording     string         `json:"recording,omitempty"`
-	Attendees     uint64         `json:"attendees,omitempty"`
-	Address       string         `json:"address"`
-	Sponsors      Sponsors       `json:"sponsors"`
-	Presentations []Presentation `json:"presentations"`
+	*AutogenMeetup `json:",inline,omitempty"`
+	Recording      string         `json:"recording"`
+	Sponsors       Sponsors       `json:"sponsors"`
+	Presentations  []Presentation `json:"presentations"`
 }
 
 func (m *Meetup) DateTime() string {

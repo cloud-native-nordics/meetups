@@ -1,4 +1,4 @@
-package main // import "github.com/cloud-native-nordics/meetups/generator"
+package main
 
 import (
 	"bytes"
@@ -7,7 +7,6 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
-	"sort"
 	"strings"
 	"text/template"
 
@@ -113,6 +112,7 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 		if err := unmarshal(autoMGContent, mg.AutogenMeetupGroup); err != nil {
 			return err
 		}
+		mg.ApplyGeneratedData()
 		meetupGroups = append(meetupGroups, mg)
 		return nil
 	})
@@ -166,6 +166,7 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	shouldMarshalSpeakerID = true
 	shouldMarshalCompanyID = true
 	for _, mg := range cfg.MeetupGroups {
+		mg.SetMeetupList()
 		b, err := tmpl(readmeTmpl, mg)
 		if err != nil {
 			return nil, err
@@ -182,6 +183,10 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		result[path] = autoMGYAML
 
 		mg.AutogenMeetupGroup = nil
+		for k, m := range mg.Meetups {
+			m.AutogenMeetup = nil
+			mg.Meetups[k] = m
+		}
 		mgYAML, err := yaml.Marshal(mg)
 		if err != nil {
 			return nil, err
@@ -259,9 +264,8 @@ func update(cfg *Config) error {
 		for _, s := range mg.Organizers {
 			cfg.SetSpeakerCountry(s, mg.Country)
 		}
-		for j := range mg.Meetups {
-			m := &mg.Meetups[j]
-			if err := setPresentationTimestamps(m); err != nil {
+		for j, m := range mg.Meetups {
+			if err := setPresentationTimestamps(&m); err != nil {
 				return err
 			}
 			for _, pres := range m.Presentations {
@@ -273,8 +277,8 @@ func update(cfg *Config) error {
 			for _, s := range m.Sponsors.Other {
 				cfg.SetCompanyCountry(s, mg.Country)
 			}
+			mg.Meetups[j] = m
 		}
-		sort.Sort(mg.Meetups)
 	}
 	return nil
 }
