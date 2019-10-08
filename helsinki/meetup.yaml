@@ -1,4 +1,7 @@
 cfpLink: https://bit.ly/k8sfin-cfp
+meetupID: Kubernetes-Finland
+latitude: 60.164574
+longitude: 24.938838
 ignoreMeetupDates:
 - "20190117"
 - "20190404"
@@ -6,7 +9,6 @@ ignoreMeetupDates:
 - "20190828"
 - "20191029"
 - "20191031"
-meetupID: Kubernetes-Finland
 meetups:
   "20171004":
     presentations:

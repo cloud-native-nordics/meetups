@@ -1,5 +1,7 @@
 cfpLink: https://bit.ly/k8sfin-cfp
 meetupID: Kubernetes-Tampere
+latitude: 61.498333
+longitude: 23.764167
 meetups:
   "20190117":
     presentations:

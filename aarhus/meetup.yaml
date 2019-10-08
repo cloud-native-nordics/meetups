@@ -1,5 +1,7 @@
 cfpLink: ""
 meetupID: Cloud-Native-Aarhus
+latitude: 56.150222
+longitude: 10.209139
 meetups:
   "20170530":
     presentations: null

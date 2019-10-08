@@ -1,5 +1,7 @@
 cfpLink: ""
 meetupID: Kubernetes-Goteborg
+latitude: 57.702295
+longitude: 11.972025
 meetups:
   "20161130":
     presentations: null

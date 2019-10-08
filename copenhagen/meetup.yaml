@@ -1,5 +1,7 @@
 cfpLink: ""
 meetupID: Cloud-Native-Copenhagen
+latitude: 55.676111
+longitude: 12.568333
 meetups:
   "20171212":
     presentations:

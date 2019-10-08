@@ -1,5 +1,7 @@
 cfpLink: ""
 meetupID: Cloud-Native-Aalborg
+latitude: 57.055465
+longitude: 9.917825
 meetups:
   "20190904":
     presentations:

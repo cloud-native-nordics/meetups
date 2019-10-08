@@ -219,6 +219,8 @@ type MeetupGroup struct {
 	Organizers        []*Speaker        `json:"organizers"`
 	IgnoreMeetupDates []string          `json:"ignoreMeetupDates,omitempty"`
 	CFP               string            `json:"cfpLink"`
+	Latitude          float64           `json:"latitude"`
+	Longitude         float64           `json:"longitude"`
 	Meetups           map[string]Meetup `json:"meetups"`
 	MeetupList        MeetupList        `json:"-"`
 
