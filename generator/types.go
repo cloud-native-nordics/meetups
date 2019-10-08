@@ -209,7 +209,7 @@ type AutogenMeetupGroup struct {
 	Name        string                   `json:"name"`
 	City        string                   `json:"city"`
 	Country     string                   `json:"country"`
-	AutoMeetups map[string]AutogenMeetup `json:"autoMeetups"`
+	AutoMeetups map[string]AutogenMeetup `json:"autoMeetups,omitempty"`
 }
 
 type MeetupGroup struct {

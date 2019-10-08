@@ -181,18 +181,6 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		}
 		path = autogenPath(city)
 		result[path] = autoMGYAML
-
-		mg.AutogenMeetupGroup = nil
-		for k, m := range mg.Meetups {
-			m.AutogenMeetup = nil
-			mg.Meetups[k] = m
-		}
-		mgYAML, err := yaml.Marshal(mg)
-		if err != nil {
-			return nil, err
-		}
-		path = filepath.Join(city, "meetup.yaml")
-		result[path] = mgYAML
 	}
 	shouldMarshalSpeakerID = false
 	shouldMarshalCompanyID = false
@@ -216,6 +204,11 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	}
 	result["README.md"] = readmeBytes
 	shouldMarshalCompanyID = false
+	// Don't output the autoMeetups thing in config.json
+	for i, mg := range cfg.MeetupGroups {
+		mg.AutoMeetups = nil
+		cfg.MeetupGroups[i] = mg
+	}
 	configJSON, err := json.MarshalIndent(cfg, "", "  ")
 	if err != nil {
 		return nil, err
