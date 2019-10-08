@@ -140,10 +140,10 @@
   ],
   "meetupGroups": [
     {
-      "meetupID": "Kubernetes-Finland",
       "name": "CNCF \u0026 Kubernetes Finland",
       "city": "Helsinki",
       "country": "finland",
+      "meetupID": "Kubernetes-Finland",
       "organizers": [
         {
           "id": "luxas",

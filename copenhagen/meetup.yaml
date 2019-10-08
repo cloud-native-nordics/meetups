@@ -1,6 +1,4 @@
 cfpLink: ""
-city: Copenhagen
-country: denmark
 meetupID: Cloud-Native-Copenhagen
 meetups:
 - address: Langebrogade 1
@@ -291,7 +289,6 @@ meetups:
   sponsors:
     other: null
     venue: twentythree
-name: Cloud Native Copenhagen
 organizers:
 - laszlo
 - jasmine

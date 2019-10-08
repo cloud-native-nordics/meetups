@@ -1,6 +1,4 @@
 cfpLink: ""
-city: Göteborg
-country: sweden
 meetupID: Kubernetes-Goteborg
 meetups:
 - address: Vallgatan 22
@@ -128,11 +126,9 @@ meetups:
   sponsors:
     other: null
     venue: null
-name: Kubernetes Göteborg
 organizers:
 - jessicaandersson
 - staffanolsson
 - peterrosell
 - antonlindgren
 - jacobhagstedtpsuorra
-photo: https://secure.meetupstatic.com/photos/event/b/9/a/b/highres_482747531.jpeg

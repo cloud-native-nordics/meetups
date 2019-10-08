@@ -1,6 +1,4 @@
 cfpLink: ""
-city: Helsinki
-country: finland
 meetupID: Kubernetes-Finland
 meetups:
 - address: Street 1, Postal Code, Country
@@ -56,7 +54,6 @@ meetups:
     other:
     - luxaslabs
     venue: accenture
-name: CNCF & Kubernetes Finland
 organizers:
 - luxas
 - annie

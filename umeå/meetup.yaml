@@ -1,6 +1,4 @@
 cfpLink: ""
-city: Umeå
-country: sweden
 meetupID: Cloud-Native-Northern-Sweden
 meetups:
 - address: Tvistevägen 47
@@ -69,7 +67,6 @@ meetups:
   sponsors:
     other: null
     venue: elastisys
-name: Cloud Native Northern Sweden
 organizers:
 - robertwinter
 - eriklindskog

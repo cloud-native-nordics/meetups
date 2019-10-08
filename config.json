@@ -2840,10 +2840,10 @@
   ],
   "meetupGroups": [
     {
-      "meetupID": "Cloud-Native-Aalborg",
       "name": "Cloud-Native-Aalborg",
       "city": "Aalborg",
       "country": "denmark",
+      "meetupID": "Cloud-Native-Aalborg",
       "organizers": [
         {
           "id": "allanhojgaardjensen",
@@ -3286,10 +3286,10 @@
       "cfpLink": ""
     },
     {
-      "meetupID": "Cloud-Native-Aarhus",
       "name": "Cloud Native Aarhus",
       "city": "Aarhus",
       "country": "denmark",
+      "meetupID": "Cloud-Native-Aarhus",
       "organizers": [
         {
           "id": "kaspernissen",
@@ -6400,10 +6400,10 @@
       "cfpLink": ""
     },
     {
-      "meetupID": "Cloud-Native-Copenhagen",
       "name": "Cloud Native Copenhagen",
       "city": "Copenhagen",
       "country": "denmark",
+      "meetupID": "Cloud-Native-Copenhagen",
       "organizers": [
         {
           "id": "laszlo",
@@ -7197,11 +7197,11 @@
       "cfpLink": ""
     },
     {
-      "meetupID": "Kubernetes-Goteborg",
-      "name": "Kubernetes Göteborg",
       "photo": "https://secure.meetupstatic.com/photos/event/b/9/a/b/highres_482747531.jpeg",
+      "name": "Kubernetes Göteborg",
       "city": "Göteborg",
       "country": "sweden",
+      "meetupID": "Kubernetes-Goteborg",
       "organizers": [
         {
           "id": "jessicaandersson",
@@ -7595,10 +7595,10 @@
       "cfpLink": ""
     },
     {
-      "meetupID": "Kubernetes-Finland",
       "name": "Kubernetes and CNCF Finland Meetup",
       "city": "Helsinki",
       "country": "finland",
+      "meetupID": "Kubernetes-Finland",
       "organizers": [
         {
           "id": "luxas",
@@ -9412,11 +9412,11 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp"
     },
     {
-      "meetupID": "sthlm-k8s",
-      "name": "Stockholm Kubernetes and Cloud Native Computing",
       "photo": "https://secure.meetupstatic.com/photos/event/1/a/9/0/highres_469446800.jpeg",
+      "name": "Stockholm Kubernetes and Cloud Native Computing",
       "city": "Stockholm",
       "country": "sweden",
+      "meetupID": "sthlm-k8s",
       "organizers": [
         {
           "id": "dzolo",
@@ -9651,10 +9651,10 @@
       "cfpLink": ""
     },
     {
-      "meetupID": "Kubernetes-Tampere",
       "name": "Kubernetes and CNCF Tampere Meetup",
       "city": "Tampere",
       "country": "finland",
+      "meetupID": "Kubernetes-Tampere",
       "organizers": [
         {
           "id": "luxas",
@@ -10511,10 +10511,10 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp"
     },
     {
-      "meetupID": "Kubernetes-Turku",
       "name": "Kubernetes and CNCF Turku Meetup",
       "city": "Turku",
       "country": "finland",
+      "meetupID": "Kubernetes-Turku",
       "organizers": [
         {
           "id": "luxas",
@@ -10556,10 +10556,10 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp"
     },
     {
-      "meetupID": "Cloud-Native-Northern-Sweden",
       "name": "Cloud Native Northern Sweden",
       "city": "Umeå",
       "country": "sweden",
+      "meetupID": "Cloud-Native-Northern-Sweden",
       "organizers": [
         {
           "id": "robertwinter",

@@ -1,6 +1,4 @@
 cfpLink: ""
-city: Stockholm
-country: sweden
 meetupID: sthlm-k8s
 meetups:
 - address: Regeringsgatan 29
@@ -97,11 +95,9 @@ meetups:
   sponsors:
     other: null
     venue: null
-name: Stockholm Kubernetes and Cloud Native Computing
 organizers:
 - dzolo
 - mattgruter
 - iljoo
 - fyx
 - holmsten
-photo: https://secure.meetupstatic.com/photos/event/1/a/9/0/highres_469446800.jpeg

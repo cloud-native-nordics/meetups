@@ -1,6 +1,4 @@
 cfpLink: ""
-city: Aarhus
-country: denmark
 meetupID: Cloud-Native-Aarhus
 meetups:
 - address: Åbogade 15
@@ -883,7 +881,6 @@ meetups:
   sponsors:
     other: null
     venue: null
-name: Cloud Native Aarhus
 organizers:
 - kaspernissen
 - rasmussteiniche

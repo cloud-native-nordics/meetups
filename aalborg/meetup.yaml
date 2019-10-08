@@ -1,6 +1,4 @@
 cfpLink: ""
-city: Aalborg
-country: denmark
 meetupID: Cloud-Native-Aalborg
 meetups:
 - address: Skelagervej 15
@@ -100,7 +98,6 @@ meetups:
   sponsors:
     other: null
     venue: sparnordbank
-name: Cloud-Native-Aalborg
 organizers:
 - allanhojgaardjensen
 - arnemejlholm

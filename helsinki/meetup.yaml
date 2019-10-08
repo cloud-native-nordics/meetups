@@ -1,6 +1,4 @@
 cfpLink: https://bit.ly/k8sfin-cfp
-city: Helsinki
-country: finland
 ignoreMeetupIDs:
 - 257897399
 - 259129795
@@ -514,7 +512,6 @@ meetups:
     - emblica
     - upcloud
     venue: upcloud
-name: Kubernetes and CNCF Finland Meetup
 organizers:
 - luxas
 - annie
