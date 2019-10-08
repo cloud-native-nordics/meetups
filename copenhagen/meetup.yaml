@@ -2,6 +2,10 @@ cfpLink: ""
 meetupID: Cloud-Native-Copenhagen
 latitude: 55.676111
 longitude: 12.568333
+organizers:
+- laszlo
+- jasmine
+- jeppe
 meetups:
   "20171212":
     presentations:
@@ -240,7 +244,3 @@ meetups:
     sponsors:
       other: null
       venue: null
-organizers:
-- laszlo
-- jasmine
-- jeppe

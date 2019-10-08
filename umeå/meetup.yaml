@@ -1,5 +1,9 @@
 cfpLink: ""
 meetupID: Cloud-Native-Northern-Sweden
+organizers:
+- robertwinter
+- eriklindskog
+- tordsson
 meetups:
   "20181120":
     presentations:
@@ -51,7 +55,3 @@ meetups:
     sponsors:
       other: null
       venue: elastisys
-organizers:
-- robertwinter
-- eriklindskog
-- tordsson

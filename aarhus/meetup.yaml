@@ -2,6 +2,11 @@ cfpLink: ""
 meetupID: Cloud-Native-Aarhus
 latitude: 56.150222
 longitude: 10.209139
+organizers:
+- kaspernissen
+- rasmussteiniche
+- henrikhoegh
+- danielfly
 meetups:
   "20170530":
     presentations: null
@@ -751,8 +756,3 @@ meetups:
     sponsors:
       other: null
       venue: null
-organizers:
-- kaspernissen
-- rasmussteiniche
-- henrikhoegh
-- danielfly

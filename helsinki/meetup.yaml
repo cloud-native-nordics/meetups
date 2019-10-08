@@ -9,6 +9,9 @@ ignoreMeetupDates:
 - "20190828"
 - "20191029"
 - "20191031"
+organizers:
+- luxas
+- annie
 meetups:
   "20171004":
     presentations:
@@ -448,6 +451,3 @@ meetups:
     sponsors:
       other: null
       venue: null
-organizers:
-- luxas
-- annie

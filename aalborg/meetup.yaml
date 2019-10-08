@@ -2,6 +2,11 @@ cfpLink: ""
 meetupID: Cloud-Native-Aalborg
 latitude: 57.055465
 longitude: 9.917825
+organizers:
+- allanhojgaardjensen
+- arnemejlholm
+- simonbengtsson
+- camillalarsen
 meetups:
   "20190904":
     presentations:
@@ -93,8 +98,3 @@ meetups:
     sponsors:
       other: null
       venue: sparnordbank
-organizers:
-- allanhojgaardjensen
-- arnemejlholm
-- simonbengtsson
-- camillalarsen

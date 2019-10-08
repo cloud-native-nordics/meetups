@@ -2,6 +2,8 @@ cfpLink: https://bit.ly/k8sfin-cfp
 meetupID: Kubernetes-Turku
 latitude: 60.451766
 longitude: 22.266254
+organizers:
+- luxas
 meetups:
   "20191031":
     presentations: null
@@ -9,5 +11,3 @@ meetups:
     sponsors:
       other: null
       venue: null
-organizers:
-- luxas

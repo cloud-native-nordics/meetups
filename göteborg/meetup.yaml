@@ -2,6 +2,12 @@ cfpLink: ""
 meetupID: Kubernetes-Goteborg
 latitude: 57.702295
 longitude: 11.972025
+organizers:
+- jessicaandersson
+- staffanolsson
+- peterrosell
+- antonlindgren
+- jacobhagstedtpsuorra
 meetups:
   "20161130":
     presentations: null
@@ -92,9 +98,3 @@ meetups:
     sponsors:
       other: null
       venue: null
-organizers:
-- jessicaandersson
-- staffanolsson
-- peterrosell
-- antonlindgren
-- jacobhagstedtpsuorra

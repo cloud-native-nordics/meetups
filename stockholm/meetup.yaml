@@ -2,6 +2,12 @@ cfpLink: ""
 meetupID: sthlm-k8s
 latitude: 59.329444
 longitude: 18.068611
+organizers:
+- dzolo
+- mattgruter
+- iljoo
+- fyx
+- holmsten
 meetups:
   "20180125":
     presentations:
@@ -82,9 +88,3 @@ meetups:
     sponsors:
       other: null
       venue: null
-organizers:
-- dzolo
-- mattgruter
-- iljoo
-- fyx
-- holmsten
