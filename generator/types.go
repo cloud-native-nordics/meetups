@@ -204,12 +204,17 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 	return fmt.Errorf("couldn't marshal speaker")
 }
 
+type AutogenMeetupGroup struct {
+	Photo   string `json:"photo,omitempty"`
+	Name    string `json:"name"`
+	City    string `json:"city"`
+	Country string `json:"country"`
+}
+
 type MeetupGroup struct {
+	*AutogenMeetupGroup `json:",inline,omitempty"`
+
 	MeetupID        string     `json:"meetupID"`
-	Name            string     `json:"name"`
-	Photo           string     `json:"photo,omitempty"`
-	City            string     `json:"city"`
-	Country         string     `json:"country"`
 	Organizers      []*Speaker `json:"organizers"`
 	Meetups         MeetupList `json:"meetups"`
 	IgnoreMeetupIDs []uint64   `json:"ignoreMeetupIDs,omitempty"`
