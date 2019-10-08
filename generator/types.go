@@ -215,12 +215,12 @@ type AutogenMeetupGroup struct {
 type MeetupGroup struct {
 	*AutogenMeetupGroup `json:",inline,omitempty"`
 
-	MeetupID        string            `json:"meetupID"`
-	Organizers      []*Speaker        `json:"organizers"`
-	IgnoreMeetupIDs []uint64          `json:"ignoreMeetupIDs,omitempty"`
-	CFP             string            `json:"cfpLink"`
-	Meetups         map[string]Meetup `json:"meetups"`
-	MeetupList      MeetupList        `json:"-"`
+	MeetupID          string            `json:"meetupID"`
+	Organizers        []*Speaker        `json:"organizers"`
+	IgnoreMeetupDates []string          `json:"ignoreMeetupDates,omitempty"`
+	CFP               string            `json:"cfpLink"`
+	Meetups           map[string]Meetup `json:"meetups"`
+	MeetupList        MeetupList        `json:"-"`
 
 	members uint64
 }
@@ -229,7 +229,15 @@ func (mg *MeetupGroup) ApplyGeneratedData() {
 	for key := range mg.AutoMeetups {
 		m, ok := mg.Meetups[key]
 		if !ok {
-			fmt.Printf("%s: didn't find meetup with date %q\n", mg.Name, key)
+			found := false
+			for _, date := range mg.IgnoreMeetupDates {
+				if key == date {
+					found = true
+				}
+			}
+			if !found {
+				fmt.Printf("%s: didn't find meetup with date %q\n", mg.Name, key)
+			}
 			continue
 		}
 		autoMeetup := mg.AutoMeetups[key]

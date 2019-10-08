@@ -60,17 +60,18 @@ func setMeetupData(cfg *Config) error {
 			return err
 		}
 		for _, ev := range events {
-			for _, ign := range mg.IgnoreMeetupIDs {
-				if ign == uint64(ev.ID) {
-					continue
-				}
-			}
 			t, err := ev.GetTime()
 			if err != nil {
 				return err
 			}
+			dateStr := t.YYYYMMDD()
+			for _, ignoreDate := range mg.IgnoreMeetupDates {
+				if ignoreDate == dateStr {
+					continue
+				}
+			}
 			// Continue if this automatically generated meetup already exists
-			if _, ok := mg.AutoMeetups[t.YYYYMMDD()]; ok {
+			if _, ok := mg.AutoMeetups[dateStr]; ok {
 				continue
 			}
 			meetup := AutogenMeetup{}
