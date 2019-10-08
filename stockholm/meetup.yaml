@@ -1,6 +1,6 @@
 cfpLink: ""
 meetupID: sthlm-k8s
-meetups2:
+meetups:
   "20180125":
     presentations:
     - duration: 30m0s

@@ -1,6 +1,6 @@
 cfpLink: https://bit.ly/k8sfin-cfp
 meetupID: Kubernetes-Tampere
-meetups2:
+meetups:
   "20190117":
     presentations:
     - duration: 15m0s

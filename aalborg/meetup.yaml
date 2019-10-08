@@ -1,6 +1,6 @@
 cfpLink: ""
 meetupID: Cloud-Native-Aalborg
-meetups2:
+meetups:
   "20190904":
     presentations:
     - duration: 15m0s

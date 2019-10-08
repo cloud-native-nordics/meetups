@@ -1,6 +1,6 @@
 cfpLink: ""
 meetupID: Cloud-Native-Copenhagen
-meetups2:
+meetups:
   "20171212":
     presentations:
     - duration: 20m0s

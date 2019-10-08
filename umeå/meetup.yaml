@@ -1,6 +1,6 @@
 cfpLink: ""
 meetupID: Cloud-Native-Northern-Sweden
-meetups2:
+meetups:
   "20181120":
     presentations:
     - delay: 30m0s
