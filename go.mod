@@ -1,4 +1,4 @@
-module github.com/cloud-native-nordics/meetups/generator
+module github.com/cloud-native-nordics/meetups
 
 require (
 	github.com/spf13/pflag v1.0.3
