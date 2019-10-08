@@ -16,14 +16,11 @@ validate: bin/generator
 stats: bin/generator
 	bin/generator --stats
 
-test:
-	cd generator && go test
-
 build-docker:
 	docker run -it -e GOOS=${GOOS} -e GOARCH=${GOARCH} -v $(shell pwd):/meetups -w /meetups golang:1.12 make bin-generator
 
 bin/generator bin-generator:
-	go build -mod vendor -o bin/generator $(shell pwd)/generator/...
+	go build -mod vendor -o bin/generator ./generator/...
 
 clean:
 	sudo rm bin/generator
@@ -32,5 +29,4 @@ pre-commit:
 	$(MAKE) build-docker
 	$(MAKE) generate
 	$(MAKE) validate
-	$(MAKE) test
 	gofmt -s -w generator/*.go
