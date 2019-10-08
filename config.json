@@ -2927,6 +2927,8 @@
         }
       ],
       "cfpLink": "",
+      "latitude": 57.055465,
+      "longitude": 9.917825,
       "meetups": {
         "20190904": {
           "id": 263744803,
@@ -3374,6 +3376,8 @@
         }
       ],
       "cfpLink": "",
+      "latitude": 56.150222,
+      "longitude": 10.209139,
       "meetups": {
         "20170530": {
           "id": 239352311,
@@ -6370,6 +6374,8 @@
         }
       ],
       "cfpLink": "",
+      "latitude": 55.676111,
+      "longitude": 12.568333,
       "meetups": {
         "20171212": {
           "id": 245248552,
@@ -7217,6 +7223,8 @@
         }
       ],
       "cfpLink": "",
+      "latitude": 57.702295,
+      "longitude": 11.972025,
       "meetups": {
         "20161130": {
           "id": 235779901,
@@ -7580,6 +7588,8 @@
         "20191031"
       ],
       "cfpLink": "https://bit.ly/k8sfin-cfp",
+      "latitude": 60.164574,
+      "longitude": 24.938838,
       "meetups": {
         "20171004": {
           "id": 242096170,
@@ -9418,6 +9428,8 @@
         }
       ],
       "cfpLink": "",
+      "latitude": 59.329444,
+      "longitude": 18.068611,
       "meetups": {
         "20180125": {
           "id": 245823087,
@@ -9652,6 +9664,8 @@
         }
       ],
       "cfpLink": "https://bit.ly/k8sfin-cfp",
+      "latitude": 61.498333,
+      "longitude": 23.764167,
       "meetups": {
         "20190117": {
           "id": 257164934,
@@ -10456,6 +10470,8 @@
         }
       ],
       "cfpLink": "https://bit.ly/k8sfin-cfp",
+      "latitude": 60.451766,
+      "longitude": 22.266254,
       "meetups": {
         "20191031": {
           "id": 264987939,
@@ -10537,6 +10553,8 @@
         }
       ],
       "cfpLink": "",
+      "latitude": 0,
+      "longitude": 0,
       "meetups": {
         "20181120": {
           "id": 255929396,
