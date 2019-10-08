@@ -1,72 +1,56 @@
 cfpLink: ""
 meetupID: Cloud-Native-Northern-Sweden
-meetups:
-- address: Tvistevägen 47
-  attendees: 19
-  date: "2019-05-28T17:00:00Z"
-  duration: 2h0m0s
-  id: 261450080
-  name: 'Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona '
-  presentations:
-  - duration: 1h30m0s
-    slides: ""
-    speakers:
-    - lindaalmersson
-    - tordsson
-    title: Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona
-  sponsors:
-    other: null
-    venue: elastisys
-- address: Västra Norrlandsgatan 10D
-  attendees: 36
-  date: "2019-05-07T17:00:00Z"
-  duration: 2h0m0s
-  id: 260276456
-  name: What does “production ready” really mean for a Kubernetes cluster?
-  presentations:
-  - delay: 30m0s
-    duration: 1h0m0s
-    slides: https://speakerdeck.com/luxas/what-does-production-ready-really-mean-for-a-kubernetes-cluster-umea-may-2019
-    speakers:
-    - luxas
-    title: What does “production ready” really mean for a Kubernetes cluster?
-  sponsors:
-    other: null
-    venue: xlent
-- address: Södra Ersmarksgatan 7
-  attendees: 45
-  date: "2019-02-28T17:00:00Z"
-  duration: 2h0m0s
-  id: 257861742
-  name: Cloud native lightning talks
-  presentations:
-  - delay: 30m0s
-    duration: 1h0m0s
-    slides: ""
-    speakers:
-    - eriklindskog
-    - lindaalmersson
-    - tordsson
-    title: Lightning talks
-  sponsors:
-    other: null
-    venue: codemill
-- address: Tvistevägen 47
-  attendees: 45
-  date: "2018-11-20T17:00:00Z"
-  duration: 2h0m0s
-  id: 255929396
-  name: Cloud-native, Kubernetes and trends
-  presentations:
-  - delay: 30m0s
-    duration: 1h0m0s
-    slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-november-2018
-    speakers:
-    - luxas
-    title: Intro to the cloud-native world with Kubernetes
-  sponsors:
-    other: null
-    venue: elastisys
+meetups2:
+  "20181120":
+    presentations:
+    - delay: 30m0s
+      duration: 1h0m0s
+      slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-november-2018
+      speakers:
+      - luxas
+      title: Intro to the cloud-native world with Kubernetes
+    recording: ""
+    sponsors:
+      other: null
+      venue: elastisys
+  "20190228":
+    presentations:
+    - delay: 30m0s
+      duration: 1h0m0s
+      slides: ""
+      speakers:
+      - eriklindskog
+      - lindaalmersson
+      - tordsson
+      title: Lightning talks
+    recording: ""
+    sponsors:
+      other: null
+      venue: codemill
+  "20190507":
+    presentations:
+    - delay: 30m0s
+      duration: 1h0m0s
+      slides: https://speakerdeck.com/luxas/what-does-production-ready-really-mean-for-a-kubernetes-cluster-umea-may-2019
+      speakers:
+      - luxas
+      title: What does “production ready” really mean for a Kubernetes cluster?
+    recording: ""
+    sponsors:
+      other: null
+      venue: xlent
+  "20190528":
+    presentations:
+    - duration: 1h30m0s
+      slides: ""
+      speakers:
+      - lindaalmersson
+      - tordsson
+      title: Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona
+    recording: ""
+    sponsors:
+      other: null
+      venue: elastisys
 organizers:
 - robertwinter
 - eriklindskog

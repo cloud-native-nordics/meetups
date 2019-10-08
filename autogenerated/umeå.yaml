@@ -1,3 +1,32 @@
+autoMeetups:
+  "20181120":
+    address: Tvistevägen 47
+    attendees: 45
+    date: "2018-11-20T17:00:00Z"
+    duration: 2h0m0s
+    id: 255929396
+    name: Cloud-native, Kubernetes and trends
+  "20190228":
+    address: Södra Ersmarksgatan 7
+    attendees: 45
+    date: "2019-02-28T17:00:00Z"
+    duration: 2h0m0s
+    id: 257861742
+    name: Cloud native lightning talks
+  "20190507":
+    address: Västra Norrlandsgatan 10D
+    attendees: 36
+    date: "2019-05-07T17:00:00Z"
+    duration: 2h0m0s
+    id: 260276456
+    name: What does “production ready” really mean for a Kubernetes cluster?
+  "20190528":
+    address: Tvistevägen 47
+    attendees: 19
+    date: "2019-05-28T17:00:00Z"
+    duration: 2h0m0s
+    id: 261450080
+    name: 'Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona '
 city: Umeå
 country: sweden
 name: Cloud Native Northern Sweden

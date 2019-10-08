@@ -1,100 +1,85 @@
 cfpLink: ""
 meetupID: sthlm-k8s
-meetups:
-- address: Regeringsgatan 29
-  date: "2019-10-23T17:30:00Z"
-  duration: 3h0m0s
-  id: 265099547
-  name: Chaos, Storage, and Caching
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Linnégatan 89C
-  attendees: 88
-  date: "2019-05-08T18:30:00Z"
-  duration: 3h0m0s
-  id: 260846917
-  name: Stockholm K8S and CNCF May 2019
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Regeringsgatan 13
-  attendees: 148
-  date: "2018-09-25T17:45:00Z"
-  duration: 2h45m0s
-  id: 254614677
-  name: Stockholm Kubernetes and Cloud Native Meetup
-  presentations:
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Doors open
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Dave Zolotusky - “Welcome and intro to CNCF”
-  - delay: 25m0s
-    duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Torkel Ödegaard - “What’s going on at Grafana?”
-  - delay: 5m0s
-    duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Mak Ahmad - “A good intro / deep dive into Istio”
-  - delay: 5m0s
-    duration: 1h15m0s
-    slides: ""
-    speakers: null
-    title: Mingle
-  - duration: 0s
-    slides: ""
-    speakers: null
-    title: Doors Close
-  sponsors:
-    other: null
-    venue: Spotify
-- address: Vasagatan 7
-  attendees: 96
-  date: "2018-01-25T17:30:00Z"
-  duration: 3h0m0s
-  id: 245823087
-  name: Stockholm Kubernetes Meetup
-  presentations:
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Doors open
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Secure SDLC and containers
-  - delay: 5m0s
-    duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Provisioning and Orchestrating K8s
-  - delay: 5m0s
-    duration: 30m0s
-    slides: ""
-    speakers: null
-    title: 'Persistent Volumes to StatefulSets: All About Managing Persistent Data
-      in Kubernetes'
-  - delay: 5m0s
-    duration: 1h15m0s
-    slides: ""
-    speakers: null
-    title: Mingle
-  - duration: 0s
-    slides: ""
-    speakers: null
-    title: Doors Closed
-  sponsors:
-    other: null
-    venue: null
+meetups2:
+  "20180125":
+    presentations:
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Doors open
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Secure SDLC and containers
+    - delay: 5m0s
+      duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Provisioning and Orchestrating K8s
+    - delay: 5m0s
+      duration: 30m0s
+      slides: ""
+      speakers: null
+      title: 'Persistent Volumes to StatefulSets: All About Managing Persistent Data
+        in Kubernetes'
+    - delay: 5m0s
+      duration: 1h15m0s
+      slides: ""
+      speakers: null
+      title: Mingle
+    - duration: 0s
+      slides: ""
+      speakers: null
+      title: Doors Closed
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20180925":
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Doors open
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Dave Zolotusky - “Welcome and intro to CNCF”
+    - delay: 25m0s
+      duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Torkel Ödegaard - “What’s going on at Grafana?”
+    - delay: 5m0s
+      duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Mak Ahmad - “A good intro / deep dive into Istio”
+    - delay: 5m0s
+      duration: 1h15m0s
+      slides: ""
+      speakers: null
+      title: Mingle
+    - duration: 0s
+      slides: ""
+      speakers: null
+      title: Doors Close
+    recording: ""
+    sponsors:
+      other: null
+      venue: Spotify
+  "20190508":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20191023":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
 organizers:
 - dzolo
 - mattgruter

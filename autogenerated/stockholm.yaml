@@ -1,3 +1,31 @@
+autoMeetups:
+  "20180125":
+    address: Vasagatan 7
+    attendees: 96
+    date: "2018-01-25T17:30:00Z"
+    duration: 3h0m0s
+    id: 245823087
+    name: Stockholm Kubernetes Meetup
+  "20180925":
+    address: Regeringsgatan 13
+    attendees: 148
+    date: "2018-09-25T17:45:00Z"
+    duration: 2h45m0s
+    id: 254614677
+    name: Stockholm Kubernetes and Cloud Native Meetup
+  "20190508":
+    address: Linnégatan 89C
+    attendees: 88
+    date: "2019-05-08T18:30:00Z"
+    duration: 3h0m0s
+    id: 260846917
+    name: Stockholm K8S and CNCF May 2019
+  "20191023":
+    address: Regeringsgatan 29
+    date: "2019-10-23T17:30:00Z"
+    duration: 3h0m0s
+    id: 265099547
+    name: Chaos, Storage, and Caching
 city: Stockholm
 country: sweden
 name: Stockholm Kubernetes and Cloud Native Computing

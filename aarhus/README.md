@@ -441,25 +441,6 @@
  - Date: 29 August, 2017 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/240929562
  - Attendees (according to meetup.com): 50
- - Venue sponsor: [Stibo Systems](https://www.stibosystems.com)
-
-#### Agenda
-
- - 17:00 - 17:05: Welcome 
-   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way](https://lunarway.com)
- - 17:05 - 17:15: Welcome to Stibo Systems 
- - 17:15 - 18:00: A way to micro services 
-   - Torben Haagh, [Stibo Systems](https://www.stibosystems.com)
- - 18:00 - 18:30: Break and sandwiches 
- - 18:30 - 19:15: Kubernetes 
-   - Henrik Høegh, [Praqma](https://praqma.com)
- - 19:15 - 20:00: Networking 
-
-### Cloud Native Aarhus #2
-
- - Date: 29 August, 2017 at 17:00 - 20:00
- - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/240929562
- - Attendees (according to meetup.com): 50
  - Venue sponsor: [Lunar Way](https://lunarway.com)
 
 #### Agenda

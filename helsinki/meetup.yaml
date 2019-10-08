@@ -5,513 +5,457 @@ ignoreMeetupIDs:
 - 261352635
 - 264000004
 meetupID: Kubernetes-Finland
-meetups:
-- address: Lemminkäisenkatu 14B
-  date: "2019-10-31T17:00:00Z"
-  duration: 3h0m0s
-  id: 264988078
-  name: First Kubernetes Turku Meetup!
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Åkerlundinkatu 11 A
-  date: "2019-10-29T17:00:00Z"
-  duration: 4h0m0s
-  id: 265154260
-  name: Kubernetes 101 Hands-On Workshop
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Karasvängen 7
-  date: "2019-10-24T18:00:00Z"
-  duration: 3h0m0s
-  id: 264646130
-  name: 'October: Chaos Engineering & KubeOne'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Lapinlahdenkatu 16
-  attendees: 95
-  date: "2019-08-27T18:00:00Z"
-  duration: 3h0m0s
-  id: 263999844
-  name: August Meetup in Helsinki
-  presentations:
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Arrive at the venue, sit down and network with others
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Introductionary words from the venue sponsor for this time, UpCloud
-  - duration: 15m0s
-    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-august-2019
-    speakers:
-    - luxas
-    title: Updates from the Cloud Native Nordics Community
-  - duration: 30m0s
-    slides: https://www.slideshare.net/NickJones13/introducing-kudo-kubernetes-operators-the-easy-way-167684205
-    speakers:
-    - nickjones
-    title: Declaratively building Kubernetes operators using KUDO
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Networking, food, drinks
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - sachinkundu
-    title: Deploy Kubernetes clusters with an auditable GitOps flow using Bedrock
-  - delay: 10m0s
-    duration: 30m0s
-    slides: https://speakerdeck.com/luxas/ignite-plus-cluster-api-helsinki-august-meetup
-    speakers:
-    - luxas
-    title: Ignite lightning-fast Firecracker VMs for powering Kubernetes clusters
-  - delay: 5m0s
-    duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other:
-    - cncf
-    - luxaslabs
-    - upcloud
-    venue: maria01
-- address: Antinkatu 1A, 4th floor
-  attendees: 75
-  date: "2019-06-11T18:00:00Z"
-  duration: 3h0m0s
-  id: 261376372
-  name: Summer Meetup in Helsinki
-  presentations:
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Arrive to the venue, sit down, grab a pizza slice and network with others
-      ;)
-  - delay: 5m0s
-    duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Introductionary words from the venue sponsor for this time, NordCloud
-  - duration: 10m0s
-    slides: ""
-    speakers:
-    - luxas
-    - annie
-    title: Welcome to our meetup
-  - duration: 10m0s
-    slides: ""
-    speakers:
-    - annie
-    title: How to become a (great) meetup speaker!
-  - duration: 20m0s
-    slides: https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version
-    speakers:
-    - jnummelin
-    title: Make your Kubernetes Cluster safe for DevOps
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Networking, food, drinks
-  - duration: 30m0s
-    slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
-    speakers:
-    - jessicaandersson
-    title: Getting Developers to Adopt Your Service
-  - delay: 5m0s
-    duration: 30m0s
-    slides: ""
-    speakers:
-    - piotr
-    title: An introduction to Istio
-  - delay: 15m0s
-    duration: 25m0s
-    slides: ""
-    speakers: null
-    title: Networking time
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    venue: nordcloud
-- address: Kaivokatu 6
-  attendees: 3
-  date: "2019-03-25T17:00:00Z"
-  duration: 3h30m0s
-  id: 259072993
-  name: Kubernetes 101 Hands-On Workshop
-  presentations:
-  - duration: 3h30m0s
-    slides: https://docs.google.com/presentation/d/1LJCqZjm5aGFypoZ4fG-ELBe0tcK6pfcN7H8qIrh6pIU
-    speakers:
-    - luxas
-    title: Kubernetes 101 Hands-On Workshop
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    - weaveworks
-    venue: unity
-- address: Aleksanterinkatu 46a
-  attendees: 114
-  date: "2019-01-23T18:00:00Z"
-  duration: 3h0m0s
-  id: 256936479
-  name: Winter Kubernetes Meetup
-  presentations:
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Arrive to the venue, sit down, grab a pizza slice and network with others
-      ;)
-  - duration: 5m0s
-    slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-january-2019
-    speakers: null
-    title: Welcome from the organisers
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Introductionary words from the venue sponsor for this time, Accenture
-  - delay: 5m0s
-    duration: 30m0s
-    slides: https://docs.google.com/presentation/d/1_1NpDUiejmEYdpplIqOEtepv7V6Yc0G2uFp4dVaQ70k/edit#slide=id.g4c8185cd42_0_0
-    speakers:
-    - jörg
-    title: Update from KubeCon Seattle 2018
-  - delay: 5m0s
-    duration: 30m0s
-    slides: https://speakerdeck.com/salkin/kubernetes-at-scale-on-remote-sites
-    speakers:
-    - niklas
-    title: A journey towards Kubernetes at scale on remote unattended sites
-  - delay: 5m0s
-    duration: 30m0s
-    slides: https://www.slideshare.net/oscarrenalias/enterprise-open-source
-    speakers:
-    - oscar
-    title: How to make your company start contributing to open source
-  - delay: 5m0s
-    duration: 35m0s
-    slides: ""
-    speakers: null
-    title: Networking time & optional Accenture lab prototypes
-  recording: TBA
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    venue: accenture
-- address: 'Westendintie 1 '
-  attendees: 88
-  date: "2018-12-03T18:00:00Z"
-  duration: 3h0m0s
-  id: 255665681
-  name: Pre-Slush Kubernetes Meetup
-  presentations:
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Arrive to the venue, sit down, grab a pizza slice and network with others
-      ;)
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome from the organizers
-  - delay: 5m0s
-    duration: 10m0s
-    slides: https://speakerdeck.com/luxas/update-from-the-ever-changing-kubernetes-landscape-december-2018-ac645b18-b457-4d41-8175-426d2ac046c9
-    speakers:
-    - luxas
-    title: Update from the cloud native ecosystem
-  - delay: 5m0s
-    duration: 15m0s
-    slides: ""
-    speakers:
-    - christina
-    title: 10 Emerging Trends to Watch for in 2019
-  - delay: 5m0s
-    duration: 25m0s
-    slides: https://drive.google.com/file/d/1VLnM57l0ABCgZE2aelQuPm4P0mIJafTz/view
-    speakers:
-    - mikko
-    title: Vincit's road to using Kubernetes in the cloud
-  - delay: 5m0s
-    duration: 25m0s
-    slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
-    speakers:
-    - anoop
-    title: Implementing the Container Storage Interface (CSI)
-  - delay: 5m0s
-    duration: 25m0s
-    slides: https://docs.google.com/presentation/d/1HjlhAcm8yK29j8NPkwQl0w5ZXeTxcBsRF_wsioKBrjA/edit#slide=id.g498ec9e817_0_0
-    speakers:
-    - rasmus
-    title: No need to build it yourself - Kubernetes using GKE, Terraform, Helm &
-      Jenkins
-  - delay: 5m0s
-    duration: 25m0s
-    slides: ""
-    speakers: null
-    title: Networking time
-  recording: https://www.youtube.com/watch?v=CfMKDg_iprg
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    venue: tuxera
-- address: Ratavartijankatu 5
-  attendees: 95
-  date: "2018-08-28T18:00:00Z"
-  duration: 3h0m0s
-  id: 252546014
-  name: Kubernetes Autumn Meetup
-  presentations:
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Arrive to the venue, sit down, grab a pizza slice and network with others
-      ;)
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Welcome from the organizers
-  - delay: 5m0s
-    duration: 10m0s
-    slides: ""
-    speakers:
-    - tommi
-    title: Introductionary words from the venue sponsor for this time, Elisa
-  - delay: 5m0s
-    duration: 20m0s
-    slides: https://www.slideshare.net/AnnieTalvasto/manage-kubernetes-application-complexity-with-helm
-    speakers:
-    - annie
-    title: Manage Kubernetes application complexity with Helm
-  - duration: 30m0s
-    slides: https://www.slideshare.net/jerryjalava/kubernetes-security-journey
-    speakers:
-    - jerry
-    title: Kubernetes' Security Features
-  - delay: 5m0s
-    duration: 20m0s
-    slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
-    speakers:
-    - marek
-    title: Lessons learned when building a Kubernetes distribution
-  - delay: 5m0s
-    duration: 20m0s
-    slides: https://drive.google.com/file/d/1JxBgTSPgFtAtNOxri5iyMHtYGC3t46NR/view
-    speakers:
-    - severi
-    title: Orchestrate VMs on top of Kubernetes
-  - duration: 40m0s
-    slides: ""
-    speakers: null
-    title: Time for networking
-  recording: https://www.youtube.com/watch?v=3ZWKm26Aw9Q
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    venue: elisa
-- address: Aleksis Kivis Gata 7
-  attendees: 110
-  date: "2018-06-06T18:00:00Z"
-  duration: 2h0m0s
-  id: 250712383
-  name: Kubernetes Summer Meetup
-  presentations:
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Grab some food and socialize!
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Welcome from the organizers
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Introductionary words from Nordea
-  - delay: 5m0s
-    duration: 30m0s
-    slides: ""
-    speakers:
-    - teemu
-    title: Kubernetes & Enterprises
-  - delay: 5m0s
-    duration: 30m0s
-    slides: ""
-    speakers:
-    - markku
-    title: Automated credentialless access management in the era of super scalable
-      cloud native services
-  - delay: 5m0s
-    duration: 10m0s
-    slides: ""
-    speakers:
-    - luxas
-    title: My experience at KubeCon Copenhagen
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Socialize and network with the people around you!
-  recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    venue: nordea
-- address: Lapinlahdenkatu 16
-  attendees: 63
-  date: "2018-04-03T18:00:00Z"
-  duration: 2h0m0s
-  id: 248641731
-  name: April Meetup -- Let's learn some Kubernetes concepts!
-  presentations:
-  - duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Grab some food and socialize!
-  - delay: 5m0s
-    duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Welcome from the organizers
-  - duration: 10m0s
-    recording: https://youtu.be/zS801na8KSA
-    slides: https://speakerdeck.com/luxas/kubernetes-finland-april-2018-cncf-update
-    speakers:
-    - luxas
-    title: Short CNCF update
-  - delay: 5m0s
-    duration: 40m0s
-    recording: https://youtu.be/XzjgtSzlj0w
-    slides: https://speakerdeck.com/luxas/intro-to-the-essential-api-resources-in-kubernetes
-    speakers:
-    - luxas
-    title: Intro to the essential API resources in Kubernetes
-  - delay: 5m0s
-    duration: 30m0s
-    recording: https://youtu.be/xUnzZAOwans
-    slides: https://speakerdeck.com/kad/kubernetes-advanced-platform-features
-    speakers:
-    - alexander
-    title: Kubernetes advanced platform features
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Socialize and network with the people around you!
-  recording: https://www.youtube.com/watch?v=JhBgGv0xCE0
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    - emblica
-    - upcloud
-    venue: maria01
-- address: Lapinlahdenkatu 16
-  attendees: 65
-  date: "2018-02-22T18:00:00Z"
-  duration: 2h0m0s
-  id: 247553023
-  name: Winter Meetup -- Let's catch up on the latest news in the ecosystem
-  presentations:
-  - duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Grab some food and socialize!
-  - delay: 5m0s
-    duration: 25m0s
-    recording: https://youtu.be/YTpihD6TdOE
-    slides: https://speakerdeck.com/luxas/winter-update-from-the-cloud-native-world-cncf-and-kubernetes-finland-meetup-in-helsinki
-    speakers:
-    - luxas
-    title: Winter Update from the Cloud Native World
-  - delay: 5m0s
-    duration: 30m0s
-    recording: https://youtu.be/oHVACKKPuw0
-    slides: https://www.slideshare.net/karlots/kubernetes-in-azure
-    speakers:
-    - karl
-    title: Kubernetes in Azure
-  - delay: 5m0s
-    duration: 30m0s
-    recording: https://youtu.be/f1h3sew3KZY
-    slides: ""
-    speakers:
-    - teemu
-    title: CRDs in Action
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Socialize and network with the people around you!
-  recording: https://www.youtube.com/watch?v=4ZMEejSX8nM
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    - emblica
-    - upcloud
-    venue: maria01
-- address: Eteläranta 12
-  attendees: 77
-  date: "2017-10-04T18:00:00Z"
-  duration: 2h0m0s
-  id: 242096170
-  name: First Kubernetes & CNCF meetup in Finland -- Kubernetes v1.8 celebration party
-  presentations:
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: The meetup officially starts. Grab a pizza and a drink, and talk to the
-      talented person next to you!
-  - duration: 15m0s
-    slides: ""
-    speakers:
-    - luxas
-    title: Welcome from the organizers
-  - duration: 30m0s
-    recording: https://youtu.be/9Oc69MpmCoU
-    slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup
-    speakers:
-    - luxas
-    title: An introduction to the cloud native world of Kubernetes
-  - delay: 5m0s
-    duration: 30m0s
-    recording: https://youtu.be/rvFQkhue95c
-    slides: ""
-    speakers:
-    - teemu
-    title: Let's have fun with serverless applications on Kubernetes
-  - delay: 10m0s
-    duration: 30m0s
-    recording: https://youtu.be/H92nfJt3ymo
-    slides: ""
-    speakers:
-    - michael
-    title: Kubernetes on AWS at Zalando
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Feel free to hang out with the people for the rest of the evening, do some
-      Q&A with the speakers, etc.
-  recording: https://youtu.be/9ZY-m4vAhiQ
-  sponsors:
-    other:
-    - luxaslabs
-    - cncf
-    - emblica
-    - upcloud
-    venue: upcloud
+meetups2:
+  "20171004":
+    presentations:
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: The meetup officially starts. Grab a pizza and a drink, and talk to the
+        talented person next to you!
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - luxas
+      title: Welcome from the organizers
+    - duration: 30m0s
+      recording: https://youtu.be/9Oc69MpmCoU
+      slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup
+      speakers:
+      - luxas
+      title: An introduction to the cloud native world of Kubernetes
+    - delay: 5m0s
+      duration: 30m0s
+      recording: https://youtu.be/rvFQkhue95c
+      slides: ""
+      speakers:
+      - teemu
+      title: Let's have fun with serverless applications on Kubernetes
+    - delay: 10m0s
+      duration: 30m0s
+      recording: https://youtu.be/H92nfJt3ymo
+      slides: ""
+      speakers:
+      - michael
+      title: Kubernetes on AWS at Zalando
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Feel free to hang out with the people for the rest of the evening, do
+        some Q&A with the speakers, etc.
+    recording: https://youtu.be/9ZY-m4vAhiQ
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      - emblica
+      - upcloud
+      venue: upcloud
+  "20180222":
+    presentations:
+    - duration: 20m0s
+      slides: ""
+      speakers: null
+      title: Grab some food and socialize!
+    - delay: 5m0s
+      duration: 25m0s
+      recording: https://youtu.be/YTpihD6TdOE
+      slides: https://speakerdeck.com/luxas/winter-update-from-the-cloud-native-world-cncf-and-kubernetes-finland-meetup-in-helsinki
+      speakers:
+      - luxas
+      title: Winter Update from the Cloud Native World
+    - delay: 5m0s
+      duration: 30m0s
+      recording: https://youtu.be/oHVACKKPuw0
+      slides: https://www.slideshare.net/karlots/kubernetes-in-azure
+      speakers:
+      - karl
+      title: Kubernetes in Azure
+    - delay: 5m0s
+      duration: 30m0s
+      recording: https://youtu.be/f1h3sew3KZY
+      slides: ""
+      speakers:
+      - teemu
+      title: CRDs in Action
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Socialize and network with the people around you!
+    recording: https://www.youtube.com/watch?v=4ZMEejSX8nM
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      - emblica
+      - upcloud
+      venue: maria01
+  "20180403":
+    presentations:
+    - duration: 20m0s
+      slides: ""
+      speakers: null
+      title: Grab some food and socialize!
+    - delay: 5m0s
+      duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Welcome from the organizers
+    - duration: 10m0s
+      recording: https://youtu.be/zS801na8KSA
+      slides: https://speakerdeck.com/luxas/kubernetes-finland-april-2018-cncf-update
+      speakers:
+      - luxas
+      title: Short CNCF update
+    - delay: 5m0s
+      duration: 40m0s
+      recording: https://youtu.be/XzjgtSzlj0w
+      slides: https://speakerdeck.com/luxas/intro-to-the-essential-api-resources-in-kubernetes
+      speakers:
+      - luxas
+      title: Intro to the essential API resources in Kubernetes
+    - delay: 5m0s
+      duration: 30m0s
+      recording: https://youtu.be/xUnzZAOwans
+      slides: https://speakerdeck.com/kad/kubernetes-advanced-platform-features
+      speakers:
+      - alexander
+      title: Kubernetes advanced platform features
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Socialize and network with the people around you!
+    recording: https://www.youtube.com/watch?v=JhBgGv0xCE0
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      - emblica
+      - upcloud
+      venue: maria01
+  "20180606":
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Grab some food and socialize!
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Welcome from the organizers
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Introductionary words from Nordea
+    - delay: 5m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - teemu
+      title: Kubernetes & Enterprises
+    - delay: 5m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - markku
+      title: Automated credentialless access management in the era of super scalable
+        cloud native services
+    - delay: 5m0s
+      duration: 10m0s
+      slides: ""
+      speakers:
+      - luxas
+      title: My experience at KubeCon Copenhagen
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Socialize and network with the people around you!
+    recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      venue: nordea
+  "20180828":
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Arrive to the venue, sit down, grab a pizza slice and network with others
+        ;)
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Welcome from the organizers
+    - delay: 5m0s
+      duration: 10m0s
+      slides: ""
+      speakers:
+      - tommi
+      title: Introductionary words from the venue sponsor for this time, Elisa
+    - delay: 5m0s
+      duration: 20m0s
+      slides: https://www.slideshare.net/AnnieTalvasto/manage-kubernetes-application-complexity-with-helm
+      speakers:
+      - annie
+      title: Manage Kubernetes application complexity with Helm
+    - duration: 30m0s
+      slides: https://www.slideshare.net/jerryjalava/kubernetes-security-journey
+      speakers:
+      - jerry
+      title: Kubernetes' Security Features
+    - delay: 5m0s
+      duration: 20m0s
+      slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
+      speakers:
+      - marek
+      title: Lessons learned when building a Kubernetes distribution
+    - delay: 5m0s
+      duration: 20m0s
+      slides: https://drive.google.com/file/d/1JxBgTSPgFtAtNOxri5iyMHtYGC3t46NR/view
+      speakers:
+      - severi
+      title: Orchestrate VMs on top of Kubernetes
+    - duration: 40m0s
+      slides: ""
+      speakers: null
+      title: Time for networking
+    recording: https://www.youtube.com/watch?v=3ZWKm26Aw9Q
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      venue: elisa
+  "20181203":
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Arrive to the venue, sit down, grab a pizza slice and network with others
+        ;)
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome from the organizers
+    - delay: 5m0s
+      duration: 10m0s
+      slides: https://speakerdeck.com/luxas/update-from-the-ever-changing-kubernetes-landscape-december-2018-ac645b18-b457-4d41-8175-426d2ac046c9
+      speakers:
+      - luxas
+      title: Update from the cloud native ecosystem
+    - delay: 5m0s
+      duration: 15m0s
+      slides: ""
+      speakers:
+      - christina
+      title: 10 Emerging Trends to Watch for in 2019
+    - delay: 5m0s
+      duration: 25m0s
+      slides: https://drive.google.com/file/d/1VLnM57l0ABCgZE2aelQuPm4P0mIJafTz/view
+      speakers:
+      - mikko
+      title: Vincit's road to using Kubernetes in the cloud
+    - delay: 5m0s
+      duration: 25m0s
+      slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
+      speakers:
+      - anoop
+      title: Implementing the Container Storage Interface (CSI)
+    - delay: 5m0s
+      duration: 25m0s
+      slides: https://docs.google.com/presentation/d/1HjlhAcm8yK29j8NPkwQl0w5ZXeTxcBsRF_wsioKBrjA/edit#slide=id.g498ec9e817_0_0
+      speakers:
+      - rasmus
+      title: No need to build it yourself - Kubernetes using GKE, Terraform, Helm
+        & Jenkins
+    - delay: 5m0s
+      duration: 25m0s
+      slides: ""
+      speakers: null
+      title: Networking time
+    recording: https://www.youtube.com/watch?v=CfMKDg_iprg
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      venue: tuxera
+  "20190123":
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Arrive to the venue, sit down, grab a pizza slice and network with others
+        ;)
+    - duration: 5m0s
+      slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-january-2019
+      speakers: null
+      title: Welcome from the organisers
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Introductionary words from the venue sponsor for this time, Accenture
+    - delay: 5m0s
+      duration: 30m0s
+      slides: https://docs.google.com/presentation/d/1_1NpDUiejmEYdpplIqOEtepv7V6Yc0G2uFp4dVaQ70k/edit#slide=id.g4c8185cd42_0_0
+      speakers:
+      - jörg
+      title: Update from KubeCon Seattle 2018
+    - delay: 5m0s
+      duration: 30m0s
+      slides: https://speakerdeck.com/salkin/kubernetes-at-scale-on-remote-sites
+      speakers:
+      - niklas
+      title: A journey towards Kubernetes at scale on remote unattended sites
+    - delay: 5m0s
+      duration: 30m0s
+      slides: https://www.slideshare.net/oscarrenalias/enterprise-open-source
+      speakers:
+      - oscar
+      title: How to make your company start contributing to open source
+    - delay: 5m0s
+      duration: 35m0s
+      slides: ""
+      speakers: null
+      title: Networking time & optional Accenture lab prototypes
+    recording: TBA
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      venue: accenture
+  "20190325":
+    presentations:
+    - duration: 3h30m0s
+      slides: https://docs.google.com/presentation/d/1LJCqZjm5aGFypoZ4fG-ELBe0tcK6pfcN7H8qIrh6pIU
+      speakers:
+      - luxas
+      title: Kubernetes 101 Hands-On Workshop
+    recording: ""
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      - weaveworks
+      venue: unity
+  "20190611":
+    presentations:
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Arrive to the venue, sit down, grab a pizza slice and network with others
+        ;)
+    - delay: 5m0s
+      duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Introductionary words from the venue sponsor for this time, NordCloud
+    - duration: 10m0s
+      slides: ""
+      speakers:
+      - luxas
+      - annie
+      title: Welcome to our meetup
+    - duration: 10m0s
+      slides: ""
+      speakers:
+      - annie
+      title: How to become a (great) meetup speaker!
+    - duration: 20m0s
+      slides: https://www.slideshare.net/JussiNummelin/taking-the-scissors-away-make-k8s-safeer-for-devops-shorter-version
+      speakers:
+      - jnummelin
+      title: Make your Kubernetes Cluster safe for DevOps
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Networking, food, drinks
+    - duration: 30m0s
+      slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
+      speakers:
+      - jessicaandersson
+      title: Getting Developers to Adopt Your Service
+    - delay: 5m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - piotr
+      title: An introduction to Istio
+    - delay: 15m0s
+      duration: 25m0s
+      slides: ""
+      speakers: null
+      title: Networking time
+    recording: ""
+    sponsors:
+      other:
+      - luxaslabs
+      - cncf
+      venue: nordcloud
+  "20190827":
+    presentations:
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Arrive at the venue, sit down and network with others
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Introductionary words from the venue sponsor for this time, UpCloud
+    - duration: 15m0s
+      slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-august-2019
+      speakers:
+      - luxas
+      title: Updates from the Cloud Native Nordics Community
+    - duration: 30m0s
+      slides: https://www.slideshare.net/NickJones13/introducing-kudo-kubernetes-operators-the-easy-way-167684205
+      speakers:
+      - nickjones
+      title: Declaratively building Kubernetes operators using KUDO
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Networking, food, drinks
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - sachinkundu
+      title: Deploy Kubernetes clusters with an auditable GitOps flow using Bedrock
+    - delay: 10m0s
+      duration: 30m0s
+      slides: https://speakerdeck.com/luxas/ignite-plus-cluster-api-helsinki-august-meetup
+      speakers:
+      - luxas
+      title: Ignite lightning-fast Firecracker VMs for powering Kubernetes clusters
+    - delay: 5m0s
+      duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors:
+      other:
+      - cncf
+      - luxaslabs
+      - upcloud
+      venue: maria01
+  "20191024":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20191029":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20191031":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
 organizers:
 - luxas
 - annie

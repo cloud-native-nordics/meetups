@@ -1,294 +1,243 @@
 cfpLink: ""
 meetupID: Cloud-Native-Copenhagen
-meetups:
-- address: Langebrogade 1
-  date: "2019-10-21T17:00:00Z"
-  duration: 3h0m0s
-  id: 264886621
-  name: Chaos Engineering, Istio & KubeOne
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Landemærket 10
-  attendees: 52
-  date: "2019-09-10T17:00:00Z"
-  duration: 3h0m0s
-  id: 262668370
-  name: Cloud Native Logging and Application Performance Management
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Langebrogade 1
-  attendees: 58
-  date: "2019-08-21T17:00:00Z"
-  duration: 3h0m0s
-  id: 262635188
-  name: 'Cloud Native Stories: TV 2 Play & Spar Nord Bank'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Vester Søgade 6
-  attendees: 35
-  date: "2019-06-11T13:00:00Z"
-  duration: 3h0m0s
-  id: 261858991
-  name: 'Cloud Native Copenhagen Hack Nights: Kubernetes 101'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Landemærket 10
-  attendees: 50
-  date: "2019-04-25T17:00:00Z"
-  duration: 3h0m0s
-  id: 259355667
-  name: Cloud Native Architecture at scale and a Fairytale of Databases
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: 'Fruebjergvej 3, Att.: Økonomi'
-  attendees: 68
-  date: "2019-04-09T17:00:00Z"
-  duration: 3h0m0s
-  id: 258922126
-  name: Next-gen CI night
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: ""
-  attendees: 1
-  date: "2019-03-19T12:30:00Z"
-  duration: 6h0m0s
-  id: 259113734
-  name: Istio Service Mesh
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Teglholmsgade 1
-  attendees: 46
-  date: "2019-03-13T17:00:00Z"
-  duration: 3h0m0s
-  id: 258900627
-  name: Cloud Native Solutions and Intelligent Scaling in the Media Industry
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Weidekampsgade 16, 2300
-  attendees: 69
-  date: "2018-11-06T17:00:00Z"
-  duration: 3h0m0s
-  id: 255293027
-  name: Windows containers, Kubernetes in the enterprise
-  presentations:
-  - duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Gates open
-  - duration: 40m0s
-    slides: ""
-    speakers:
-    - hans
-    title: The state of Windows & Kubernetes, with an Azure flavor
-  - duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Break
-  - duration: 40m0s
-    slides: ""
-    speakers:
-    - jeppe
-    title: From mainframe to Kubernetes
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  - duration: 0s
-    slides: ""
-    speakers: null
-    title: Goodbye
-  sponsors:
-    other: null
-    venue: simcorp
-- address: Vesterbrogade 26
-  attendees: 100
-  date: "2018-04-30T17:30:00Z"
-  duration: 3h0m0s
-  id: 249226057
-  name: Let's warm-up before KubeCon-CloudNativeCon!
-  presentations:
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome
-  - duration: 15m0s
-    slides: ""
-    speakers:
-    - craig
-    title: 'Kubernetes Registry: what it is and why it''s important'
-  - duration: 15m0s
-    slides: ""
-    speakers:
-    - sami
-    title: Automating Helm deployments to Kubernetes with Helmsman
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Break with sandwiches
-  - duration: 15m0s
-    slides: ""
-    speakers:
-    - justin
-    title: Serverless Containers with Azure Container Instances
-  - duration: 15m0s
-    slides: ""
-    speakers:
-    - guus
-    title: Machine API - An easier way to manage nodes in Kubernetes
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Break
-  - duration: 35m0s
-    slides: ""
-    speakers:
-    - ihor
-    title: Panel Discussion moderated by Ihor Dvoretskyi
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Time to mingle
-  - duration: 0s
-    slides: ""
-    speakers: null
-    title: Goodbye and see you at KubeCon!
-  sponsors:
-    other: null
-    venue: republikken
-- address: Borgergade 24
-  attendees: 29
-  date: "2018-03-08T17:00:00Z"
-  duration: 3h0m0s
-  id: 247310136
-  name: 'Expert night: bare metal and chaos engineering'
-  presentations:
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Gates open
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Welcome
-  - duration: 40m0s
-    slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf
-    speakers:
-    - hans
-    title: Network Services on Kubernetes on-premise
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Break
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - martin
-    title: Chaos Engineering
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Community chats
-  sponsors:
-    other: null
-    venue: trifork
-- address: H.C. Andersen Blvd. 27
-  attendees: 58
-  date: "2018-01-23T17:00:00Z"
-  duration: 3h0m0s
-  id: 246008132
-  name: 'Lab session: How to Kubernetes?'
-  presentations:
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Doors open
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Welcome
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - laszlo
-    - david
-    title: 'First session: foundations of Kubernetes and its primitives'
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Food break and socializing
-  - duration: 1h0m0s
-    slides: ""
-    speakers:
-    - laszlo
-    - david
-    title: 'Second session: let''s deploy'
-  - duration: 0s
-    slides: ""
-    speakers: null
-    title: Goodbye
-  sponsors:
-    other: null
-    venue: falconio
-- address: Sortedam Dossering 5D
-  attendees: 27
-  date: "2017-12-12T17:00:00Z"
-  duration: 3h0m0s
-  id: 245248552
-  name: Let's kick-off Cloud Native Copenhagen!
-  presentations:
-  - duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Doors open
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome from Cloud Native Copenhagen
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome from TwentyThree
-  - duration: 30m0s
-    slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
-    speakers:
-    - laszlo
-    title: What is Cloud Native?
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Food break - group discussions
-  - duration: 30m0s
-    slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf
-    speakers:
-    - ewelina
-    title: Jenkins as Code
-  - duration: 50m0s
-    slides: ""
-    speakers: null
-    title: Group discussions - continued
-  - duration: 0s
-    slides: ""
-    speakers: null
-    title: Gates close
-  sponsors:
-    other: null
-    venue: twentythree
+meetups2:
+  "20171212":
+    presentations:
+    - duration: 20m0s
+      slides: ""
+      speakers: null
+      title: Doors open
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome from Cloud Native Copenhagen
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome from TwentyThree
+    - duration: 30m0s
+      slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
+      speakers:
+      - laszlo
+      title: What is Cloud Native?
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food break - group discussions
+    - duration: 30m0s
+      slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf
+      speakers:
+      - ewelina
+      title: Jenkins as Code
+    - duration: 50m0s
+      slides: ""
+      speakers: null
+      title: Group discussions - continued
+    - duration: 0s
+      slides: ""
+      speakers: null
+      title: Gates close
+    recording: ""
+    sponsors:
+      other: null
+      venue: twentythree
+  "20180123":
+    presentations:
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Doors open
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Welcome
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - laszlo
+      - david
+      title: 'First session: foundations of Kubernetes and its primitives'
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food break and socializing
+    - duration: 1h0m0s
+      slides: ""
+      speakers:
+      - laszlo
+      - david
+      title: 'Second session: let''s deploy'
+    - duration: 0s
+      slides: ""
+      speakers: null
+      title: Goodbye
+    recording: ""
+    sponsors:
+      other: null
+      venue: falconio
+  "20180308":
+    presentations:
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Gates open
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Welcome
+    - duration: 40m0s
+      slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf
+      speakers:
+      - hans
+      title: Network Services on Kubernetes on-premise
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Break
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - martin
+      title: Chaos Engineering
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Community chats
+    recording: ""
+    sponsors:
+      other: null
+      venue: trifork
+  "20180430":
+    presentations:
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - craig
+      title: 'Kubernetes Registry: what it is and why it''s important'
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - sami
+      title: Automating Helm deployments to Kubernetes with Helmsman
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Break with sandwiches
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - justin
+      title: Serverless Containers with Azure Container Instances
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - guus
+      title: Machine API - An easier way to manage nodes in Kubernetes
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Break
+    - duration: 35m0s
+      slides: ""
+      speakers:
+      - ihor
+      title: Panel Discussion moderated by Ihor Dvoretskyi
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Time to mingle
+    - duration: 0s
+      slides: ""
+      speakers: null
+      title: Goodbye and see you at KubeCon!
+    recording: ""
+    sponsors:
+      other: null
+      venue: republikken
+  "20181106":
+    presentations:
+    - duration: 20m0s
+      slides: ""
+      speakers: null
+      title: Gates open
+    - duration: 40m0s
+      slides: ""
+      speakers:
+      - hans
+      title: The state of Windows & Kubernetes, with an Azure flavor
+    - duration: 20m0s
+      slides: ""
+      speakers: null
+      title: Break
+    - duration: 40m0s
+      slides: ""
+      speakers:
+      - jeppe
+      title: From mainframe to Kubernetes
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    - duration: 0s
+      slides: ""
+      speakers: null
+      title: Goodbye
+    recording: ""
+    sponsors:
+      other: null
+      venue: simcorp
+  "20190313":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190319":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190409":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190425":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190611":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190821":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190910":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20191021":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
 organizers:
 - laszlo
 - jasmine

@@ -1,103 +1,96 @@
 cfpLink: ""
 meetupID: Cloud-Native-Aalborg
-meetups:
-- address: Skelagervej 15
-  date: "2019-10-10T16:45:00Z"
-  duration: 3h15m0s
-  id: 263744855
-  name: '#2 - Kubernetes Intro, Automated install and Observability'
-  presentations:
-  - duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Doors Open
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome from Sparnord
-  - duration: 10m0s
-    slides: ""
-    speakers:
-    - allanhojgaardjensen
-    title: Welcome from the organizers
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - henrikhoegh
-    title: Introduction to kubernetes
-  - duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Food and Networking
-  - duration: 20m0s
-    slides: ""
-    speakers:
-    - arnemejlholm
-    title: Automating kubernetes installation - and FluxCD
-  - duration: 25m0s
-    slides: ""
-    speakers:
-    - arnemejlholm
-    title: Observability with Prometheus, Grafana and Jaeger
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other: null
-    venue: sparnordbank
-- address: Skelagervej 15
-  attendees: 54
-  date: "2019-09-04T17:00:00Z"
-  duration: 3h0m0s
-  id: 263744803
-  name: '#1 - Initial Meetup in Cloud Native Aalborg'
-  presentations:
-  - duration: 15m0s
-    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
-    speakers:
-    - camillalarsen
-    title: Welcome from Sparnord
-  - duration: 10m0s
-    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
-    speakers:
-    - allanhojgaardjensen
-    title: Welcome from the organizers
-  - duration: 10m0s
-    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
-    speakers:
-    - kaspernissen
-    title: What is Cloud Native Nordics
-  - duration: 10m0s
-    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
-    speakers:
-    - ihor
-    title: What is Cloud Native
-  - duration: 35m0s
-    slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
-    speakers:
-    - camillalarsen
-    title: How Cloud Native is used in Sparnord
-  - duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Food and Networking
-  - duration: 15m0s
-    slides: https://github.com/Cloud-Native-Aalborg/Meetup-1
-    speakers:
-    - arnemejlholm
-    title: DIY k8s in 10 minutes/how to install kubernetes fast
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Survey
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other: null
-    venue: sparnordbank
+meetups2:
+  "20190904":
+    presentations:
+    - duration: 15m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
+      speakers:
+      - camillalarsen
+      title: Welcome from Sparnord
+    - duration: 10m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
+      speakers:
+      - allanhojgaardjensen
+      title: Welcome from the organizers
+    - duration: 10m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
+      speakers:
+      - kaspernissen
+      title: What is Cloud Native Nordics
+    - duration: 10m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
+      speakers:
+      - ihor
+      title: What is Cloud Native
+    - duration: 35m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
+      speakers:
+      - camillalarsen
+      title: How Cloud Native is used in Sparnord
+    - duration: 20m0s
+      slides: ""
+      speakers: null
+      title: Food and Networking
+    - duration: 15m0s
+      slides: https://github.com/Cloud-Native-Aalborg/Meetup-1
+      speakers:
+      - arnemejlholm
+      title: DIY k8s in 10 minutes/how to install kubernetes fast
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Survey
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: sparnordbank
+  "20191010":
+    presentations:
+    - duration: 20m0s
+      slides: ""
+      speakers: null
+      title: Doors Open
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome from Sparnord
+    - duration: 10m0s
+      slides: ""
+      speakers:
+      - allanhojgaardjensen
+      title: Welcome from the organizers
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - henrikhoegh
+      title: Introduction to kubernetes
+    - duration: 20m0s
+      slides: ""
+      speakers: null
+      title: Food and Networking
+    - duration: 20m0s
+      slides: ""
+      speakers:
+      - arnemejlholm
+      title: Automating kubernetes installation - and FluxCD
+    - duration: 25m0s
+      slides: ""
+      speakers:
+      - arnemejlholm
+      title: Observability with Prometheus, Grafana and Jaeger
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: sparnordbank
 organizers:
 - allanhojgaardjensen
 - arnemejlholm
