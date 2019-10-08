@@ -2843,23 +2843,6 @@
       "name": "Cloud-Native-Aalborg",
       "city": "Aalborg",
       "country": "denmark",
-      "autoMeetups": {
-        "20190904": {
-          "id": 263744803,
-          "name": "#1 - Initial Meetup in Cloud Native Aalborg",
-          "date": "2019-09-04T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 54,
-          "address": "Skelagervej 15"
-        },
-        "20191010": {
-          "id": 263744855,
-          "name": "#2 - Kubernetes Intro, Automated install and Observability",
-          "date": "2019-10-10T16:45:00Z",
-          "duration": "3h15m0s",
-          "address": "Skelagervej 15"
-        }
-      },
       "meetupID": "Cloud-Native-Aalborg",
       "organizers": [
         {
@@ -2946,6 +2929,12 @@
       "cfpLink": "",
       "meetups": {
         "20190904": {
+          "id": 263744803,
+          "name": "#1 - Initial Meetup in Cloud Native Aalborg",
+          "date": "2019-09-04T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 54,
+          "address": "Skelagervej 15",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -3144,6 +3133,11 @@
           ]
         },
         "20191010": {
+          "id": 263744855,
+          "name": "#2 - Kubernetes Intro, Automated install and Observability",
+          "date": "2019-10-10T16:45:00Z",
+          "duration": "3h15m0s",
+          "address": "Skelagervej 15",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -3297,199 +3291,6 @@
       "name": "Cloud Native Aarhus",
       "city": "Aarhus",
       "country": "denmark",
-      "autoMeetups": {
-        "20170530": {
-          "id": 239352311,
-          "name": "Cloud Native Aarhus #1",
-          "date": "2017-05-30T17:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 30,
-          "address": "Hack Kampmanns Plads 1"
-        },
-        "20170829": {
-          "id": 240929562,
-          "name": "Cloud Native Aarhus #2",
-          "date": "2017-08-29T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 50,
-          "address": "Axel Kiers Vej 11"
-        },
-        "20171030": {
-          "id": 243542472,
-          "name": "Cloud Native Aarhus #3",
-          "date": "2017-10-30T17:00:00Z",
-          "duration": "0s",
-          "attendees": 32,
-          "address": "Finlandsgade 27C"
-        },
-        "20171207": {
-          "id": 244655197,
-          "name": "Cloud Native Aarhus #4",
-          "date": "2017-12-07T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 45,
-          "address": "Åboulevarden 37, 5 sal."
-        },
-        "20180130": {
-          "id": 246454051,
-          "name": "Cloud Native Workshop and Networking",
-          "date": "2018-01-30T17:00:00Z",
-          "duration": "4h0m0s",
-          "attendees": 24,
-          "address": "Åbogade"
-        },
-        "20180228": {
-          "id": 246895606,
-          "name": "Cloud Native Aarhus #6: Prometheus \u0026 Helm",
-          "date": "2018-02-28T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 53,
-          "address": "Paludan-Müllers Vej 40 B"
-        },
-        "20180424": {
-          "id": 248922498,
-          "name": "Cloud Native Aarhus #7: Transition to Cloud Native \u0026 Microservices",
-          "date": "2018-04-24T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 78,
-          "address": "Inge Lehmanns Gade 2"
-        },
-        "20180621": {
-          "id": 251508540,
-          "name": "Cloud Native Aarhus #8: Humio + k8s, Minecraft + k8s, and Observability Panel",
-          "date": "2018-06-21T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 33,
-          "address": "Søren Frichs Vej 39"
-        },
-        "20180920": {
-          "id": 253946193,
-          "name": "A Cloud Native Evening with Microsoft",
-          "date": "2018-09-20T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 72,
-          "address": "Søren Frichs Vej 44"
-        },
-        "20181106": {
-          "id": 255632833,
-          "name": "10th Meet-up Anniversary Edition: Cloud Native with Zalando and Uber",
-          "date": "2018-11-06T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 88,
-          "address": "Åboulevarden 37, 5 sal."
-        },
-        "20181211": {
-          "id": 256345753,
-          "name": "From Mainframe to Kubernetes / CloudNativeCon+KubeCon Keynotes Live Stream",
-          "date": "2018-12-11T16:30:00Z",
-          "duration": "3h30m0s",
-          "attendees": 49,
-          "address": "Hack Kampmanns Plads 2, Plan 3"
-        },
-        "20190108": {
-          "id": 257106811,
-          "name": "Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD",
-          "date": "2019-01-08T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 81,
-          "address": "Inge Lehmanns Gade 2"
-        },
-        "20190212": {
-          "id": 257138158,
-          "name": "Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects ",
-          "date": "2019-02-12T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 85,
-          "address": "Åbogade"
-        },
-        "20190305": {
-          "id": 258287765,
-          "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
-          "date": "2019-03-05T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 64,
-          "address": "Ceresbyen 75"
-        },
-        "20190328": {
-          "id": 259259564,
-          "name": "Cloud Native Aarhus Hack Nights: Kubernetes 101",
-          "date": "2019-03-28T16:30:00Z",
-          "duration": "3h30m0s",
-          "attendees": 69,
-          "address": "Finlandsgade 24A"
-        },
-        "20190425": {
-          "id": 259259651,
-          "name": "From Mainframe to Cloud Native and State of Windows Containers and Kubernetes",
-          "date": "2019-04-25T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 76,
-          "address": "Edwin Rahrs Vej 40"
-        },
-        "20190528": {
-          "id": 261130244,
-          "name": "Cloud Native Hack Nights #2: Prometheus",
-          "date": "2019-05-28T16:30:00Z",
-          "duration": "4h30m0s",
-          "attendees": 36,
-          "address": "Åbogade 15"
-        },
-        "20190603": {
-          "id": 261537949,
-          "name": "Kubernetes Failure Stories \u0026 How to manage Cloud Native secrets with Vault",
-          "date": "2019-06-03T16:30:00Z",
-          "duration": "3h30m0s",
-          "attendees": 76,
-          "address": "Finlandsgade 21"
-        },
-        "20190625": {
-          "id": 261346897,
-          "name": "Cloud Native Streaming with Apache Flink and a Fairytale of Databases",
-          "date": "2019-06-25T17:00:00Z",
-          "duration": "4h0m0s",
-          "attendees": 39,
-          "address": "Sødalsparken 18"
-        },
-        "20190808": {
-          "id": 262572886,
-          "name": "Versioning in a Cloud Native landscape",
-          "date": "2019-08-08T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 52,
-          "address": "Søren Frichs Vej 39"
-        },
-        "20190821": {
-          "id": 264122411,
-          "name": "Cloud Native Aarhus Special: Lucas Käldström aka @kubernetesonarm",
-          "date": "2019-08-21T16:30:00Z",
-          "duration": "3h30m0s",
-          "attendees": 21,
-          "address": "Finlandsgade 28"
-        },
-        "20190903": {
-          "id": 262602452,
-          "name": "Cloud Native Aarhus Field Trip: LEGO House",
-          "date": "2019-09-03T16:00:00Z",
-          "duration": "5h45m0s",
-          "attendees": 67,
-          "address": "Ole Kirks Plads 1"
-        },
-        "20190924": {
-          "id": 264325804,
-          "name": "Cloud Native Aarhus: Google Cloud \u0026 Istio",
-          "date": "2019-09-24T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 71,
-          "address": "Hack Kampmanns Pl. 2"
-        },
-        "20191022": {
-          "id": 264744301,
-          "name": "Chaos Engineering with Russ Miles \u0026 KubeOne with Alexander Sowitzki",
-          "date": "2019-10-22T17:00:00Z",
-          "duration": "3h0m0s",
-          "address": "Åbogade 15"
-        }
-      },
       "meetupID": "Cloud-Native-Aarhus",
       "organizers": [
         {
@@ -3575,6 +3376,12 @@
       "cfpLink": "",
       "meetups": {
         "20170530": {
+          "id": 239352311,
+          "name": "Cloud Native Aarhus #1",
+          "date": "2017-05-30T17:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 30,
+          "address": "Hack Kampmanns Plads 1",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -3583,6 +3390,12 @@
           "presentations": null
         },
         "20170829": {
+          "id": 240929562,
+          "name": "Cloud Native Aarhus #2",
+          "date": "2017-08-29T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 50,
+          "address": "Axel Kiers Vej 11",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -3700,6 +3513,12 @@
           ]
         },
         "20171030": {
+          "id": 243542472,
+          "name": "Cloud Native Aarhus #3",
+          "date": "2017-10-30T17:00:00Z",
+          "duration": "0s",
+          "attendees": 32,
+          "address": "Finlandsgade 27C",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -3815,6 +3634,12 @@
           ]
         },
         "20171207": {
+          "id": 244655197,
+          "name": "Cloud Native Aarhus #4",
+          "date": "2017-12-07T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 45,
+          "address": "Åboulevarden 37, 5 sal.",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -3963,6 +3788,12 @@
           ]
         },
         "20180130": {
+          "id": 246454051,
+          "name": "Cloud Native Workshop and Networking",
+          "date": "2018-01-30T17:00:00Z",
+          "duration": "4h0m0s",
+          "attendees": 24,
+          "address": "Åbogade",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -4014,6 +3845,12 @@
           ]
         },
         "20180228": {
+          "id": 246895606,
+          "name": "Cloud Native Aarhus #6: Prometheus \u0026 Helm",
+          "date": "2018-02-28T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 53,
+          "address": "Paludan-Müllers Vej 40 B",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -4130,6 +3967,12 @@
           ]
         },
         "20180424": {
+          "id": 248922498,
+          "name": "Cloud Native Aarhus #7: Transition to Cloud Native \u0026 Microservices",
+          "date": "2018-04-24T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 78,
+          "address": "Inge Lehmanns Gade 2",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -4266,6 +4109,12 @@
           ]
         },
         "20180621": {
+          "id": 251508540,
+          "name": "Cloud Native Aarhus #8: Humio + k8s, Minecraft + k8s, and Observability Panel",
+          "date": "2018-06-21T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 33,
+          "address": "Søren Frichs Vej 39",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -4387,6 +4236,12 @@
           ]
         },
         "20180920": {
+          "id": 253946193,
+          "name": "A Cloud Native Evening with Microsoft",
+          "date": "2018-09-20T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 72,
+          "address": "Søren Frichs Vej 44",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -4504,6 +4359,12 @@
           ]
         },
         "20181106": {
+          "id": 255632833,
+          "name": "10th Meet-up Anniversary Edition: Cloud Native with Zalando and Uber",
+          "date": "2018-11-06T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 88,
+          "address": "Åboulevarden 37, 5 sal.",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -4652,6 +4513,12 @@
           ]
         },
         "20181211": {
+          "id": 256345753,
+          "name": "From Mainframe to Kubernetes / CloudNativeCon+KubeCon Keynotes Live Stream",
+          "date": "2018-12-11T16:30:00Z",
+          "duration": "3h30m0s",
+          "attendees": 49,
+          "address": "Hack Kampmanns Plads 2, Plan 3",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -4754,6 +4621,12 @@
           ]
         },
         "20190108": {
+          "id": 257106811,
+          "name": "Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD",
+          "date": "2019-01-08T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 81,
+          "address": "Inge Lehmanns Gade 2",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -4869,6 +4742,12 @@
           ]
         },
         "20190212": {
+          "id": 257138158,
+          "name": "Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects ",
+          "date": "2019-02-12T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 85,
+          "address": "Åbogade",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -5082,6 +4961,12 @@
           ]
         },
         "20190305": {
+          "id": 258287765,
+          "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
+          "date": "2019-03-05T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 64,
+          "address": "Ceresbyen 75",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -5219,6 +5104,12 @@
           ]
         },
         "20190328": {
+          "id": 259259564,
+          "name": "Cloud Native Aarhus Hack Nights: Kubernetes 101",
+          "date": "2019-03-28T16:30:00Z",
+          "duration": "3h30m0s",
+          "attendees": 69,
+          "address": "Finlandsgade 24A",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -5410,6 +5301,12 @@
           ]
         },
         "20190425": {
+          "id": 259259651,
+          "name": "From Mainframe to Cloud Native and State of Windows Containers and Kubernetes",
+          "date": "2019-04-25T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 76,
+          "address": "Edwin Rahrs Vej 40",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -5564,6 +5461,12 @@
           ]
         },
         "20190528": {
+          "id": 261130244,
+          "name": "Cloud Native Hack Nights #2: Prometheus",
+          "date": "2019-05-28T16:30:00Z",
+          "duration": "4h30m0s",
+          "attendees": 36,
+          "address": "Åbogade 15",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -5833,6 +5736,12 @@
           ]
         },
         "20190603": {
+          "id": 261537949,
+          "name": "Kubernetes Failure Stories \u0026 How to manage Cloud Native secrets with Vault",
+          "date": "2019-06-03T16:30:00Z",
+          "duration": "3h30m0s",
+          "attendees": 76,
+          "address": "Finlandsgade 21",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -5954,6 +5863,12 @@
           ]
         },
         "20190625": {
+          "id": 261346897,
+          "name": "Cloud Native Streaming with Apache Flink and a Fairytale of Databases",
+          "date": "2019-06-25T17:00:00Z",
+          "duration": "4h0m0s",
+          "attendees": 39,
+          "address": "Sødalsparken 18",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -6068,6 +5983,12 @@
           ]
         },
         "20190808": {
+          "id": 262572886,
+          "name": "Versioning in a Cloud Native landscape",
+          "date": "2019-08-08T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 52,
+          "address": "Søren Frichs Vej 39",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -6084,6 +6005,12 @@
           "presentations": null
         },
         "20190821": {
+          "id": 264122411,
+          "name": "Cloud Native Aarhus Special: Lucas Käldström aka @kubernetesonarm",
+          "date": "2019-08-21T16:30:00Z",
+          "duration": "3h30m0s",
+          "attendees": 21,
+          "address": "Finlandsgade 28",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -6092,6 +6019,12 @@
           "presentations": null
         },
         "20190903": {
+          "id": 262602452,
+          "name": "Cloud Native Aarhus Field Trip: LEGO House",
+          "date": "2019-09-03T16:00:00Z",
+          "duration": "5h45m0s",
+          "attendees": 67,
+          "address": "Ole Kirks Plads 1",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -6233,6 +6166,12 @@
           ]
         },
         "20190924": {
+          "id": 264325804,
+          "name": "Cloud Native Aarhus: Google Cloud \u0026 Istio",
+          "date": "2019-09-24T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 71,
+          "address": "Hack Kampmanns Pl. 2",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -6352,6 +6291,11 @@
           ]
         },
         "20191022": {
+          "id": 264744301,
+          "name": "Chaos Engineering with Russ Miles \u0026 KubeOne with Alexander Sowitzki",
+          "date": "2019-10-22T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Åbogade 15",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -6365,111 +6309,6 @@
       "name": "Cloud Native Copenhagen",
       "city": "Copenhagen",
       "country": "denmark",
-      "autoMeetups": {
-        "20171212": {
-          "id": 245248552,
-          "name": "Let's kick-off Cloud Native Copenhagen!",
-          "date": "2017-12-12T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 27,
-          "address": "Sortedam Dossering 5D"
-        },
-        "20180123": {
-          "id": 246008132,
-          "name": "Lab session: How to Kubernetes?",
-          "date": "2018-01-23T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 58,
-          "address": "H.C. Andersen Blvd. 27"
-        },
-        "20180308": {
-          "id": 247310136,
-          "name": "Expert night: bare metal and chaos engineering",
-          "date": "2018-03-08T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 29,
-          "address": "Borgergade 24"
-        },
-        "20180430": {
-          "id": 249226057,
-          "name": "Let's warm-up before KubeCon-CloudNativeCon!",
-          "date": "2018-04-30T17:30:00Z",
-          "duration": "3h0m0s",
-          "attendees": 100,
-          "address": "Vesterbrogade 26"
-        },
-        "20181106": {
-          "id": 255293027,
-          "name": "Windows containers, Kubernetes in the enterprise",
-          "date": "2018-11-06T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 69,
-          "address": "Weidekampsgade 16, 2300"
-        },
-        "20190313": {
-          "id": 258900627,
-          "name": "Cloud Native Solutions and Intelligent Scaling in the Media Industry",
-          "date": "2019-03-13T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 46,
-          "address": "Teglholmsgade 1"
-        },
-        "20190319": {
-          "id": 259113734,
-          "name": "Istio Service Mesh",
-          "date": "2019-03-19T12:30:00Z",
-          "duration": "6h0m0s",
-          "attendees": 1,
-          "address": ""
-        },
-        "20190409": {
-          "id": 258922126,
-          "name": "Next-gen CI night",
-          "date": "2019-04-09T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 68,
-          "address": "Fruebjergvej 3, Att.: Økonomi"
-        },
-        "20190425": {
-          "id": 259355667,
-          "name": "Cloud Native Architecture at scale and a Fairytale of Databases",
-          "date": "2019-04-25T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 50,
-          "address": "Landemærket 10"
-        },
-        "20190611": {
-          "id": 261858991,
-          "name": "Cloud Native Copenhagen Hack Nights: Kubernetes 101",
-          "date": "2019-06-11T13:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 35,
-          "address": "Vester Søgade 6"
-        },
-        "20190821": {
-          "id": 262635188,
-          "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
-          "date": "2019-08-21T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 58,
-          "address": "Langebrogade 1"
-        },
-        "20190910": {
-          "id": 262668370,
-          "name": "Cloud Native Logging and Application Performance Management",
-          "date": "2019-09-10T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 52,
-          "address": "Landemærket 10"
-        },
-        "20191021": {
-          "id": 264886621,
-          "name": "Chaos Engineering, Istio \u0026 KubeOne",
-          "date": "2019-10-21T17:00:00Z",
-          "duration": "3h0m0s",
-          "address": "Langebrogade 1"
-        }
-      },
       "meetupID": "Cloud-Native-Copenhagen",
       "organizers": [
         {
@@ -6533,6 +6372,12 @@
       "cfpLink": "",
       "meetups": {
         "20171212": {
+          "id": 245248552,
+          "name": "Let's kick-off Cloud Native Copenhagen!",
+          "date": "2017-12-12T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 27,
+          "address": "Sortedam Dossering 5D",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -6638,6 +6483,12 @@
           ]
         },
         "20180123": {
+          "id": 246008132,
+          "name": "Lab session: How to Kubernetes?",
+          "date": "2018-01-23T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 58,
+          "address": "H.C. Andersen Blvd. 27",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -6769,6 +6620,12 @@
           ]
         },
         "20180308": {
+          "id": 247310136,
+          "name": "Expert night: bare metal and chaos engineering",
+          "date": "2018-03-08T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 29,
+          "address": "Borgergade 24",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -6862,6 +6719,12 @@
           ]
         },
         "20180430": {
+          "id": 249226057,
+          "name": "Let's warm-up before KubeCon-CloudNativeCon!",
+          "date": "2018-04-30T17:30:00Z",
+          "duration": "3h0m0s",
+          "attendees": 100,
+          "address": "Vesterbrogade 26",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -7041,6 +6904,12 @@
           ]
         },
         "20181106": {
+          "id": 255293027,
+          "name": "Windows containers, Kubernetes in the enterprise",
+          "date": "2018-11-06T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 69,
+          "address": "Weidekampsgade 16, 2300",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -7134,6 +7003,12 @@
           ]
         },
         "20190313": {
+          "id": 258900627,
+          "name": "Cloud Native Solutions and Intelligent Scaling in the Media Industry",
+          "date": "2019-03-13T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 46,
+          "address": "Teglholmsgade 1",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7142,6 +7017,12 @@
           "presentations": null
         },
         "20190319": {
+          "id": 259113734,
+          "name": "Istio Service Mesh",
+          "date": "2019-03-19T12:30:00Z",
+          "duration": "6h0m0s",
+          "attendees": 1,
+          "address": "",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7150,6 +7031,12 @@
           "presentations": null
         },
         "20190409": {
+          "id": 258922126,
+          "name": "Next-gen CI night",
+          "date": "2019-04-09T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 68,
+          "address": "Fruebjergvej 3, Att.: Økonomi",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7158,6 +7045,12 @@
           "presentations": null
         },
         "20190425": {
+          "id": 259355667,
+          "name": "Cloud Native Architecture at scale and a Fairytale of Databases",
+          "date": "2019-04-25T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 50,
+          "address": "Landemærket 10",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7166,6 +7059,12 @@
           "presentations": null
         },
         "20190611": {
+          "id": 261858991,
+          "name": "Cloud Native Copenhagen Hack Nights: Kubernetes 101",
+          "date": "2019-06-11T13:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 35,
+          "address": "Vester Søgade 6",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7174,6 +7073,12 @@
           "presentations": null
         },
         "20190821": {
+          "id": 262635188,
+          "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
+          "date": "2019-08-21T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 58,
+          "address": "Langebrogade 1",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7182,6 +7087,12 @@
           "presentations": null
         },
         "20190910": {
+          "id": 262668370,
+          "name": "Cloud Native Logging and Application Performance Management",
+          "date": "2019-09-10T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 52,
+          "address": "Landemærket 10",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7190,6 +7101,11 @@
           "presentations": null
         },
         "20191021": {
+          "id": 264886621,
+          "name": "Chaos Engineering, Istio \u0026 KubeOne",
+          "date": "2019-10-21T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Langebrogade 1",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7204,80 +7120,6 @@
       "name": "Kubernetes Göteborg",
       "city": "Göteborg",
       "country": "sweden",
-      "autoMeetups": {
-        "20161130": {
-          "id": 235779901,
-          "name": "Organisatörslunch",
-          "date": "2016-11-30T11:30:00Z",
-          "duration": "1h30m0s",
-          "attendees": 8,
-          "address": ""
-        },
-        "20161214": {
-          "id": 235779214,
-          "name": "Kom igång med Kubernetes - och meetup Götet",
-          "date": "2016-12-14T17:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 34,
-          "address": ""
-        },
-        "20170301": {
-          "id": 235779397,
-          "name": "StatefulSet och volymer, eller?",
-          "date": "2017-03-01T17:15:00Z",
-          "duration": "1h45m0s",
-          "attendees": 30,
-          "address": "Holtermansgatan 1 D"
-        },
-        "20170830": {
-          "id": 241821276,
-          "name": "Var med och sänk ett kluster!",
-          "date": "2017-08-30T17:00:00Z",
-          "duration": "1h0m0s",
-          "attendees": 14,
-          "address": "Holtermansgatan 1 D"
-        },
-        "20171025": {
-          "id": 242830009,
-          "name": "Metrics och alarm med Prometheus",
-          "date": "2017-10-25T17:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 36,
-          "address": "Östra Hamngatan 50B"
-        },
-        "20181121": {
-          "id": 256374545,
-          "name": "Serverless med Knative",
-          "date": "2018-11-21T17:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 33,
-          "address": "Östra Hamngatan 50B"
-        },
-        "20190509": {
-          "id": 260863253,
-          "name": "18 months of kubernetes in production and learning",
-          "date": "2019-05-09T18:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 45,
-          "address": "Kungsportsavenyen 33"
-        },
-        "20190827": {
-          "id": 263936791,
-          "name": "Kubernetes Göteborg \u0026 CloudNativeGbg#4 - Automation in Cloud Native Environments",
-          "date": "2019-08-27T17:40:00Z",
-          "duration": "3h0m0s",
-          "attendees": 1,
-          "address": "Kungstorget 7"
-        },
-        "20190905": {
-          "id": 263937712,
-          "name": "September meetup in Gothenburg",
-          "date": "2019-09-05T18:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 70,
-          "address": "Vallgatan 22"
-        }
-      },
       "meetupID": "Kubernetes-Goteborg",
       "organizers": [
         {
@@ -7377,6 +7219,12 @@
       "cfpLink": "",
       "meetups": {
         "20161130": {
+          "id": 235779901,
+          "name": "Organisatörslunch",
+          "date": "2016-11-30T11:30:00Z",
+          "duration": "1h30m0s",
+          "attendees": 8,
+          "address": "",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7385,6 +7233,12 @@
           "presentations": null
         },
         "20161214": {
+          "id": 235779214,
+          "name": "Kom igång med Kubernetes - och meetup Götet",
+          "date": "2016-12-14T17:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 34,
+          "address": "",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7393,6 +7247,12 @@
           "presentations": null
         },
         "20170301": {
+          "id": 235779397,
+          "name": "StatefulSet och volymer, eller?",
+          "date": "2017-03-01T17:15:00Z",
+          "duration": "1h45m0s",
+          "attendees": 30,
+          "address": "Holtermansgatan 1 D",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7401,6 +7261,12 @@
           "presentations": null
         },
         "20170830": {
+          "id": 241821276,
+          "name": "Var med och sänk ett kluster!",
+          "date": "2017-08-30T17:00:00Z",
+          "duration": "1h0m0s",
+          "attendees": 14,
+          "address": "Holtermansgatan 1 D",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7437,6 +7303,12 @@
           ]
         },
         "20171025": {
+          "id": 242830009,
+          "name": "Metrics och alarm med Prometheus",
+          "date": "2017-10-25T17:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 36,
+          "address": "Östra Hamngatan 50B",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7464,6 +7336,12 @@
           ]
         },
         "20181121": {
+          "id": 256374545,
+          "name": "Serverless med Knative",
+          "date": "2018-11-21T17:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 33,
+          "address": "Östra Hamngatan 50B",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7500,6 +7378,12 @@
           ]
         },
         "20190509": {
+          "id": 260863253,
+          "name": "18 months of kubernetes in production and learning",
+          "date": "2019-05-09T18:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 45,
+          "address": "Kungsportsavenyen 33",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -7609,6 +7493,12 @@
           ]
         },
         "20190827": {
+          "id": 263936791,
+          "name": "Kubernetes Göteborg \u0026 CloudNativeGbg#4 - Automation in Cloud Native Environments",
+          "date": "2019-08-27T17:40:00Z",
+          "duration": "3h0m0s",
+          "attendees": 1,
+          "address": "Kungstorget 7",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7617,6 +7507,12 @@
           "presentations": null
         },
         "20190905": {
+          "id": 263937712,
+          "name": "September meetup in Gothenburg",
+          "date": "2019-09-05T18:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 70,
+          "address": "Vallgatan 22",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -7630,141 +7526,6 @@
       "name": "Kubernetes and CNCF Finland Meetup",
       "city": "Helsinki",
       "country": "finland",
-      "autoMeetups": {
-        "20171004": {
-          "id": 242096170,
-          "name": "First Kubernetes \u0026 CNCF meetup in Finland -- Kubernetes v1.8 celebration party",
-          "date": "2017-10-04T18:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 77,
-          "address": "Eteläranta 12"
-        },
-        "20180222": {
-          "id": 247553023,
-          "name": "Winter Meetup -- Let's catch up on the latest news in the ecosystem",
-          "date": "2018-02-22T18:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 65,
-          "address": "Lapinlahdenkatu 16"
-        },
-        "20180403": {
-          "id": 248641731,
-          "name": "April Meetup -- Let's learn some Kubernetes concepts!",
-          "date": "2018-04-03T18:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 63,
-          "address": "Lapinlahdenkatu 16"
-        },
-        "20180606": {
-          "id": 250712383,
-          "name": "Kubernetes Summer Meetup",
-          "date": "2018-06-06T18:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 110,
-          "address": "Aleksis Kivis Gata 7"
-        },
-        "20180828": {
-          "id": 252546014,
-          "name": "Kubernetes Autumn Meetup",
-          "date": "2018-08-28T18:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 95,
-          "address": "Ratavartijankatu 5"
-        },
-        "20181203": {
-          "id": 255665681,
-          "name": "Pre-Slush Kubernetes Meetup",
-          "date": "2018-12-03T18:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 88,
-          "address": "Westendintie 1 "
-        },
-        "20190117": {
-          "id": 257897399,
-          "name": "First Kubernetes and CNCF Tampere Meetup",
-          "date": "2019-01-17T18:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 3,
-          "address": "Pakkahuoneenaukio 2"
-        },
-        "20190123": {
-          "id": 256936479,
-          "name": "Winter Kubernetes Meetup",
-          "date": "2019-01-23T18:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 114,
-          "address": "Aleksanterinkatu 46a"
-        },
-        "20190325": {
-          "id": 259072993,
-          "name": "Kubernetes 101 Hands-On Workshop",
-          "date": "2019-03-25T17:00:00Z",
-          "duration": "3h30m0s",
-          "attendees": 3,
-          "address": "Kaivokatu 6"
-        },
-        "20190404": {
-          "id": 259129795,
-          "name": "April Kubernetes Tampere Meetup",
-          "date": "2019-04-04T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 2,
-          "address": "Kalevantie 7"
-        },
-        "20190611": {
-          "id": 261376372,
-          "name": "Summer Meetup in Helsinki",
-          "date": "2019-06-11T18:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 75,
-          "address": "Antinkatu 1A, 4th floor"
-        },
-        "20190613": {
-          "id": 261352635,
-          "name": "Summer Kubernetes Tampere Meetup",
-          "date": "2019-06-13T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 2,
-          "address": "Kelloportinkatu 1 D"
-        },
-        "20190827": {
-          "id": 263999844,
-          "name": "August Meetup in Helsinki",
-          "date": "2019-08-27T18:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 95,
-          "address": "Lapinlahdenkatu 16"
-        },
-        "20190828": {
-          "id": 264000004,
-          "name": "August Meetup in Tampere",
-          "date": "2019-08-28T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 2,
-          "address": "Pinninkatu 47"
-        },
-        "20191024": {
-          "id": 264646130,
-          "name": "October: Chaos Engineering \u0026 KubeOne",
-          "date": "2019-10-24T18:00:00Z",
-          "duration": "3h0m0s",
-          "address": "Karasvängen 7"
-        },
-        "20191029": {
-          "id": 265154260,
-          "name": "Kubernetes 101 Hands-On Workshop",
-          "date": "2019-10-29T17:00:00Z",
-          "duration": "4h0m0s",
-          "address": "Åkerlundinkatu 11 A"
-        },
-        "20191031": {
-          "id": 264988078,
-          "name": "First Kubernetes Turku Meetup!",
-          "date": "2019-10-31T17:00:00Z",
-          "duration": "3h0m0s",
-          "address": "Lemminkäisenkatu 14B"
-        }
-      },
       "meetupID": "Kubernetes-Finland",
       "organizers": [
         {
@@ -7821,6 +7582,12 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp",
       "meetups": {
         "20171004": {
+          "id": 242096170,
+          "name": "First Kubernetes \u0026 CNCF meetup in Finland -- Kubernetes v1.8 celebration party",
+          "date": "2017-10-04T18:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 77,
+          "address": "Eteläranta 12",
           "recording": "https://youtu.be/9ZY-m4vAhiQ",
           "sponsors": {
             "venue": {
@@ -8009,6 +7776,12 @@
           ]
         },
         "20180222": {
+          "id": 247553023,
+          "name": "Winter Meetup -- Let's catch up on the latest news in the ecosystem",
+          "date": "2018-02-22T18:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 65,
+          "address": "Lapinlahdenkatu 16",
           "recording": "https://www.youtube.com/watch?v=4ZMEejSX8nM",
           "sponsors": {
             "venue": {
@@ -8169,6 +7942,12 @@
           ]
         },
         "20180403": {
+          "id": 248641731,
+          "name": "April Meetup -- Let's learn some Kubernetes concepts!",
+          "date": "2018-04-03T18:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 63,
+          "address": "Lapinlahdenkatu 16",
           "recording": "https://www.youtube.com/watch?v=JhBgGv0xCE0",
           "sponsors": {
             "venue": {
@@ -8336,6 +8115,12 @@
           ]
         },
         "20180606": {
+          "id": 250712383,
+          "name": "Kubernetes Summer Meetup",
+          "date": "2018-06-06T18:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 110,
+          "address": "Aleksis Kivis Gata 7",
           "recording": "https://www.youtube.com/watch?v=y3tbLJVkKN0",
           "sponsors": {
             "venue": {
@@ -8484,6 +8269,12 @@
           ]
         },
         "20180828": {
+          "id": 252546014,
+          "name": "Kubernetes Autumn Meetup",
+          "date": "2018-08-28T18:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 95,
+          "address": "Ratavartijankatu 5",
           "recording": "https://www.youtube.com/watch?v=3ZWKm26Aw9Q",
           "sponsors": {
             "venue": {
@@ -8659,6 +8450,12 @@
           ]
         },
         "20181203": {
+          "id": 255665681,
+          "name": "Pre-Slush Kubernetes Meetup",
+          "date": "2018-12-03T18:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 88,
+          "address": "Westendintie 1 ",
           "recording": "https://www.youtube.com/watch?v=CfMKDg_iprg",
           "sponsors": {
             "venue": {
@@ -8857,6 +8654,12 @@
           ]
         },
         "20190123": {
+          "id": 256936479,
+          "name": "Winter Kubernetes Meetup",
+          "date": "2019-01-23T18:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 114,
+          "address": "Aleksanterinkatu 46a",
           "recording": "TBA",
           "sponsors": {
             "venue": {
@@ -9001,6 +8804,12 @@
           ]
         },
         "20190325": {
+          "id": 259072993,
+          "name": "Kubernetes 101 Hands-On Workshop",
+          "date": "2019-03-25T17:00:00Z",
+          "duration": "3h30m0s",
+          "attendees": 3,
+          "address": "Kaivokatu 6",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -9078,6 +8887,12 @@
           ]
         },
         "20190611": {
+          "id": 261376372,
+          "name": "Summer Meetup in Helsinki",
+          "date": "2019-06-11T18:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 75,
+          "address": "Antinkatu 1A, 4th floor",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -9300,6 +9115,12 @@
           ]
         },
         "20190827": {
+          "id": 263999844,
+          "name": "August Meetup in Helsinki",
+          "date": "2019-08-27T18:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 95,
+          "address": "Lapinlahdenkatu 16",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -9486,6 +9307,11 @@
           ]
         },
         "20191024": {
+          "id": 264646130,
+          "name": "October: Chaos Engineering \u0026 KubeOne",
+          "date": "2019-10-24T18:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Karasvängen 7",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -9500,39 +9326,6 @@
       "name": "Stockholm Kubernetes and Cloud Native Computing",
       "city": "Stockholm",
       "country": "sweden",
-      "autoMeetups": {
-        "20180125": {
-          "id": 245823087,
-          "name": "Stockholm Kubernetes Meetup",
-          "date": "2018-01-25T17:30:00Z",
-          "duration": "3h0m0s",
-          "attendees": 96,
-          "address": "Vasagatan 7"
-        },
-        "20180925": {
-          "id": 254614677,
-          "name": "Stockholm Kubernetes and Cloud Native Meetup",
-          "date": "2018-09-25T17:45:00Z",
-          "duration": "2h45m0s",
-          "attendees": 148,
-          "address": "Regeringsgatan 13"
-        },
-        "20190508": {
-          "id": 260846917,
-          "name": "Stockholm K8S and CNCF May 2019",
-          "date": "2019-05-08T18:30:00Z",
-          "duration": "3h0m0s",
-          "attendees": 88,
-          "address": "Linnégatan 89C"
-        },
-        "20191023": {
-          "id": 265099547,
-          "name": "Chaos, Storage, and Caching",
-          "date": "2019-10-23T17:30:00Z",
-          "duration": "3h0m0s",
-          "address": "Regeringsgatan 29"
-        }
-      },
       "meetupID": "sthlm-k8s",
       "organizers": [
         {
@@ -9627,6 +9420,12 @@
       "cfpLink": "",
       "meetups": {
         "20180125": {
+          "id": 245823087,
+          "name": "Stockholm Kubernetes Meetup",
+          "date": "2018-01-25T17:30:00Z",
+          "duration": "3h0m0s",
+          "attendees": 96,
+          "address": "Vasagatan 7",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -9675,6 +9474,12 @@
           ]
         },
         "20180925": {
+          "id": 254614677,
+          "name": "Stockholm Kubernetes and Cloud Native Meetup",
+          "date": "2018-09-25T17:45:00Z",
+          "duration": "2h45m0s",
+          "attendees": 148,
+          "address": "Regeringsgatan 13",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -9731,6 +9536,12 @@
           ]
         },
         "20190508": {
+          "id": 260846917,
+          "name": "Stockholm K8S and CNCF May 2019",
+          "date": "2019-05-08T18:30:00Z",
+          "duration": "3h0m0s",
+          "attendees": 88,
+          "address": "Linnégatan 89C",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -9739,6 +9550,11 @@
           "presentations": null
         },
         "20191023": {
+          "id": 265099547,
+          "name": "Chaos, Storage, and Caching",
+          "date": "2019-10-23T17:30:00Z",
+          "duration": "3h0m0s",
+          "address": "Regeringsgatan 29",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -9752,47 +9568,6 @@
       "name": "Kubernetes and CNCF Tampere Meetup",
       "city": "Tampere",
       "country": "finland",
-      "autoMeetups": {
-        "20190117": {
-          "id": 257164934,
-          "name": "First Kubernetes and CNCF Tampere Meetup",
-          "date": "2019-01-17T18:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 50,
-          "address": "Pakkahuoneenaukio 2"
-        },
-        "20190404": {
-          "id": 258970382,
-          "name": "April Kubernetes Tampere Meetup",
-          "date": "2019-04-04T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 48,
-          "address": "Kalevantie 7"
-        },
-        "20190613": {
-          "id": 261344385,
-          "name": "Summer Kubernetes Tampere Meetup",
-          "date": "2019-06-13T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 50,
-          "address": "Kelloportinkatu 1 D"
-        },
-        "20190828": {
-          "id": 263932460,
-          "name": "August Kubernetes Meetup in Tampere",
-          "date": "2019-08-28T17:00:00Z",
-          "duration": "3h0m0s",
-          "attendees": 48,
-          "address": "Pinninkatu 47"
-        },
-        "20191029": {
-          "id": 265150836,
-          "name": "Kubernetes 101 Hands-On Workshop",
-          "date": "2019-10-29T17:00:00Z",
-          "duration": "4h0m0s",
-          "address": "Åkerlundinkatu 11 A"
-        }
-      },
       "meetupID": "Kubernetes-Tampere",
       "organizers": [
         {
@@ -9879,6 +9654,12 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp",
       "meetups": {
         "20190117": {
+          "id": 257164934,
+          "name": "First Kubernetes and CNCF Tampere Meetup",
+          "date": "2019-01-17T18:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 50,
+          "address": "Pakkahuoneenaukio 2",
           "recording": "https://youtu.be/PvrFMc9bZ-k",
           "sponsors": {
             "venue": {
@@ -10054,6 +9835,12 @@
           ]
         },
         "20190404": {
+          "id": 258970382,
+          "name": "April Kubernetes Tampere Meetup",
+          "date": "2019-04-04T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 48,
+          "address": "Kalevantie 7",
           "recording": "https://youtu.be/rnpMBRe0CY0",
           "sponsors": {
             "venue": {
@@ -10246,6 +10033,12 @@
           ]
         },
         "20190613": {
+          "id": 261344385,
+          "name": "Summer Kubernetes Tampere Meetup",
+          "date": "2019-06-13T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 50,
+          "address": "Kelloportinkatu 1 D",
           "recording": "https://youtu.be/rnpMBRe0CY0",
           "sponsors": {
             "venue": {
@@ -10418,6 +10211,12 @@
           ]
         },
         "20190828": {
+          "id": 263932460,
+          "name": "August Kubernetes Meetup in Tampere",
+          "date": "2019-08-28T17:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 48,
+          "address": "Pinninkatu 47",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -10613,6 +10412,11 @@
           ]
         },
         "20191029": {
+          "id": 265150836,
+          "name": "Kubernetes 101 Hands-On Workshop",
+          "date": "2019-10-29T17:00:00Z",
+          "duration": "4h0m0s",
+          "address": "Åkerlundinkatu 11 A",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -10626,15 +10430,6 @@
       "name": "Kubernetes and CNCF Turku Meetup",
       "city": "Turku",
       "country": "finland",
-      "autoMeetups": {
-        "20191031": {
-          "id": 264987939,
-          "name": "First Kubernetes Turku Meetup!",
-          "date": "2019-10-31T17:00:00Z",
-          "duration": "3h0m0s",
-          "address": "Lemminkäisenkatu 14B"
-        }
-      },
       "meetupID": "Kubernetes-Turku",
       "organizers": [
         {
@@ -10663,6 +10458,11 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp",
       "meetups": {
         "20191031": {
+          "id": 264987939,
+          "name": "First Kubernetes Turku Meetup!",
+          "date": "2019-10-31T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Lemminkäisenkatu 14B",
           "recording": "",
           "sponsors": {
             "venue": null,
@@ -10676,40 +10476,6 @@
       "name": "Cloud Native Northern Sweden",
       "city": "Umeå",
       "country": "sweden",
-      "autoMeetups": {
-        "20181120": {
-          "id": 255929396,
-          "name": "Cloud-native, Kubernetes and trends",
-          "date": "2018-11-20T17:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 45,
-          "address": "Tvistevägen 47"
-        },
-        "20190228": {
-          "id": 257861742,
-          "name": "Cloud native lightning talks",
-          "date": "2019-02-28T17:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 45,
-          "address": "Södra Ersmarksgatan 7"
-        },
-        "20190507": {
-          "id": 260276456,
-          "name": "What does “production ready” really mean for a Kubernetes cluster?",
-          "date": "2019-05-07T17:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 36,
-          "address": "Västra Norrlandsgatan 10D"
-        },
-        "20190528": {
-          "id": 261450080,
-          "name": "Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona ",
-          "date": "2019-05-28T17:00:00Z",
-          "duration": "2h0m0s",
-          "attendees": 19,
-          "address": "Tvistevägen 47"
-        }
-      },
       "meetupID": "Cloud-Native-Northern-Sweden",
       "organizers": [
         {
@@ -10773,6 +10539,12 @@
       "cfpLink": "",
       "meetups": {
         "20181120": {
+          "id": 255929396,
+          "name": "Cloud-native, Kubernetes and trends",
+          "date": "2018-11-20T17:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 45,
+          "address": "Tvistevägen 47",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -10820,6 +10592,12 @@
           ]
         },
         "20190228": {
+          "id": 257861742,
+          "name": "Cloud native lightning talks",
+          "date": "2019-02-28T17:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 45,
+          "address": "Södra Ersmarksgatan 7",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -10902,6 +10680,12 @@
           ]
         },
         "20190507": {
+          "id": 260276456,
+          "name": "What does “production ready” really mean for a Kubernetes cluster?",
+          "date": "2019-05-07T17:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 36,
+          "address": "Västra Norrlandsgatan 10D",
           "recording": "",
           "sponsors": {
             "venue": {
@@ -10949,6 +10733,12 @@
           ]
         },
         "20190528": {
+          "id": 261450080,
+          "name": "Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona ",
+          "date": "2019-05-28T17:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 19,
+          "address": "Tvistevägen 47",
           "recording": "",
           "sponsors": {
             "venue": {
