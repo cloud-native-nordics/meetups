@@ -219,29 +219,23 @@ type MeetupGroup struct {
 	Organizers      []*Speaker        `json:"organizers"`
 	IgnoreMeetupIDs []uint64          `json:"ignoreMeetupIDs,omitempty"`
 	CFP             string            `json:"cfpLink"`
-	OldMeetups      MeetupList        `json:"meetups,omitempty"`
-	Meetups         map[string]Meetup `json:"meetups2"`
+	Meetups         map[string]Meetup `json:"meetups"`
 	MeetupList      MeetupList        `json:"-"`
 
 	members uint64
 }
 
 func (mg *MeetupGroup) ApplyGeneratedData() {
-	for key, autoMeetup := range mg.AutoMeetups {
+	for key := range mg.AutoMeetups {
 		m, ok := mg.Meetups[key]
 		if !ok {
-			fmt.Printf("didn't find meetup with date %q\n", key)
+			fmt.Printf("%s: didn't find meetup with date %q\n", mg.Name, key)
 			continue
 		}
+		autoMeetup := mg.AutoMeetups[key]
 		m.AutogenMeetup = &autoMeetup
 		mg.Meetups[key] = m
 	}
-	mg.Meetups = map[string]Meetup{}
-	for _, m := range mg.OldMeetups {
-		key := m.Date.YYYYMMDD()
-		mg.Meetups[key] = m
-	}
-	mg.OldMeetups = nil
 }
 
 // CityLowercase gets the lowercase variant of the city

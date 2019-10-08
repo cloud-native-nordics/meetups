@@ -69,6 +69,10 @@ func setMeetupData(cfg *Config) error {
 			if err != nil {
 				return err
 			}
+			// Continue if this automatically generated meetup already exists
+			if _, ok := mg.AutoMeetups[t.YYYYMMDD()]; ok {
+				continue
+			}
 			meetup := AutogenMeetup{}
 			meetup.ID = uint64(ev.ID)
 			meetup.Date = *t
