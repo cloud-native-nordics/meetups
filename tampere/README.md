@@ -5,7 +5,7 @@
  - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
  - Oliver Joggerst [@oliverjoggerst](https://github.com/oliverjoggerst), [Netum](https://www.netum.fi/)
  - Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
- - Sakari Hoisko, [Eficode](https://www.eficode.com/home)
+ - Toni Ylenius, [Cybercom](https://www.cybercom.com/)
 
 #### Submit a talk
 
