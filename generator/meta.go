@@ -44,6 +44,10 @@ type Time struct {
 	time.Time
 }
 
+func (t *Time) YYYYMMDD() string {
+	return t.Format("20060102")
+}
+
 // UnmarshalJSON implements the json.Unmarshaller interface.
 func (t *Time) UnmarshalJSON(b []byte) error {
 	if len(b) == 4 && string(b) == "null" {

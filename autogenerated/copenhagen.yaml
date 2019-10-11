@@ -1,0 +1,94 @@
+autoMeetups:
+  "20171212":
+    address: Sortedam Dossering 5D
+    attendees: 27
+    date: "2017-12-12T17:00:00Z"
+    duration: 3h0m0s
+    id: 245248552
+    name: Let's kick-off Cloud Native Copenhagen!
+  "20180123":
+    address: H.C. Andersen Blvd. 27
+    attendees: 58
+    date: "2018-01-23T17:00:00Z"
+    duration: 3h0m0s
+    id: 246008132
+    name: 'Lab session: How to Kubernetes?'
+  "20180308":
+    address: Borgergade 24
+    attendees: 29
+    date: "2018-03-08T17:00:00Z"
+    duration: 3h0m0s
+    id: 247310136
+    name: 'Expert night: bare metal and chaos engineering'
+  "20180430":
+    address: Vesterbrogade 26
+    attendees: 100
+    date: "2018-04-30T17:30:00Z"
+    duration: 3h0m0s
+    id: 249226057
+    name: Let's warm-up before KubeCon-CloudNativeCon!
+  "20181106":
+    address: Weidekampsgade 16, 2300
+    attendees: 69
+    date: "2018-11-06T17:00:00Z"
+    duration: 3h0m0s
+    id: 255293027
+    name: Windows containers, Kubernetes in the enterprise
+  "20190313":
+    address: Teglholmsgade 1
+    attendees: 46
+    date: "2019-03-13T17:00:00Z"
+    duration: 3h0m0s
+    id: 258900627
+    name: Cloud Native Solutions and Intelligent Scaling in the Media Industry
+  "20190319":
+    address: ""
+    attendees: 1
+    date: "2019-03-19T12:30:00Z"
+    duration: 6h0m0s
+    id: 259113734
+    name: Istio Service Mesh
+  "20190409":
+    address: 'Fruebjergvej 3, Att.: Økonomi'
+    attendees: 68
+    date: "2019-04-09T17:00:00Z"
+    duration: 3h0m0s
+    id: 258922126
+    name: Next-gen CI night
+  "20190425":
+    address: Landemærket 10
+    attendees: 50
+    date: "2019-04-25T17:00:00Z"
+    duration: 3h0m0s
+    id: 259355667
+    name: Cloud Native Architecture at scale and a Fairytale of Databases
+  "20190611":
+    address: Vester Søgade 6
+    attendees: 35
+    date: "2019-06-11T13:00:00Z"
+    duration: 3h0m0s
+    id: 261858991
+    name: 'Cloud Native Copenhagen Hack Nights: Kubernetes 101'
+  "20190821":
+    address: Langebrogade 1
+    attendees: 58
+    date: "2019-08-21T17:00:00Z"
+    duration: 3h0m0s
+    id: 262635188
+    name: 'Cloud Native Stories: TV 2 Play & Spar Nord Bank'
+  "20190910":
+    address: Landemærket 10
+    attendees: 52
+    date: "2019-09-10T17:00:00Z"
+    duration: 3h0m0s
+    id: 262668370
+    name: Cloud Native Logging and Application Performance Management
+  "20191021":
+    address: Langebrogade 1
+    date: "2019-10-21T17:00:00Z"
+    duration: 3h0m0s
+    id: 264886621
+    name: Chaos Engineering, Istio & KubeOne
+city: Copenhagen
+country: denmark
+name: Cloud Native Copenhagen

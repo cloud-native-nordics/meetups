@@ -1,138 +1,100 @@
 cfpLink: ""
-city: Göteborg
-country: sweden
 meetupID: Kubernetes-Goteborg
-meetups:
-- address: Vallgatan 22
-  attendees: 70
-  date: "2019-09-05T18:00:00Z"
-  duration: 3h0m0s
-  id: 263937712
-  name: September meetup in Gothenburg
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Kungstorget 7
-  attendees: 1
-  date: "2019-08-27T17:40:00Z"
-  duration: 3h0m0s
-  id: 263936791
-  name: Kubernetes Göteborg & CloudNativeGbg#4 - Automation in Cloud Native Environments
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Kungsportsavenyen 33
-  attendees: 45
-  date: "2019-05-09T18:00:00Z"
-  duration: 2h0m0s
-  id: 260863253
-  name: 18 months of kubernetes in production and learning
-  presentations:
-  - duration: 30m0s
-    recording: https://youtu.be/EpIgwYQlp4c
-    slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
-    speakers:
-    - jessicaandersson
-    title: Getting Developers to Adopt Your Service
-  - delay: 5m0s
-    duration: 30m0s
-    recording: https://youtu.be/EpIgwYQlp4c
-    slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-knowing-what-your-kubernetes-cluster-is-doing.pdf
-    speakers:
-    - federicohernandez
-    title: Knowing what your Kubernetes cluster is doing
-  - delay: 5m0s
-    duration: 10m0s
-    recording: https://youtu.be/EpIgwYQlp4c
-    slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-zero-downtime-kubernetes-cluster-upgrades.pdf
-    speakers:
-    - simonesciarrati
-    title: Zero downtime upgrades of Kubernetes
-  sponsors:
-    other: null
-    venue: meltwater
-- address: Östra Hamngatan 50B
-  attendees: 33
-  date: "2018-11-21T17:00:00Z"
-  duration: 2h0m0s
-  id: 256374545
-  name: Serverless med Knative
-  presentations:
-  - duration: 1h0m0s
-    slides: ""
-    speakers:
-    - staffanolsson
-    title: Demo av Knative
-  sponsors:
-    other: null
-    venue: null
-- address: Östra Hamngatan 50B
-  attendees: 36
-  date: "2017-10-25T17:00:00Z"
-  duration: 2h0m0s
-  id: 242830009
-  name: Metrics och alarm med Prometheus
-  presentations:
-  - duration: 1h0m0s
-    slides: ""
-    speakers:
-    - karlbergstrom
-    title: Hur monitorerar man, med hjälp av Prometheus, kubernetes status & metrics?
-  sponsors:
-    other: null
-    venue: null
-- address: Holtermansgatan 1 D
-  attendees: 14
-  date: "2017-08-30T17:00:00Z"
-  duration: 1h0m0s
-  id: 241821276
-  name: Var med och sänk ett kluster!
-  presentations:
-  - duration: 1h0m0s
-    slides: ""
-    speakers:
-    - staffanolsson
-    title: Vad händer när 100 tjänster delar på 10 noder?
-  sponsors:
-    other: null
-    venue: null
-- address: Holtermansgatan 1 D
-  attendees: 30
-  date: "2017-03-01T17:15:00Z"
-  duration: 1h45m0s
-  id: 235779397
-  name: StatefulSet och volymer, eller?
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: ""
-  attendees: 34
-  date: "2016-12-14T17:00:00Z"
-  duration: 2h0m0s
-  id: 235779214
-  name: Kom igång med Kubernetes - och meetup Götet
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: ""
-  attendees: 8
-  date: "2016-11-30T11:30:00Z"
-  duration: 1h30m0s
-  id: 235779901
-  name: Organisatörslunch
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-name: Kubernetes Göteborg
+latitude: 57.702295
+longitude: 11.972025
 organizers:
 - jessicaandersson
 - staffanolsson
 - peterrosell
 - antonlindgren
 - jacobhagstedtpsuorra
-photo: https://secure.meetupstatic.com/photos/event/b/9/a/b/highres_482747531.jpeg
+meetups:
+  "20161130":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20161214":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20170301":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20170830":
+    presentations:
+    - duration: 1h0m0s
+      slides: ""
+      speakers:
+      - staffanolsson
+      title: Vad händer när 100 tjänster delar på 10 noder?
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20171025":
+    presentations:
+    - duration: 1h0m0s
+      slides: ""
+      speakers:
+      - karlbergstrom
+      title: Hur monitorerar man, med hjälp av Prometheus, kubernetes status & metrics?
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20181121":
+    presentations:
+    - duration: 1h0m0s
+      slides: ""
+      speakers:
+      - staffanolsson
+      title: Demo av Knative
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190509":
+    presentations:
+    - duration: 30m0s
+      recording: https://youtu.be/EpIgwYQlp4c
+      slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
+      speakers:
+      - jessicaandersson
+      title: Getting Developers to Adopt Your Service
+    - delay: 5m0s
+      duration: 30m0s
+      recording: https://youtu.be/EpIgwYQlp4c
+      slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-knowing-what-your-kubernetes-cluster-is-doing.pdf
+      speakers:
+      - federicohernandez
+      title: Knowing what your Kubernetes cluster is doing
+    - delay: 5m0s
+      duration: 10m0s
+      recording: https://youtu.be/EpIgwYQlp4c
+      slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-zero-downtime-kubernetes-cluster-upgrades.pdf
+      speakers:
+      - simonesciarrati
+      title: Zero downtime upgrades of Kubernetes
+    recording: ""
+    sponsors:
+      other: null
+      venue: meltwater
+  "20190827":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190905":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null

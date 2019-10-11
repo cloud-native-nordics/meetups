@@ -1,0 +1,38 @@
+autoMeetups:
+  "20190117":
+    address: Pakkahuoneenaukio 2
+    attendees: 50
+    date: "2019-01-17T18:00:00Z"
+    duration: 3h0m0s
+    id: 257164934
+    name: First Kubernetes and CNCF Tampere Meetup
+  "20190404":
+    address: Kalevantie 7
+    attendees: 48
+    date: "2019-04-04T17:00:00Z"
+    duration: 3h0m0s
+    id: 258970382
+    name: April Kubernetes Tampere Meetup
+  "20190613":
+    address: Kelloportinkatu 1 D
+    attendees: 50
+    date: "2019-06-13T17:00:00Z"
+    duration: 3h0m0s
+    id: 261344385
+    name: Summer Kubernetes Tampere Meetup
+  "20190828":
+    address: Pinninkatu 47
+    attendees: 48
+    date: "2019-08-28T17:00:00Z"
+    duration: 3h0m0s
+    id: 263932460
+    name: August Kubernetes Meetup in Tampere
+  "20191029":
+    address: Åkerlundinkatu 11 A
+    date: "2019-10-29T17:00:00Z"
+    duration: 4h0m0s
+    id: 265150836
+    name: Kubernetes 101 Hands-On Workshop
+city: Tampere
+country: finland
+name: Kubernetes and CNCF Tampere Meetup

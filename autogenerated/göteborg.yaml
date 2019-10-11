@@ -1,0 +1,68 @@
+autoMeetups:
+  "20161130":
+    address: ""
+    attendees: 8
+    date: "2016-11-30T11:30:00Z"
+    duration: 1h30m0s
+    id: 235779901
+    name: Organisatörslunch
+  "20161214":
+    address: ""
+    attendees: 34
+    date: "2016-12-14T17:00:00Z"
+    duration: 2h0m0s
+    id: 235779214
+    name: Kom igång med Kubernetes - och meetup Götet
+  "20170301":
+    address: Holtermansgatan 1 D
+    attendees: 30
+    date: "2017-03-01T17:15:00Z"
+    duration: 1h45m0s
+    id: 235779397
+    name: StatefulSet och volymer, eller?
+  "20170830":
+    address: Holtermansgatan 1 D
+    attendees: 14
+    date: "2017-08-30T17:00:00Z"
+    duration: 1h0m0s
+    id: 241821276
+    name: Var med och sänk ett kluster!
+  "20171025":
+    address: Östra Hamngatan 50B
+    attendees: 36
+    date: "2017-10-25T17:00:00Z"
+    duration: 2h0m0s
+    id: 242830009
+    name: Metrics och alarm med Prometheus
+  "20181121":
+    address: Östra Hamngatan 50B
+    attendees: 33
+    date: "2018-11-21T17:00:00Z"
+    duration: 2h0m0s
+    id: 256374545
+    name: Serverless med Knative
+  "20190509":
+    address: Kungsportsavenyen 33
+    attendees: 45
+    date: "2019-05-09T18:00:00Z"
+    duration: 2h0m0s
+    id: 260863253
+    name: 18 months of kubernetes in production and learning
+  "20190827":
+    address: Kungstorget 7
+    attendees: 1
+    date: "2019-08-27T17:40:00Z"
+    duration: 3h0m0s
+    id: 263936791
+    name: Kubernetes Göteborg & CloudNativeGbg#4 - Automation in Cloud Native Environments
+  "20190905":
+    address: Vallgatan 22
+    attendees: 70
+    date: "2019-09-05T18:00:00Z"
+    duration: 3h0m0s
+    id: 263937712
+    name: September meetup in Gothenburg
+city: Göteborg
+country: sweden
+name: Kubernetes Göteborg
+photo: https://secure.meetupstatic.com/photos/event/b/9/a/b/highres_482747531.jpeg

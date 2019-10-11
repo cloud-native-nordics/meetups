@@ -4,4 +4,3 @@ go:
 
 script:
 - make validate
-- make test

@@ -1,891 +1,758 @@
 cfpLink: ""
-city: Aarhus
-country: denmark
 meetupID: Cloud-Native-Aarhus
-meetups:
-- address: Åbogade 15
-  date: "2019-10-22T17:00:00Z"
-  duration: 3h0m0s
-  id: 264744301
-  name: Chaos Engineering with Russ Miles & KubeOne with Alexander Sowitzki
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Hack Kampmanns Pl. 2
-  attendees: 71
-  date: "2019-09-24T17:00:00Z"
-  duration: 3h0m0s
-  id: 264325804
-  name: 'Cloud Native Aarhus: Google Cloud & Istio'
-  presentations:
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - alejandromontenegro
-    title: How Google Kubernetes Engine is different and what the f*ck is Anthos
-  - duration: 30m0s
-    recording: https://www.youtube.com/watch?v=oY9Mv9PHu7U
-    slides: https://cloud-run-final-destination.surge.sh
-    speakers:
-    - kevinsimper
-    title: How Cloud Run is the final destination in my Cloud Native journey
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - lassehojgaard
-    - frederikmogensen
-    title: Real world Istio - War stories and Gotchas
-  sponsors:
-    other: null
-    venue: trifork
-- address: Ole Kirks Plads 1
-  attendees: 67
-  date: "2019-09-03T16:00:00Z"
-  duration: 5h45m0s
-  id: 262602452
-  name: 'Cloud Native Aarhus Field Trip: LEGO House'
-  presentations:
-  - duration: 1h15m0s
-    slides: ""
-    speakers: null
-    title: Bus transport from Aarhus to LEGO House
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Welcome – digital name tags are given to all and water and snacks are available
-      (LEGO House)
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Opening pitch about LEGO’s cloud vision and journey – LEGO
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Three combined talks" by LEGO
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Dinner break and mingling opportunity
-  - duration: 10m0s
-    slides: https://docs.google.com/presentation/d/19qN3ExaXPKWRqAvieHJ8TRYhbMRJ2vx-_rXpYsvpUqw/edit#slide=id.g6136321517_0_172
-    speakers:
-    - ihor
-    title: Helm - the Package Manager for Kubernetes
-  - duration: 15m0s
-    slides: https://www.slideshare.net/KasperNissen1/should-developers-care-about-dockerfiles-and-kubernetes-resources
-    speakers:
-    - kaspernissen
-    title: Should Developers Care About Dockerfiles and Kubernetes resources?
-  - duration: 15m0s
-    slides: https://docs.google.com/presentation/d/1p_KzIq-eMHjB6EAOd44JCH004IRiZzmNfKIjip8qlog/edit?usp=sharing
-    speakers:
-    - rasmussteiniche
-    title: Intro to cloud-verse
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: LEGO House tour with play agents - Connection between physical bricks and
-      digital experiences
-  - duration: 1h15m0s
-    slides: ""
-    speakers: null
-    title: Bus transport from LEGO House to Aarhus
-  sponsors:
-    other: null
-    venue: lego
-- address: Finlandsgade 28
-  attendees: 21
-  date: "2019-08-21T16:30:00Z"
-  duration: 3h30m0s
-  id: 264122411
-  name: 'Cloud Native Aarhus Special: Lucas Käldström aka @kubernetesonarm'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-- address: Søren Frichs Vej 39
-  attendees: 52
-  date: "2019-08-08T17:00:00Z"
-  duration: 3h0m0s
-  id: 262572886
-  name: Versioning in a Cloud Native landscape
-  presentations: null
-  sponsors:
-    other: null
-    venue: systematic
-- address: Sødalsparken 18
-  attendees: 39
-  date: "2019-06-25T17:00:00Z"
-  duration: 4h0m0s
-  id: 261346897
-  name: Cloud Native Streaming with Apache Flink and a Fairytale of Databases
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - rasmussteiniche
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome to JYSK
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - lassenedergaard
-    title: Cloud Native Streaming with Apache Flink
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Food and break
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - sorenmathiasen
-    title: A Fairytale of Databases
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Discussions and networking
-  sponsors:
-    other: null
-    venue: jysk
-- address: Finlandsgade 21
-  attendees: 76
-  date: "2019-06-03T16:30:00Z"
-  duration: 3h30m0s
-  id: 261537949
-  name: Kubernetes Failure Stories & How to manage Cloud Native secrets with Vault
-  presentations:
-  - delay: 30m0s
-    duration: 15m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to Cloud Native Aarhus, OrbitLab, and Tradeshift
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - henrikhoegh
-    title: Manage your Cloud Native secrets with Vault
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Food and break
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - henningjacobs
-    title: Kubernetes Failure Stories and How to Crash Your Clusters
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Discussions and networking
-  sponsors:
-    other:
-    - tradeshift
-    venue: orbitlab
-- address: Åbogade 15
-  attendees: 36
-  date: "2019-05-28T16:30:00Z"
-  duration: 4h30m0s
-  id: 261130244
-  name: 'Cloud Native Hack Nights #2: Prometheus'
-  presentations:
-  - delay: 15m0s
-    duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers:
-    - mikerostermund
-    - steffanlund
-    title: Prometheus experience report from Schneider Electric
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Introduction to Prometheus
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Workshop
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Break and food
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Workshop
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - emilingerslev
-    - rasmussteiniche
-    - mikerostermund
-    - steffanlund
-    - andreipredoiu
-    - kaspernissen
-    title: Panel and Open Space Discussion about Monitoring
-  - delay: 30m0s
-    duration: -30m0s
-    slides: ""
-    speakers: null
-    title: 2 years of Cloud Native Aarhus celebration with cake
-  sponsors:
-    other: null
-    venue: praqma
-- address: Edwin Rahrs Vej 40
-  attendees: 76
-  date: "2019-04-25T17:00:00Z"
-  duration: 3h0m0s
-  id: 259259651
-  name: From Mainframe to Cloud Native and State of Windows Containers and Kubernetes
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to Cloud Native Aarhus
-  - delay: -1m0s
-    duration: 11m0s
-    slides: ""
-    speakers: null
-    title: Welcome to MobilePay by Rune Birkemose Jakobsen
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - martinankerhave
-    - mathiashermann
-    - renerotvigjensen
-    title: MobilePay from mainframe to Cloud Native and everything in between
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Food and break
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - hans
-    title: The state of Windows & Kubernetes, with an Azure flavor
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Discussions and networking
-  sponsors:
-    other: null
-    venue: mobilepay
-- address: Finlandsgade 24A
-  attendees: 69
-  date: "2019-03-28T16:30:00Z"
-  duration: 3h30m0s
-  id: 259259564
-  name: 'Cloud Native Aarhus Hack Nights: Kubernetes 101'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers:
-    - henrikhoegh
-    title: Mr. Panda's Motivational Magic Show
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - henrikhoegh
-    - kaspernissen
-    - danielfly
-    - rasmussteiniche
-    title: Introduction to Kubernetes and workshops
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Workshop
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Food and break
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Workshop
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Raffle and networking
-  sponsors:
-    other:
-    - lunarway
-    venue: orbitlab
-- address: Ceresbyen 75
-  attendees: 64
-  date: "2019-03-05T17:00:00Z"
-  duration: 3h0m0s
-  id: 258287765
-  name: 'Cloud Native Stories: TV 2 Play & Spar Nord Bank'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome from Spar Nord Bank
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - camillalarsen
-    - rasmusroemer
-    title: The DevOps story, from Spar Nord Bank. A glimpse, of the success stories
-      and detours we have experienced, during the past years
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Food and break
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - martinvillumsen
-    title: TV 2 Play’s Journey to the Cloud
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Discussions and networking
-  sponsors:
-    other: null
-    venue: sparnordbank
-- address: Åbogade
-  attendees: 85
-  date: "2019-02-12T17:00:00Z"
-  duration: 3h0m0s
-  id: 257138158
-  name: 'Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects '
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - danielfly
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers:
-    - henrikhoegh
-    title: Welcome from Praqma
-  - duration: 15m0s
-    slides: ""
-    speakers:
-    - mikerostermund
-    title: Virtual Kubelet
-  - duration: 15m0s
-    slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/nats.pdf
-    speakers:
-    - benjaminnorgaard
-    title: NATS
-  - duration: 15m0s
-    slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/ROOK-Storage-the-Cloud-Native-Way.pdf
-    speakers:
-    - michaelvittruplarsen
-    title: Rook
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Food and break
-  - duration: 15m0s
-    slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/envoy-proxy-introduction.pdf
-    speakers:
-    - martinjensen
-    title: Envoy
-  - delay: -15m0s
-    duration: 15m0s
-    slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/linkerd-2-introduction.pdf
-    speakers:
-    - bjornsorensen
-    title: Linkerd
-  - delay: 15m0s
-    duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Discussions and networking
-  sponsors:
-    other: null
-    venue: praqma
-- address: Inge Lehmanns Gade 2
-  attendees: 81
-  date: "2019-01-08T17:00:00Z"
-  duration: 3h0m0s
-  id: 257106811
-  name: 'Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - rasmussteiniche
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome to BESTSELLER by Paul Skarregaard
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - emilingerslev
-    title: Cloud Native CI/CD at Lunar Way
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Food and break
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - christianselech
-    title: A Cloud Native data platform in both batch and real-time for Business Intelligence,
-      Data Science and system-integrations
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Discussions and networking
-  sponsors:
-    other: null
-    venue: bestseller
-- address: Hack Kampmanns Plads 2, Plan 3
-  attendees: 49
-  date: "2018-12-11T16:30:00Z"
-  duration: 3h30m0s
-  id: 256345753
-  name: From Mainframe to Kubernetes / CloudNativeCon+KubeCon Keynotes Live Stream
-  presentations:
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Doors open
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome to Trifork by Morten Kjær Pedersen
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - jeppejohansen
-    title: From Mainframe to Kubernetes
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Food and Christmas Beers
-  - duration: 1h30m0s
-    slides: ""
-    speakers: null
-    title: Day 1 Keynote Live Stream from CloudNativeCon+KubeCon Nort America
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Discussions and networking
-  sponsors:
-    other: null
-    venue: trifork
-- address: Åboulevarden 37, 5 sal.
-  attendees: 88
-  date: "2018-11-06T17:00:00Z"
-  duration: 3h0m0s
-  id: 255632833
-  name: '10th Meet-up Anniversary Edition: Cloud Native with Zalando and Uber'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - rasmussteiniche
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome to Uber by Kåre Kjelstrøm
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - magnusvinther
-    title: How we store blobs at Uber
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Break and food
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - mikkeloscarlarsen
-    title: Cloud Native Infrastructure @ Zalando
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - mikkeloscarlarsen
-    title: 'StackSets: Simplifying application management in Kubernetes'
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: 10th Meet-up Anniversary Raffle (there will be swag)
-  - duration: 40m0s
-    slides: ""
-    speakers: null
-    title: Discussions and networking
-  sponsors:
-    other: null
-    venue: uberaarhus
-- address: Søren Frichs Vej 44
-  attendees: 72
-  date: "2018-09-20T17:00:00Z"
-  duration: 3h0m0s
-  id: 253946193
-  name: A Cloud Native Evening with Microsoft
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to Cloud Native Aarhus
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Welcome to First Agenda by CTO Peter Kondrup
-  - duration: 40m0s
-    slides: ""
-    speakers:
-    - gustavkaleta
-    title: Part 1
-  - duration: 20m0s
-    slides: ""
-    speakers: null
-    title: Break and food
-  - duration: 40m0s
-    slides: ""
-    speakers:
-    - gustavkaleta
-    title: Part 2
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Discussions and networking
-  sponsors:
-    other: null
-    venue: firstagenda
-- address: Søren Frichs Vej 39
-  attendees: 33
-  date: "2018-06-21T17:00:00Z"
-  duration: 3h0m0s
-  id: 251508540
-  name: 'Cloud Native Aarhus #8: Humio + k8s, Minecraft + k8s, and Observability Panel'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome to Systematic
-  - duration: 35m0s
-    slides: ""
-    speakers:
-    - petermechlenborg
-    title: Shipping logs from k8s to Humio
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Short break
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - henrikhoegh
-    title: Minecraft server in Kubernetes
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Observability Panel Discussion and Q&A
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Food and networking
-  sponsors:
-    other: null
-    venue: systematic
-- address: Inge Lehmanns Gade 2
-  attendees: 78
-  date: "2018-04-24T17:00:00Z"
-  duration: 3h0m0s
-  id: 248922498
-  name: 'Cloud Native Aarhus #7: Transition to Cloud Native & Microservices'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to Cloud Native Aarhus
-  - duration: 10m0s
-    slides: ""
-    speakers:
-    - rasmussteiniche
-    title: Welcome to BESTSELLER
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - peterbroendum
-    title: Traditional Ops to Cloud Native
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Break and food
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - thomasboeghfangel
-    title: Our road to microservices - or how we learned to love async events
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other: null
-    venue: bestseller
-- address: Paludan-Müllers Vej 40 B
-  attendees: 53
-  date: "2018-02-28T17:00:00Z"
-  duration: 3h0m0s
-  id: 246895606
-  name: 'Cloud Native Aarhus #6: Prometheus & Helm'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome to BoligPortal by Karsten Røjkær Børglum
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - rasmussteiniche
-    title: Prometheus 101 - How to get started
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Break and food
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - nicolaikobber
-    title: Introduction to Helm - The Kubernetes Package Manager
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other: null
-    venue: boligportal
-- address: Åbogade
-  attendees: 24
-  date: "2018-01-30T17:00:00Z"
-  duration: 4h0m0s
-  id: 246454051
-  name: Cloud Native Workshop and Networking
-  presentations:
-  - duration: 30m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome and introduction to Kubernetes with a Raspberry Pi cluster
-  - duration: 2h30m0s
-    slides: ""
-    speakers: null
-    title: Workshop, discussions, "Cloud Native Workshop and Networking"
-  sponsors:
-    other: null
-    venue: praqma
-- address: Åboulevarden 37, 5 sal.
-  attendees: 45
-  date: "2017-12-07T17:00:00Z"
-  duration: 3h0m0s
-  id: 244655197
-  name: 'Cloud Native Aarhus #4'
-  presentations:
-  - delay: -30m0s
-    duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Doors open
-  - duration: 10m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome to the last CNAa of the year and KubeCon Day 1 recap
-  - duration: 5m0s
-    slides: ""
-    speakers: null
-    title: Welcome to Uber, Kåre Kjelstrøm
-  - duration: 20m0s
-    slides: ""
-    speakers:
-    - jeppehansen
-    title: 'ObjectConfig: Dynamic configuration at Uber'
-  - duration: 25m0s
-    slides: ""
-    speakers:
-    - mathiasbakberthelsen
-    title: Opentracing, and Uber's implementation Jaeger
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Break and food
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - davidchristensen
-    title: DevOps culture and CICD best practices
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other: null
-    venue: uberaarhus
-- address: Finlandsgade 27C
-  attendees: 32
-  date: "2017-10-30T17:00:00Z"
-  duration: 0s
-  id: 243542472
-  name: 'Cloud Native Aarhus #3'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - danielfly
-    title: Welcome
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome to IT Minds by Henning Christensen
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - martinjensen
-    title: Adopting Go at Lunar Way
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Break with snacks, cheese, and wine
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Istio Service Mesh Free styling
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other: null
-    venue: itminds
-- address: Axel Kiers Vej 11
-  attendees: 50
-  date: "2017-08-29T17:00:00Z"
-  duration: 3h0m0s
-  id: 240929562
-  name: 'Cloud Native Aarhus #2'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome to Stibo Systems
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - torbenhaagh
-    title: A way to micro services
-  - duration: 30m0s
-    slides: ""
-    speakers: null
-    title: Break and sandwiches
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - henrikhoegh
-    title: Kubernetes
-  - duration: 45m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other: null
-    venue: stibosystems
-- address: Axel Kiers Vej 11
-  attendees: 50
-  date: "2017-08-29T17:00:00Z"
-  duration: 3h0m0s
-  id: 240929562
-  name: 'Cloud Native Aarhus #2'
-  presentations:
-  - duration: 5m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Welcome
-  - duration: 10m0s
-    slides: ""
-    speakers: null
-    title: Welcome to Lunar Way by Troels Richter
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - kaspernissen
-    title: Lunar Way and the Cloud Native Stack
-  - duration: 15m0s
-    slides: ""
-    speakers: null
-    title: Break and sandwiches
-  - duration: 45m0s
-    slides: ""
-    speakers:
-    - danielfly
-    title: Empowering your local environment with containers
-  - duration: 1h0m0s
-    slides: ""
-    speakers: null
-    title: Networking
-  sponsors:
-    other: null
-    venue: lunarway
-- address: Hack Kampmanns Plads 1
-  attendees: 30
-  date: "2017-05-30T17:00:00Z"
-  duration: 2h0m0s
-  id: 239352311
-  name: 'Cloud Native Aarhus #1'
-  presentations: null
-  sponsors:
-    other: null
-    venue: null
-name: Cloud Native Aarhus
+latitude: 56.150222
+longitude: 10.209139
 organizers:
 - kaspernissen
 - rasmussteiniche
 - henrikhoegh
 - danielfly
+meetups:
+  "20170530":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20170829":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome to Lunar Way by Troels Richter
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Lunar Way and the Cloud Native Stack
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Break and sandwiches
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - danielfly
+      title: Empowering your local environment with containers
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: lunarway
+  "20171030":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - danielfly
+      title: Welcome
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome to IT Minds by Henning Christensen
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - martinjensen
+      title: Adopting Go at Lunar Way
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Break with snacks, cheese, and wine
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Istio Service Mesh Free styling
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: itminds
+  "20171207":
+    presentations:
+    - delay: -30m0s
+      duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Doors open
+    - duration: 10m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to the last CNAa of the year and KubeCon Day 1 recap
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Welcome to Uber, Kåre Kjelstrøm
+    - duration: 20m0s
+      slides: ""
+      speakers:
+      - jeppehansen
+      title: 'ObjectConfig: Dynamic configuration at Uber'
+    - duration: 25m0s
+      slides: ""
+      speakers:
+      - mathiasbakberthelsen
+      title: Opentracing, and Uber's implementation Jaeger
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Break and food
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - davidchristensen
+      title: DevOps culture and CICD best practices
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: uberaarhus
+  "20180130":
+    presentations:
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome and introduction to Kubernetes with a Raspberry Pi cluster
+    - duration: 2h30m0s
+      slides: ""
+      speakers: null
+      title: Workshop, discussions, "Cloud Native Workshop and Networking"
+    recording: ""
+    sponsors:
+      other: null
+      venue: praqma
+  "20180228":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome to BoligPortal by Karsten Røjkær Børglum
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - rasmussteiniche
+      title: Prometheus 101 - How to get started
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Break and food
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - nicolaikobber
+      title: Introduction to Helm - The Kubernetes Package Manager
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: boligportal
+  "20180424":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers:
+      - rasmussteiniche
+      title: Welcome to BESTSELLER
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - peterbroendum
+      title: Traditional Ops to Cloud Native
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Break and food
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - thomasboeghfangel
+      title: Our road to microservices - or how we learned to love async events
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: bestseller
+  "20180621":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome to Systematic
+    - duration: 35m0s
+      slides: ""
+      speakers:
+      - petermechlenborg
+      title: Shipping logs from k8s to Humio
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Short break
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - henrikhoegh
+      title: Minecraft server in Kubernetes
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Observability Panel Discussion and Q&A
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Food and networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: systematic
+  "20180920":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Aarhus
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Welcome to First Agenda by CTO Peter Kondrup
+    - duration: 40m0s
+      slides: ""
+      speakers:
+      - gustavkaleta
+      title: Part 1
+    - duration: 20m0s
+      slides: ""
+      speakers: null
+      title: Break and food
+    - duration: 40m0s
+      slides: ""
+      speakers:
+      - gustavkaleta
+      title: Part 2
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Discussions and networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: firstagenda
+  "20181106":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - rasmussteiniche
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome to Uber by Kåre Kjelstrøm
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - magnusvinther
+      title: How we store blobs at Uber
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Break and food
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - mikkeloscarlarsen
+      title: Cloud Native Infrastructure @ Zalando
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - mikkeloscarlarsen
+      title: 'StackSets: Simplifying application management in Kubernetes'
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: 10th Meet-up Anniversary Raffle (there will be swag)
+    - duration: 40m0s
+      slides: ""
+      speakers: null
+      title: Discussions and networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: uberaarhus
+  "20181211":
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Doors open
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome to Trifork by Morten Kjær Pedersen
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - jeppejohansen
+      title: From Mainframe to Kubernetes
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Food and Christmas Beers
+    - duration: 1h30m0s
+      slides: ""
+      speakers: null
+      title: Day 1 Keynote Live Stream from CloudNativeCon+KubeCon Nort America
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Discussions and networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: trifork
+  "20190108":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - rasmussteiniche
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome to BESTSELLER by Paul Skarregaard
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - emilingerslev
+      title: Cloud Native CI/CD at Lunar Way
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food and break
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - christianselech
+      title: A Cloud Native data platform in both batch and real-time for Business
+        Intelligence, Data Science and system-integrations
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Discussions and networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: bestseller
+  "20190212":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - danielfly
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers:
+      - henrikhoegh
+      title: Welcome from Praqma
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - mikerostermund
+      title: Virtual Kubelet
+    - duration: 15m0s
+      slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/nats.pdf
+      speakers:
+      - benjaminnorgaard
+      title: NATS
+    - duration: 15m0s
+      slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/ROOK-Storage-the-Cloud-Native-Way.pdf
+      speakers:
+      - michaelvittruplarsen
+      title: Rook
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food and break
+    - duration: 15m0s
+      slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/envoy-proxy-introduction.pdf
+      speakers:
+      - martinjensen
+      title: Envoy
+    - delay: -15m0s
+      duration: 15m0s
+      slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/linkerd-2-introduction.pdf
+      speakers:
+      - bjornsorensen
+      title: Linkerd
+    - delay: 15m0s
+      duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Discussions and networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: praqma
+  "20190305":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome from Spar Nord Bank
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - camillalarsen
+      - rasmusroemer
+      title: The DevOps story, from Spar Nord Bank. A glimpse, of the success stories
+        and detours we have experienced, during the past years
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food and break
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - martinvillumsen
+      title: TV 2 Play’s Journey to the Cloud
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Discussions and networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: sparnordbank
+  "20190328":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers:
+      - henrikhoegh
+      title: Mr. Panda's Motivational Magic Show
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - henrikhoegh
+      - kaspernissen
+      - danielfly
+      - rasmussteiniche
+      title: Introduction to Kubernetes and workshops
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Workshop
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food and break
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Workshop
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: Raffle and networking
+    recording: ""
+    sponsors:
+      other:
+      - lunarway
+      venue: orbitlab
+  "20190425":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Aarhus
+    - delay: -1m0s
+      duration: 11m0s
+      slides: ""
+      speakers: null
+      title: Welcome to MobilePay by Rune Birkemose Jakobsen
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - martinankerhave
+      - mathiashermann
+      - renerotvigjensen
+      title: MobilePay from mainframe to Cloud Native and everything in between
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food and break
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - hans
+      title: The state of Windows & Kubernetes, with an Azure flavor
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Discussions and networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: mobilepay
+  "20190528":
+    presentations:
+    - delay: 15m0s
+      duration: 5m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers:
+      - mikerostermund
+      - steffanlund
+      title: Prometheus experience report from Schneider Electric
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Introduction to Prometheus
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Workshop
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Break and food
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Workshop
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - emilingerslev
+      - rasmussteiniche
+      - mikerostermund
+      - steffanlund
+      - andreipredoiu
+      - kaspernissen
+      title: Panel and Open Space Discussion about Monitoring
+    - delay: 30m0s
+      duration: -30m0s
+      slides: ""
+      speakers: null
+      title: 2 years of Cloud Native Aarhus celebration with cake
+    recording: ""
+    sponsors:
+      other: null
+      venue: praqma
+  "20190603":
+    presentations:
+    - delay: 30m0s
+      duration: 15m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Aarhus, OrbitLab, and Tradeshift
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - henrikhoegh
+      title: Manage your Cloud Native secrets with Vault
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food and break
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - henningjacobs
+      title: Kubernetes Failure Stories and How to Crash Your Clusters
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Discussions and networking
+    recording: ""
+    sponsors:
+      other:
+      - tradeshift
+      venue: orbitlab
+  "20190625":
+    presentations:
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - rasmussteiniche
+      title: Welcome to Cloud Native Aarhus
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Welcome to JYSK
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - lassenedergaard
+      title: Cloud Native Streaming with Apache Flink
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food and break
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - sorenmathiasen
+      title: A Fairytale of Databases
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Discussions and networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: jysk
+  "20190808":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: systematic
+  "20190821":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190903":
+    presentations:
+    - duration: 1h15m0s
+      slides: ""
+      speakers: null
+      title: Bus transport from Aarhus to LEGO House
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Welcome – digital name tags are given to all and water and snacks are
+        available (LEGO House)
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Opening pitch about LEGO’s cloud vision and journey – LEGO
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Three combined talks" by LEGO
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Dinner break and mingling opportunity
+    - duration: 10m0s
+      slides: https://docs.google.com/presentation/d/19qN3ExaXPKWRqAvieHJ8TRYhbMRJ2vx-_rXpYsvpUqw/edit#slide=id.g6136321517_0_172
+      speakers:
+      - ihor
+      title: Helm - the Package Manager for Kubernetes
+    - duration: 15m0s
+      slides: https://www.slideshare.net/KasperNissen1/should-developers-care-about-dockerfiles-and-kubernetes-resources
+      speakers:
+      - kaspernissen
+      title: Should Developers Care About Dockerfiles and Kubernetes resources?
+    - duration: 15m0s
+      slides: https://docs.google.com/presentation/d/1p_KzIq-eMHjB6EAOd44JCH004IRiZzmNfKIjip8qlog/edit?usp=sharing
+      speakers:
+      - rasmussteiniche
+      title: Intro to cloud-verse
+    - duration: 1h0m0s
+      slides: ""
+      speakers: null
+      title: LEGO House tour with play agents - Connection between physical bricks
+        and digital experiences
+    - duration: 1h15m0s
+      slides: ""
+      speakers: null
+      title: Bus transport from LEGO House to Aarhus
+    recording: ""
+    sponsors:
+      other: null
+      venue: lego
+  "20190924":
+    presentations:
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - alejandromontenegro
+      title: How Google Kubernetes Engine is different and what the f*ck is Anthos
+    - duration: 30m0s
+      recording: https://www.youtube.com/watch?v=oY9Mv9PHu7U
+      slides: https://cloud-run-final-destination.surge.sh
+      speakers:
+      - kevinsimper
+      title: How Cloud Run is the final destination in my Cloud Native journey
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - lassehojgaard
+      - frederikmogensen
+      title: Real world Istio - War stories and Gotchas
+    recording: ""
+    sponsors:
+      other: null
+      venue: trifork
+  "20191022":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null

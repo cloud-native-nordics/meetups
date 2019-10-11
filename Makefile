@@ -4,33 +4,29 @@ export GOARCH:=$(shell go env GOARCH)
 
 all: generate
 
-generate: generator/bin/generator
-	generator/bin/generator --dry-run=false
+generate: bin/generator
+	bin/generator --dry-run=false
 
-dry-run: generator/bin/generator
-	generator/bin/generator --dry-run=true
+dry-run: bin/generator
+	bin/generator --dry-run=true
 
-validate: generator/bin/generator
-	generator/bin/generator --validate
+validate: bin/generator
+	bin/generator --validate
 
-stats: generator/bin/generator
-	generator/bin/generator --stats
-
-test:
-	cd generator && go test
+stats: bin/generator
+	bin/generator --stats
 
 build-docker:
 	docker run -it -e GOOS=${GOOS} -e GOARCH=${GOARCH} -v $(shell pwd):/meetups -w /meetups golang:1.12 make bin-generator
 
-generator/bin/generator bin-generator:
-	cd generator && go build -mod vendor -o bin/generator .
+bin/generator bin-generator:
+	go build -mod vendor -o bin/generator ./generator/...
 
 clean:
-	sudo rm generator/bin/generator
+	sudo rm bin/generator
 
 pre-commit:
 	$(MAKE) build-docker
 	$(MAKE) generate
 	$(MAKE) validate
-	$(MAKE) test
 	gofmt -s -w generator/*.go
