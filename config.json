@@ -9643,14 +9643,14 @@
           "speakersBureau": ""
         },
         {
-          "id": "hoisko",
-          "name": "Sakari Hoisko",
+          "id": "ylenius",
+          "name": "Toni Ylenius",
           "email": "",
           "company": {
-            "id": "eficode",
-            "name": "Eficode",
-            "websiteURL": "https://www.eficode.com/home",
-            "logoURL": "https://www.eficode.com/hubfs/images/logos/efilogotext.svg",
+            "id": "cybercom",
+            "name": "Cybercom",
+            "websiteURL": "https://www.cybercom.com/",
+            "logoURL": "https://www.cybercom.com/Static/cybercom/img/CybercomG_logo_Neg_CR.png",
             "whiteLogo": true,
             "countries": [
               "finland"
