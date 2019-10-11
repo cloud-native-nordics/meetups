@@ -205,7 +205,7 @@ sponsors:
 - countries:
   - finland
   id: vincit
-  logoURL: https://www.vincit.fi/wp-content/themes/vincit.com/images/Vincit_tirppa_white.png
+  logoURL: https://www.vincit.fi/wp-content/themes/vincit/images/vincit-logo_red.svg
   name: Vincit
   websiteURL: https://www.vincit.fi
   whiteLogo: true
@@ -299,6 +299,25 @@ sponsors:
   logoURL: https://www.opentext.com/file_source/OpenText/en_US/SVG/opentext-logo-dark.svg
   name: Open Text
   websiteURL: https://www.opentext.com
+- countries:
+  - finland
+  id: chaosiq
+  logoURL: https://chaosiq.io/assets/img/chaosiq-mark.aca2585b.svg
+  name: ChaosIQ
+  websiteURL: https://chaosiq.io/
+- countries:
+  - finland
+  - denmark
+  id: loodse
+  logoURL: https://www.loodse.com/images/logo.png
+  name: Loodse
+  websiteURL: https://www.loodse.com/
+- countries:
+  - finland
+  id: walkbase
+  logoURL: https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png
+  name: Walkbase
+  websiteURL: https://www.walkbase.com/
 - countries:
   - finland
   - sweden
@@ -498,6 +517,7 @@ sponsors:
   websiteURL: https://www.e-conomic.dk/
 - countries:
   - denmark
+  - finland
   id: loodse
   logoURL: https://www.loodse.com/images/logo.png
   name: Loodse

@@ -203,8 +203,17 @@ meetups:
       - cncf
       venue: tribe
   "20191029":
-    presentations: null
+    presentations:
+    - delay: 15m0s
+      duration: 3h30m0s
+      # TODO: Fill in this after the meetup
+      slides: ""
+      speakers:
+      - luxas
+      title: Kubernetes 101 Hands-On Workshop
     recording: ""
     sponsors:
-      other: null
-      venue: null
+      other:
+      - luxaslabs
+      - cncf
+      venue: eficode

@@ -446,14 +446,57 @@ meetups:
       - upcloud
       venue: maria01
   "20191024":
-    presentations: null
+    presentations: # TODO(Lucas): Add slides here when done
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Arrive at the venue, sit down and network with others
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Introductionary words from the venue sponsor for this time, Nokia
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - luxas
+      title: Updates from the Cloud Native Nordics Community
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - russmiles
+      title: How to be (successful at being) wrong
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Networking, food, drinks
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - alexandersowitzki
+      title: "Building KubeOne: yet another Kubernetes cluster management tool"
+    - delay: 10m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - gergelycsatari
+      title: How to make Kubernetes Real Time for Telcos
+    - delay: 5m0s
+      duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Networking
     recording: ""
     sponsors:
-      other: null
-      venue: null
+      other:
+      - luxaslabs
+      - cncf
+      venue: nokia
   "20191128":
+    # TODO(lucas): Create an agenda
     presentations: null
     recording: ""
     sponsors:
-      other: null
-      venue: null
+      other:
+      - luxaslabs
+      - cncf
+      venue: intel
