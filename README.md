@@ -38,6 +38,7 @@ Repository to gather all meetup information and slides from Cloud Native Nordic 
   * Toni Ylenius, [Cybercom](https://www.cybercom.com/)
 * [Turku](turku/README.md)
   * Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+  * Anton Lindholm, [Walkbase](https://www.walkbase.com/)
 * [Umeå](umeå/README.md)
   * Robert Winter, [Elastisys](https://elastisys.com/)
   * Erik Lindskog, [Codemill](https://codemill.se/)

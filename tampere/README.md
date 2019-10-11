@@ -15,10 +15,15 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
  - Date: 29 October, 2019 at 17:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/265150836
-
+ - Venue sponsor: [Eficode](https://www.eficode.com/home)
+ - Meetup sponsors:
+   - [luxas labs](https://luxaslabs.com)
+   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
+ - 17:15 - 20:45: Kubernetes 101 Hands-On Workshop 
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
 
 ### August Kubernetes Meetup in Tampere
 

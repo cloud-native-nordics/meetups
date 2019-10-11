@@ -9,14 +9,41 @@
 
 If you're interested in speaking in this meetup, fill out this form: https://bit.ly/k8sfin-cfp
 
+### Post-KubeCon US Meetup in Helsinki
+
+ - Date: 28 November, 2019 at 18:00 - 21:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/265529376
+ - Venue sponsor: [Intel](https://www.intel.com)
+ - Meetup sponsors:
+   - [luxas labs](https://luxaslabs.com)
+   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+
+#### Agenda
+
+
 ### October: Chaos Engineering & KubeOne
 
  - Date: 24 October, 2019 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264646130
-
+ - Venue sponsor: [Nokia](https://www.nokia.fi/)
+ - Meetup sponsors:
+   - [luxas labs](https://luxaslabs.com)
+   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
+ - 18:00 - 18:10: Arrive at the venue, sit down and network with others 
+ - 18:10 - 18:15: Introductionary words from the venue sponsor for this time, Nokia 
+ - 18:15 - 18:30: Updates from the Cloud Native Nordics Community 
+   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+ - 18:30 - 19:00: How to be (successful at being) wrong 
+   - Russ Miles, CEO, [ChaosIQ](https://chaosiq.io/)
+ - 19:00 - 19:30: Networking, food, drinks 
+ - 19:30 - 20:00: Building KubeOne: yet another Kubernetes cluster management tool 
+   - Alexander Sowitzki, [Loodse](https://www.loodse.com/)
+ - 20:10 - 20:40: How to make Kubernetes Real Time for Telcos 
+   - Gergely Csatári, [Nokia](https://www.nokia.fi/)
+ - 20:45 - 21:00: Networking 
 
 ### August Meetup in Helsinki
 
