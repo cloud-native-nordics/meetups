@@ -18,9 +18,7 @@ var speakersFile = pflag.String("speakers-file", "speakers.yaml", "Point to the 
 var companiesFile = pflag.String("companies-file", "companies.yaml", "Point to the companies.yaml file")
 var rootDir = pflag.String("meetups-dir", ".", "Point to the directory that has all meetup groups as subfolders, each with a meetup.yaml file")
 var dryRun = pflag.Bool("dry-run", true, "Whether to actually apply the changes or not")
-var statsFlag = pflag.Bool("stats", false, "With this flag, the generator generates only the stats.json file")
 var validateFlag = pflag.Bool("validate", false, "Whether to validate the current state of the repo content with the spec")
-var isTesting = false
 var unmarshal = yaml.UnmarshalStrict
 
 // this maps the locations returned from meetup.com to what we want to use here.
@@ -44,9 +42,6 @@ func run() error {
 	}
 	if err := update(cfg); err != nil {
 		return err
-	}
-	if *statsFlag {
-		return writeStats(cfg)
 	}
 	out, err := exec(cfg)
 	if err != nil {
@@ -85,7 +80,7 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 			return nil
 		}
 		// Consider only subdirectories of the root path
-		if !isTesting && filepath.Dir(path) != "." {
+		if filepath.Dir(path) != "." {
 			return nil
 		}
 		meetupsFile := filepath.Join(path, "meetup.yaml")
@@ -214,46 +209,37 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		return nil, err
 	}
 	result["config.json"] = configJSON
-	return result, nil
-}
-
-func writeStats(cfg *Config) error {
-	result := map[string][]byte{}
 	stats, err := aggregateStats(cfg)
 	if err != nil {
-		return err
+		return nil, err
 	}
 	statsJSON, err := json.MarshalIndent(stats, "", "  ")
 	if err != nil {
-		return err
+		return nil, err
 	}
 	result["stats.json"] = statsJSON
-	*dryRun = false
-	return apply(result, *rootDir)
+	return result, nil
 }
 
 func update(cfg *Config) error {
-	if !isTesting {
-		if err := setMeetupData(cfg); err != nil {
-			return err
-		}
+	if err := setMeetupData(cfg); err != nil {
+		return err
 	}
 	for i := range cfg.MeetupGroups {
 		mg := &cfg.MeetupGroups[i]
-		if !isTesting {
-			data, err := GetMeetupInfo(mg.MeetupID)
-			if err != nil {
-				return err
-			}
-			mg.members = data.Members
-			mg.Photo = data.Photo.Link
-			mg.Country = strings.ToLower(data.Country)
-			mg.City = data.City
-			if newName, ok := cityNameExceptions[data.City]; ok {
-				mg.City = newName
-			}
-			mg.Name = data.Name
+		data, err := GetMeetupInfo(mg.MeetupID)
+		if err != nil {
+			return err
 		}
+		mg.members = data.Members
+		mg.Description = data.Description
+		mg.Photo = data.Photo.Link
+		mg.Country = strings.ToLower(data.Country)
+		mg.City = data.City
+		if newName, ok := cityNameExceptions[data.City]; ok {
+			mg.City = newName
+		}
+		mg.Name = data.Name
 		for _, s := range mg.Organizers {
 			cfg.SetSpeakerCountry(s, mg.Country)
 		}

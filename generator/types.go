@@ -28,10 +28,6 @@ type SpeakersFile struct {
 	Speakers []Speaker `json:"speakers"`
 }
 
-type MeetupGroupsFile struct {
-	MeetupGroups []MeetupGroup `json:"meetupGroups"`
-}
-
 type StatsFile struct {
 	MeetupGroups uint64                 `json:"meetupGroups"`
 	AllMeetups   MeetupStats            `json:"allMeetups"`
@@ -209,6 +205,7 @@ type AutogenMeetupGroup struct {
 	Name        string                   `json:"name"`
 	City        string                   `json:"city"`
 	Country     string                   `json:"country"`
+	Description string                   `json:"description"`
 	AutoMeetups map[string]AutogenMeetup `json:"autoMeetups,omitempty"`
 }
 
