@@ -6,31 +6,19 @@ import (
 	"log"
 	"math"
 	"net/http"
-	"strings"
+	"strconv"
 	"sync"
 	"time"
 )
 
-type IntOrString uint64
-
-func (ios *IntOrString) UnmarshalJSON(b []byte) error {
-	b = []byte(strings.ReplaceAll(string(b), `"`, ""))
-	var i uint64
-	if err := json.Unmarshal(b, &i); err != nil {
-		return err
-	}
-	*ios = IntOrString(i)
-	return nil
-}
-
 type EventData struct {
-	ID       IntOrString `json:"id"`
-	Name     string      `json:"name"`
-	Duration int64       `json:"duration"`
-	Date     string      `json:"local_date"`
-	Time     string      `json:"local_time"`
-	Venue    EventVenue  `json:"venue"`
-	RVSPs    uint64      `json:"yes_rsvp_count"`
+	ID       string     `json:"id"`
+	Name     string     `json:"name"`
+	Duration int64      `json:"duration"`
+	Date     string     `json:"local_date"`
+	Time     string     `json:"local_time"`
+	Venue    EventVenue `json:"venue"`
+	RVSPs    uint64     `json:"yes_rsvp_count"`
 }
 
 func (ev *EventData) GetTime() (*Time, error) {
@@ -78,7 +66,8 @@ func setMeetupData(cfg *Config) error {
 				continue
 			}
 			meetup := AutogenMeetup{}
-			meetup.ID = uint64(ev.ID)
+			id, _ := strconv.Atoi(ev.ID)
+			meetup.ID = uint64(id)
 			meetup.Date = *t
 			meetup.Name = ev.Name
 			meetup.Address = ev.Venue.Address
@@ -97,12 +86,13 @@ func setMeetupData(cfg *Config) error {
 }
 
 type MeetupGroupAPI struct {
-	ID      uint64 `json:"id"`
-	Name    string `json:"name"`
-	City    string `json:"untranslated_city"`
-	Country string `json:"localized_country_name"`
-	Members uint64 `json:"members"`
-	Photo   Photo  `json:"group_photo"`
+	ID          uint64 `json:"id"`
+	Name        string `json:"name"`
+	Description string `json:"description"`
+	City        string `json:"untranslated_city"`
+	Country     string `json:"localized_country_name"`
+	Members     uint64 `json:"members"`
+	Photo       Photo  `json:"key_photo"`
 }
 
 type Photo struct {
