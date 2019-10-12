@@ -116,6 +116,12 @@ autoMeetups:
     duration: 3h0m0s
     id: 264988078
     name: First Kubernetes Turku Meetup!
+  "20191128":
+    address: Westendgatan 7
+    date: "2019-11-28T18:00:00Z"
+    duration: 3h0m0s
+    id: 265529376
+    name: Post-KubeCon US Meetup in Helsinki
 city: Helsinki
 country: finland
 name: Kubernetes and CNCF Finland Meetup

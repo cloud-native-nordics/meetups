@@ -3169,7 +3169,7 @@
             {
               "duration": "10m0s",
               "title": "Welcome from the organizers",
-              "slides": "",
+              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
               "speakers": [
                 {
                   "id": "allanhojgaardjensen",
@@ -3196,7 +3196,7 @@
             {
               "duration": "5m0s",
               "title": "Introduction to kubernetes",
-              "slides": "",
+              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
               "speakers": [
                 {
                   "id": "henrikhoegh",
@@ -3222,7 +3222,7 @@
             {
               "duration": "20m0s",
               "title": "Food and Networking",
-              "slides": "",
+              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
               "speakers": null
             },
             {
@@ -3255,7 +3255,7 @@
             {
               "duration": "25m0s",
               "title": "Observability with Prometheus, Grafana and Jaeger",
-              "slides": "",
+              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
               "speakers": [
                 {
                   "id": "arnemejlholm",
@@ -3282,7 +3282,7 @@
             {
               "duration": "30m0s",
               "title": "Networking",
-              "slides": "",
+              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
               "speakers": null
             }
           ]
