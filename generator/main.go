@@ -19,7 +19,9 @@ var companiesFile = pflag.String("companies-file", "companies.yaml", "Point to t
 var rootDir = pflag.String("meetups-dir", ".", "Point to the directory that has all meetup groups as subfolders, each with a meetup.yaml file")
 var dryRun = pflag.Bool("dry-run", true, "Whether to actually apply the changes or not")
 var validateFlag = pflag.Bool("validate", false, "Whether to validate the current state of the repo content with the spec")
-var unmarshal = yaml.UnmarshalStrict
+
+// TODO: Change back after data migration
+var unmarshal = yaml.Unmarshal
 
 // this maps the locations returned from meetup.com to what we want to use here.
 // TODO: Maybe skip this and just use "Århus" directly in our
@@ -252,10 +254,21 @@ func update(cfg *Config) error {
 					cfg.SetSpeakerCountry(s, mg.Country)
 				}
 			}
-			cfg.SetCompanyCountry(m.Sponsors.Venue, mg.Country)
-			for _, s := range m.Sponsors.Other {
-				cfg.SetCompanyCountry(s, mg.Country)
+			m.Sponsors = append(m.Sponsors, MeetupSponsor{
+				Company: m.OldSponsors.Venue,
+				Role:    SponsorRoleVenue,
+			})
+			for _, s := range m.OldSponsors.Other {
+				m.Sponsors = append(m.Sponsors, MeetupSponsor{
+					Company: s,
+					Role:    SponsorRoleOther,
+				})
 			}
+			for _, s := range m.Sponsors {
+				cfg.SetCompanyCountry(s.Company, mg.Country)
+			}
+			m.OldSponsors.Venue = nil
+			m.OldSponsors.Other = nil
 			mg.Meetups[j] = m
 		}
 	}

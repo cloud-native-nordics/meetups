@@ -24,10 +24,8 @@ If you're interested in speaking in this meetup, fill out this form: {{.CFP}}
  - Meetup link: https://www.meetup.com/{{ $.MeetupID }}/events/{{ .ID }}{{ if .Recording }}
  - Recording: {{ .Recording }}{{end}}{{ if .Attendees }}
  - Attendees (according to meetup.com): {{ .Attendees }}{{end}}
-{{ if .Sponsors.Venue }} - Venue sponsor: [{{ .Sponsors.Venue.Name }}]({{ .Sponsors.Venue.WebsiteURL }}){{end}}
-{{ if .Sponsors.Other }} - Meetup sponsors:
-{{ range .Sponsors.Other }}   - [{{ .Name }}]({{ .WebsiteURL }})
-{{end}}{{end}}
+{{ range .Sponsors }}{{ if .Company }} - {{ .Role }} sponsor: [{{ .Company.Name }}]({{ .Company.WebsiteURL }}){{end}}
+{{end}}
 #### Agenda
 
 {{ range .Presentations }} - {{ .StartTime }} - {{ .EndTime }}: {{ .Title }} {{ range .Speakers }}
