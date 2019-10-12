@@ -67,17 +67,17 @@ meetups:
       speakers: null
       title: Welcome from Sparnord
     - duration: 10m0s
-      slides: ""
+      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
       speakers:
       - allanhojgaardjensen
       title: Welcome from the organizers
     - duration: 5m0s
-      slides: ""
+      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
       speakers:
       - henrikhoegh
       title: Introduction to kubernetes
     - duration: 20m0s
-      slides: ""
+      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
       speakers: null
       title: Food and Networking
     - duration: 20m0s
@@ -86,12 +86,12 @@ meetups:
       - arnemejlholm
       title: Automating kubernetes installation - and FluxCD
     - duration: 25m0s
-      slides: ""
+      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
       speakers:
       - arnemejlholm
       title: Observability with Prometheus, Grafana and Jaeger
     - duration: 30m0s
-      slides: ""
+      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
       speakers: null
       title: Networking
     recording: ""
