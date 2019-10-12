@@ -98,6 +98,38 @@ var _ json.Marshaler = &Company{}
 var _ json.Unmarshaler = &Company{}
 var _ json.Unmarshaler = &Speaker{}
 
+type SponsorRole string
+
+var (
+	SponsorRoleVenue    SponsorRole = "Venue"
+	SponsorRoleLongterm SponsorRole = "Longterm"
+	SponsorRoleCloud    SponsorRole = "Cloud"
+	SponsorRoleFood     SponsorRole = "Food"
+	SponsorRoleOther    SponsorRole = "Other"
+
+	ValidSponsorRoles = map[SponsorRole]struct{}{
+		SponsorRoleVenue:    {},
+		SponsorRoleLongterm: {},
+		SponsorRoleCloud:    {},
+		SponsorRoleFood:     {},
+		SponsorRoleOther:    {},
+	}
+)
+
+var _ json.Unmarshaler = SponsorRole("")
+
+func (c SponsorRole) UnmarshalJSON(b []byte) error {
+	str := ""
+	if err := json.Unmarshal(b, &str); err != nil {
+		return err
+	}
+	if _, ok := ValidSponsorRoles[SponsorRole(str)]; !ok {
+		return fmt.Errorf("not a valid sponsor role: %q", str)
+	}
+	c = SponsorRole(str)
+	return nil
+}
+
 type Company struct {
 	companyInternal
 }
@@ -293,9 +325,16 @@ type AutogenMeetup struct {
 
 type Meetup struct {
 	*AutogenMeetup `json:",inline,omitempty"`
-	Recording      string         `json:"recording"`
-	Sponsors       Sponsors       `json:"sponsors"`
-	Presentations  []Presentation `json:"presentations"`
+	Recording      string `json:"recording"`
+	// TODO: Remove later
+	OldSponsors   Sponsors        `json:"sponsors,omitempty"`
+	Sponsors      []MeetupSponsor `json:"sponsors2"`
+	Presentations []Presentation  `json:"presentations"`
+}
+
+type MeetupSponsor struct {
+	Role    SponsorRole `json:"role"`
+	Company *Company    `json:"company"`
 }
 
 func (m *Meetup) DateTime() string {
@@ -326,6 +365,7 @@ func (p *Presentation) EndTime() string {
 	return fmt.Sprintf("%d:%02d", p.end.UTC().Hour(), p.end.UTC().Minute())
 }
 
+// TODO: Remove later
 type Sponsors struct {
 	Venue *Company   `json:"venue"`
 	Other []*Company `json:"other"`
