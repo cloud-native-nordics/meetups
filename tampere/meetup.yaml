@@ -216,4 +216,5 @@ meetups:
       other:
       - luxaslabs
       - cncf
+      - digitalocean
       venue: eficode

@@ -51,13 +51,6 @@ members:
   websiteURL: https://www.ericsson.com
 - countries:
   - finland
-  id: polarsquad
-  logoURL: https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w
-  name: Polar Squad
-  websiteURL: https://polarsquad.com
-  whiteLogo: true
-- countries:
-  - finland
   id: agileo
   logoURL: ""
   name: Agileo
@@ -100,23 +93,24 @@ members:
   name: Wolt
   websiteURL: https://wolt.com
 - countries:
-  - denmark
-  id: lunarway
-  logoURL: https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png
-  name: Lunar Way
-  websiteURL: https://lunarway.com
+  - finland
+  id: montel
+  logoURL: https://www.montel.fi/images/montel-intergalactic-text-5.png
+  name: Montel Intergalactic
+  websiteURL: https://www.montel.fi/
+  whiteLogo: true
+- countries:
+  - finland
+  id: fraktal
+  logoURL: https://www.fraktal.fi/wp-content/uploads/2019/07/Fraktal_Web_header2-768x353.png
+  name: Fraktal Oy
+  websiteURL: https://www.fraktal.fi/
 - countries:
   - denmark
   id: neurospace
   logoURL: https://neurospace.io/img/brand/logo-1500x1500.png
   name: neurospace
   websiteURL: https://neurospace.io
-- countries:
-  - denmark
-  id: praqma
-  logoURL: https://www.praqma.com/images/logo_eficode.png
-  name: Praqma
-  websiteURL: https://praqma.com
 sponsors:
 - countries:
   - finland
@@ -231,7 +225,7 @@ sponsors:
 - countries:
   - finland
   id: redhat
-  logoURL: http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg
+  logoURL: https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg
   name: Red Hat
   websiteURL: https://www.redhat.com
 - countries:
@@ -307,13 +301,6 @@ sponsors:
   websiteURL: https://chaosiq.io/
 - countries:
   - finland
-  - denmark
-  id: loodse
-  logoURL: https://www.loodse.com/images/logo.png
-  name: Loodse
-  websiteURL: https://www.loodse.com/
-- countries:
-  - finland
   id: walkbase
   logoURL: https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png
   name: Walkbase
@@ -378,10 +365,16 @@ sponsors:
   name: NordCloud
   websiteURL: https://nordcloud.com/
 - countries:
+  - finland
+  id: digitalocean
+  logoURL: https://landscape.cncf.io/logos/digital-ocean-kubernetes.svg
+  name: Digital Ocean
+  websiteURL: https://www.digitalocean.com/
+- countries:
   - denmark
   id: lunarway
   logoURL: https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png
-  name: Lunar Way A/S
+  name: Lunar Way
   websiteURL: https://www.lunarway.com
 - countries:
   - denmark
@@ -587,7 +580,7 @@ sponsors:
   id: oracle
   logoURL: https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg
   name: Oracle
-  websiteURL: https://oracle.com
+  websiteURL: https://www.oracle.com
 - countries:
   - denmark
   id: blackbeard
