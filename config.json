@@ -528,7 +528,8 @@
       "websiteURL": "https://www.praqma.com/",
       "logoURL": "https://www.praqma.com/images/logo_eficode.png",
       "countries": [
-        "denmark"
+        "denmark",
+        "norway"
       ]
     },
     {
@@ -673,6 +674,15 @@
       "logoURL": "",
       "countries": [
         "denmark"
+      ]
+    },
+    {
+      "id": "nav",
+      "name": "Nav",
+      "websiteURL": "https://www.nav.no/Forsiden",
+      "logoURL": "https://www.nav.no/_public/beta.nav.no/images/logo.png?_ts=1512923c9b0",
+      "countries": [
+        "norway"
       ]
     }
   ],
@@ -2833,6 +2843,44 @@
       },
       "countries": [
         "denmark"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "samialajrami",
+      "name": "Sami Alajrami",
+      "email": "",
+      "company": {
+        "id": "praqma",
+        "name": "Praqma",
+        "websiteURL": "https://praqma.com",
+        "logoURL": "https://www.praqma.com/images/logo_eficode.png",
+        "countries": [
+          "denmark"
+        ]
+      },
+      "countries": [
+        "norway"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "audunstrand",
+      "name": "Audun Fauchald Strand",
+      "email": "",
+      "company": {
+        "id": "nav",
+        "name": "Nav",
+        "websiteURL": "https://www.nav.no/Forsiden",
+        "logoURL": "https://www.nav.no/_public/beta.nav.no/images/logo.png?_ts=1512923c9b0",
+        "countries": [
+          "norway"
+        ]
+      },
+      "countries": [
+        "norway"
       ],
       "github": "",
       "speakersBureau": ""
@@ -9322,6 +9370,170 @@
           "date": "2019-10-24T18:00:00Z",
           "duration": "3h0m0s",
           "address": "Karasvängen 7",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        }
+      }
+    },
+    {
+      "photo": "https://secure.meetupstatic.com/photos/event/9/3/1/3/highres_461497651.jpeg",
+      "name": "Cloud Native and Kubernetes Oslo",
+      "city": "Oslo",
+      "country": "norway",
+      "meetupID": "Cloud-Native-and-Kubernetes-Oslo",
+      "organizers": [
+        {
+          "id": "samialajrami",
+          "name": "Sami Alajrami",
+          "email": "",
+          "company": {
+            "id": "praqma",
+            "name": "Praqma",
+            "websiteURL": "https://praqma.com",
+            "logoURL": "https://www.praqma.com/images/logo_eficode.png",
+            "countries": [
+              "denmark"
+            ]
+          },
+          "countries": [
+            "norway"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        },
+        {
+          "id": "audunstrand",
+          "name": "Audun Fauchald Strand",
+          "email": "",
+          "company": {
+            "id": "nav",
+            "name": "Nav",
+            "websiteURL": "https://www.nav.no/Forsiden",
+            "logoURL": "https://www.nav.no/_public/beta.nav.no/images/logo.png?_ts=1512923c9b0",
+            "countries": [
+              "norway"
+            ]
+          },
+          "countries": [
+            "norway"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        }
+      ],
+      "cfpLink": "",
+      "latitude": 59.8937806,
+      "longitude": 10.6450355,
+      "meetups": {
+        "20170615": {
+          "id": 240203630,
+          "name": "Kubernetes operators and Infrastructure monitoring with Prometheus",
+          "date": "2017-06-15T18:00:00Z",
+          "duration": "0s",
+          "attendees": 72,
+          "address": "Grensen 5-7",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20170906": {
+          "id": 241356308,
+          "name": "Kontinuerlig leveranse av k8s \u0026 Ting som kan gå feil med Java i containers",
+          "date": "2017-09-06T17:30:00Z",
+          "duration": "0s",
+          "attendees": 92,
+          "address": "Sannergata 2",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20170918": {
+          "id": 243106540,
+          "name": "FAST \u0026 EFFICIENT MICROSERVICES WITH HTTP/2 AND GRPC",
+          "date": "2017-09-18T16:30:00Z",
+          "duration": "0s",
+          "attendees": 50,
+          "address": "Bryggegata 6",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20180228": {
+          "id": 247283826,
+          "name": "Increasing Observability with Distributed Tracing - RSVP at GDG Cloud, not here",
+          "date": "2018-02-28T17:30:00Z",
+          "duration": "1h30m0s",
+          "attendees": 1,
+          "address": "Bryggegata 6",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20180319": {
+          "id": 247118534,
+          "name": "Day of Cloud Native warm-up!",
+          "date": "2018-03-19T18:30:00Z",
+          "duration": "2h30m0s",
+          "attendees": 63,
+          "address": "Tordenskioldsgate 3, 0160",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20180410": {
+          "id": 248472882,
+          "name": "Docker based FaaS using fnproject.io (Hands on workshop)",
+          "date": "2018-04-10T17:30:00Z",
+          "duration": "2h30m0s",
+          "attendees": 25,
+          "address": "Pilestredet 56",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20181009": {
+          "id": 253589853,
+          "name": "Kubernetes day Oslo",
+          "date": "2018-10-09T08:30:00Z",
+          "duration": "7h0m0s",
+          "attendees": 2,
+          "address": "Pilestredet 56",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20181129": {
+          "id": 255573496,
+          "name": "GitOps your kubernetes deployments with Helm and Helmsman",
+          "date": "2018-11-29T17:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 59,
+          "address": "Pilestredet 56",
           "recording": "",
           "sponsors": {
             "venue": null,

@@ -1,0 +1,62 @@
+autoMeetups:
+  "20170615":
+    address: Grensen 5-7
+    attendees: 72
+    date: "2017-06-15T18:00:00Z"
+    duration: 0s
+    id: 240203630
+    name: Kubernetes operators and Infrastructure monitoring with Prometheus
+  "20170906":
+    address: Sannergata 2
+    attendees: 92
+    date: "2017-09-06T17:30:00Z"
+    duration: 0s
+    id: 241356308
+    name: Kontinuerlig leveranse av k8s & Ting som kan gå feil med Java i containers
+  "20170918":
+    address: Bryggegata 6
+    attendees: 50
+    date: "2017-09-18T16:30:00Z"
+    duration: 0s
+    id: 243106540
+    name: FAST & EFFICIENT MICROSERVICES WITH HTTP/2 AND GRPC
+  "20180228":
+    address: Bryggegata 6
+    attendees: 1
+    date: "2018-02-28T17:30:00Z"
+    duration: 1h30m0s
+    id: 247283826
+    name: Increasing Observability with Distributed Tracing - RSVP at GDG Cloud, not
+      here
+  "20180319":
+    address: Tordenskioldsgate 3, 0160
+    attendees: 63
+    date: "2018-03-19T18:30:00Z"
+    duration: 2h30m0s
+    id: 247118534
+    name: Day of Cloud Native warm-up!
+  "20180410":
+    address: Pilestredet 56
+    attendees: 25
+    date: "2018-04-10T17:30:00Z"
+    duration: 2h30m0s
+    id: 248472882
+    name: Docker based FaaS using fnproject.io (Hands on workshop)
+  "20181009":
+    address: Pilestredet 56
+    attendees: 2
+    date: "2018-10-09T08:30:00Z"
+    duration: 7h0m0s
+    id: 253589853
+    name: Kubernetes day Oslo
+  "20181129":
+    address: Pilestredet 56
+    attendees: 59
+    date: "2018-11-29T17:00:00Z"
+    duration: 2h0m0s
+    id: 255573496
+    name: GitOps your kubernetes deployments with Helm and Helmsman
+city: Oslo
+country: norway
+name: Cloud Native and Kubernetes Oslo
+photo: https://secure.meetupstatic.com/photos/event/9/3/1/3/highres_461497651.jpeg
