@@ -19,6 +19,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Meetup sponsors:
    - [luxas labs](https://luxaslabs.com)
    - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+   - [Digital Ocean](https://www.digitalocean.com/)
 
 #### Agenda
 

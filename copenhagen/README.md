@@ -3,7 +3,7 @@
 #### Organizers
 
  - Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
- - Jasmine Crozier, [Praqma](https://praqma.com)
+ - Jasmine Crozier, [Praqma](https://www.praqma.com/)
  - Jeppe Johansen, [Whyyy](https://whyyy.dk/)
 
 ### Chaos Engineering, Istio & KubeOne
@@ -116,7 +116,7 @@
  - 17:40 - 17:55: Kubernetes Registry: what it is and why it's important 
    - Craig Peters, [Jfrog](https://jfrog.com/)
  - 17:55 - 18:10: Automating Helm deployments to Kubernetes with Helmsman 
-   - Sami Alajrami, [Praqma](https://praqma.com)
+   - Sami Alajrami, [Praqma](https://www.praqma.com/)
  - 18:10 - 18:40: Break with sandwiches 
  - 18:40 - 18:55: Serverless Containers with Azure Container Instances 
    - Justin Luk, [Microsoft](https://www.microsoft.com)
@@ -160,11 +160,11 @@
  - 17:30 - 17:45: Welcome 
  - 17:45 - 18:30: First session: foundations of Kubernetes and its primitives 
    - Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
-   - David Christensen, [Praqma](https://praqma.com)
+   - David Christensen, [Praqma](https://www.praqma.com/)
  - 18:30 - 19:00: Food break and socializing 
  - 19:00 - 20:00: Second session: let's deploy 
    - Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
-   - David Christensen, [Praqma](https://praqma.com)
+   - David Christensen, [Praqma](https://www.praqma.com/)
  - 20:00 - 20:00: Goodbye 
 
 ### Let's kick-off Cloud Native Copenhagen!
@@ -184,7 +184,7 @@
    - Slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
  - 18:10 - 18:40: Food break - group discussions 
  - 18:40 - 19:10: Jenkins as Code 
-   - Ewelina Wilkosz, [Praqma](https://praqma.com)
+   - Ewelina Wilkosz, [Praqma](https://www.praqma.com/)
    - Slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf
  - 19:10 - 20:00: Group discussions - continued 
  - 20:00 - 20:00: Gates close 

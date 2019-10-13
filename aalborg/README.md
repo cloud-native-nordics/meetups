@@ -20,7 +20,7 @@
  - 17:15 - 17:25: Welcome from the organizers 
    - Allan Hojgaard Jensen, Cloud Platform Architect, [Oracle](https://www.oracle.com)
  - 17:25 - 17:30: Introduction to kubernetes 
-   - Henrik Høegh, [Praqma](https://praqma.com)
+   - Henrik Høegh, [Praqma](https://www.praqma.com/)
  - 17:30 - 17:50: Food and Networking 
  - 17:50 - 18:10: Automating kubernetes installation - and FluxCD 
    - Arne Mejlholm, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
@@ -44,7 +44,7 @@
    - Allan Hojgaard Jensen, Cloud Platform Architect, [Oracle](https://www.oracle.com)
    - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
  - 17:25 - 17:35: What is Cloud Native Nordics 
-   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way](https://lunarway.com)
+   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way](https://www.lunarway.com)
    - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
  - 17:35 - 17:45: What is Cloud Native 
    - Ihor Dvoretskyi, [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
