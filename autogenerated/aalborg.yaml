@@ -14,4 +14,18 @@ autoMeetups:
     name: '#2 - Kubernetes Intro, Automated install and Observability'
 city: Aalborg
 country: denmark
+description: "<p>Cloud Native Aalborg is a meetup having focus on Cloud Native technologies.
+  Cloud Native technologies are graduated and incubating projects, such as: Kubernetes,
+  Prometheus, Envoy, fluentd and e.g. OpenTracing, Jaeger, etc. to mention a few.
+  <br>Technologies and practices around the platform of platforms will also be on
+  the agenda for the meetup group.<br>We are a small group of people passionate about
+  these technologies working together with the Cloud Native Nordics team in an effort
+  to share experiences, and provide a platform for like-minded people to present and
+  discuss these awesome technologies.</p> \n<p>Cloud Native Aalborg will apply for
+  being an official Cloud Native Computing Foundation meetup group, and part of the
+  Cloud Native Nordics community as well.</p> \n<p>You can join the Cloud Native Nordics
+  Slack Community for further discussions: <a href=\"https://www.cloudnativenordics.com\"
+  class=\"linkified\">https://www.cloudnativenordics.com</a> and to share your thoughts
+  and ideas with other people sharing the passion for this.</p>"
 name: Cloud-Native-Aalborg
+photo: https://secure.meetupstatic.com/photos/event/d/9/3/highres_483783475.jpeg

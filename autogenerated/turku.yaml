@@ -7,4 +7,21 @@ autoMeetups:
     name: First Kubernetes Turku Meetup!
 city: Turku
 country: finland
+description: "<p>Cloud Native tech and Kubernetes goes Turku! Cloud Native and Kubernetes
+  Turku is the official Cloud Native Computing Foundation Meetup group about the technologies
+  hosted under CNCF umbrella. Furthermore, we're part of the Cloud Native Nordics
+  family, an umbrella for the Cloud Native meetups in the Nordic countries. Join our
+  Slack here: <a href=\"https://cloudnativenordics.com\" class=\"linkified\">https://cloudnativenordics.com</a></p>
+  \n<p>We host talks from anyone doing cool things with Kubernetes, and the other
+  CNCF technologies, including companies using them in production or vendors who are
+  pushing the boundaries of what the cloud native techs can do.</p> \n<p>Presentations
+  will be focused on introduction slides, guides, workshops, adoption stories and
+  demos, but not sales pitches. The meetup will be organized in an open and democratic
+  way, where anyone that wants to help out organizing or speaking will be truly welcome.</p>
+  \n<p>To become a venue sponsor or speaker, please reach out to us!</p> \n<p>This
+  meetup's official language is English; the conversations and presentations will
+  be in English.</p> \n<p>For more information, check out <a href=\"https://cloudnativenordics.com\"
+  class=\"linkified\">https://cloudnativenordics.com</a> / <a href=\"https://github.com/cloud-native-nordics\"
+  class=\"linkified\">https://github.com/cloud-native-nordics</a></p>"
 name: Kubernetes and CNCF Turku Meetup
+photo: https://secure.meetupstatic.com/photos/event/a/1/b/d/highres_485021405.jpeg

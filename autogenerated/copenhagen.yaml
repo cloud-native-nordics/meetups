@@ -91,4 +91,10 @@ autoMeetups:
     name: Chaos Engineering, Istio & KubeOne
 city: Copenhagen
 country: denmark
+description: <p>Cloud Native Copenhagen is a new meet-up group focusing on the Cloud
+  Native stack. This means projects such as Kubernetes, Prometheus, OpenTracing, gRPC,
+  fluentd... We are a small group of people passionate about these technologies that
+  would like to share our experiences, and provide a platform for like-minded people
+  to present and discuss these awesome technologies.</p>
 name: Cloud Native Copenhagen
+photo: https://secure.meetupstatic.com/photos/event/5/d/b/8/highres_483803992.jpeg
