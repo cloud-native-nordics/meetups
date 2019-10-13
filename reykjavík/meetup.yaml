@@ -1,0 +1,89 @@
+cfpLink: ""
+meetupID: Reykjavik-Kubernetes-Meetup
+latitude: 64.14
+longitude: -21.92
+organizers:
+- sttts
+- skeggithormar
+meetups:
+  "20180531":
+    presentations:
+    - duration: 30m0s
+      title: Socializing, grabbing some beer
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - baldurthoremilsson
+      title: Kubernetes at Tempo
+    - delay: 15m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - sttts
+      title: Kubernetes as an API driven platform
+    - delay: 15m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - jeremyrickard
+      title: Service Catalog
+    - duration: 30m0s
+      title: Networking
+    recording: ""
+    sponsors:
+      other: null
+      venue: tempo
+  "20190612":
+    presentations:
+    - duration: 15m0s
+      speakers:
+      - eyjolfurolafsson
+      title: A keynote welcome and introduction
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - eyjolfurolafsson
+      - skeggithormar
+      - gunnarsigurdsson
+      title: Container and images overview. Building and running. Simple examples
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - eyjolfurolafsson
+      - skeggithormar
+      - gunnarsigurdsson
+      title: Kubernetes, a natural habitat for containers. Introduction and examples running containers in a Kubernetes cluster
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - gunnarsigurdsson
+      title: Follow up discussions, Q&A. Topics for future meetups
+    - duration: 15m0s
+      title: Networking, beer and pizza
+    recording: ""
+    sponsors:
+      other: null
+      venue: sensa
+  "20190919":
+    presentations:
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - sttts
+      title: CRDs to the next level
+    - delay: 15m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - tryggvilarusson
+      title: NetApp Containerized Storage
+    - delay: 15m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - krisnova
+      title: Hacking Kubernetes. Deep-dive into how containers work and exploit known vulnerabilities in Kubernetes
+    recording: ""
+    sponsors:
+      other: null
+      venue: netapp
