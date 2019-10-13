@@ -12,6 +12,8 @@ Repository to gather all meetup information and slides from Cloud Native Nordic 
   * Rasmus Steiniche, CEO, [neurospace](https://neurospace.io)
   * Henrik Høegh, [Praqma](https://praqma.com)
   * Daniel Fly, [Zitcom](https://www.zitcom.dk/)
+* [Bergen](bergen/README.md)
+  * Hans Kristian Flaatten, [EVRY](https://www.evry.com/en/)
 * [Copenhagen](copenhagen/README.md)
   * Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
   * Jasmine Crozier, [Praqma](https://praqma.com)

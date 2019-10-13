@@ -574,3 +574,9 @@ sponsors:
   logoURL: ""
   name: Blackbeard
   websiteURL: ""
+- countries:
+  - norway
+  id: evry
+  logoURL: https://www.evry.com/gui/project/images/logos/EVRY_logo.svg
+  name: EVRY
+  websiteURL: https://www.evry.com/en/

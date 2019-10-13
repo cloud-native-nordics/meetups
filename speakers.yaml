@@ -851,3 +851,11 @@ speakers:
   name: Frederik Mogensen
   speakersBureau: ""
   title: Software Pilot
+- company: evry
+  countries:
+  - norway
+  email: ""
+  github: ""
+  id: hanskristianflaatten
+  name: Hans Kristian Flaatten
+  speakersBureau: ""
