@@ -677,6 +677,15 @@
       ]
     },
     {
+      "id": "evry",
+      "name": "EVRY",
+      "websiteURL": "https://www.evry.com/en/",
+      "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+      "countries": [
+        "norway"
+      ]
+    },
+    {
       "id": "nav",
       "name": "Nav",
       "websiteURL": "https://www.nav.no/Forsiden",
@@ -2843,6 +2852,25 @@
       },
       "countries": [
         "denmark"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "hanskristianflaatten",
+      "name": "Hans Kristian Flaatten",
+      "email": "",
+      "company": {
+        "id": "evry",
+        "name": "EVRY",
+        "websiteURL": "https://www.evry.com/en/",
+        "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+        "countries": [
+          "norway"
+        ]
+      },
+      "countries": [
+        "norway"
       ],
       "github": "",
       "speakersBureau": ""
@@ -6348,6 +6376,136 @@
           "date": "2019-10-22T17:00:00Z",
           "duration": "3h0m0s",
           "address": "Åbogade 15",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        }
+      }
+    },
+    {
+      "photo": "https://secure.meetupstatic.com/photos/event/c/e/e/c/highres_460912972.jpeg",
+      "name": "DevOps and Cloud Native Bergen",
+      "city": "Bergen",
+      "country": "norway",
+      "meetupID": "cloudnative-bergen",
+      "organizers": [
+        {
+          "id": "hanskristianflaatten",
+          "name": "Hans Kristian Flaatten",
+          "email": "",
+          "company": {
+            "id": "evry",
+            "name": "EVRY",
+            "websiteURL": "https://www.evry.com/en/",
+            "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+            "countries": [
+              "norway"
+            ]
+          },
+          "countries": [
+            "norway"
+          ],
+          "github": "",
+          "speakersBureau": ""
+        }
+      ],
+      "cfpLink": "",
+      "latitude": 60.3651119,
+      "longitude": 5.2890912,
+      "meetups": {
+        "20170608": {
+          "id": 239961806,
+          "name": "First DevOps Bergen Meetup",
+          "date": "2017-06-08T18:00:00Z",
+          "duration": "3h0m0s",
+          "attendees": 28,
+          "address": "Folke Bernadottes vei 40",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20170801": {
+          "id": 240906920,
+          "name": "Continuous Delivery with Jenkins Pipelines",
+          "date": "2017-08-01T18:00:00Z",
+          "duration": "0s",
+          "attendees": 23,
+          "address": "Folke Bernadottes vei 40",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20170912": {
+          "id": 242776090,
+          "name": "Monitoring Cloud Native Applications and Containers with Prometheus",
+          "date": "2017-09-12T18:00:00Z",
+          "duration": "0s",
+          "attendees": 25,
+          "address": "Folke Bernadottes vei 40",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20180118": {
+          "id": 246129996,
+          "name": "Hands on Kubernetes and Google Cloud",
+          "date": "2018-01-18T17:00:00Z",
+          "duration": "4h0m0s",
+          "attendees": 11,
+          "address": "Folke Bernadottes vei 40",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20181101": {
+          "id": 255241597,
+          "name": "Helm – The Kubernetes Package Manager",
+          "date": "2018-11-01T17:30:00Z",
+          "duration": "2h0m0s",
+          "attendees": 15,
+          "address": "Folke Bernadottes vei 40",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20190815": {
+          "id": 263860870,
+          "name": "Infrastructure as Code with Terraform",
+          "date": "2019-08-15T18:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 25,
+          "address": "Folke Bernadottes vei 40",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
+        },
+        "20191016": {
+          "id": 265630882,
+          "name": "Knative - Serverless on your own terms",
+          "date": "2019-10-16T17:30:00Z",
+          "duration": "3h0m0s",
+          "address": "Folke Bernadottes vei 40",
           "recording": "",
           "sponsors": {
             "venue": null,

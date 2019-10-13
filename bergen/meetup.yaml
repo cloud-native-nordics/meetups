@@ -1,0 +1,50 @@
+cfpLink: ""
+meetupID: cloudnative-bergen
+latitude: 60.3651119
+longitude: 5.2890912
+organizers:
+- hanskristianflaatten
+# TODO: Add the agendas, speakers and sponsor information below
+meetups:
+  "20170608":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20170801":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20170912":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20180118":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20181101":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20190815":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20191016":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
