@@ -19,14 +19,19 @@
  - 17:05 - 17:15: Welcome from Sparnord 
  - 17:15 - 17:25: Welcome from the organizers 
    - Allan Hojgaard Jensen, Cloud Platform Architect, [Oracle](https://www.oracle.com)
+   - Slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
  - 17:25 - 17:30: Introduction to kubernetes 
    - Henrik Høegh, [Praqma](https://praqma.com)
+   - Slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
  - 17:30 - 17:50: Food and Networking 
+   - Slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
  - 17:50 - 18:10: Automating kubernetes installation - and FluxCD 
    - Arne Mejlholm, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
  - 18:10 - 18:35: Observability with Prometheus, Grafana and Jaeger 
    - Arne Mejlholm, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
+   - Slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
  - 18:35 - 19:05: Networking 
+   - Slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
 
 ### #1 - Initial Meetup in Cloud Native Aalborg
 
