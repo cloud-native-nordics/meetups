@@ -859,3 +859,19 @@ speakers:
   id: hanskristianflaatten
   name: Hans Kristian Flaatten
   speakersBureau: ""
+- company: praqma
+  countries:
+  - norway
+  email: ""
+  github: ""
+  id: samialajrami
+  name: Sami Alajrami
+  speakersBureau: ""
+- company: nav
+  countries:
+  - norway
+  email: ""
+  github: ""
+  id: audunstrand
+  name: Audun Fauchald Strand
+  speakersBureau: ""
