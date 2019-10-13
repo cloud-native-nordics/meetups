@@ -26,9 +26,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/263932460
  - Attendees (according to meetup.com): 48
  - Venue sponsor: [P47 Tribe Tampere](https://tribetampere.com)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -59,9 +58,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: https://youtu.be/rnpMBRe0CY0
  - Attendees (according to meetup.com): 50
  - Venue sponsor: [Futurice](https://www.futurice.com/)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -90,9 +88,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: https://youtu.be/rnpMBRe0CY0
  - Attendees (according to meetup.com): 48
  - Venue sponsor: [Netum](https://www.netum.fi/)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -120,9 +117,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: https://youtu.be/PvrFMc9bZ-k
  - Attendees (according to meetup.com): 50
  - Venue sponsor: [Cybercom](https://www.cybercom.com/)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 

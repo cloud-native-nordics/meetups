@@ -106,8 +106,7 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261537949
  - Attendees (according to meetup.com): 76
  - Venue sponsor: [Orbit Lab](https://orbitlab.au.dk)
- - Meetup sponsors:
-   - [Tradeshift](https://tradeshift.com)
+ - Other sponsor: [Tradeshift](https://tradeshift.com)
 
 #### Agenda
 
@@ -175,8 +174,7 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259564
  - Attendees (according to meetup.com): 69
  - Venue sponsor: [Orbit Lab](https://orbitlab.au.dk)
- - Meetup sponsors:
-   - [Lunar Way](https://lunarway.com)
+ - Other sponsor: [Lunar Way](https://lunarway.com)
 
 #### Agenda
 
