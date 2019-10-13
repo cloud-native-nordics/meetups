@@ -1,0 +1,25 @@
+autoMeetups:
+  "20180531":
+    address: Borgartún 37
+    attendees: 32
+    date: "2018-05-31T18:30:00Z"
+    duration: 3h0m0s
+    id: 251052060
+    name: Kubernetes Meetup co-located with GopherCon EU
+  "20190612":
+    address: Ármúli 31
+    attendees: 53
+    date: "2019-06-12T16:30:00Z"
+    duration: 2h0m0s
+    id: 262001224
+    name: Kubernetes Everywhere for Everyone
+  "20190919":
+    address: Kringlan 5
+    attendees: 43
+    date: "2019-09-19T16:00:00Z"
+    duration: 2h0m0s
+    id: 264366013
+    name: In the Dangling Conversation ... We Speak of Things That Matter
+city: Reykjavík
+country: iceland
+name: Reykjavík Kubernetes Meetup
