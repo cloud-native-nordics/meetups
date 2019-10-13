@@ -486,6 +486,7 @@ sponsors:
   websiteURL: https://www.simcorp.com/
 - countries:
   - denmark
+  - norway
   id: praqma
   logoURL: https://www.praqma.com/images/logo_eficode.png
   name: Praqma
@@ -587,3 +588,15 @@ sponsors:
   logoURL: ""
   name: Blackbeard
   websiteURL: ""
+- countries:
+  - norway
+  id: evry
+  logoURL: https://www.evry.com/gui/project/images/logos/EVRY_logo.svg
+  name: EVRY
+  websiteURL: https://www.evry.com/en/
+- countries:
+  - norway
+  id: nav
+  logoURL: https://www.nav.no/_public/beta.nav.no/images/logo.png?_ts=1512923c9b0
+  name: Nav
+  websiteURL: https://www.nav.no/Forsiden

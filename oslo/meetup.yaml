@@ -1,0 +1,57 @@
+cfpLink: ""
+meetupID: Cloud-Native-and-Kubernetes-Oslo
+latitude: 59.8937806
+longitude: 10.6450355
+organizers:
+- samialajrami
+- audunstrand
+# TODO: Add the agendas, speakers and sponsor information below
+meetups:
+  "20170615":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20170906":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20170918":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20180228":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20180319":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20180410":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20181009":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
+  "20181129":
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
