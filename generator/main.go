@@ -104,15 +104,16 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 		}
 		city := filepath.Base(filepath.Dir(meetupsFile))
 		autogenFile := filepath.Join(meetupsDir, autogenPath(city))
-		autoMGContent, err := ioutil.ReadFile(autogenFile)
-		if err != nil {
-			return err
+		if _, err := os.Stat(autogenFile); err == nil {
+			autoMGContent, err := ioutil.ReadFile(autogenFile)
+			if err != nil {
+				return err
+			}
+			mg.AutogenMeetupGroup = &AutogenMeetupGroup{}
+			if err := unmarshal(autoMGContent, mg.AutogenMeetupGroup); err != nil {
+				return err
+			}
 		}
-		mg.AutogenMeetupGroup = &AutogenMeetupGroup{}
-		if err := unmarshal(autoMGContent, mg.AutogenMeetupGroup); err != nil {
-			return err
-		}
-		mg.ApplyGeneratedData()
 		meetupGroups = append(meetupGroups, mg)
 		return nil
 	})
