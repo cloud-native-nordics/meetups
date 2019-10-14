@@ -908,3 +908,69 @@ speakers:
   id: audunstrand
   name: Audun Fauchald Strand
   speakersBureau: ""
+- company: redhat
+  countries:
+  - iceland
+  email: ""
+  github: sttts
+  id: sttts
+  name: Stefan Schimanski
+  speakersBureau: ""
+  twitter: the_sttts
+- company: netapp
+  countries:
+  - iceland
+  email: ""
+  github: ""
+  id: skeggithormar
+  name: Skeggi Þormar
+  speakersBureau: ""
+- company: tempo
+  countries:
+  - iceland
+  email: ""
+  github: baldurthoremilsson
+  id: baldurthoremilsson
+  name: Baldur Þór Emilsson
+  speakersBureau: ""
+- company: microsoft
+  countries:
+  - iceland
+  email: ""
+  github: ""
+  id: jeremyrickard
+  name: Jeremy Rickard
+  speakersBureau: ""
+- company: sensa
+  countries:
+  - iceland
+  email: ""
+  github: ""
+  id: gunnarsigurdsson
+  name: Gunnar Sigurðsson
+  speakersBureau: ""
+- company: sensa
+  countries:
+  - iceland
+  email: ""
+  github: ""
+  id: eyjolfurolafsson
+  name: Eyjólfur Ólafsson
+  speakersBureau: ""
+- company: netapp
+  countries:
+  - iceland
+  email: ""
+  github: ""
+  id: tryggvilarusson
+  name: Tryggvi Lárusson
+  speakersBureau: ""
+- company: sysdig
+  countries:
+  - iceland
+  email: ""
+  github: kris-nova
+  id: krisnova
+  name: Kris Nóva
+  speakersBureau: ""
+  twitter: krisnova

@@ -52,6 +52,9 @@ func setMeetupData(cfg *Config) error {
 		if mg.MeetupID == "" {
 			continue
 		}
+		if mg.AutogenMeetupGroup == nil {
+			mg.AutogenMeetupGroup = &AutogenMeetupGroup{}
+		}
 		if mg.AutoMeetups == nil {
 			mg.AutoMeetups = map[string]AutogenMeetup{}
 		}
@@ -88,6 +91,7 @@ func setMeetupData(cfg *Config) error {
 			}
 			mg.AutoMeetups[t.YYYYMMDD()] = meetup
 		}
+		mg.ApplyGeneratedData()
 	}
 	return nil
 }

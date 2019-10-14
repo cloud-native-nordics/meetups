@@ -192,6 +192,7 @@ sponsors:
 - countries:
   - denmark
   - finland
+  - iceland
   id: microsoft
   logoURL: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31
   name: Microsoft
@@ -224,6 +225,7 @@ sponsors:
   websiteURL: https://www.qvik.com
 - countries:
   - finland
+  - iceland
   id: redhat
   logoURL: https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg
   name: Red Hat
@@ -600,3 +602,27 @@ sponsors:
   logoURL: https://www.nav.no/_public/beta.nav.no/images/logo.png?_ts=1512923c9b0
   name: Nav
   websiteURL: https://www.nav.no/Forsiden
+- countries:
+  - iceland
+  id: tempo
+  logoURL: https://www.tempo.io/hubfs/Tempo%20logos/Tempo_Tempo%20Full%20Color%20A.svg
+  name: Tempo
+  websiteURL: https://www.tempo.io/
+- countries:
+  - iceland
+  id: netapp
+  logoURL: https://landscape.cncf.io/logos/net-app-kubernetes-service.svg
+  name: NetApp
+  websiteURL: https://www.netapp.com/us/index.aspx
+- countries:
+  - iceland
+  id: sensa
+  logoURL: https://www.sensa.tech/wp-content/uploads/2014/12/sensa-logo-new.png
+  name: Sensa
+  websiteURL: https://www.sensa.tech/
+- countries:
+  - iceland
+  id: sysdig
+  logoURL: https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/images/logo-sysdig-black.svg
+  name: Sysdig
+  websiteURL: https://sysdig.com/
