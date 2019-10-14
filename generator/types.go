@@ -126,9 +126,10 @@ func (c *Company) UnmarshalJSON(b []byte) error {
 	ctest := companyInternal{}
 	if err := json.Unmarshal(b, &ctest); err == nil {
 		c.companyInternal = ctest
-		if _, ok := globalCompanyMap[c.ID]; !ok {
-			globalCompanyMap[c.ID] = c
+		if _, ok := globalCompanyMap[c.ID]; ok {
+			log.Printf("duplicate company found: %q", c.ID)
 		}
+		globalCompanyMap[c.ID] = c
 		return nil
 	}
 	cid := CompanyID("")
@@ -187,9 +188,11 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 	stest := speakerInternal{}
 	if err := json.Unmarshal(b, &stest); err == nil {
 		s.speakerInternal = stest
-		if _, ok := globalSpeakerMap[s.ID]; !ok {
-			globalSpeakerMap[s.ID] = s
+		if _, ok := globalSpeakerMap[s.ID]; ok {
+			// TODO: Make this Fatal, after figuring out the combination of member/sponsor companies
+			log.Printf("duplicate speaker found: %q", s.ID)
 		}
+		globalSpeakerMap[s.ID] = s
 		return nil
 	}
 	sid := SpeakerID("")

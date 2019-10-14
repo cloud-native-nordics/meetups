@@ -261,10 +261,43 @@ speakers:
 - company: microsoft
   countries:
   - finland
-  email: hapsahainen@gmail.com
+  email: ""
   github: ""
   id: sachinkundu
   name: Sachin Kundu
+  speakersBureau: ""
+- company: chaosiq
+  countries:
+  - finland
+  email: ""
+  github: ""
+  id: russmiles
+  name: Russ Miles
+  speakersBureau: ""
+  title: CEO
+- company: loodse
+  countries:
+  - finland
+  email: ""
+  github: ""
+  id: alexandersowitzki
+  name: Alexander Sowitzki
+  speakersBureau: ""
+- company: nokia
+  countries:
+  - finland
+  email: ""
+  github: ""
+  id: gergelycsatari
+  name: Gergely Csatári
+  speakersBureau: ""
+- company: walkbase
+  countries:
+  - finland
+  email: ""
+  github: ""
+  id: antonlindholm
+  name: Anton Lindholm
   speakersBureau: ""
 - company: meltwater
   countries:

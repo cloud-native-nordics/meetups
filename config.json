@@ -128,7 +128,7 @@
       "id": "vincit",
       "name": "Vincit",
       "websiteURL": "https://www.vincit.fi",
-      "logoURL": "https://www.vincit.fi/wp-content/themes/vincit.com/images/Vincit_tirppa_white.png",
+      "logoURL": "https://www.vincit.fi/wp-content/themes/vincit/images/vincit-logo_red.svg",
       "whiteLogo": true,
       "countries": [
         "finland"
@@ -166,7 +166,7 @@
       "id": "redhat",
       "name": "Red Hat",
       "websiteURL": "https://www.redhat.com",
-      "logoURL": "http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
+      "logoURL": "https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
       "countries": [
         "finland",
         "iceland"
@@ -268,6 +268,24 @@
       ]
     },
     {
+      "id": "chaosiq",
+      "name": "ChaosIQ",
+      "websiteURL": "https://chaosiq.io/",
+      "logoURL": "https://chaosiq.io/assets/img/chaosiq-mark.aca2585b.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "walkbase",
+      "name": "Walkbase",
+      "websiteURL": "https://www.walkbase.com/",
+      "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
       "id": "meltwater",
       "name": "Meltwater",
       "websiteURL": "https://underthehood.meltwater.com/",
@@ -354,8 +372,17 @@
       ]
     },
     {
+      "id": "digitalocean",
+      "name": "Digital Ocean",
+      "websiteURL": "https://www.digitalocean.com/",
+      "logoURL": "https://landscape.cncf.io/logos/digital-ocean-kubernetes.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
       "id": "lunarway",
-      "name": "Lunar Way A/S",
+      "name": "Lunar Way",
       "websiteURL": "https://www.lunarway.com",
       "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
       "countries": [
@@ -567,7 +594,8 @@
       "websiteURL": "https://www.loodse.com/",
       "logoURL": "https://www.loodse.com/images/logo.png",
       "countries": [
-        "denmark"
+        "denmark",
+        "finland"
       ]
     },
     {
@@ -663,7 +691,7 @@
     {
       "id": "oracle",
       "name": "Oracle",
-      "websiteURL": "https://oracle.com",
+      "websiteURL": "https://www.oracle.com",
       "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
       "countries": [
         "denmark"
@@ -809,16 +837,6 @@
       ]
     },
     {
-      "id": "polarsquad",
-      "name": "Polar Squad",
-      "websiteURL": "https://polarsquad.com",
-      "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
-      "whiteLogo": true,
-      "countries": [
-        "finland"
-      ]
-    },
-    {
       "id": "agileo",
       "name": "Agileo",
       "websiteURL": "https://www.agileo.fi",
@@ -883,12 +901,22 @@
       ]
     },
     {
-      "id": "lunarway",
-      "name": "Lunar Way",
-      "websiteURL": "https://lunarway.com",
-      "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
+      "id": "montel",
+      "name": "Montel Intergalactic",
+      "websiteURL": "https://www.montel.fi/",
+      "logoURL": "https://www.montel.fi/images/montel-intergalactic-text-5.png",
+      "whiteLogo": true,
       "countries": [
-        "denmark"
+        "finland"
+      ]
+    },
+    {
+      "id": "fraktal",
+      "name": "Fraktal Oy",
+      "websiteURL": "https://www.fraktal.fi/",
+      "logoURL": "https://www.fraktal.fi/wp-content/uploads/2019/07/Fraktal_Web_header2-768x353.png",
+      "countries": [
+        "finland"
       ]
     },
     {
@@ -896,15 +924,6 @@
       "name": "neurospace",
       "websiteURL": "https://neurospace.io",
       "logoURL": "https://neurospace.io/img/brand/logo-1500x1500.png",
-      "countries": [
-        "denmark"
-      ]
-    },
-    {
-      "id": "praqma",
-      "name": "Praqma",
-      "websiteURL": "https://praqma.com",
-      "logoURL": "https://www.praqma.com/images/logo_eficode.png",
       "countries": [
         "denmark"
       ]
@@ -1157,7 +1176,7 @@
         "id": "vincit",
         "name": "Vincit",
         "websiteURL": "https://www.vincit.fi",
-        "logoURL": "https://www.vincit.fi/wp-content/themes/vincit.com/images/Vincit_tirppa_white.png",
+        "logoURL": "https://www.vincit.fi/wp-content/themes/vincit/images/vincit-logo_red.svg",
         "whiteLogo": true,
         "countries": [
           "finland"
@@ -1246,7 +1265,7 @@
         "id": "redhat",
         "name": "Red Hat",
         "websiteURL": "https://www.redhat.com",
-        "logoURL": "http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
+        "logoURL": "https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
         "countries": [
           "finland",
           "iceland"
@@ -1432,7 +1451,7 @@
         "id": "redhat",
         "name": "Red Hat",
         "websiteURL": "https://www.redhat.com",
-        "logoURL": "http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
+        "logoURL": "https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
         "countries": [
           "finland",
           "iceland"
@@ -1471,7 +1490,7 @@
         "id": "polarsquad",
         "name": "Polar Squad",
         "websiteURL": "https://polarsquad.com",
-        "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
+        "logoURL": "https://images.squarespace-cdn.com/content/5cab30ced7819e79770caa7e/1554814571981-0XPW82OI287D8BNCMWEL/polarsquadlogo.png?content-type=image%2Fpng",
         "whiteLogo": true,
         "countries": [
           "finland"
@@ -1491,7 +1510,7 @@
         "id": "polarsquad",
         "name": "Polar Squad",
         "websiteURL": "https://polarsquad.com",
-        "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
+        "logoURL": "https://images.squarespace-cdn.com/content/5cab30ced7819e79770caa7e/1554814571981-0XPW82OI287D8BNCMWEL/polarsquadlogo.png?content-type=image%2Fpng",
         "whiteLogo": true,
         "countries": [
           "finland"
@@ -1525,7 +1544,7 @@
     {
       "id": "sachinkundu",
       "name": "Sachin Kundu",
-      "email": "hapsahainen@gmail.com",
+      "email": "",
       "company": {
         "id": "microsoft",
         "name": "Microsoft",
@@ -1535,6 +1554,84 @@
           "denmark",
           "finland",
           "iceland"
+        ]
+      },
+      "countries": [
+        "finland"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "russmiles",
+      "name": "Russ Miles",
+      "title": "CEO",
+      "email": "",
+      "company": {
+        "id": "chaosiq",
+        "name": "ChaosIQ",
+        "websiteURL": "https://chaosiq.io/",
+        "logoURL": "https://chaosiq.io/assets/img/chaosiq-mark.aca2585b.svg",
+        "countries": [
+          "finland"
+        ]
+      },
+      "countries": [
+        "finland"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "alexandersowitzki",
+      "name": "Alexander Sowitzki",
+      "email": "",
+      "company": {
+        "id": "loodse",
+        "name": "Loodse",
+        "websiteURL": "https://www.loodse.com/",
+        "logoURL": "https://www.loodse.com/images/logo.png",
+        "countries": [
+          "denmark",
+          "finland"
+        ]
+      },
+      "countries": [
+        "finland"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "gergelycsatari",
+      "name": "Gergely Csatári",
+      "email": "",
+      "company": {
+        "id": "nokia",
+        "name": "Nokia",
+        "websiteURL": "https://www.nokia.fi/",
+        "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMTM0Ljg0IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIj4NCiAgPHBhdGggZmlsbD0iIzEyNDE5MSIgZD0iTTM4LjUyIDEzMy4xOEgwVjIuMThINjYuNjJMMTQzLjA1IDk5Ljk4VjIuMThIMTgxLjU3VjEzMy4xOEgxMTYuM0wzOC41MiAzMy43MVYxMzMuMThNMzY1Ljg3IDkyLjY3QzM2NS44NyAxMTAuODggMzYyLjY1IDExNy4xNiAzNTcuMzIgMTIzLjE4QzM0OS4xNSAxMzIuMTQgMzM3LjI2IDEzNC44NCAzMTQuMzUgMTM0Ljg0TDI0OC41OCAxMzQuODRDMjI1LjY3IDEzNC44NCAyMTMuNzYgMTMyLjE0IDIwNS42IDEyMy4xOEMyMDAuMjcgMTE3LjE2IDE5Ny4wNSAxMTAuODggMTk3LjA1IDkyLjY3TDE5Ny4wNSA0Mi4xN0MxOTcuMDUgMjMuOTcgMjAwLjI3IDE3LjcgMjA1LjYgMTEuNjdDMjEzLjc3IDIuNyAyMjUuNjcgMCAyNDguNTggMEwzMTQuMzUgMEMzMzcuMjYgMCAzNDkuMTUgMi43IDM1Ny4zMiAxMS42N0MzNjIuNjUgMTcuNyAzNjUuODcgMjMuOTcgMzY1Ljg3IDQyLjE3TDM2NS44NyA5Mi42N00zMTIuNzMgMTAxLjY1QzMyMS41MyAxMDEuNjUgMzI0LjYzIDEwMS4xMyAzMjYuNzQgOTkuMjFDMzI4LjcxIDk3LjQyIDMyOS41OCA5NS4xMSAzMjkuNTggODcuNDFMMzI5LjU4IDQ3LjQzQzMyOS41OCAzOS43MyAzMjguNzEgMzcuNDQgMzI2Ljc0IDM1LjY0QzMyNC42MyAzMy43MSAzMjEuNTMgMzMuMiAzMTIuNzMgMzMuMkwyNTAuMTkgMzMuMkMyNDEuMzkgMzMuMiAyMzguMjkgMzMuNzEgMjM2LjE5IDM1LjY0QzIzNC4yMSAzNy40NCAyMzMuMzQgMzkuNzMgMjMzLjM0IDQ3LjQzTDIzMy4zNCA4Ny40MUMyMzMuMzQgOTUuMTEgMjM0LjIxIDk3LjQyIDIzNi4xOSA5OS4yMUMyMzguMjkgMTAxLjEzIDI0MS4zOSAxMDEuNjUgMjUwLjE5IDEwMS42NUwzMTIuNzMgMTAxLjY1VjEwMS42NU00MjEuODUgMi4xOFYxMzMuMThIMzgxLjZWMi4xOEg0MjEuODVNNDg5Ljg1IDIuMThINTQyLjk5TDQ3MS4yNyA2My40NSA1NTIuMTYgMTMzLjE4SDQ5NS4zTDQyMS44NSA2NC44NiA0ODkuODUgMi4xOE01NTkuNTggMi4xOEg1OTkuODRWMTMzLjE4SDU1OS41OE03NTMuMzEgMTMzLjE4IDc0MS40IDExMC4zNkg2NjMuNTFMNjUxLjc0IDEzMy4xN0g2MDcuMjdMNjc4LjYyIDIuMThINzI4LjY2TDgwMCAxMzMuMThINzUzLjMxTTY3Ny41IDgxLjkxSDcyNy41NUw3MDIuNTIgMzQuNDggNjc3LjUgODEuOTEiPg0KICA8L3BhdGg+DQo8L3N2Zz4=",
+        "countries": [
+          "finland"
+        ]
+      },
+      "countries": [
+        "finland"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "antonlindholm",
+      "name": "Anton Lindholm",
+      "email": "",
+      "company": {
+        "id": "walkbase",
+        "name": "Walkbase",
+        "websiteURL": "https://www.walkbase.com/",
+        "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png",
+        "countries": [
+          "finland"
         ]
       },
       "countries": [
@@ -1791,10 +1888,11 @@
       "company": {
         "id": "praqma",
         "name": "Praqma",
-        "websiteURL": "https://praqma.com",
+        "websiteURL": "https://www.praqma.com/",
         "logoURL": "https://www.praqma.com/images/logo_eficode.png",
         "countries": [
-          "denmark"
+          "denmark",
+          "norway"
         ]
       },
       "countries": [
@@ -1810,10 +1908,11 @@
       "company": {
         "id": "praqma",
         "name": "Praqma",
-        "websiteURL": "https://praqma.com",
+        "websiteURL": "https://www.praqma.com/",
         "logoURL": "https://www.praqma.com/images/logo_eficode.png",
         "countries": [
-          "denmark"
+          "denmark",
+          "norway"
         ]
       },
       "countries": [
@@ -1829,7 +1928,7 @@
       "company": {
         "id": "lunarway",
         "name": "Lunar Way",
-        "websiteURL": "https://lunarway.com",
+        "websiteURL": "https://www.lunarway.com",
         "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
         "countries": [
           "denmark"
@@ -1848,7 +1947,7 @@
       "company": {
         "id": "lunarway",
         "name": "Lunar Way",
-        "websiteURL": "https://lunarway.com",
+        "websiteURL": "https://www.lunarway.com",
         "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
         "countries": [
           "denmark"
@@ -1944,7 +2043,7 @@
       "company": {
         "id": "lunarway",
         "name": "Lunar Way",
-        "websiteURL": "https://lunarway.com",
+        "websiteURL": "https://www.lunarway.com",
         "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
         "countries": [
           "denmark"
@@ -2045,7 +2144,7 @@
       "company": {
         "id": "lunarway",
         "name": "Lunar Way",
-        "websiteURL": "https://lunarway.com",
+        "websiteURL": "https://www.lunarway.com",
         "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
         "countries": [
           "denmark"
@@ -2220,7 +2319,7 @@
       "company": {
         "id": "lunarway",
         "name": "Lunar Way",
-        "websiteURL": "https://lunarway.com",
+        "websiteURL": "https://www.lunarway.com",
         "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
         "countries": [
           "denmark"
@@ -2239,7 +2338,7 @@
       "company": {
         "id": "lunarway",
         "name": "Lunar Way",
-        "websiteURL": "https://lunarway.com",
+        "websiteURL": "https://www.lunarway.com",
         "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
         "countries": [
           "denmark"
@@ -2296,10 +2395,11 @@
       "company": {
         "id": "praqma",
         "name": "Praqma",
-        "websiteURL": "https://praqma.com",
+        "websiteURL": "https://www.praqma.com/",
         "logoURL": "https://www.praqma.com/images/logo_eficode.png",
         "countries": [
-          "denmark"
+          "denmark",
+          "norway"
         ]
       },
       "countries": [
@@ -2334,10 +2434,11 @@
       "company": {
         "id": "praqma",
         "name": "Praqma",
-        "websiteURL": "https://praqma.com",
+        "websiteURL": "https://www.praqma.com/",
         "logoURL": "https://www.praqma.com/images/logo_eficode.png",
         "countries": [
-          "denmark"
+          "denmark",
+          "norway"
         ]
       },
       "countries": [
@@ -2372,10 +2473,11 @@
       "company": {
         "id": "praqma",
         "name": "Praqma",
-        "websiteURL": "https://praqma.com",
+        "websiteURL": "https://www.praqma.com/",
         "logoURL": "https://www.praqma.com/images/logo_eficode.png",
         "countries": [
-          "denmark"
+          "denmark",
+          "norway"
         ]
       },
       "countries": [
@@ -2452,7 +2554,8 @@
         "websiteURL": "https://www.loodse.com/",
         "logoURL": "https://www.loodse.com/images/logo.png",
         "countries": [
-          "denmark"
+          "denmark",
+          "finland"
         ]
       },
       "countries": [
@@ -2468,10 +2571,11 @@
       "company": {
         "id": "praqma",
         "name": "Praqma",
-        "websiteURL": "https://praqma.com",
+        "websiteURL": "https://www.praqma.com/",
         "logoURL": "https://www.praqma.com/images/logo_eficode.png",
         "countries": [
-          "denmark"
+          "denmark",
+          "norway"
         ]
       },
       "countries": [
@@ -2546,10 +2650,11 @@
       "company": {
         "id": "praqma",
         "name": "Praqma",
-        "websiteURL": "https://praqma.com",
+        "websiteURL": "https://www.praqma.com/",
         "logoURL": "https://www.praqma.com/images/logo_eficode.png",
         "countries": [
-          "denmark"
+          "denmark",
+          "norway"
         ]
       },
       "countries": [
@@ -2812,7 +2917,7 @@
         "websiteURL": "https://www.oracle.com",
         "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
         "countries": [
-          "finland"
+          "denmark"
         ]
       },
       "countries": [
@@ -2927,10 +3032,11 @@
       "company": {
         "id": "praqma",
         "name": "Praqma",
-        "websiteURL": "https://praqma.com",
+        "websiteURL": "https://www.praqma.com/",
         "logoURL": "https://www.praqma.com/images/logo_eficode.png",
         "countries": [
-          "denmark"
+          "denmark",
+          "norway"
         ]
       },
       "countries": [
@@ -2966,7 +3072,7 @@
         "id": "redhat",
         "name": "Red Hat",
         "websiteURL": "https://www.redhat.com",
-        "logoURL": "http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
+        "logoURL": "https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
         "countries": [
           "finland",
           "iceland"
@@ -3134,7 +3240,7 @@
             "websiteURL": "https://www.oracle.com",
             "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
             "countries": [
-              "finland"
+              "denmark"
             ]
           },
           "countries": [
@@ -3272,7 +3378,7 @@
                     "websiteURL": "https://www.oracle.com",
                     "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
                     "countries": [
-                      "finland"
+                      "denmark"
                     ]
                   },
                   "countries": [
@@ -3296,7 +3402,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -3460,7 +3566,7 @@
                     "websiteURL": "https://www.oracle.com",
                     "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
                     "countries": [
-                      "finland"
+                      "denmark"
                     ]
                   },
                   "countries": [
@@ -3483,10 +3589,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -3581,7 +3688,7 @@
           "company": {
             "id": "lunarway",
             "name": "Lunar Way",
-            "websiteURL": "https://lunarway.com",
+            "websiteURL": "https://www.lunarway.com",
             "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
             "countries": [
               "denmark"
@@ -3621,10 +3728,11 @@
           "company": {
             "id": "praqma",
             "name": "Praqma",
-            "websiteURL": "https://praqma.com",
+            "websiteURL": "https://www.praqma.com/",
             "logoURL": "https://www.praqma.com/images/logo_eficode.png",
             "countries": [
-              "denmark"
+              "denmark",
+              "norway"
             ]
           },
           "countries": [
@@ -3683,7 +3791,7 @@
             "venue": {
               "id": "lunarway",
               "name": "Lunar Way",
-              "websiteURL": "https://lunarway.com",
+              "websiteURL": "https://www.lunarway.com",
               "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
               "countries": [
                 "denmark"
@@ -3705,7 +3813,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -3739,7 +3847,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -3859,7 +3967,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -3892,7 +4000,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -3956,7 +4064,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -4047,10 +4155,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -4081,10 +4190,11 @@
             "venue": {
               "id": "praqma",
               "name": "Praqma",
-              "websiteURL": "https://praqma.com",
+              "websiteURL": "https://www.praqma.com/",
               "logoURL": "https://www.praqma.com/images/logo_eficode.png",
               "countries": [
-                "denmark"
+                "denmark",
+                "norway"
               ]
             },
             "other": null
@@ -4103,7 +4213,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -4160,7 +4270,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -4226,7 +4336,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -4282,7 +4392,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -4368,7 +4478,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -4424,7 +4534,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -4489,10 +4599,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -4551,7 +4662,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -4836,7 +4947,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -4971,7 +5082,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5037,10 +5148,11 @@
             "venue": {
               "id": "praqma",
               "name": "Praqma",
-              "websiteURL": "https://praqma.com",
+              "websiteURL": "https://www.praqma.com/",
               "logoURL": "https://www.praqma.com/images/logo_eficode.png",
               "countries": [
-                "denmark"
+                "denmark",
+                "norway"
               ]
             },
             "other": null
@@ -5084,10 +5196,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -5162,10 +5275,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -5194,7 +5308,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5221,7 +5335,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5278,7 +5392,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5409,7 +5523,7 @@
               {
                 "id": "lunarway",
                 "name": "Lunar Way",
-                "websiteURL": "https://lunarway.com",
+                "websiteURL": "https://www.lunarway.com",
                 "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                 "countries": [
                   "denmark"
@@ -5431,7 +5545,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5458,10 +5572,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -5484,10 +5599,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -5504,7 +5620,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5618,7 +5734,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5756,10 +5872,11 @@
             "venue": {
               "id": "praqma",
               "name": "Praqma",
-              "websiteURL": "https://praqma.com",
+              "websiteURL": "https://www.praqma.com/",
               "logoURL": "https://www.praqma.com/images/logo_eficode.png",
               "countries": [
-                "denmark"
+                "denmark",
+                "norway"
               ]
             },
             "other": null
@@ -5779,7 +5896,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5852,7 +5969,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5898,7 +6015,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -5995,7 +6112,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -6064,7 +6181,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -6091,10 +6208,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -6393,7 +6511,7 @@
                   "company": {
                     "id": "lunarway",
                     "name": "Lunar Way",
-                    "websiteURL": "https://lunarway.com",
+                    "websiteURL": "https://www.lunarway.com",
                     "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
                     "countries": [
                       "denmark"
@@ -6751,10 +6869,11 @@
           "company": {
             "id": "praqma",
             "name": "Praqma",
-            "websiteURL": "https://praqma.com",
+            "websiteURL": "https://www.praqma.com/",
             "logoURL": "https://www.praqma.com/images/logo_eficode.png",
             "countries": [
-              "denmark"
+              "denmark",
+              "norway"
             ]
           },
           "countries": [
@@ -6870,10 +6989,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -6962,10 +7082,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -7013,10 +7134,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -7199,10 +7321,11 @@
                   "company": {
                     "id": "praqma",
                     "name": "Praqma",
-                    "websiteURL": "https://praqma.com",
+                    "websiteURL": "https://www.praqma.com/",
                     "logoURL": "https://www.praqma.com/images/logo_eficode.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "norway"
                     ]
                   },
                   "countries": [
@@ -7262,7 +7385,8 @@
                     "websiteURL": "https://www.loodse.com/",
                     "logoURL": "https://www.loodse.com/images/logo.png",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "finland"
                     ]
                   },
                   "countries": [
@@ -8832,7 +8956,7 @@
                     "id": "redhat",
                     "name": "Red Hat",
                     "websiteURL": "https://www.redhat.com",
-                    "logoURL": "http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
+                    "logoURL": "https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
                     "countries": [
                       "finland",
                       "iceland"
@@ -9000,7 +9124,7 @@
                     "id": "vincit",
                     "name": "Vincit",
                     "websiteURL": "https://www.vincit.fi",
-                    "logoURL": "https://www.vincit.fi/wp-content/themes/vincit.com/images/Vincit_tirppa_white.png",
+                    "logoURL": "https://www.vincit.fi/wp-content/themes/vincit/images/vincit-logo_red.svg",
                     "whiteLogo": true,
                     "countries": [
                       "finland"
@@ -9675,7 +9799,7 @@
                 {
                   "id": "sachinkundu",
                   "name": "Sachin Kundu",
-                  "email": "hapsahainen@gmail.com",
+                  "email": "",
                   "company": {
                     "id": "microsoft",
                     "name": "Microsoft",
@@ -9742,8 +9866,215 @@
           "address": "Karasvängen 7",
           "recording": "",
           "sponsors": {
-            "venue": null,
-            "other": null
+            "venue": {
+              "id": "nokia",
+              "name": "Nokia",
+              "websiteURL": "https://www.nokia.fi/",
+              "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMTM0Ljg0IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIj4NCiAgPHBhdGggZmlsbD0iIzEyNDE5MSIgZD0iTTM4LjUyIDEzMy4xOEgwVjIuMThINjYuNjJMMTQzLjA1IDk5Ljk4VjIuMThIMTgxLjU3VjEzMy4xOEgxMTYuM0wzOC41MiAzMy43MVYxMzMuMThNMzY1Ljg3IDkyLjY3QzM2NS44NyAxMTAuODggMzYyLjY1IDExNy4xNiAzNTcuMzIgMTIzLjE4QzM0OS4xNSAxMzIuMTQgMzM3LjI2IDEzNC44NCAzMTQuMzUgMTM0Ljg0TDI0OC41OCAxMzQuODRDMjI1LjY3IDEzNC44NCAyMTMuNzYgMTMyLjE0IDIwNS42IDEyMy4xOEMyMDAuMjcgMTE3LjE2IDE5Ny4wNSAxMTAuODggMTk3LjA1IDkyLjY3TDE5Ny4wNSA0Mi4xN0MxOTcuMDUgMjMuOTcgMjAwLjI3IDE3LjcgMjA1LjYgMTEuNjdDMjEzLjc3IDIuNyAyMjUuNjcgMCAyNDguNTggMEwzMTQuMzUgMEMzMzcuMjYgMCAzNDkuMTUgMi43IDM1Ny4zMiAxMS42N0MzNjIuNjUgMTcuNyAzNjUuODcgMjMuOTcgMzY1Ljg3IDQyLjE3TDM2NS44NyA5Mi42N00zMTIuNzMgMTAxLjY1QzMyMS41MyAxMDEuNjUgMzI0LjYzIDEwMS4xMyAzMjYuNzQgOTkuMjFDMzI4LjcxIDk3LjQyIDMyOS41OCA5NS4xMSAzMjkuNTggODcuNDFMMzI5LjU4IDQ3LjQzQzMyOS41OCAzOS43MyAzMjguNzEgMzcuNDQgMzI2Ljc0IDM1LjY0QzMyNC42MyAzMy43MSAzMjEuNTMgMzMuMiAzMTIuNzMgMzMuMkwyNTAuMTkgMzMuMkMyNDEuMzkgMzMuMiAyMzguMjkgMzMuNzEgMjM2LjE5IDM1LjY0QzIzNC4yMSAzNy40NCAyMzMuMzQgMzkuNzMgMjMzLjM0IDQ3LjQzTDIzMy4zNCA4Ny40MUMyMzMuMzQgOTUuMTEgMjM0LjIxIDk3LjQyIDIzNi4xOSA5OS4yMUMyMzguMjkgMTAxLjEzIDI0MS4zOSAxMDEuNjUgMjUwLjE5IDEwMS42NUwzMTIuNzMgMTAxLjY1VjEwMS42NU00MjEuODUgMi4xOFYxMzMuMThIMzgxLjZWMi4xOEg0MjEuODVNNDg5Ljg1IDIuMThINTQyLjk5TDQ3MS4yNyA2My40NSA1NTIuMTYgMTMzLjE4SDQ5NS4zTDQyMS44NSA2NC44NiA0ODkuODUgMi4xOE01NTkuNTggMi4xOEg1OTkuODRWMTMzLjE4SDU1OS41OE03NTMuMzEgMTMzLjE4IDc0MS40IDExMC4zNkg2NjMuNTFMNjUxLjc0IDEzMy4xN0g2MDcuMjdMNjc4LjYyIDIuMThINzI4LjY2TDgwMCAxMzMuMThINzUzLjMxTTY3Ny41IDgxLjkxSDcyNy41NUw3MDIuNTIgMzQuNDggNjc3LjUgODEuOTEiPg0KICA8L3BhdGg+DQo8L3N2Zz4=",
+              "countries": [
+                "finland"
+              ]
+            },
+            "other": [
+              {
+                "id": "luxaslabs",
+                "name": "luxas labs",
+                "websiteURL": "https://luxaslabs.com",
+                "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                "countries": [
+                  "finland",
+                  "sweden"
+                ]
+              },
+              {
+                "id": "cncf",
+                "name": "Cloud Native Computing Foundation (CNCF)",
+                "websiteURL": "https://www.cncf.io/",
+                "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
+                "countries": [
+                  "denmark",
+                  "finland"
+                ]
+              }
+            ]
+          },
+          "presentations": [
+            {
+              "duration": "10m0s",
+              "title": "Arrive at the venue, sit down and network with others",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Introductionary words from the venue sponsor for this time, Nokia",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "15m0s",
+              "title": "Updates from the Cloud Native Nordics Community",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "luxas",
+                  "name": "Lucas Käldström",
+                  "title": "CNCF Ambassador",
+                  "email": "lucas@luxaslabs.com",
+                  "company": {
+                    "id": "luxaslabs",
+                    "name": "luxas labs",
+                    "websiteURL": "https://luxaslabs.com",
+                    "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                    "countries": [
+                      "finland",
+                      "sweden"
+                    ]
+                  },
+                  "countries": [
+                    "finland",
+                    "sweden"
+                  ],
+                  "github": "luxas",
+                  "speakersBureau": "luxas"
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "How to be (successful at being) wrong",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "russmiles",
+                  "name": "Russ Miles",
+                  "title": "CEO",
+                  "email": "",
+                  "company": {
+                    "id": "chaosiq",
+                    "name": "ChaosIQ",
+                    "websiteURL": "https://chaosiq.io/",
+                    "logoURL": "https://chaosiq.io/assets/img/chaosiq-mark.aca2585b.svg",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Networking, food, drinks",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "30m0s",
+              "title": "Building KubeOne: yet another Kubernetes cluster management tool",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "alexandersowitzki",
+                  "name": "Alexander Sowitzki",
+                  "email": "",
+                  "company": {
+                    "id": "loodse",
+                    "name": "Loodse",
+                    "websiteURL": "https://www.loodse.com/",
+                    "logoURL": "https://www.loodse.com/images/logo.png",
+                    "countries": [
+                      "denmark",
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "10m0s",
+              "title": "How to make Kubernetes Real Time for Telcos",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "gergelycsatari",
+                  "name": "Gergely Csatári",
+                  "email": "",
+                  "company": {
+                    "id": "nokia",
+                    "name": "Nokia",
+                    "websiteURL": "https://www.nokia.fi/",
+                    "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMTM0Ljg0IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIj4NCiAgPHBhdGggZmlsbD0iIzEyNDE5MSIgZD0iTTM4LjUyIDEzMy4xOEgwVjIuMThINjYuNjJMMTQzLjA1IDk5Ljk4VjIuMThIMTgxLjU3VjEzMy4xOEgxMTYuM0wzOC41MiAzMy43MVYxMzMuMThNMzY1Ljg3IDkyLjY3QzM2NS44NyAxMTAuODggMzYyLjY1IDExNy4xNiAzNTcuMzIgMTIzLjE4QzM0OS4xNSAxMzIuMTQgMzM3LjI2IDEzNC44NCAzMTQuMzUgMTM0Ljg0TDI0OC41OCAxMzQuODRDMjI1LjY3IDEzNC44NCAyMTMuNzYgMTMyLjE0IDIwNS42IDEyMy4xOEMyMDAuMjcgMTE3LjE2IDE5Ny4wNSAxMTAuODggMTk3LjA1IDkyLjY3TDE5Ny4wNSA0Mi4xN0MxOTcuMDUgMjMuOTcgMjAwLjI3IDE3LjcgMjA1LjYgMTEuNjdDMjEzLjc3IDIuNyAyMjUuNjcgMCAyNDguNTggMEwzMTQuMzUgMEMzMzcuMjYgMCAzNDkuMTUgMi43IDM1Ny4zMiAxMS42N0MzNjIuNjUgMTcuNyAzNjUuODcgMjMuOTcgMzY1Ljg3IDQyLjE3TDM2NS44NyA5Mi42N00zMTIuNzMgMTAxLjY1QzMyMS41MyAxMDEuNjUgMzI0LjYzIDEwMS4xMyAzMjYuNzQgOTkuMjFDMzI4LjcxIDk3LjQyIDMyOS41OCA5NS4xMSAzMjkuNTggODcuNDFMMzI5LjU4IDQ3LjQzQzMyOS41OCAzOS43MyAzMjguNzEgMzcuNDQgMzI2Ljc0IDM1LjY0QzMyNC42MyAzMy43MSAzMjEuNTMgMzMuMiAzMTIuNzMgMzMuMkwyNTAuMTkgMzMuMkMyNDEuMzkgMzMuMiAyMzguMjkgMzMuNzEgMjM2LjE5IDM1LjY0QzIzNC4yMSAzNy40NCAyMzMuMzQgMzkuNzMgMjMzLjM0IDQ3LjQzTDIzMy4zNCA4Ny40MUMyMzMuMzQgOTUuMTEgMjM0LjIxIDk3LjQyIDIzNi4xOSA5OS4yMUMyMzguMjkgMTAxLjEzIDI0MS4zOSAxMDEuNjUgMjUwLjE5IDEwMS42NUwzMTIuNzMgMTAxLjY1VjEwMS42NU00MjEuODUgMi4xOFYxMzMuMThIMzgxLjZWMi4xOEg0MjEuODVNNDg5Ljg1IDIuMThINTQyLjk5TDQ3MS4yNyA2My40NSA1NTIuMTYgMTMzLjE4SDQ5NS4zTDQyMS44NSA2NC44NiA0ODkuODUgMi4xOE01NTkuNTggMi4xOEg1OTkuODRWMTMzLjE4SDU1OS41OE03NTMuMzEgMTMzLjE4IDc0MS40IDExMC4zNkg2NjMuNTFMNjUxLjc0IDEzMy4xN0g2MDcuMjdMNjc4LjYyIDIuMThINzI4LjY2TDgwMCAxMzMuMThINzUzLjMxTTY3Ny41IDgxLjkxSDcyNy41NUw3MDIuNTIgMzQuNDggNjc3LjUgODEuOTEiPg0KICA8L3BhdGg+DQo8L3N2Zz4=",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "15m0s",
+              "delay": "5m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
+        },
+        "20191128": {
+          "id": 265529376,
+          "name": "Post-KubeCon US Meetup in Helsinki",
+          "date": "2019-11-28T18:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Westendgatan 7",
+          "recording": "",
+          "sponsors": {
+            "venue": {
+              "id": "intel",
+              "name": "Intel",
+              "websiteURL": "https://www.intel.com",
+              "logoURL": "https://www.cncf.io/wp-content/uploads/2017/03/intel-01.svg",
+              "countries": [
+                "finland"
+              ]
+            },
+            "other": [
+              {
+                "id": "luxaslabs",
+                "name": "luxas labs",
+                "websiteURL": "https://luxaslabs.com",
+                "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                "countries": [
+                  "finland",
+                  "sweden"
+                ]
+              },
+              {
+                "id": "cncf",
+                "name": "Cloud Native Computing Foundation (CNCF)",
+                "websiteURL": "https://www.cncf.io/",
+                "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
+                "countries": [
+                  "denmark",
+                  "finland"
+                ]
+              }
+            ]
           },
           "presentations": null
         }
@@ -9763,10 +10094,11 @@
           "company": {
             "id": "praqma",
             "name": "Praqma",
-            "websiteURL": "https://praqma.com",
+            "websiteURL": "https://www.praqma.com/",
             "logoURL": "https://www.praqma.com/images/logo_eficode.png",
             "countries": [
-              "denmark"
+              "denmark",
+              "norway"
             ]
           },
           "countries": [
@@ -9927,7 +10259,7 @@
             "id": "redhat",
             "name": "Red Hat",
             "websiteURL": "https://www.redhat.com",
-            "logoURL": "http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
+            "logoURL": "https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
             "countries": [
               "finland",
               "iceland"
@@ -10031,7 +10363,7 @@
                     "id": "redhat",
                     "name": "Red Hat",
                     "websiteURL": "https://www.redhat.com",
-                    "logoURL": "http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
+                    "logoURL": "https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
                     "countries": [
                       "finland",
                       "iceland"
@@ -10326,7 +10658,7 @@
                     "id": "redhat",
                     "name": "Red Hat",
                     "websiteURL": "https://www.redhat.com",
-                    "logoURL": "http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
+                    "logoURL": "https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
                     "countries": [
                       "finland",
                       "iceland"
@@ -10712,14 +11044,14 @@
           "speakersBureau": ""
         },
         {
-          "id": "hoisko",
-          "name": "Sakari Hoisko",
+          "id": "ylenius",
+          "name": "Toni Ylenius",
           "email": "",
           "company": {
-            "id": "eficode",
-            "name": "Eficode",
-            "websiteURL": "https://www.eficode.com/home",
-            "logoURL": "https://www.eficode.com/hubfs/images/logos/efilogotext.svg",
+            "id": "cybercom",
+            "name": "Cybercom",
+            "websiteURL": "https://www.cybercom.com/",
+            "logoURL": "https://www.cybercom.com/Static/cybercom/img/CybercomG_logo_Neg_CR.png",
             "whiteLogo": true,
             "countries": [
               "finland"
@@ -11244,7 +11576,7 @@
                     "id": "redhat",
                     "name": "Red Hat",
                     "websiteURL": "https://www.redhat.com",
-                    "logoURL": "http://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
+                    "logoURL": "https://videos.cdn.redhat.com/NEXT/new-brand/Logo-RedHat-A-Color-RGB.svg",
                     "countries": [
                       "finland",
                       "iceland"
@@ -11385,7 +11717,7 @@
                     "id": "polarsquad",
                     "name": "Polar Squad",
                     "websiteURL": "https://polarsquad.com",
-                    "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
+                    "logoURL": "https://images.squarespace-cdn.com/content/5cab30ced7819e79770caa7e/1554814571981-0XPW82OI287D8BNCMWEL/polarsquadlogo.png?content-type=image%2Fpng",
                     "whiteLogo": true,
                     "countries": [
                       "finland"
@@ -11472,7 +11804,7 @@
                     "id": "polarsquad",
                     "name": "Polar Squad",
                     "websiteURL": "https://polarsquad.com",
-                    "logoURL": "https://static1.squarespace.com/static/5cab30ced7819e79770caa7e/t/5cac966beaf4f20001f5ad38/1558524398738/?format=1500w",
+                    "logoURL": "https://images.squarespace-cdn.com/content/5cab30ced7819e79770caa7e/1554814571981-0XPW82OI287D8BNCMWEL/polarsquadlogo.png?content-type=image%2Fpng",
                     "whiteLogo": true,
                     "countries": [
                       "finland"
@@ -11503,10 +11835,80 @@
           "address": "Åkerlundinkatu 11 A",
           "recording": "",
           "sponsors": {
-            "venue": null,
-            "other": null
+            "venue": {
+              "id": "eficode",
+              "name": "Eficode",
+              "websiteURL": "https://www.eficode.com/home",
+              "logoURL": "https://www.eficode.com/hubfs/images/logos/efilogotext.svg",
+              "whiteLogo": true,
+              "countries": [
+                "finland"
+              ]
+            },
+            "other": [
+              {
+                "id": "luxaslabs",
+                "name": "luxas labs",
+                "websiteURL": "https://luxaslabs.com",
+                "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                "countries": [
+                  "finland",
+                  "sweden"
+                ]
+              },
+              {
+                "id": "cncf",
+                "name": "Cloud Native Computing Foundation (CNCF)",
+                "websiteURL": "https://www.cncf.io/",
+                "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
+                "countries": [
+                  "denmark",
+                  "finland"
+                ]
+              },
+              {
+                "id": "digitalocean",
+                "name": "Digital Ocean",
+                "websiteURL": "https://www.digitalocean.com/",
+                "logoURL": "https://landscape.cncf.io/logos/digital-ocean-kubernetes.svg",
+                "countries": [
+                  "finland"
+                ]
+              }
+            ]
           },
-          "presentations": null
+          "presentations": [
+            {
+              "duration": "3h30m0s",
+              "delay": "15m0s",
+              "title": "Kubernetes 101 Hands-On Workshop",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "luxas",
+                  "name": "Lucas Käldström",
+                  "title": "CNCF Ambassador",
+                  "email": "lucas@luxaslabs.com",
+                  "company": {
+                    "id": "luxaslabs",
+                    "name": "luxas labs",
+                    "websiteURL": "https://luxaslabs.com",
+                    "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                    "countries": [
+                      "finland",
+                      "sweden"
+                    ]
+                  },
+                  "countries": [
+                    "finland",
+                    "sweden"
+                  ],
+                  "github": "luxas",
+                  "speakersBureau": "luxas"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -11537,6 +11939,25 @@
           ],
           "github": "luxas",
           "speakersBureau": "luxas"
+        },
+        {
+          "id": "antonlindholm",
+          "name": "Anton Lindholm",
+          "email": "",
+          "company": {
+            "id": "walkbase",
+            "name": "Walkbase",
+            "websiteURL": "https://www.walkbase.com/",
+            "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png",
+            "countries": [
+              "finland"
+            ]
+          },
+          "countries": [
+            "finland"
+          ],
+          "github": "",
+          "speakersBureau": ""
         }
       ],
       "cfpLink": "https://bit.ly/k8sfin-cfp",
@@ -11551,10 +11972,198 @@
           "address": "Lemminkäisenkatu 14B",
           "recording": "",
           "sponsors": {
-            "venue": null,
-            "other": null
+            "venue": {
+              "id": "walkbase",
+              "name": "Walkbase",
+              "websiteURL": "https://www.walkbase.com/",
+              "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png",
+              "countries": [
+                "finland"
+              ]
+            },
+            "other": [
+              {
+                "id": "luxaslabs",
+                "name": "luxas labs",
+                "websiteURL": "https://luxaslabs.com",
+                "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                "countries": [
+                  "finland",
+                  "sweden"
+                ]
+              },
+              {
+                "id": "cncf",
+                "name": "Cloud Native Computing Foundation (CNCF)",
+                "websiteURL": "https://www.cncf.io/",
+                "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
+                "countries": [
+                  "denmark",
+                  "finland"
+                ]
+              }
+            ]
           },
-          "presentations": null
+          "presentations": [
+            {
+              "duration": "10m0s",
+              "title": "Arrive at the venue, sit down and network with others",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Introductionary words from the venue sponsor for this time, Walkbase",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "10m0s",
+              "title": "Welcome to this new meetup group!",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "luxas",
+                  "name": "Lucas Käldström",
+                  "title": "CNCF Ambassador",
+                  "email": "lucas@luxaslabs.com",
+                  "company": {
+                    "id": "luxaslabs",
+                    "name": "luxas labs",
+                    "websiteURL": "https://luxaslabs.com",
+                    "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                    "countries": [
+                      "finland",
+                      "sweden"
+                    ]
+                  },
+                  "countries": [
+                    "finland",
+                    "sweden"
+                  ],
+                  "github": "luxas",
+                  "speakersBureau": "luxas"
+                },
+                {
+                  "id": "antonlindholm",
+                  "name": "Anton Lindholm",
+                  "email": "",
+                  "company": {
+                    "id": "walkbase",
+                    "name": "Walkbase",
+                    "websiteURL": "https://www.walkbase.com/",
+                    "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "5m0s",
+              "title": "Introduction to the cloud native world",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "luxas",
+                  "name": "Lucas Käldström",
+                  "title": "CNCF Ambassador",
+                  "email": "lucas@luxaslabs.com",
+                  "company": {
+                    "id": "luxaslabs",
+                    "name": "luxas labs",
+                    "websiteURL": "https://luxaslabs.com",
+                    "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                    "countries": [
+                      "finland",
+                      "sweden"
+                    ]
+                  },
+                  "countries": [
+                    "finland",
+                    "sweden"
+                  ],
+                  "github": "luxas",
+                  "speakersBureau": "luxas"
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Networking, food, drinks",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "30m0s",
+              "title": "Managing Kubernetes clusters easily with Rancher",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "antonlindholm",
+                  "name": "Anton Lindholm",
+                  "email": "",
+                  "company": {
+                    "id": "walkbase",
+                    "name": "Walkbase",
+                    "websiteURL": "https://www.walkbase.com/",
+                    "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "10m0s",
+              "title": "All Meshed Up - How we use Linkerd",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "sachinkundu",
+                  "name": "Sachin Kundu",
+                  "email": "",
+                  "company": {
+                    "id": "microsoft",
+                    "name": "Microsoft",
+                    "websiteURL": "https://www.microsoft.com",
+                    "logoURL": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31",
+                    "countries": [
+                      "denmark",
+                      "finland",
+                      "iceland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "15m0s",
+              "delay": "5m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
         }
       }
     },

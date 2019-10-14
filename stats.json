@@ -1,10 +1,10 @@
 {
   "meetupGroups": 12,
   "allMeetups": {
-    "sponsors": 79,
-    "speakers": 115,
+    "sponsors": 82,
+    "speakers": 119,
     "meetups": 84,
-    "members": 5371,
+    "members": 5374,
     "totalRSVPs": 4286,
     "averageRSVPs": 51,
     "uniqueRSVPs": 2435
@@ -14,7 +14,7 @@
       "sponsors": 1,
       "speakers": 6,
       "meetups": 2,
-      "members": 116,
+      "members": 118,
       "totalRSVPs": 54,
       "averageRSVPs": 27,
       "uniqueRSVPs": 77
@@ -59,7 +59,7 @@
       "sponsors": 12,
       "speakers": 23,
       "meetups": 10,
-      "members": 836,
+      "members": 837,
       "totalRSVPs": 785,
       "averageRSVPs": 78,
       "uniqueRSVPs": 406
