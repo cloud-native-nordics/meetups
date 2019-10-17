@@ -741,7 +741,7 @@ meetups:
       - kevinsimper
       title: How Cloud Run is the final destination in my Cloud Native journey
     - duration: 30m0s
-      slides: ""
+      slides: "https://www.slideshare.net/FrederikMogensen/cloud-native-nordics-real-world-istio"
       speakers:
       - lassehojgaard
       - frederikmogensen

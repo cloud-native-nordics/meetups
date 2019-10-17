@@ -34,6 +34,7 @@
  - 18:00 - 18:30: Real world Istio - War stories and Gotchas 
    - Lasse Højgaard, Software Pilot, [Trifork A/S](https://trifork.com/)
    - Frederik Mogensen, Software Pilot, [Trifork A/S](https://trifork.com/)
+   - Slides: https://www.slideshare.net/FrederikMogensen/cloud-native-nordics-real-world-istio
 
 ### Cloud Native Aarhus Field Trip: LEGO House
 
