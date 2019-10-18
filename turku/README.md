@@ -4,6 +4,8 @@
 
  - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
  - Anton Lindholm, [Walkbase](https://www.walkbase.com/)
+ - Lasse Sundman, [Nextfour](https://www.nextfour.com/)
+ - Miro Eklund, [Semantum](https://www.semantum.fi/)
 
 #### Submit a talk
 
