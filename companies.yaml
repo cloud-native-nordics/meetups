@@ -621,3 +621,15 @@ sponsors:
   logoURL: https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/images/logo-sysdig-black.svg
   name: Sysdig
   websiteURL: https://sysdig.com/
+- countries:
+  - finland
+  id: semantum
+  logoURL: https://www.semantum.fi/images/logo_big.png
+  name: Semantum
+  websiteURL: https://www.semantum.fi
+- countries:
+  - finland
+  id: nextfour
+  logoURL: https://www.semantum.fi/images/logo_big.png
+  name: Nextfour
+  websiteURL: https://www.nextfour.com/
