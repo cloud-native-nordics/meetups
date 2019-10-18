@@ -295,7 +295,7 @@ speakers:
   countries:
   - finland
   email: ""
-  github: ""
+  github: "LinAnt"
   id: antonlindholm
   name: Anton Lindholm
   speakersBureau: ""
@@ -974,3 +974,19 @@ speakers:
   name: Kris Nóva
   speakersBureau: ""
   twitter: krisnova
+- company: Semantum
+  countries:
+  - finland
+  email: ""
+  github: "Mierpo"
+  id: miroeklund
+  name: Miro Eklund
+  speakersBureau: ""
+- company: Nextfour
+  countries:
+  - finland
+  email: ""
+  github: "lsundman"
+  id: lassesundman
+  name: Lasse Sundman
+  speakersBureau: ""
