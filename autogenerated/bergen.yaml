@@ -47,6 +47,12 @@ autoMeetups:
     duration: 3h0m0s
     id: 265630882
     name: Knative - Serverless on your own terms
+  "20191106":
+    address: Folke Bernadottes vei 40
+    date: "2019-11-06T17:30:00Z"
+    duration: 2h30m0s
+    id: 265768501
+    name: Serverless on AWS
 city: Bergen
 country: norway
 name: DevOps and Cloud Native Bergen

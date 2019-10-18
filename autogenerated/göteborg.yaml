@@ -62,6 +62,12 @@ autoMeetups:
     duration: 3h0m0s
     id: 263937712
     name: September meetup in Gothenburg
+  "20191204":
+    address: ""
+    date: "2019-12-04T18:00:00Z"
+    duration: 3h0m0s
+    id: 265686037
+    name: Local Kubernetes - more details closer to event
 city: Göteborg
 country: sweden
 name: Kubernetes Göteborg

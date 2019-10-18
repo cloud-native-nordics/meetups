@@ -39,12 +39,6 @@ members:
   websiteURL: https://www.wartsila.com
 - countries:
   - finland
-  id: oracle
-  logoURL: https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg
-  name: Oracle
-  websiteURL: https://www.oracle.com
-- countries:
-  - finland
   id: ericsson
   logoURL: https://landscape.cncf.io/logos/ericsson-cloud-container-distribution.svg
   name: Ericsson
@@ -580,6 +574,7 @@ sponsors:
   websiteURL: https://lego.com
 - countries:
   - denmark
+  - finland
   id: oracle
   logoURL: https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg
   name: Oracle
@@ -626,3 +621,15 @@ sponsors:
   logoURL: https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/themes/sysdig/assets/images/logo-sysdig-black.svg
   name: Sysdig
   websiteURL: https://sysdig.com/
+- countries:
+  - finland
+  id: semantum
+  logoURL: https://www.semantum.fi/images/logo_big.png
+  name: Semantum
+  websiteURL: https://www.semantum.fi
+- countries:
+  - finland
+  id: nextfour
+  logoURL: https://www.nextfour.com/wp-content/uploads/2019/01/Nextfour-Logo-White-2018-1000px.png
+  name: Nextfour
+  websiteURL: https://www.nextfour.com/

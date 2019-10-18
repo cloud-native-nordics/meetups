@@ -12,6 +12,12 @@ autoMeetups:
     duration: 3h15m0s
     id: 263744855
     name: '#2 - Kubernetes Intro, Automated install and Observability'
+  "20191106":
+    address: Skelagervej 15
+    date: "2019-11-06T16:30:00Z"
+    duration: 3h0m0s
+    id: 263745012
+    name: '#3 Observability II'
 city: Aalborg
 country: denmark
 name: Cloud-Native-Aalborg

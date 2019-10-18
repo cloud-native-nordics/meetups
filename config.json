@@ -694,7 +694,8 @@
       "websiteURL": "https://www.oracle.com",
       "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
       "countries": [
-        "denmark"
+        "denmark",
+        "finland"
       ]
     },
     {
@@ -759,6 +760,24 @@
       "countries": [
         "iceland"
       ]
+    },
+    {
+      "id": "semantum",
+      "name": "Semantum",
+      "websiteURL": "https://www.semantum.fi",
+      "logoURL": "https://www.semantum.fi/images/logo_big.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "nextfour",
+      "name": "Nextfour",
+      "websiteURL": "https://www.nextfour.com/",
+      "logoURL": "https://www.nextfour.com/wp-content/uploads/2019/01/Nextfour-Logo-White-2018-1000px.png",
+      "countries": [
+        "finland"
+      ]
     }
   ],
   "members": [
@@ -814,15 +833,6 @@
       "name": "Wärtsilä",
       "websiteURL": "https://www.wartsila.com",
       "logoURL": "https://www.wartsila.com/Sitefinity/WebsiteTemplates/Wartsila/App_Themes/WartsilaRebrand/Images/logo@2.png?1479748350",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "oracle",
-      "name": "Oracle",
-      "websiteURL": "https://www.oracle.com",
-      "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
       "countries": [
         "finland"
       ]
@@ -1637,7 +1647,7 @@
       "countries": [
         "finland"
       ],
-      "github": "",
+      "github": "LinAnt",
       "speakersBureau": ""
     },
     {
@@ -2917,7 +2927,8 @@
         "websiteURL": "https://www.oracle.com",
         "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
         "countries": [
-          "denmark"
+          "denmark",
+          "finland"
         ]
       },
       "countries": [
@@ -3220,6 +3231,44 @@
       "github": "kris-nova",
       "twitter": "krisnova",
       "speakersBureau": ""
+    },
+    {
+      "id": "miroeklund",
+      "name": "Miro Eklund",
+      "email": "",
+      "company": {
+        "id": "semantum",
+        "name": "Semantum",
+        "websiteURL": "https://www.semantum.fi",
+        "logoURL": "https://www.semantum.fi/images/logo_big.png",
+        "countries": [
+          "finland"
+        ]
+      },
+      "countries": [
+        "finland"
+      ],
+      "github": "Mierpo",
+      "speakersBureau": ""
+    },
+    {
+      "id": "lassesundman",
+      "name": "Lasse Sundman",
+      "email": "",
+      "company": {
+        "id": "nextfour",
+        "name": "Nextfour",
+        "websiteURL": "https://www.nextfour.com/",
+        "logoURL": "https://www.nextfour.com/wp-content/uploads/2019/01/Nextfour-Logo-White-2018-1000px.png",
+        "countries": [
+          "finland"
+        ]
+      },
+      "countries": [
+        "finland"
+      ],
+      "github": "lsundman",
+      "speakersBureau": ""
     }
   ],
   "meetupGroups": [
@@ -3240,7 +3289,8 @@
             "websiteURL": "https://www.oracle.com",
             "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
             "countries": [
-              "denmark"
+              "denmark",
+              "finland"
             ]
           },
           "countries": [
@@ -3378,7 +3428,8 @@
                     "websiteURL": "https://www.oracle.com",
                     "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "finland"
                     ]
                   },
                   "countries": [
@@ -3566,7 +3617,8 @@
                     "websiteURL": "https://www.oracle.com",
                     "logoURL": "https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg",
                     "countries": [
-                      "denmark"
+                      "denmark",
+                      "finland"
                     ]
                   },
                   "countries": [
@@ -11956,7 +12008,45 @@
           "countries": [
             "finland"
           ],
-          "github": "",
+          "github": "LinAnt",
+          "speakersBureau": ""
+        },
+        {
+          "id": "lassesundman",
+          "name": "Lasse Sundman",
+          "email": "",
+          "company": {
+            "id": "nextfour",
+            "name": "Nextfour",
+            "websiteURL": "https://www.nextfour.com/",
+            "logoURL": "https://www.nextfour.com/wp-content/uploads/2019/01/Nextfour-Logo-White-2018-1000px.png",
+            "countries": [
+              "finland"
+            ]
+          },
+          "countries": [
+            "finland"
+          ],
+          "github": "lsundman",
+          "speakersBureau": ""
+        },
+        {
+          "id": "miroeklund",
+          "name": "Miro Eklund",
+          "email": "",
+          "company": {
+            "id": "semantum",
+            "name": "Semantum",
+            "websiteURL": "https://www.semantum.fi",
+            "logoURL": "https://www.semantum.fi/images/logo_big.png",
+            "countries": [
+              "finland"
+            ]
+          },
+          "countries": [
+            "finland"
+          ],
+          "github": "Mierpo",
           "speakersBureau": ""
         }
       ],
@@ -12060,7 +12150,45 @@
                   "countries": [
                     "finland"
                   ],
-                  "github": "",
+                  "github": "LinAnt",
+                  "speakersBureau": ""
+                },
+                {
+                  "id": "lassesundman",
+                  "name": "Lasse Sundman",
+                  "email": "",
+                  "company": {
+                    "id": "nextfour",
+                    "name": "Nextfour",
+                    "websiteURL": "https://www.nextfour.com/",
+                    "logoURL": "https://www.nextfour.com/wp-content/uploads/2019/01/Nextfour-Logo-White-2018-1000px.png",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "lsundman",
+                  "speakersBureau": ""
+                },
+                {
+                  "id": "miroeklund",
+                  "name": "Miro Eklund",
+                  "email": "",
+                  "company": {
+                    "id": "semantum",
+                    "name": "Semantum",
+                    "websiteURL": "https://www.semantum.fi",
+                    "logoURL": "https://www.semantum.fi/images/logo_big.png",
+                    "countries": [
+                      "finland"
+                    ]
+                  },
+                  "countries": [
+                    "finland"
+                  ],
+                  "github": "Mierpo",
                   "speakersBureau": ""
                 }
               ]
@@ -12122,7 +12250,7 @@
                   "countries": [
                     "finland"
                   ],
-                  "github": "",
+                  "github": "LinAnt",
                   "speakersBureau": ""
                 }
               ]
