@@ -39,12 +39,6 @@ members:
   websiteURL: https://www.wartsila.com
 - countries:
   - finland
-  id: oracle
-  logoURL: https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg
-  name: Oracle
-  websiteURL: https://www.oracle.com
-- countries:
-  - finland
   id: ericsson
   logoURL: https://landscape.cncf.io/logos/ericsson-cloud-container-distribution.svg
   name: Ericsson
@@ -580,6 +574,7 @@ sponsors:
   websiteURL: https://lego.com
 - countries:
   - denmark
+  - finland
   id: oracle
   logoURL: https://landscape.cncf.io/logos/oracle-container-services-for-use-with-kubernetes.svg
   name: Oracle
