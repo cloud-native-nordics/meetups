@@ -56,6 +56,12 @@ autoMeetups:
     duration: 2h0m0s
     id: 255573496
     name: GitOps your kubernetes deployments with Helm and Helmsman
+  "20191113":
+    address: Pilestredet 56
+    date: "2019-11-13T17:15:00Z"
+    duration: 2h0m0s
+    id: 265737238
+    name: Storage Operator in Kubernetes - Getting your Feet Wet
 city: Oslo
 country: norway
 name: Cloud Native and Kubernetes Oslo

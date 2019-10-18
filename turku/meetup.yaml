@@ -5,9 +5,8 @@ longitude: 22.266254
 organizers:
 - luxas
 - antonlindholm
-  - lassesundman
-  - miroeklund
-# TODO: Add Lasse Sundman and Miro Eklund here
+- lassesundman
+- miroeklund
 meetups:
   "20191031":
     presentations: # TODO(Lucas): Add slides here when done
