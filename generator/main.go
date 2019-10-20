@@ -175,6 +175,14 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		city := mg.CityLowercase()
 		path := filepath.Join(city, "README.md")
 		result[path] = b
+
+		path = filepath.Join(city, "meetup.yaml")
+		mg.AutogenMeetupGroup = nil
+		meetupYAML, err := yaml.Marshal(mg)
+		if err != nil {
+			return nil, err
+		}
+		result[path] = meetupYAML
 	}
 	shouldMarshalSpeakerID = false
 	shouldMarshalCompanyID = false

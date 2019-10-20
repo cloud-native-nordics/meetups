@@ -323,13 +323,21 @@ type AutogenMeetup struct {
 	rsvps map[uint64]uint64
 }
 
-type Meetup struct {
-	*AutogenMeetup `json:",inline,omitempty"`
-	Recording      string `json:"recording"`
+type HumanMeetup struct {
+	Recording string `json:"recording"`
 	// TODO: Remove later
 	OldSponsors   Sponsors        `json:"sponsors,omitempty"`
 	Sponsors      []MeetupSponsor `json:"sponsors2"`
 	Presentations []Presentation  `json:"presentations"`
+}
+
+type Meetup struct {
+	HumanMeetup    `json:",inline"`
+	*AutogenMeetup `json:",inline,omitempty"`
+}
+
+func (m Meetup) MarshalJSON() ([]byte, error) {
+	return json.Marshal(m.HumanMeetup)
 }
 
 type MeetupSponsor struct {
