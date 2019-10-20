@@ -11,6 +11,7 @@
 
  - Date: 10 October, 2019 at 16:45 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aalborg/events/263744855
+ - Attendees (according to meetup.com): 50
  - Venue sponsor: [Spar Nord Bank](https://www.sparnord.dk/)
 
 #### Agenda

@@ -5,8 +5,8 @@
     "speakers": 121,
     "meetups": 85,
     "members": 5434,
-    "totalRSVPs": 4286,
-    "averageRSVPs": 50,
+    "totalRSVPs": 4337,
+    "averageRSVPs": 51,
     "uniqueRSVPs": 2434
   },
   "perMeetup": {
@@ -15,8 +15,8 @@
       "speakers": 6,
       "meetups": 2,
       "members": 118,
-      "totalRSVPs": 54,
-      "averageRSVPs": 27,
+      "totalRSVPs": 104,
+      "averageRSVPs": 52,
       "uniqueRSVPs": 77
     },
     "aarhus": {
@@ -33,7 +33,7 @@
       "speakers": 0,
       "meetups": 7,
       "members": 189,
-      "totalRSVPs": 127,
+      "totalRSVPs": 128,
       "averageRSVPs": 18,
       "uniqueRSVPs": 77
     },

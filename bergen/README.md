@@ -8,6 +8,7 @@
 
  - Date: 16 October, 2019 at 17:30 - 20:30
  - Meetup link: https://www.meetup.com/cloudnative-bergen/events/265630882
+ - Attendees (according to meetup.com): 1
 
 
 #### Agenda

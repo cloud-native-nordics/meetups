@@ -3576,6 +3576,7 @@
           "name": "#2 - Kubernetes Intro, Automated install and Observability",
           "date": "2019-10-10T16:45:00Z",
           "duration": "3h15m0s",
+          "attendees": 50,
           "address": "Skelagervej 15",
           "recording": "",
           "sponsors": {
@@ -6884,6 +6885,7 @@
           "name": "Knative - Serverless on your own terms",
           "date": "2019-10-16T17:30:00Z",
           "duration": "3h0m0s",
+          "attendees": 1,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
           "sponsors": {
@@ -12597,7 +12599,7 @@
           "date": "2019-05-28T17:00:00Z",
           "duration": "2h0m0s",
           "attendees": 19,
-          "address": "Tvistevägen 47",
+          "address": "Kuratorvägen 2A",
           "recording": "",
           "sponsors": {
             "venue": {
