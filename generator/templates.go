@@ -8,30 +8,36 @@ var (
 )
 
 const (
-	readmeTmplStr = `## Meetups organized in {{ .City }}
+	readmeTmplStr = `# Meetups organized in {{ .City }}
 
-#### Organizers
+<img width="50%" align="right" alt="Meetup Group Logo" src="{{ .Photo }}">
 
-{{ range .Organizers }} - {{ . }}
-{{end}}{{if .CFP}}
-#### Submit a talk
+## Description
+
+{{ .Description }}
+
+{{if .CFP}}## Submit a talk
 
 If you're interested in speaking in this meetup, fill out this form: {{.CFP}}
+{{end}}
+## Organizers
+
+{{ range .Organizers }}- {{ . }}
 {{end}}{{ range .MeetupList }}
 ### {{ .Name }}
 
- - Date: {{ .DateTime }}
- - Meetup link: https://www.meetup.com/{{ $.MeetupID }}/events/{{ .ID }}{{ if .Recording }}
- - Recording: {{ .Recording }}{{end}}{{ if .Attendees }}
- - Attendees (according to meetup.com): {{ .Attendees }}{{end}}
-{{ range .Sponsors }}{{ if .Company }} - {{ .Role }} sponsor: [{{ .Company.Name }}]({{ .Company.WebsiteURL }}){{end}}
+- Date: {{ .DateTime }}
+- Meetup link: https://www.meetup.com/{{ $.MeetupID }}/events/{{ .ID }}{{ if .Recording }}
+- Recording: {{ .Recording }}{{end}}{{ if .Attendees }}
+- Attendees (according to meetup.com): {{ .Attendees }}{{end}}
+{{ range .Sponsors }}{{ if .Company }}- {{ .Role }} sponsor: [{{ .Company.Name }}]({{ .Company.WebsiteURL }}){{end}}
 {{end}}
 #### Agenda
 
-{{ range .Presentations }} - {{ .StartTime }} - {{ .EndTime }}: {{ .Title }} {{ range .Speakers }}
-   - {{ . }}{{end}}{{ if .Slides }}
-   - Slides: {{ .Slides }}{{end}}{{ if .Recording }}
-   - Recording: {{ .Recording }}{{end}}
+{{ range .Presentations }}- {{ .StartTime }} - {{ .EndTime }}: {{ .Title }} {{ range .Speakers }}
+  - {{ . }}{{end}}{{ if .Slides }}
+  - Slides: {{ .Slides }}{{end}}{{ if .Recording }}
+  - Recording: {{ .Recording }}{{end}}
 {{end}}{{end}}`
 
 	toplevelTmplStr = `# Cloud Native Nordics Meetups
