@@ -5,6 +5,12 @@ autoMeetups:
     duration: 3h0m0s
     id: 264987939
     name: First Kubernetes Turku Meetup!
+  "20191212":
+    address: Linnankatu 16
+    date: "2019-12-12T17:00:00Z"
+    duration: 3h0m0s
+    id: 265794322
+    name: December Meetup in Turku
 city: Turku
 country: finland
 name: Kubernetes and CNCF Turku Meetup

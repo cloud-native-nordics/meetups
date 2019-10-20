@@ -122,6 +122,12 @@ autoMeetups:
     duration: 3h0m0s
     id: 265529376
     name: Post-KubeCon US Meetup in Helsinki
+  "20191212":
+    address: Linnankatu 16
+    date: "2019-12-12T17:00:00Z"
+    duration: 3h0m0s
+    id: 265794376
+    name: December Meetup in Turku
 city: Helsinki
 country: finland
 name: Kubernetes and CNCF Finland Meetup

@@ -8173,7 +8173,8 @@
         "20190613",
         "20190828",
         "20191029",
-        "20191031"
+        "20191031",
+        "20191212"
       ],
       "cfpLink": "https://bit.ly/k8sfin-cfp",
       "latitude": 60.164574,
@@ -12292,6 +12293,19 @@
               "speakers": null
             }
           ]
+        },
+        "20191212": {
+          "id": 265794322,
+          "name": "December Meetup in Turku",
+          "date": "2019-12-12T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Linnankatu 16",
+          "recording": "",
+          "sponsors": {
+            "venue": null,
+            "other": null
+          },
+          "presentations": null
         }
       }
     },
