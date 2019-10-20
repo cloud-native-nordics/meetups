@@ -210,6 +210,8 @@ type AutogenMeetupGroup struct {
 	Country     string                   `json:"country"`
 	Description string                   `json:"description"`
 	AutoMeetups map[string]AutogenMeetup `json:"autoMeetups,omitempty"`
+
+	members uint64
 }
 
 type MeetupGroup struct {
@@ -223,8 +225,6 @@ type MeetupGroup struct {
 	Longitude         float64           `json:"longitude"`
 	Meetups           map[string]Meetup `json:"meetups"`
 	MeetupList        MeetupList        `json:"-"`
-
-	members uint64
 }
 
 func (mg *MeetupGroup) ApplyGeneratedData() {
@@ -286,6 +286,9 @@ type AutogenMeetup struct {
 	Duration  Duration `json:"duration,omitempty"`
 	Attendees uint64   `json:"attendees,omitempty"`
 	Address   string   `json:"address"`
+
+	// rsvps map the user ID to how many rsvp's they used at this event (themselves + guests)
+	rsvps map[uint64]uint64
 }
 
 type Meetup struct {
