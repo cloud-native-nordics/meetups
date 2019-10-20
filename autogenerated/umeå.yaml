@@ -29,4 +29,10 @@ autoMeetups:
     name: 'Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona '
 city: Umeå
 country: sweden
+description: |-
+  <p>Cloud Native Northern Sweden is a meetup with the goal to build a strong and diverse developer community around the new cloud-native computing paradigm.</p>
+  <p>Cloud-native technologies, such as containers and microservices, empower organizations to develop and deploy scalable, agile applications and services in dynamic, distributed environments. Such systems are designed to be resilient, elastic and loosely coupled, enabling developers to build great products faster.</p>
+  <p>If you're interested in microservices, open-source, DevOps, Docker, Kubernetes, OpenShift, Prometheus, AWS/Azure/GCP or any of the many other technologies in the new container stack, join us!</p>
+  <p>If you have ideas, want to help organize or have something you want to talk about, please reach out.</p>
 name: Cloud Native Northern Sweden
+photo: https://secure.meetupstatic.com/photos/event/a/e/4/5/highres_476504613.jpeg

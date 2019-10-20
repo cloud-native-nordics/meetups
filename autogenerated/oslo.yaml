@@ -64,5 +64,11 @@ autoMeetups:
     name: Storage Operator in Kubernetes - Getting your Feet Wet
 city: Oslo
 country: norway
+description: |-
+  <p>Cloud Native and Kubernetes Oslo is the official Cloud Native Computing Foundation Meetup group about the techonologies hosted under CNCF umbrella (<a href="https://www.cncf.io/" class="linkified">https://www.cncf.io/</a>): &lt;br&gt;- Kubernetes &lt;br&gt;- Prometheus &lt;br&gt;- Opentracing &lt;br&gt;- Fluentd &lt;br&gt;- CoreDns &lt;br&gt;- LInkerd &lt;br&gt;- Containerd &lt;br&gt;- Rkt &lt;br&gt;- Grpc</p>
+  <p>We host talks from anyone doing cool things with Kubernetes, and the other CNCF technoligies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do.</p>
+  <p>Presenations will be focused on demos, and not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out organizing will be welcome.</p>
+  <p>We believe in open sponsorships, so anyone can cover the cost of food, space, and travel for speakers. Organizations donating speakers, food/drinks, or space will automatically count as sponsors for the event.</p>
+  <p>To become an organizer, sponsor, or speaker, please reach out to us!</p>
 name: Cloud Native and Kubernetes Oslo
-photo: https://secure.meetupstatic.com/photos/event/9/3/1/3/highres_461497651.jpeg
+photo: https://secure.meetupstatic.com/photos/event/3/8/d/3/highres_461954547.jpeg

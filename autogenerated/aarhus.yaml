@@ -169,4 +169,8 @@ autoMeetups:
     name: Chaos Engineering with Russ Miles & KubeOne with Alexander Sowitzki
 city: Aarhus
 country: denmark
+description: |-
+  <p>Cloud Native Aarhus is a&nbsp;meetup group focusing on the Cloud Native stack. This means that projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd will be the focal point. We are a small group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.</p>
+  <p>Cloud Native Aarhus is an official Cloud Native Computing Foundation meetup group, and part of the Cloud Native Nordics community as well.&nbsp;<br><br>Please join the Cloud Native Nordics Slack Community for further&nbsp;discussions: https://www.cloudnativenordics.com</p>
 name: Cloud Native Aarhus
+photo: https://secure.meetupstatic.com/photos/event/5/6/8/c/highres_485002156.jpeg

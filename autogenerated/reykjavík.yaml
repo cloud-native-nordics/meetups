@@ -22,4 +22,11 @@ autoMeetups:
     name: In the Dangling Conversation ... We Speak of Things That Matter
 city: Reykjavík
 country: iceland
+description: |-
+  <p>Velkomin! Þessi hópur fjallar um Kubernetes – stýrikerfinn fyrir&nbsp;tölvuskýinu.&nbsp;</p>
+  <p>This group is about all things around Kubernetes – from using it to deploy apps, over deploying of Kubernetes clusters to development inside of the Kubernetes OpenSource project.</p>
+  <p>Kubernetes is a container orchestration platform originally started by Google based on their 10 years of experience managing containers at scale in their datacenters. Compared to other solution it is highly opinionated, based on a number of concepts like pods, services, etc. which are used to build distributed applications. It can be run on-premise, in the cloud or operated by cloud providers as a PaaS-like solution.</p>
+  <p>Kubernetes today is a very active OpenSource project with many companies and independent developer contributing.</p>
+  <p>Learn more about Kubernetes at <a href="http://kubernetes.io" class="linkified">http://kubernetes.io</a></p>
 name: Reykjavík Kubernetes Meetup
+photo: https://secure.meetupstatic.com/photos/event/1/2/a/c/highres_471184780.jpeg

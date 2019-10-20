@@ -35,4 +35,9 @@ autoMeetups:
     name: Kubernetes 101 Hands-On Workshop
 city: Tampere
 country: finland
+description: |-
+  <p>This group is for all Kubernauts and cloud enthusiasts that are living, working or visiting Tampere that want to talk and share their experiences with Cloud Native Computing Foundation software. <br>The Kubernetes and CNCF Tampere meetup is part of the official <a href="https://www.meetup.com/Kubernetes-Finland/">CNCF Finland Meetup group</a> about the technologies hosted under CNCF umbrella.</p>
+  <p>We host talks from anyone doing cool things with Kubernetes, and the other CNCF technologies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do. <br> <br>Presentations will be focused on introduction slides, guides, workshops, adoption stories and demos, but not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out sponsoring a venue or speaking will be truly welcome. <br> <br>To become a venue sponsor or speaker, please reach out to us! <br> <br>This meetup's official language is English; the conversations and presentations will be in English.</p>
+  <p> <br></p>
 name: Kubernetes and CNCF Tampere Meetup
+photo: https://secure.meetupstatic.com/photos/event/a/2/0/7/highres_485021479.jpeg

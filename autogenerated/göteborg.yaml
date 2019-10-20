@@ -70,5 +70,8 @@ autoMeetups:
     name: Local Kubernetes - more details closer to event
 city: Göteborg
 country: sweden
+description: |-
+  <p><span>Welcome to Kubernetes Göteborg!&nbsp;</span></p>
+  <p><span>This group is about Kubernetes and technologies related to running Kubernetes. </span><span>We are a group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies. So j</span><span>oin us to share your experience from running Kubernetes, or learn from others!&nbsp;</span> <br></p>
 name: Kubernetes Göteborg
 photo: https://secure.meetupstatic.com/photos/event/b/9/a/b/highres_482747531.jpeg

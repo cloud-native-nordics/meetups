@@ -55,5 +55,7 @@ autoMeetups:
     name: Serverless on AWS
 city: Bergen
 country: norway
+description: <p>All about DevOps, Cloud Native Architecture, Kubernetes, Site Reliability
+  Engineering (SRE), Continuous Integration, Continuous Delivery in Bergen, Norway.</p>
 name: DevOps and Cloud Native Bergen
-photo: https://secure.meetupstatic.com/photos/event/c/e/e/c/highres_460912972.jpeg
+photo: https://secure.meetupstatic.com/photos/event/2/4/0/0/highres_485769216.jpeg
