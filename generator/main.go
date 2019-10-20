@@ -166,6 +166,7 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	result := map[string][]byte{}
 	shouldMarshalSpeakerID = true
 	shouldMarshalCompanyID = true
+	shouldMarshalAutoMeetup = false
 	for _, mg := range cfg.MeetupGroups {
 		mg.SetMeetupList()
 		b, err := tmpl(readmeTmpl, mg)
@@ -206,11 +207,7 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	}
 	result["README.md"] = readmeBytes
 	shouldMarshalCompanyID = false
-	// Don't output the autoMeetups thing in config.json
-	for i, mg := range cfg.MeetupGroups {
-		mg.AutoMeetups = nil
-		cfg.MeetupGroups[i] = mg
-	}
+	shouldMarshalAutoMeetup = true
 	configJSON, err := json.MarshalIndent(cfg, "", "  ")
 	if err != nil {
 		return nil, err
@@ -244,21 +241,10 @@ func update(cfg *Config) error {
 					cfg.SetSpeakerCountry(s, mg.Country)
 				}
 			}
-			m.Sponsors = append(m.Sponsors, MeetupSponsor{
-				Company: m.OldSponsors.Venue,
-				Role:    SponsorRoleVenue,
-			})
-			for _, s := range m.OldSponsors.Other {
-				m.Sponsors = append(m.Sponsors, MeetupSponsor{
-					Company: s,
-					Role:    SponsorRoleOther,
-				})
-			}
+
 			for _, s := range m.Sponsors {
 				cfg.SetCompanyCountry(s.Company, mg.Country)
 			}
-			m.OldSponsors.Venue = nil
-			m.OldSponsors.Other = nil
 			mg.Meetups[j] = m
 		}
 	}

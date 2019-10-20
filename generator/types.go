@@ -10,10 +10,11 @@ import (
 )
 
 var (
-	globalSpeakerMap       = map[SpeakerID]*Speaker{}
-	globalCompanyMap       = map[CompanyID]*Company{}
-	shouldMarshalCompanyID = false
-	shouldMarshalSpeakerID = false
+	globalSpeakerMap        = map[SpeakerID]*Speaker{}
+	globalCompanyMap        = map[CompanyID]*Company{}
+	shouldMarshalCompanyID  = false
+	shouldMarshalSpeakerID  = false
+	shouldMarshalAutoMeetup = false
 )
 
 type CompanyID string
@@ -116,9 +117,7 @@ var (
 	}
 )
 
-var _ json.Unmarshaler = SponsorRole("")
-
-func (c SponsorRole) UnmarshalJSON(b []byte) error {
+func (c *SponsorRole) UnmarshalJSON(b []byte) error {
 	str := ""
 	if err := json.Unmarshal(b, &str); err != nil {
 		return err
@@ -126,7 +125,7 @@ func (c SponsorRole) UnmarshalJSON(b []byte) error {
 	if _, ok := ValidSponsorRoles[SponsorRole(str)]; !ok {
 		return fmt.Errorf("not a valid sponsor role: %q", str)
 	}
-	c = SponsorRole(str)
+	*c = SponsorRole(str)
 	return nil
 }
 
@@ -241,7 +240,7 @@ type AutogenMeetupGroup struct {
 	City        string                   `json:"city"`
 	Country     string                   `json:"country"`
 	Description string                   `json:"description"`
-	AutoMeetups map[string]AutogenMeetup `json:"autoMeetups,omitempty"`
+	AutoMeetups map[string]AutogenMeetup `json:"-"`
 
 	members uint64
 }
@@ -324,19 +323,28 @@ type AutogenMeetup struct {
 }
 
 type HumanMeetup struct {
-	Recording string `json:"recording"`
-	// TODO: Remove later
-	OldSponsors   Sponsors        `json:"sponsors,omitempty"`
-	Sponsors      []MeetupSponsor `json:"sponsors2"`
+	Recording     string          `json:"recording"`
+	Sponsors      []MeetupSponsor `json:"sponsors"`
 	Presentations []Presentation  `json:"presentations"`
 }
 
 type Meetup struct {
-	HumanMeetup    `json:",inline"`
 	*AutogenMeetup `json:",inline,omitempty"`
+	HumanMeetup    `json:",inline"`
+}
+
+type fullMeetup struct {
+	*AutogenMeetup `json:",inline,omitempty"`
+	HumanMeetup    `json:",inline"`
 }
 
 func (m Meetup) MarshalJSON() ([]byte, error) {
+	if shouldMarshalAutoMeetup {
+		return json.Marshal(fullMeetup{
+			AutogenMeetup: m.AutogenMeetup,
+			HumanMeetup:   m.HumanMeetup,
+		})
+	}
 	return json.Marshal(m.HumanMeetup)
 }
 
@@ -371,10 +379,4 @@ func (p *Presentation) StartTime() string {
 
 func (p *Presentation) EndTime() string {
 	return fmt.Sprintf("%d:%02d", p.end.UTC().Hour(), p.end.UTC().Minute())
-}
-
-// TODO: Remove later
-type Sponsors struct {
-	Venue *Company   `json:"venue"`
-	Other []*Company `json:"other"`
 }
