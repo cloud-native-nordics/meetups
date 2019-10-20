@@ -1,12 +1,7 @@
 cfpLink: https://bit.ly/k8sfin-cfp
-meetupID: Kubernetes-Tampere
 latitude: 61.498333
 longitude: 23.764167
-organizers:
-- luxas
-- netumoliver
-- jnummelin
-- ylenius
+meetupID: Kubernetes-Tampere
 meetups:
   "20190117":
     presentations:
@@ -53,10 +48,12 @@ meetups:
       title: Networking
     recording: https://youtu.be/PvrFMc9bZ-k
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: cybercom
+    - company: cybercom
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20190404":
     presentations:
     - duration: 10m0s
@@ -102,10 +99,12 @@ meetups:
       title: Networking, table football, video games
     recording: https://youtu.be/rnpMBRe0CY0
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: netum
+    - company: netum
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20190613":
     presentations:
     - duration: 10m0s
@@ -150,10 +149,12 @@ meetups:
       title: Networking
     recording: https://youtu.be/rnpMBRe0CY0
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: futurice
+    - company: futurice
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20190828":
     presentations:
     - duration: 10m0s
@@ -198,23 +199,32 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: tribe
+    - company: tribe
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20191029":
     presentations:
     - delay: 15m0s
       duration: 3h30m0s
-      # TODO: Fill in this after the meetup
       slides: ""
       speakers:
       - luxas
       title: Kubernetes 101 Hands-On Workshop
     recording: ""
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      - digitalocean
-      venue: eficode
+    - company: eficode
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
+    - company: digitalocean
+      role: Other
+organizers:
+- luxas
+- netumoliver
+- jnummelin
+- ylenius

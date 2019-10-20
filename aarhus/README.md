@@ -12,7 +12,6 @@
  - Date: 22 October, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/264744301
 
-
 #### Agenda
 
 
@@ -68,7 +67,6 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/264122411
  - Attendees (according to meetup.com): 21
 
-
 #### Agenda
 
 
@@ -107,8 +105,7 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/261537949
  - Attendees (according to meetup.com): 76
  - Venue sponsor: [Orbit Lab](https://orbitlab.au.dk)
- - Meetup sponsors:
-   - [Tradeshift](https://tradeshift.com)
+ - Other sponsor: [Tradeshift](https://tradeshift.com)
 
 #### Agenda
 
@@ -176,8 +173,7 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/259259564
  - Attendees (according to meetup.com): 69
  - Venue sponsor: [Orbit Lab](https://orbitlab.au.dk)
- - Meetup sponsors:
-   - [Lunar Way](https://www.lunarway.com)
+ - Other sponsor: [Lunar Way](https://www.lunarway.com)
 
 #### Agenda
 
@@ -461,7 +457,6 @@
  - Date: 30 May, 2017 at 17:00 - 19:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/239352311
  - Attendees (according to meetup.com): 30
-
 
 #### Agenda
 

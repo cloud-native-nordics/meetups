@@ -1,15 +1,10 @@
 cfpLink: https://bit.ly/k8sfin-cfp
-meetupID: Kubernetes-Turku
 latitude: 60.451766
 longitude: 22.266254
-organizers:
-- luxas
-- antonlindholm
-- lassesundman
-- miroeklund
+meetupID: Kubernetes-Turku
 meetups:
   "20191031":
-    presentations: # TODO(Lucas): Add slides here when done
+    presentations:
     - duration: 10m0s
       slides: ""
       speakers: null
@@ -54,14 +49,18 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: walkbase
+    - company: walkbase
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20191212":
-    # TODO(lucas): Create an agenda
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
+organizers:
+- luxas
+- antonlindholm
+- lassesundman
+- miroeklund

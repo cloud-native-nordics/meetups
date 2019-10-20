@@ -11,7 +11,6 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/255573496
  - Attendees (according to meetup.com): 59
 
-
 #### Agenda
 
 
@@ -20,7 +19,6 @@
  - Date: 9 October, 2018 at 8:30 - 15:30
  - Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/253589853
  - Attendees (according to meetup.com): 2
-
 
 #### Agenda
 
@@ -31,7 +29,6 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/248472882
  - Attendees (according to meetup.com): 25
 
-
 #### Agenda
 
 
@@ -40,7 +37,6 @@
  - Date: 19 March, 2018 at 18:30 - 21:00
  - Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/247118534
  - Attendees (according to meetup.com): 63
-
 
 #### Agenda
 
@@ -51,7 +47,6 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/247283826
  - Attendees (according to meetup.com): 1
 
-
 #### Agenda
 
 
@@ -60,7 +55,6 @@
  - Date: 18 September, 2017 at 16:30 - 16:30
  - Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/243106540
  - Attendees (according to meetup.com): 50
-
 
 #### Agenda
 
@@ -71,7 +65,6 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/241356308
  - Attendees (according to meetup.com): 92
 
-
 #### Agenda
 
 
@@ -80,7 +73,6 @@
  - Date: 15 June, 2017 at 18:00 - 18:00
  - Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/240203630
  - Attendees (according to meetup.com): 72
-
 
 #### Agenda
 

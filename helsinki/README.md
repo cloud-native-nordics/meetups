@@ -14,9 +14,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Date: 28 November, 2019 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/265529376
  - Venue sponsor: [Intel](https://www.intel.com)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -26,9 +25,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Date: 24 October, 2019 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264646130
  - Venue sponsor: [Nokia](https://www.nokia.fi/)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -51,10 +49,9 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/263999844
  - Attendees (according to meetup.com): 95
  - Venue sponsor: [Maria 01](https://maria.io/)
- - Meetup sponsors:
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
-   - [luxas labs](https://luxaslabs.com)
-   - [UpCloud](https://upcloud.com/)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [UpCloud](https://upcloud.com/)
 
 #### Agenda
 
@@ -80,9 +77,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/261376372
  - Attendees (according to meetup.com): 75
  - Venue sponsor: [NordCloud](https://nordcloud.com/)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -110,10 +106,9 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/259072993
  - Attendees (according to meetup.com): 3
  - Venue sponsor: [Unity](https://www.unity.com)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
-   - [Weaveworks](https://www.weave.works)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [Weaveworks](https://www.weave.works)
 
 #### Agenda
 
@@ -128,9 +123,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: TBA
  - Attendees (according to meetup.com): 114
  - Venue sponsor: [Accenture](https://accenture.com)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -156,9 +150,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: https://www.youtube.com/watch?v=CfMKDg_iprg
  - Attendees (according to meetup.com): 88
  - Venue sponsor: [Tuxera Oy](https://www.tuxera.com)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -187,9 +180,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: https://www.youtube.com/watch?v=3ZWKm26Aw9Q
  - Attendees (according to meetup.com): 95
  - Venue sponsor: [Elisa](https://www.elisa.com)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -218,9 +210,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
  - Attendees (according to meetup.com): 110
  - Venue sponsor: [Nordea](https://www.nordea.fi)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
@@ -242,11 +233,10 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: https://www.youtube.com/watch?v=JhBgGv0xCE0
  - Attendees (according to meetup.com): 63
  - Venue sponsor: [Maria 01](https://maria.io/)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
-   - [Emblica](https://www.emblica.fi/)
-   - [UpCloud](https://upcloud.com/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [Emblica](https://www.emblica.fi/)
+ - Other sponsor: [UpCloud](https://upcloud.com/)
 
 #### Agenda
 
@@ -273,11 +263,10 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: https://www.youtube.com/watch?v=4ZMEejSX8nM
  - Attendees (according to meetup.com): 65
  - Venue sponsor: [Maria 01](https://maria.io/)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
-   - [Emblica](https://www.emblica.fi/)
-   - [UpCloud](https://upcloud.com/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [Emblica](https://www.emblica.fi/)
+ - Other sponsor: [UpCloud](https://upcloud.com/)
 
 #### Agenda
 
@@ -302,11 +291,10 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - Recording: https://youtu.be/9ZY-m4vAhiQ
  - Attendees (according to meetup.com): 77
  - Venue sponsor: [UpCloud](https://upcloud.com/)
- - Meetup sponsors:
-   - [luxas labs](https://luxaslabs.com)
-   - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
-   - [Emblica](https://www.emblica.fi/)
-   - [UpCloud](https://upcloud.com/)
+ - Other sponsor: [luxas labs](https://luxaslabs.com)
+ - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+ - Other sponsor: [Emblica](https://www.emblica.fi/)
+ - Other sponsor: [UpCloud](https://upcloud.com/)
 
 #### Agenda
 

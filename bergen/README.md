@@ -10,7 +10,6 @@
  - Meetup link: https://www.meetup.com/cloudnative-bergen/events/265630882
  - Attendees (according to meetup.com): 1
 
-
 #### Agenda
 
 
@@ -19,7 +18,6 @@
  - Date: 15 August, 2019 at 18:00 - 20:00
  - Meetup link: https://www.meetup.com/cloudnative-bergen/events/263860870
  - Attendees (according to meetup.com): 25
-
 
 #### Agenda
 
@@ -30,7 +28,6 @@
  - Meetup link: https://www.meetup.com/cloudnative-bergen/events/255241597
  - Attendees (according to meetup.com): 15
 
-
 #### Agenda
 
 
@@ -39,7 +36,6 @@
  - Date: 18 January, 2018 at 17:00 - 21:00
  - Meetup link: https://www.meetup.com/cloudnative-bergen/events/246129996
  - Attendees (according to meetup.com): 11
-
 
 #### Agenda
 
@@ -50,7 +46,6 @@
  - Meetup link: https://www.meetup.com/cloudnative-bergen/events/242776090
  - Attendees (according to meetup.com): 25
 
-
 #### Agenda
 
 
@@ -60,7 +55,6 @@
  - Meetup link: https://www.meetup.com/cloudnative-bergen/events/240906920
  - Attendees (according to meetup.com): 23
 
-
 #### Agenda
 
 
@@ -69,7 +63,6 @@
  - Date: 8 June, 2017 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/cloudnative-bergen/events/239961806
  - Attendees (according to meetup.com): 28
-
 
 #### Agenda
 

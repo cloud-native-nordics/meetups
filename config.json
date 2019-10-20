@@ -3374,18 +3374,20 @@
           "attendees": 54,
           "address": "Skelagervej 15",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "sparnordbank",
-              "name": "Spar Nord Bank",
-              "websiteURL": "https://www.sparnord.dk/",
-              "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "sparnordbank",
+                "name": "Spar Nord Bank",
+                "websiteURL": "https://www.sparnord.dk/",
+                "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -3579,18 +3581,20 @@
           "attendees": 50,
           "address": "Skelagervej 15",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "sparnordbank",
-              "name": "Spar Nord Bank",
-              "websiteURL": "https://www.sparnord.dk/",
-              "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "sparnordbank",
+                "name": "Spar Nord Bank",
+                "websiteURL": "https://www.sparnord.dk/",
+                "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "20m0s",
@@ -3830,10 +3834,7 @@
           "attendees": 30,
           "address": "Hack Kampmanns Plads 1",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20170829": {
@@ -3844,18 +3845,20 @@
           "attendees": 50,
           "address": "Axel Kiers Vej 11",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "lunarway",
-              "name": "Lunar Way",
-              "websiteURL": "https://www.lunarway.com",
-              "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "lunarway",
+                "name": "Lunar Way",
+                "websiteURL": "https://www.lunarway.com",
+                "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -3967,18 +3970,20 @@
           "attendees": 32,
           "address": "Finlandsgade 27C",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "itminds",
-              "name": "IT Minds",
-              "websiteURL": "https://itminds.dk",
-              "logoURL": "https://erhvervaarhus.dk/Files/Images/EA_billeder/Logo/IT%20Minds%20logo.jpg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "itminds",
+                "name": "IT Minds",
+                "websiteURL": "https://itminds.dk",
+                "logoURL": "https://erhvervaarhus.dk/Files/Images/EA_billeder/Logo/IT%20Minds%20logo.jpg",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -4088,18 +4093,20 @@
           "attendees": 45,
           "address": "Åboulevarden 37, 5 sal.",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "uberaarhus",
-              "name": "Uber",
-              "websiteURL": "https://uber.com",
-              "logoURL": "https://www.underconsideration.com/brandnew/archives/uber_2018_logo.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "uberaarhus",
+                "name": "Uber",
+                "websiteURL": "https://uber.com",
+                "logoURL": "https://www.underconsideration.com/brandnew/archives/uber_2018_logo.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "30m0s",
@@ -4243,19 +4250,21 @@
           "attendees": 24,
           "address": "Åbogade",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "praqma",
-              "name": "Praqma",
-              "websiteURL": "https://www.praqma.com/",
-              "logoURL": "https://www.praqma.com/images/logo_eficode.png",
-              "countries": [
-                "denmark",
-                "norway"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "praqma",
+                "name": "Praqma",
+                "websiteURL": "https://www.praqma.com/",
+                "logoURL": "https://www.praqma.com/images/logo_eficode.png",
+                "countries": [
+                  "denmark",
+                  "norway"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "30m0s",
@@ -4301,18 +4310,20 @@
           "attendees": 53,
           "address": "Paludan-Müllers Vej 40 B",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "boligportal",
-              "name": "BoligPortal",
-              "websiteURL": "https://boligportal.dk",
-              "logoURL": "https://boligportal.dk/info/wp-content/uploads/2018/11/BoligPortal_Logo_Pos.svg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "boligportal",
+                "name": "BoligPortal",
+                "websiteURL": "https://boligportal.dk",
+                "logoURL": "https://boligportal.dk/info/wp-content/uploads/2018/11/BoligPortal_Logo_Pos.svg",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -4423,18 +4434,20 @@
           "attendees": 78,
           "address": "Inge Lehmanns Gade 2",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "bestseller",
-              "name": "BESTSELLER",
-              "websiteURL": "https://bestseller.com/",
-              "logoURL": "https://about.bestseller.com/media/1838/bestseller_logo_black_2016.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "bestseller",
+                "name": "BESTSELLER",
+                "websiteURL": "https://bestseller.com/",
+                "logoURL": "https://about.bestseller.com/media/1838/bestseller_logo_black_2016.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -4565,18 +4578,20 @@
           "attendees": 33,
           "address": "Søren Frichs Vej 39",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "systematic",
-              "name": "Systematic",
-              "websiteURL": "https://systematic.com",
-              "logoURL": "https://www.danskindustri.dk/siteassets/di-digital/2018-billeder/systematic-logo.jpg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "systematic",
+                "name": "Systematic",
+                "websiteURL": "https://systematic.com",
+                "logoURL": "https://www.danskindustri.dk/siteassets/di-digital/2018-billeder/systematic-logo.jpg",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -4693,18 +4708,20 @@
           "attendees": 72,
           "address": "Søren Frichs Vej 44",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "firstagenda",
-              "name": "First Agenda",
-              "websiteURL": "https://firstagenda.com",
-              "logoURL": "https://firstagenda.com/assets/F0CD/First-Agenda-logo-RGB-pos-text_transp.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "firstagenda",
+                "name": "First Agenda",
+                "websiteURL": "https://firstagenda.com",
+                "logoURL": "https://firstagenda.com/assets/F0CD/First-Agenda-logo-RGB-pos-text_transp.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -4818,18 +4835,20 @@
           "attendees": 88,
           "address": "Åboulevarden 37, 5 sal.",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "uberaarhus",
-              "name": "Uber",
-              "websiteURL": "https://uber.com",
-              "logoURL": "https://www.underconsideration.com/brandnew/archives/uber_2018_logo.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "uberaarhus",
+                "name": "Uber",
+                "websiteURL": "https://uber.com",
+                "logoURL": "https://www.underconsideration.com/brandnew/archives/uber_2018_logo.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -4972,18 +4991,20 @@
           "attendees": 49,
           "address": "Hack Kampmanns Plads 2, Plan 3",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "trifork",
-              "name": "Trifork A/S",
-              "websiteURL": "https://trifork.com/",
-              "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "trifork",
+                "name": "Trifork A/S",
+                "websiteURL": "https://trifork.com/",
+                "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -5080,18 +5101,20 @@
           "attendees": 81,
           "address": "Inge Lehmanns Gade 2",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "bestseller",
-              "name": "BESTSELLER",
-              "websiteURL": "https://bestseller.com/",
-              "logoURL": "https://about.bestseller.com/media/1838/bestseller_logo_black_2016.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "bestseller",
+                "name": "BESTSELLER",
+                "websiteURL": "https://bestseller.com/",
+                "logoURL": "https://about.bestseller.com/media/1838/bestseller_logo_black_2016.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -5201,19 +5224,21 @@
           "attendees": 85,
           "address": "Åbogade",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "praqma",
-              "name": "Praqma",
-              "websiteURL": "https://www.praqma.com/",
-              "logoURL": "https://www.praqma.com/images/logo_eficode.png",
-              "countries": [
-                "denmark",
-                "norway"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "praqma",
+                "name": "Praqma",
+                "websiteURL": "https://www.praqma.com/",
+                "logoURL": "https://www.praqma.com/images/logo_eficode.png",
+                "countries": [
+                  "denmark",
+                  "norway"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -5423,18 +5448,20 @@
           "attendees": 64,
           "address": "Ceresbyen 75",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "sparnordbank",
-              "name": "Spar Nord Bank",
-              "websiteURL": "https://www.sparnord.dk/",
-              "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "sparnordbank",
+                "name": "Spar Nord Bank",
+                "websiteURL": "https://www.sparnord.dk/",
+                "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -5566,18 +5593,22 @@
           "attendees": 69,
           "address": "Finlandsgade 24A",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "orbitlab",
-              "name": "Orbit Lab",
-              "websiteURL": "https://orbitlab.au.dk",
-              "logoURL": "https://orbitlab.au.dk/wp-content/uploads/2019/02/orbitaselogo-01.png",
-              "countries": [
-                "denmark"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "orbitlab",
+                "name": "Orbit Lab",
+                "websiteURL": "https://orbitlab.au.dk",
+                "logoURL": "https://orbitlab.au.dk/wp-content/uploads/2019/02/orbitaselogo-01.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "lunarway",
                 "name": "Lunar Way",
                 "websiteURL": "https://www.lunarway.com",
@@ -5586,8 +5617,8 @@
                   "denmark"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -5765,18 +5796,20 @@
           "attendees": 76,
           "address": "Edwin Rahrs Vej 40",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "mobilepay",
-              "name": "MobilePay",
-              "websiteURL": "https://mobilpay.dk",
-              "logoURL": "https://ekstrabladet.dk/incoming/p9vv9/6833307/IMAGE_ALTERNATES/p730/Mobile-Pay.jpg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "mobilepay",
+                "name": "MobilePay",
+                "websiteURL": "https://mobilpay.dk",
+                "logoURL": "https://ekstrabladet.dk/incoming/p9vv9/6833307/IMAGE_ALTERNATES/p730/Mobile-Pay.jpg",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -5925,19 +5958,21 @@
           "attendees": 36,
           "address": "Åbogade 15",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "praqma",
-              "name": "Praqma",
-              "websiteURL": "https://www.praqma.com/",
-              "logoURL": "https://www.praqma.com/images/logo_eficode.png",
-              "countries": [
-                "denmark",
-                "norway"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "praqma",
+                "name": "Praqma",
+                "websiteURL": "https://www.praqma.com/",
+                "logoURL": "https://www.praqma.com/images/logo_eficode.png",
+                "countries": [
+                  "denmark",
+                  "norway"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -6201,18 +6236,22 @@
           "attendees": 76,
           "address": "Finlandsgade 21",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "orbitlab",
-              "name": "Orbit Lab",
-              "websiteURL": "https://orbitlab.au.dk",
-              "logoURL": "https://orbitlab.au.dk/wp-content/uploads/2019/02/orbitaselogo-01.png",
-              "countries": [
-                "denmark"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "orbitlab",
+                "name": "Orbit Lab",
+                "websiteURL": "https://orbitlab.au.dk",
+                "logoURL": "https://orbitlab.au.dk/wp-content/uploads/2019/02/orbitaselogo-01.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "tradeshift",
                 "name": "Tradeshift",
                 "websiteURL": "https://tradeshift.com",
@@ -6221,8 +6260,8 @@
                   "denmark"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -6329,18 +6368,20 @@
           "attendees": 39,
           "address": "Sødalsparken 18",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "jysk",
-              "name": "JYSK",
-              "websiteURL": "https://jysk.com",
-              "logoURL": "https://www.jysk.com/sites/jysk.com/themes/jysk_com_bootstrap/job-jysk-logo.svg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "jysk",
+                "name": "JYSK",
+                "websiteURL": "https://jysk.com",
+                "logoURL": "https://www.jysk.com/sites/jysk.com/themes/jysk_com_bootstrap/job-jysk-logo.svg",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "5m0s",
@@ -6449,18 +6490,20 @@
           "attendees": 52,
           "address": "Søren Frichs Vej 39",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "systematic",
-              "name": "Systematic",
-              "websiteURL": "https://systematic.com",
-              "logoURL": "https://www.danskindustri.dk/siteassets/di-digital/2018-billeder/systematic-logo.jpg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "systematic",
+                "name": "Systematic",
+                "websiteURL": "https://systematic.com",
+                "logoURL": "https://www.danskindustri.dk/siteassets/di-digital/2018-billeder/systematic-logo.jpg",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": null
         },
         "20190821": {
@@ -6471,10 +6514,7 @@
           "attendees": 21,
           "address": "Finlandsgade 28",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20190903": {
@@ -6485,18 +6525,20 @@
           "attendees": 67,
           "address": "Ole Kirks Plads 1",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "lego",
-              "name": "LEGO",
-              "websiteURL": "https://lego.com",
-              "logoURL": "https://www.lego.com/r/www/r/aboutus/-/media/aboutus/img/lego-logo_rgb.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "lego",
+                "name": "LEGO",
+                "websiteURL": "https://lego.com",
+                "logoURL": "https://www.lego.com/r/www/r/aboutus/-/media/aboutus/img/lego-logo_rgb.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "1h15m0s",
@@ -6632,18 +6674,20 @@
           "attendees": 71,
           "address": "Hack Kampmanns Pl. 2",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "trifork",
-              "name": "Trifork A/S",
-              "websiteURL": "https://trifork.com/",
-              "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "trifork",
+                "name": "Trifork A/S",
+                "websiteURL": "https://trifork.com/",
+                "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "30m0s",
@@ -6756,10 +6800,7 @@
           "duration": "3h0m0s",
           "address": "Åbogade 15",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         }
       }
@@ -6804,10 +6845,7 @@
           "attendees": 28,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20170801": {
@@ -6818,10 +6856,7 @@
           "attendees": 23,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20170912": {
@@ -6832,10 +6867,7 @@
           "attendees": 25,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20180118": {
@@ -6846,10 +6878,7 @@
           "attendees": 11,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20181101": {
@@ -6860,10 +6889,7 @@
           "attendees": 15,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20190815": {
@@ -6874,10 +6900,7 @@
           "attendees": 25,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20191016": {
@@ -6888,10 +6911,7 @@
           "attendees": 1,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         }
       }
@@ -6975,18 +6995,20 @@
           "attendees": 27,
           "address": "Sortedam Dossering 5D",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "twentythree",
-              "name": "TwentyThreeTM",
-              "websiteURL": "https://www.twentythree.net/",
-              "logoURL": "https://www.twentythree.net/assets/images/logo.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "twentythree",
+                "name": "TwentyThreeTM",
+                "websiteURL": "https://www.twentythree.net/",
+                "logoURL": "https://www.twentythree.net/assets/images/logo.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "20m0s",
@@ -7087,18 +7109,20 @@
           "attendees": 58,
           "address": "H.C. Andersen Blvd. 27",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "falconio",
-              "name": "Falcon.io",
-              "websiteURL": "https://www.falcon.io/",
-              "logoURL": "data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTUiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAxNTUgMjAiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMDkwYTBmO308L3N0eWxlPjwvZGVmcz48dGl0bGU+RmFsY29uLUlPLUxvZ28tMjAxNjwvdGl0bGU+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjQ1LjI1IDkuNTYgNDAuMjUgOS41NiA0MC4yNSA2LjU2IDQ2LjI1IDYuNTYgNDYuMjUgMi41NiAzNi4yNSAyLjU2IDM2LjI1IDE5LjU2IDQwLjI1IDE5LjU2IDQwLjI1IDEyLjU2IDQ1LjI1IDEyLjU2IDQ1LjI1IDkuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik01MiwyLjU2bC02LjM1LDE3aDQuNTZsMS4xNC0zSDU3LjNsMS4wNywzSDYzbC02LjIyLTE3SDUyWm0wLjUzLDExLDEuNzctNmgwbDEuNzUsNkg1Mi41N1oiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iNjguMjUgMi41NiA2NC4yNSAyLjU2IDY0LjI1IDE5LjU2IDc0LjI1IDE5LjU2IDc0LjI1IDE1LjU2IDY4LjI1IDE1LjU2IDY4LjI1IDIuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik03Ny4xMyw1LjE3YTguNjQsOC42NCwwLDAsMC0yLjQzLDYsOC4wOCw4LjA4LDAsMCwwLDIuNjUsNi4yNCw5LjA4LDkuMDgsMCwwLDAsNi4xNSwyLjQzLDkuODcsOS44NywwLDAsMCwzLjc0LS43N1YxNGE1LDUsMCwwLDEtMy42NiwxLjc1LDQuMjcsNC4yNywwLDAsMS00LjQ1LTQuNDksNC4zMiw0LjMyLDAsMCwxLDQuMzctNC41OCw0Ljc3LDQuNzcsMCwwLDEsMy43MywxLjgyVjMuMzNBOC45LDguOSwwLDAsMCw3Ny4xMyw1LjE3WiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTk4LjI2LDIuMzljLTQuNzUsMC05LjEzLDMuNS05LjEzLDguNWE5LjEzLDkuMTMsMCwwLDAsMTguMjcsMEMxMDcuMzksNS44OSwxMDMsMi4zOSw5OC4yNiwyLjM5Wm0wLDEzLjQ1YTQuNzMsNC43MywwLDAsMS00LjY3LTQuOTMsNC42OCw0LjY4LDAsMCwxLDkuMzMsMEE0LjczLDQuNzMsMCwwLDEsOTguMjYsMTUuODRaIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjEyMS4yNSAxMi41NiAxMjEuNTEgMTIuNTYgMTEzLjY1IDIuNTYgMTA5LjI1IDIuNTYgMTA5LjI1IDE5LjU2IDExMy4yNSAxOS41NiAxMTMuMjUgOS41NiAxMTMuNjkgOS41NiAxMjEuNTUgMTkuNTYgMTI1LjI1IDE5LjU2IDEyNS4yNSAyLjU2IDEyMS4yNSAyLjU2IDEyMS4yNSAxMi41NiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEzNS4yNSwxOS41NmgtMXYtMTdoMXYxN1oiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNTUsMTEuMTVhOC41OSw4LjU5LDAsMCwxLTE3LjE3LDBBOC41OSw4LjU5LDAsMCwxLDE1NSwxMS4xNVptLTEuNDQsMGE3LjE1LDcuMTUsMCwxLDAtMTQuMywwQTcuMTUsNy4xNSwwLDEsMCwxNTMuNTYsMTEuMTVaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTMxLjExLDE4LjMzYTEuMTYsMS4xNiwwLDEsMS0yLjMyLDBBMS4xNiwxLjE2LDAsMCwxLDEzMS4xMSwxOC4zM1oiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0zMS40MSwxOS4zNWExNCwxNCwwLDAsMS04LTUuNWMtMC40Ni4yMi0yLjA3LDEuMi02LjY2LDAuOWExMi4yOSwxMi4yOSwwLDAsMS04LjQ3LTQuNjYsNjkuNzksNjkuNzksMCwwLDAsMTMuMzYsMCwxNS4xMSwxNS4xMSwwLDAsMS0uMzYtMS42M2MtMS43MSwwLTkuMjcuMS0xMy44MS0xLjE5QzIuMzgsNS44NiwwLDAsMCwwQTIyOS42OSwyMjkuNjksMCwwLDEsMjYuNDEsMy41OGExLjYsMS42LDAsMCwxLDEuMzMsMS41NGMwLDcsMi4xNywxMSw0LjIyLDEzLjUzQzMyLjI5LDE5LjA5LDMyLjE2LDE5LjU0LDMxLjQxLDE5LjM1WiIvPjwvc3ZnPg==",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "falconio",
+                "name": "Falcon.io",
+                "websiteURL": "https://www.falcon.io/",
+                "logoURL": "data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNTUiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAxNTUgMjAiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMDkwYTBmO308L3N0eWxlPjwvZGVmcz48dGl0bGU+RmFsY29uLUlPLUxvZ28tMjAxNjwvdGl0bGU+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjQ1LjI1IDkuNTYgNDAuMjUgOS41NiA0MC4yNSA2LjU2IDQ2LjI1IDYuNTYgNDYuMjUgMi41NiAzNi4yNSAyLjU2IDM2LjI1IDE5LjU2IDQwLjI1IDE5LjU2IDQwLjI1IDEyLjU2IDQ1LjI1IDEyLjU2IDQ1LjI1IDkuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik01MiwyLjU2bC02LjM1LDE3aDQuNTZsMS4xNC0zSDU3LjNsMS4wNywzSDYzbC02LjIyLTE3SDUyWm0wLjUzLDExLDEuNzctNmgwbDEuNzUsNkg1Mi41N1oiLz48cG9seWdvbiBjbGFzcz0iY2xzLTEiIHBvaW50cz0iNjguMjUgMi41NiA2NC4yNSAyLjU2IDY0LjI1IDE5LjU2IDc0LjI1IDE5LjU2IDc0LjI1IDE1LjU2IDY4LjI1IDE1LjU2IDY4LjI1IDIuNTYiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik03Ny4xMyw1LjE3YTguNjQsOC42NCwwLDAsMC0yLjQzLDYsOC4wOCw4LjA4LDAsMCwwLDIuNjUsNi4yNCw5LjA4LDkuMDgsMCwwLDAsNi4xNSwyLjQzLDkuODcsOS44NywwLDAsMCwzLjc0LS43N1YxNGE1LDUsMCwwLDEtMy42NiwxLjc1LDQuMjcsNC4yNywwLDAsMS00LjQ1LTQuNDksNC4zMiw0LjMyLDAsMCwxLDQuMzctNC41OCw0Ljc3LDQuNzcsMCwwLDEsMy43MywxLjgyVjMuMzNBOC45LDguOSwwLDAsMCw3Ny4xMyw1LjE3WiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTk4LjI2LDIuMzljLTQuNzUsMC05LjEzLDMuNS05LjEzLDguNWE5LjEzLDkuMTMsMCwwLDAsMTguMjcsMEMxMDcuMzksNS44OSwxMDMsMi4zOSw5OC4yNiwyLjM5Wm0wLDEzLjQ1YTQuNzMsNC43MywwLDAsMS00LjY3LTQuOTMsNC42OCw0LjY4LDAsMCwxLDkuMzMsMEE0LjczLDQuNzMsMCwwLDEsOTguMjYsMTUuODRaIi8+PHBvbHlnb24gY2xhc3M9ImNscy0xIiBwb2ludHM9IjEyMS4yNSAxMi41NiAxMjEuNTEgMTIuNTYgMTEzLjY1IDIuNTYgMTA5LjI1IDIuNTYgMTA5LjI1IDE5LjU2IDExMy4yNSAxOS41NiAxMTMuMjUgOS41NiAxMTMuNjkgOS41NiAxMjEuNTUgMTkuNTYgMTI1LjI1IDE5LjU2IDEyNS4yNSAyLjU2IDEyMS4yNSAyLjU2IDEyMS4yNSAxMi41NiIvPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTEzNS4yNSwxOS41NmgtMXYtMTdoMXYxN1oiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNTUsMTEuMTVhOC41OSw4LjU5LDAsMCwxLTE3LjE3LDBBOC41OSw4LjU5LDAsMCwxLDE1NSwxMS4xNVptLTEuNDQsMGE3LjE1LDcuMTUsMCwxLDAtMTQuMywwQTcuMTUsNy4xNSwwLDEsMCwxNTMuNTYsMTEuMTVaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTMxLjExLDE4LjMzYTEuMTYsMS4xNiwwLDEsMS0yLjMyLDBBMS4xNiwxLjE2LDAsMCwxLDEzMS4xMSwxOC4zM1oiLz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0zMS40MSwxOS4zNWExNCwxNCwwLDAsMS04LTUuNWMtMC40Ni4yMi0yLjA3LDEuMi02LjY2LDAuOWExMi4yOSwxMi4yOSwwLDAsMS04LjQ3LTQuNjYsNjkuNzksNjkuNzksMCwwLDAsMTMuMzYsMCwxNS4xMSwxNS4xMSwwLDAsMS0uMzYtMS42M2MtMS43MSwwLTkuMjcuMS0xMy44MS0xLjE5QzIuMzgsNS44NiwwLDAsMCwwQTIyOS42OSwyMjkuNjksMCwwLDEsMjYuNDEsMy41OGExLjYsMS42LDAsMCwxLDEuMzMsMS41NGMwLDcsMi4xNywxMSw0LjIyLDEzLjUzQzMyLjI5LDE5LjA5LDMyLjE2LDE5LjU0LDMxLjQxLDE5LjM1WiIvPjwvc3ZnPg==",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "30m0s",
@@ -7226,18 +7250,20 @@
           "attendees": 29,
           "address": "Borgergade 24",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "trifork",
-              "name": "Trifork A/S",
-              "websiteURL": "https://trifork.com/",
-              "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "trifork",
+                "name": "Trifork A/S",
+                "websiteURL": "https://trifork.com/",
+                "logoURL": "https://www.sict.aau.dk/digitalAssets/129/129476_trifork-logo.jpg",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "30m0s",
@@ -7325,18 +7351,20 @@
           "attendees": 100,
           "address": "Vesterbrogade 26",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "republikken",
-              "name": "Republikken",
-              "websiteURL": "https://republikken.net/",
-              "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KDQogPGc+DQogIDx0aXRsZT5iYWNrZ3JvdW5kPC90aXRsZT4NCiAgPHJlY3QgZmlsbD0ibm9uZSIgaWQ9ImNhbnZhc19iYWNrZ3JvdW5kIiBoZWlnaHQ9Ijg5Ny45Mzc4MyIgd2lkdGg9IjQwMDIuNzU1NDQiIHk9Ii0xIiB4PSItMSIvPg0KIDwvZz4NCiA8Zz4NCiAgPHRpdGxlPkxheWVyIDE8L3RpdGxlPg0KICA8ZyBpZD0ic3ZnXzEiPg0KICAgPHBvbHlnb24gaWQ9InN2Z18yIiBwb2ludHM9IjU1LjgsMTMyLjIgNjMuMywxMzUuMSA3MC45LDEzMS44IDYzLjIsMTI4LjkgICIvPg0KICAgPHBhdGggaWQ9InN2Z18zIiBkPSJtNjMuNiw5Ni45YzAsMCAwLDAgMCwwbDAsMGMwLC0wLjEgMCwtMC4xIDAsMGMwLC0wLjEgMCwtMC4xIDAsLTAuMWMwLDAgMCwwIDAsMGMwLDAgMCwtMC4xIDAsLTAuMWMwLDAgMCwwIDAsMGMwLDAgMCwtMC4xIDAuMSwtMC4xYzAsMCAwLDAgMCwwYzAsMCAwLjEsMCAwLjEsLTAuMWMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGwyMi4zLC0xNC41YzAuMywtMC4yIDAuNiwtMC4xIDAuOCwwLjFsNC43LDYuM2MwLDAgMC4xLDAuMSAwLjEsMC4xbDAuNSwwLjZjMCwwIDAuMSwwLjEgMC4xLDAuMWwyMS44LDI3LjlsNy4xLC0xLjRsLTIzLjgsLTMwLjhjMCwwIDAsMCAwLDBsLTQuOSwtNi4zYy0wLjEsLTAuMSAtMC4xLC0wLjIgLTAuMSwtMC40YzAsLTAuMiAwLjEsLTAuNCAwLjMsLTAuNWwxMi4xLC03LjlsLTYuNSwtNC4zbC0yMywxNC45bC0yLjgsMmMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGwtNy43LDVjLTAuMSwwLjEgLTAuMiwwLjEgLTAuMywwLjFjLTAuMSwwIC0wLjIsMCAtMC4zLC0wLjFjLTAuMiwtMC4xIC0wLjMsLTAuMyAtMC4zLC0wLjVsMS42LC02MC4xbC03LjksMy41bC0yLjgsMTAxbDcuOCwtMy41bDEsLTMwLjl6Ii8+DQogICA8cGF0aCBpZD0ic3ZnXzQiIGQ9Im03MS42LDgxLjZsMC42LC0zMy4zbDAsLTguOGMwLC0wLjIgMC4xLC0wLjQgMC4zLC0wLjVjMC4yLC0wLjEgMC40LC0wLjEgMC42LDBsNDYuNiwyOS4zbC0xLjIsLTcuNWwtNTEuOSwtMzMuOWwtMS41LDU4LjlsNi41LC00LjJ6Ii8+DQogICA8cG9seWdvbiBpZD0ic3ZnXzUiIHBvaW50cz0iNzIuOCw4MC42IDc0LjcsNzkuNCA3NC43LDc5LjQgOTcuMSw2NC45IDczLjQsNDkuMyAgIi8+DQogICA8cGF0aCBpZD0ic3ZnXzYiIGQ9Im03My40LDQ3LjlsMzIuOCwyMS40YzAuMiwwLjEgMC4zLDAuMyAwLjMsMC41YzAsMC4yIC0wLjEsMC40IC0wLjMsMC41bC0xMi40LDhsNC4yLDUuNGwyMS41LC0xNC4zbC00NiwtMjlsLTAuMSw3LjV6Ii8+DQogICA8cG9seWdvbiBpZD0ic3ZnXzciIHBvaW50cz0iNjMuOSwxMjcuOCA3MS45LDEzMC45IDcyLjgsMTAwLjggNjQuOCw5Ny43ICAiLz4NCiAgIDxwYXRoIGlkPSJzdmdfOCIgZD0ibTkwLjgsODkuMmMwLDAgMCwwIDAsMGMwLDAgLTAuMSwtMC4xIDAsMGwtNC41LC01LjlsLTIwLjcsMTMuNGw3LjgsM2wxMC4xLC02LjZjMC4zLC0wLjIgMC42LC0wLjEgMC44LDAuMWwyNS4zLDMxLjhsMy41LC03LjJsLTIyLjMsLTI4LjZ6Ii8+DQogICA8cG9seWdvbiBpZD0ic3ZnXzkiIHBvaW50cz0iMTE0LjksMTE4LjIgMTIyLjgsMTI4LjUgMTIzLjIsMTI4LjQgMTIxLjgsMTE2LjggICIvPg0KICAgPHBhdGggaWQ9InN2Z18xMCIgZD0ibTE3MSw2MC44Yy0yLC0xMC45IC01LjcsLTIwLjQgLTExLjEsLTI4LjNjLTYsLTguOSAtMTQuMiwtMTUuOCAtMjQuMSwtMjAuM2MtOCwtMy43IC0yOS4yLC0xMi4yIC01Mi44LC0xMi4yYy0yNS44LDAgLTQ2LjYsOS44IC02MS45LDI5Yy0xMC44LDEzLjYgLTE4LDMwIC0yMC4zLDQ2LjFjLTIuNSwxNy45IDEsMzQuNCAxMC4xLDQ3LjljMTAuMSwxNC44IDI2LDI3LjQgNDMuOCwzNC42YzUuNywzIDExLjcsNS4xIDE4LDYuMmMyLjcsMC41IDUuNSwwLjkgOC4xLDEuMWM2LjIsMSAxMi4zLDEuNSAxOC4zLDEuNWMwLjUsMCAxLDAgMS41LDBjMjAuMywtMC4zIDQwLjIsLTguOCA1NC42LC0yMy40YzUuMywtNS40IDEwLjcsLTE3LjkgMTQsLTMyLjVjMy45LC0xNyA0LjUsLTM0LjcgMS44LC00OS43em0tNDYuNiw3MS4yYzAsMCAwLDAgMCwwYy0wLjEsMCAtMC4xLDAgMCwwYy0wLjEsMCAtMC4xLDAgLTAuMSwwYzAsMCAwLDAgLTAuMSwwbDAsMGMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGMwLDAgMCwwIC0wLjEsMGMwLDAgMCwwIC0wLjEsMGMwLDAgMCwwIDAsMGwwLDBjMCwwIDAsMCAwLDBjMCwwIDAsMCAwLDBsLTIuNCwtMC45YzAsMCAwLDAgMCwwbC0xMiwtNC40YzAsMCAwLDAgLTAuMSwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwbDAsMGMtMC4xLDAgLTAuMSwtMC4xIC0wLjIsLTAuMmwtMjUuNiwtMzIuMWwtOS43LDYuM2wtMSwzMWMwLDAgMCwwIDAsMGMwLDAgMCwwLjEgMCwwLjFjMCwwIDAsMCAwLDBjMCwwIDAsMCAwLDBjMCwwIDAsMCAwLDBjMCwwIDAsMC4xIC0wLjEsMC4xYzAsMCAwLDAgMCwwLjFjMCwwIDAsMCAtMC4xLDAuMWMwLDAgMCwwIC0wLjEsMGMwLDAgMCwwIC0wLjEsMGwtOS4xLDQuMWMtMC4xLDAgLTAuMiwwLjEgLTAuMiwwLjFjLTAuMSwwIC0wLjEsMCAtMC4yLDBsLTkuMiwtMy42YzAsMCAwLDAgMCwwYzAsMCAtMC4xLDAgLTAuMSwtMC4xYzAsMCAwLDAgLTAuMSwtMC4xYzAsMCAwLDAgLTAuMSwtMC4xYzAsMCAwLDAgMCwtMC4xYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwtMC4xYzAsMCAwLDAgMCwwYzAsLTAuMSAwLC0wLjEgMCwtMC4yYzAsMCAwLDAgMCwwbDIuOCwtMTAyLjNjMCwtMC4yIDAuMSwtMC40IDAuNCwtMC41bDkuMSwtNC4xYzAsMCAwLDAgMCwwYzAsMCAwLjEsMCAwLjEsMGMwLDAgMCwwIDAsMGMwLDAgMCwwIDAuMSwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwYzAsMCAwLjEsMCAwLjEsMGMwLDAgMCwwIDAsMGMwLDAgMC4xLDAgMC4xLDBjMCwwIDAsMCAwLDBsNTMsMzQuNmMwLjEsMC4xIDAuMiwwLjIgMC4zLDAuNGwxLjUsOS4xYzAsMCAwLDAgMCwwYzAsMCAwLDAuMSAwLDAuMWMwLDAgMCwwIDAsMGMwLDAgMCwwLjEgMCwwLjFjMCwwIDAsMCAwLDBjMCwwIDAsMCAwLDAuMWMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGMwLDAgLTAuMSwwLjEgLTAuMSwwLjFjMCwwIDAsMCAwLDBsLTIyLjMsMTUuMWwyNC4xLDMxYzAsMCAwLDAgMCwwYzAsMCAwLjEsMC4xIDAuMSwwLjFjMCwwIDAsMCAwLDBjMCwwIDAsMC4xIDAsMC4xYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwbDEuNywxMy4ybDAuMiwyYzAsMCAwLDAuMSAwLDAuMmMwLDAuNCAtMC4yLDAuNiAtMC40LDAuN3oiLz4NCiAgIDxwb2x5Z29uIGlkPSJzdmdfMTEiIHBvaW50cz0iMTEwLjYsMTI1LjggMTIxLjUsMTI5LjggMTIxLjgsMTI5LjIgMTE0LDExOC45ICAiLz4NCiAgPC9nPg0KIDwvZz4NCjwvc3ZnPg==",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "republikken",
+                "name": "Republikken",
+                "websiteURL": "https://republikken.net/",
+                "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KDQogPGc+DQogIDx0aXRsZT5iYWNrZ3JvdW5kPC90aXRsZT4NCiAgPHJlY3QgZmlsbD0ibm9uZSIgaWQ9ImNhbnZhc19iYWNrZ3JvdW5kIiBoZWlnaHQ9Ijg5Ny45Mzc4MyIgd2lkdGg9IjQwMDIuNzU1NDQiIHk9Ii0xIiB4PSItMSIvPg0KIDwvZz4NCiA8Zz4NCiAgPHRpdGxlPkxheWVyIDE8L3RpdGxlPg0KICA8ZyBpZD0ic3ZnXzEiPg0KICAgPHBvbHlnb24gaWQ9InN2Z18yIiBwb2ludHM9IjU1LjgsMTMyLjIgNjMuMywxMzUuMSA3MC45LDEzMS44IDYzLjIsMTI4LjkgICIvPg0KICAgPHBhdGggaWQ9InN2Z18zIiBkPSJtNjMuNiw5Ni45YzAsMCAwLDAgMCwwbDAsMGMwLC0wLjEgMCwtMC4xIDAsMGMwLC0wLjEgMCwtMC4xIDAsLTAuMWMwLDAgMCwwIDAsMGMwLDAgMCwtMC4xIDAsLTAuMWMwLDAgMCwwIDAsMGMwLDAgMCwtMC4xIDAuMSwtMC4xYzAsMCAwLDAgMCwwYzAsMCAwLjEsMCAwLjEsLTAuMWMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGwyMi4zLC0xNC41YzAuMywtMC4yIDAuNiwtMC4xIDAuOCwwLjFsNC43LDYuM2MwLDAgMC4xLDAuMSAwLjEsMC4xbDAuNSwwLjZjMCwwIDAuMSwwLjEgMC4xLDAuMWwyMS44LDI3LjlsNy4xLC0xLjRsLTIzLjgsLTMwLjhjMCwwIDAsMCAwLDBsLTQuOSwtNi4zYy0wLjEsLTAuMSAtMC4xLC0wLjIgLTAuMSwtMC40YzAsLTAuMiAwLjEsLTAuNCAwLjMsLTAuNWwxMi4xLC03LjlsLTYuNSwtNC4zbC0yMywxNC45bC0yLjgsMmMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGwtNy43LDVjLTAuMSwwLjEgLTAuMiwwLjEgLTAuMywwLjFjLTAuMSwwIC0wLjIsMCAtMC4zLC0wLjFjLTAuMiwtMC4xIC0wLjMsLTAuMyAtMC4zLC0wLjVsMS42LC02MC4xbC03LjksMy41bC0yLjgsMTAxbDcuOCwtMy41bDEsLTMwLjl6Ii8+DQogICA8cGF0aCBpZD0ic3ZnXzQiIGQ9Im03MS42LDgxLjZsMC42LC0zMy4zbDAsLTguOGMwLC0wLjIgMC4xLC0wLjQgMC4zLC0wLjVjMC4yLC0wLjEgMC40LC0wLjEgMC42LDBsNDYuNiwyOS4zbC0xLjIsLTcuNWwtNTEuOSwtMzMuOWwtMS41LDU4LjlsNi41LC00LjJ6Ii8+DQogICA8cG9seWdvbiBpZD0ic3ZnXzUiIHBvaW50cz0iNzIuOCw4MC42IDc0LjcsNzkuNCA3NC43LDc5LjQgOTcuMSw2NC45IDczLjQsNDkuMyAgIi8+DQogICA8cGF0aCBpZD0ic3ZnXzYiIGQ9Im03My40LDQ3LjlsMzIuOCwyMS40YzAuMiwwLjEgMC4zLDAuMyAwLjMsMC41YzAsMC4yIC0wLjEsMC40IC0wLjMsMC41bC0xMi40LDhsNC4yLDUuNGwyMS41LC0xNC4zbC00NiwtMjlsLTAuMSw3LjV6Ii8+DQogICA8cG9seWdvbiBpZD0ic3ZnXzciIHBvaW50cz0iNjMuOSwxMjcuOCA3MS45LDEzMC45IDcyLjgsMTAwLjggNjQuOCw5Ny43ICAiLz4NCiAgIDxwYXRoIGlkPSJzdmdfOCIgZD0ibTkwLjgsODkuMmMwLDAgMCwwIDAsMGMwLDAgLTAuMSwtMC4xIDAsMGwtNC41LC01LjlsLTIwLjcsMTMuNGw3LjgsM2wxMC4xLC02LjZjMC4zLC0wLjIgMC42LC0wLjEgMC44LDAuMWwyNS4zLDMxLjhsMy41LC03LjJsLTIyLjMsLTI4LjZ6Ii8+DQogICA8cG9seWdvbiBpZD0ic3ZnXzkiIHBvaW50cz0iMTE0LjksMTE4LjIgMTIyLjgsMTI4LjUgMTIzLjIsMTI4LjQgMTIxLjgsMTE2LjggICIvPg0KICAgPHBhdGggaWQ9InN2Z18xMCIgZD0ibTE3MSw2MC44Yy0yLC0xMC45IC01LjcsLTIwLjQgLTExLjEsLTI4LjNjLTYsLTguOSAtMTQuMiwtMTUuOCAtMjQuMSwtMjAuM2MtOCwtMy43IC0yOS4yLC0xMi4yIC01Mi44LC0xMi4yYy0yNS44LDAgLTQ2LjYsOS44IC02MS45LDI5Yy0xMC44LDEzLjYgLTE4LDMwIC0yMC4zLDQ2LjFjLTIuNSwxNy45IDEsMzQuNCAxMC4xLDQ3LjljMTAuMSwxNC44IDI2LDI3LjQgNDMuOCwzNC42YzUuNywzIDExLjcsNS4xIDE4LDYuMmMyLjcsMC41IDUuNSwwLjkgOC4xLDEuMWM2LjIsMSAxMi4zLDEuNSAxOC4zLDEuNWMwLjUsMCAxLDAgMS41LDBjMjAuMywtMC4zIDQwLjIsLTguOCA1NC42LC0yMy40YzUuMywtNS40IDEwLjcsLTE3LjkgMTQsLTMyLjVjMy45LC0xNyA0LjUsLTM0LjcgMS44LC00OS43em0tNDYuNiw3MS4yYzAsMCAwLDAgMCwwYy0wLjEsMCAtMC4xLDAgMCwwYy0wLjEsMCAtMC4xLDAgLTAuMSwwYzAsMCAwLDAgLTAuMSwwbDAsMGMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGMwLDAgMCwwIC0wLjEsMGMwLDAgMCwwIC0wLjEsMGMwLDAgMCwwIDAsMGwwLDBjMCwwIDAsMCAwLDBjMCwwIDAsMCAwLDBsLTIuNCwtMC45YzAsMCAwLDAgMCwwbC0xMiwtNC40YzAsMCAwLDAgLTAuMSwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwbDAsMGMtMC4xLDAgLTAuMSwtMC4xIC0wLjIsLTAuMmwtMjUuNiwtMzIuMWwtOS43LDYuM2wtMSwzMWMwLDAgMCwwIDAsMGMwLDAgMCwwLjEgMCwwLjFjMCwwIDAsMCAwLDBjMCwwIDAsMCAwLDBjMCwwIDAsMCAwLDBjMCwwIDAsMC4xIC0wLjEsMC4xYzAsMCAwLDAgMCwwLjFjMCwwIDAsMCAtMC4xLDAuMWMwLDAgMCwwIC0wLjEsMGMwLDAgMCwwIC0wLjEsMGwtOS4xLDQuMWMtMC4xLDAgLTAuMiwwLjEgLTAuMiwwLjFjLTAuMSwwIC0wLjEsMCAtMC4yLDBsLTkuMiwtMy42YzAsMCAwLDAgMCwwYzAsMCAtMC4xLDAgLTAuMSwtMC4xYzAsMCAwLDAgLTAuMSwtMC4xYzAsMCAwLDAgLTAuMSwtMC4xYzAsMCAwLDAgMCwtMC4xYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwtMC4xYzAsMCAwLDAgMCwwYzAsLTAuMSAwLC0wLjEgMCwtMC4yYzAsMCAwLDAgMCwwbDIuOCwtMTAyLjNjMCwtMC4yIDAuMSwtMC40IDAuNCwtMC41bDkuMSwtNC4xYzAsMCAwLDAgMCwwYzAsMCAwLjEsMCAwLjEsMGMwLDAgMCwwIDAsMGMwLDAgMCwwIDAuMSwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwYzAsMCAwLjEsMCAwLjEsMGMwLDAgMCwwIDAsMGMwLDAgMC4xLDAgMC4xLDBjMCwwIDAsMCAwLDBsNTMsMzQuNmMwLjEsMC4xIDAuMiwwLjIgMC4zLDAuNGwxLjUsOS4xYzAsMCAwLDAgMCwwYzAsMCAwLDAuMSAwLDAuMWMwLDAgMCwwIDAsMGMwLDAgMCwwLjEgMCwwLjFjMCwwIDAsMCAwLDBjMCwwIDAsMCAwLDAuMWMwLDAgMCwwIDAsMGMwLDAgMCwwIDAsMGMwLDAgLTAuMSwwLjEgLTAuMSwwLjFjMCwwIDAsMCAwLDBsLTIyLjMsMTUuMWwyNC4xLDMxYzAsMCAwLDAgMCwwYzAsMCAwLjEsMC4xIDAuMSwwLjFjMCwwIDAsMCAwLDBjMCwwIDAsMC4xIDAsMC4xYzAsMCAwLDAgMCwwYzAsMCAwLDAgMCwwbDEuNywxMy4ybDAuMiwyYzAsMCAwLDAuMSAwLDAuMmMwLDAuNCAtMC4yLDAuNiAtMC40LDAuN3oiLz4NCiAgIDxwb2x5Z29uIGlkPSJzdmdfMTEiIHBvaW50cz0iMTEwLjYsMTI1LjggMTIxLjUsMTI5LjggMTIxLjgsMTI5LjIgMTE0LDExOC45ICAiLz4NCiAgPC9nPg0KIDwvZz4NCjwvc3ZnPg==",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "10m0s",
@@ -7513,18 +7541,20 @@
           "attendees": 69,
           "address": "Weidekampsgade 16, 2300",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "simcorp",
-              "name": "SimCorp",
-              "websiteURL": "https://www.simcorp.com/",
-              "logoURL": "https://www.simcorp.com/-/media/images/event-section/global/alternative-investments-webinar-2017/simcorp.png",
-              "countries": [
-                "denmark"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "simcorp",
+                "name": "SimCorp",
+                "websiteURL": "https://www.simcorp.com/",
+                "logoURL": "https://www.simcorp.com/-/media/images/event-section/global/alternative-investments-webinar-2017/simcorp.png",
+                "countries": [
+                  "denmark"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "20m0s",
@@ -7612,10 +7642,7 @@
           "attendees": 46,
           "address": "Teglholmsgade 1",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20190319": {
@@ -7626,10 +7653,7 @@
           "attendees": 1,
           "address": "",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20190409": {
@@ -7640,10 +7664,7 @@
           "attendees": 68,
           "address": "Fruebjergvej 3, Att.: Økonomi",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20190425": {
@@ -7654,10 +7675,7 @@
           "attendees": 50,
           "address": "Landemærket 10",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20190611": {
@@ -7668,10 +7686,7 @@
           "attendees": 35,
           "address": "Vester Søgade 6",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20190821": {
@@ -7682,10 +7697,7 @@
           "attendees": 58,
           "address": "Langebrogade 1",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20190910": {
@@ -7696,10 +7708,7 @@
           "attendees": 52,
           "address": "Landemærket 10",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20191021": {
@@ -7709,10 +7718,7 @@
           "duration": "3h0m0s",
           "address": "Langebrogade 1",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         }
       }
@@ -7831,10 +7837,7 @@
           "attendees": 8,
           "address": "",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20161214": {
@@ -7845,10 +7848,7 @@
           "attendees": 34,
           "address": "",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20170301": {
@@ -7859,10 +7859,7 @@
           "attendees": 30,
           "address": "Holtermansgatan 1 D",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20170830": {
@@ -7873,10 +7870,7 @@
           "attendees": 14,
           "address": "Holtermansgatan 1 D",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": [
             {
               "duration": "1h0m0s",
@@ -7915,10 +7909,7 @@
           "attendees": 36,
           "address": "Östra Hamngatan 50B",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": [
             {
               "duration": "1h0m0s",
@@ -7948,10 +7939,7 @@
           "attendees": 33,
           "address": "Östra Hamngatan 50B",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": [
             {
               "duration": "1h0m0s",
@@ -7990,20 +7978,22 @@
           "attendees": 45,
           "address": "Kungsportsavenyen 33",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "meltwater",
-              "name": "Meltwater",
-              "websiteURL": "https://underthehood.meltwater.com/",
-              "logoURL": "https://d1bile9su2eskg.cloudfront.net/wp-content/themes/meltwater/images/sprites/logo_white.png",
-              "whiteLogo": true,
-              "countries": [
-                "finland",
-                "sweden"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "meltwater",
+                "name": "Meltwater",
+                "websiteURL": "https://underthehood.meltwater.com/",
+                "logoURL": "https://d1bile9su2eskg.cloudfront.net/wp-content/themes/meltwater/images/sprites/logo_white.png",
+                "whiteLogo": true,
+                "countries": [
+                  "finland",
+                  "sweden"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "30m0s",
@@ -8105,10 +8095,7 @@
           "attendees": 1,
           "address": "Kungstorget 7",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20190905": {
@@ -8119,10 +8106,7 @@
           "attendees": 70,
           "address": "Vallgatan 22",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         }
       }
@@ -8200,49 +8184,10 @@
           "attendees": 77,
           "address": "Eteläranta 12",
           "recording": "https://youtu.be/9ZY-m4vAhiQ",
-          "sponsors": {
-            "venue": {
-              "id": "upcloud",
-              "name": "UpCloud",
-              "websiteURL": "https://upcloud.com/",
-              "logoURL": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjA4cHgiIGhlaWdodD0iMzNweCIgdmlld0JveD0iMCAwIDIwOCAzMyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCg0KPHRpdGxlPlVwQ2xvdWQgQnJhbmQgR3VpZGUtMDwvdGl0bGU+DQo8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4NCjxkZWZzPjwvZGVmcz4NCjxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPg0KPGcgaWQ9IlN0YXJ0cGFnZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwLjAwMDAwMCwgLTI2LjAwMDAwMCkiIGZpbGwtcnVsZT0ibm9uemVybyI+DQo8ZyBpZD0iSW50cm9kdWN0aW9uLUhlYWRlciIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEzOC4wMDAwMDAsIC0yLjAwMDAwMCkiPg0KPGcgaWQ9Ik1haW4tbWVudSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTM4LjAwMDAwMCwgMC4wMDAwMDApIj4NCjxnIGlkPSJVcENsb3VkLUJyYW5kLUd1aWRlLTAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIwLjAwMDAwMCwgMjguMDAwMDAwKSI+DQo8cGF0aCBkPSJNOTAuODIzODE5MywxNy42OTE3OTczIEM5MC44MjM4MTkzLDIyLjA1MDY0NTkgODguMzg5MzIyNCwyMy45MDk1NjY2IDg0LjM1MzE4MjgsMjMuOTA5NTY2NiBDODAuMTQ2MjAxMiwyMy45MDk1NjY2IDc3LjY2ODk5MzgsMjIuMDUwNjQ1OSA3Ny42Njg5OTM4LDE3LjY5MTc5NzMgTDc3LjY2ODk5MzgsMC43MjY0NzQ3NjcgTDc0LjQ2NTcwODQsMC43MjY0NzQ3NjcgTDc0LjQ2NTcwODQsMTguMDEyMzAwOCBDNzQuNDY1NzA4NCwyNC4xODczMzYzIDc4LjY3MjY4OTksMjYuNjY1ODk3MyA4NC4yNDY0MDY2LDI2LjY2NTg5NzMgQzg5LjcxMzM0NywyNi42NjU4OTczIDk0LjAyNzEwNDcsMjQuMjA4NzAzMyA5NC4wMjcxMDQ3LDE4LjAxMjMwMDggTDk0LjAyNzEwNDcsMC43MjY0NzQ3NjcgTDkwLjgyMzgxOTMsMC43MjY0NzQ3NjcgTDkwLjgyMzgxOTMsMTcuNjkxNzk3MyBaIE0xMDcuNjczMTAxLDcuMzcxNTgyMTkgQzEwNS4wMDM2OTYsNy4zNzE1ODIxOSAxMDMuMTQ1NzkxLDguNTI1Mzk1MDYgMTAxLjczNjM0NSwxMC40MDU2ODI3IEwxMDEuNjcyMjc5LDEwLjQwNTY4MjcgTDEwMS42NzIyNzksNy43OTg5MjAyOSBMOTguNzg5MzIyNCw3Ljc5ODkyMDI5IEw5OC43ODkzMjI0LDMyLjE5OTkyNTcgTDEwMS42NzIyNzksMzIuMTk5OTI1NyBMMTAxLjY3MjI3OSwyNC4wODA1MDE4IEwxMDEuNzM2MzQ1LDI0LjA4MDUwMTggQzEwMy4yNzM5MjIsMjYuMDQ2MjU3MSAxMDUuMDY3NzYyLDI2Ljc5NDA5ODcgMTA3LjU2NjMyNCwyNi43OTQwOTg3IEMxMTIuNTYzNDUsMjYuNzk0MDk4NyAxMTUuNTk1ODkzLDIzLjAxMjE1NjYgMTE1LjU5NTg5MywxNy4wNzIxNTcgQzExNS41OTU4OTMsMTAuOTM5ODU1MyAxMTIuMzQ5ODk3LDcuMzcxNTgyMTkgMTA3LjY3MzEwMSw3LjM3MTU4MjE5IFogTTEwNy4zNTI3NzIsMjQuMzc5NjM4NSBDMTAzLjEwMzA4LDI0LjM3OTYzODUgMTAxLjUwMTQzNywyMS4xMzE4Njg5IDEwMS41MDE0MzcsMTcuMTM2MjU3NyBDMTAxLjUwMTQzNywxMy4xNDA2NDY1IDEwMy4zNTkzNDMsOS44Mjg3NzYyNiAxMDcuMzk1NDgzLDkuODI4Nzc2MjYgQzExMC44OTc3NDEsOS44Mjg3NzYyNiAxMTIuNjQ4ODcxLDEyLjk2OTcxMTMgMTEyLjY0ODg3MSwxNy4xMTQ4OTA4IEMxMTIuNjQ4ODcxLDIxLjMwMjgwNDIgMTEwLjg5Nzc0MSwyNC4zNzk2Mzg1IDEwNy4zNTI3NzIsMjQuMzc5NjM4NSBaIE0xMzAuNzU4MTExLDIzLjk1MjMwMDQgQzEyNS40NDA2NTcsMjMuOTUyMzAwNCAxMjEuOTgxMTA5LDE5Ljc0MzAyMDEgMTIxLjk4MTEwOSwxMy40ODI1MTcgQzEyMS45ODExMDksNy40Nzg0MTY3MiAxMjUuMTIwMzI5LDIuOTQ4NjMyODggMTMwLjczNjc1NiwyLjk0ODYzMjg4IEMxMzQuNzcyODk1LDIuOTQ4NjMyODggMTM3LjMxNDE2OCw1LjEyODA1NzE4IDEzNy45MTIxMTUsOC4zMTE3MjYwMSBMMTQxLjA1MTMzNSw4LjMxMTcyNjAxIEMxNDAuMzY3OTY3LDMuNTg5NjQwMDIgMTM2Ljc1ODkzMiwwLjE3MDkzNTIzOSAxMzAuODAwODIxLDAuMTcwOTM1MjM5IEMxMjMuMTk4MzU3LDAuMTcwOTM1MjM5IDExOC42OTI0MDIsNi4wMDQxMDAyOCAxMTguNjkyNDAyLDEzLjUwMzg4MzkgQzExOC42OTI0MDIsMjEuMjYwMDcwNCAxMjMuNDExOTEsMjYuNzk0MDk4NyAxMzAuNjUxMzM1LDI2Ljc5NDA5ODcgQzEzMy44OTczMzEsMjYuNzk0MDk4NyAxMzYuNTAyNjY5LDI1Ljg3NTMyMTggMTM4LjI5NjUwOSwyNC4xMjMyMzU2IEMxNDAuMTExNzA0LDIyLjMyODQxNTYgMTQxLjMyODk1MywxOS40ODY2MTczIDE0MS4zNzE2NjMsMTYuOTQzOTU1NiBMMTM4LjE4OTczMywxNi45NDM5NTU2IEMxMzcuODY5NDA1LDIwLjY2MTc5NyAxMzUuNTg0Mzk0LDIzLjk1MjMwMDQgMTMwLjc1ODExMSwyMy45NTIzMDA0IFogTTE0NS4xOTQyNTEsMC43MjY0NzQ3NjcgTDE0OC4wNzcyMDcsMC43MjY0NzQ3NjcgTDE0OC4wNzcyMDcsMjYuMjgxMjkzIEwxNDUuMTk0MjUxLDI2LjI4MTI5MyBMMTQ1LjE5NDI1MSwwLjcyNjQ3NDc2NyBaIE0xNjAuNTA1OTU1LDcuMzI4ODQ4MzggQzE1NC45OTYzMDQsNy4zMjg4NDgzOCAxNTEuNTc5NDY2LDExLjY4NzY5NyAxNTEuNTc5NDY2LDE3LjA1MDc5MDEgQzE1MS41Nzk0NjYsMjIuNDEzODgzMiAxNTUuMDE3NjU5LDI2Ljc3MjczMTggMTYwLjUwNTk1NSwyNi43NzI3MzE4IEMxNjYuMDM2OTYxLDI2Ljc3MjczMTggMTY5LjM4OTczMywyMi40MTM4ODMyIDE2OS4zODk3MzMsMTcuMDUwNzkwMSBDMTY5LjM4OTczMywxMS42ODc2OTcgMTY2LjAzNjk2MSw3LjMyODg0ODM4IDE2MC41MDU5NTUsNy4zMjg4NDgzOCBaIE0xNjAuNTA1OTU1LDI0LjMzNjkwNDcgQzE1Ni41NzY1OTEsMjQuMzM2OTA0NyAxNTQuNTQ3ODQ0LDIxLjEzMTg2ODkgMTU0LjU0Nzg0NCwxNy4wNTA3OTAxIEMxNTQuNTQ3ODQ0LDEyLjk2OTcxMTMgMTU2LjU3NjU5MSw5LjcyMTk0MTczIDE2MC41MDU5NTUsOS43MjE5NDE3MyBDMTY0LjQzNTMxOCw5LjcyMTk0MTczIDE2Ni40NDI3MSwxMi45Njk3MTEzIDE2Ni40NDI3MSwxNy4wNTA3OTAxIEMxNjYuNDQyNzEsMjEuMTMxODY4OSAxNjQuNDM1MzE4LDI0LjMzNjkwNDcgMTYwLjUwNTk1NSwyNC4zMzY5MDQ3IFogTTE4NC41OTQ2NjEsMTkuMTY2MTEzNyBDMTg0LjU5NDY2MSwyMi4wOTMzNzk3IDE4Mi42OTQwNDUsMjQuMzE1NTM3OCAxNzkuNzY4Mzc4LDI0LjMxNTUzNzggQzE3Ny4xNjMwMzksMjQuMzE1NTM3OCAxNzUuNjI1NDYyLDIyLjkyNjY4OSAxNzUuNjI1NDYyLDIwLjUzMzU5NTYgTDE3NS42MjU0NjIsNy43OTg5MjAyOSBMMTcyLjc0MjUwNSw3Ljc5ODkyMDI5IEwxNzIuNzQyNTA1LDIwLjU5NzY5NjMgQzE3Mi43NDI1MDUsMjQuNDIyMzcyMyAxNzUuMTc3MDAyLDI2LjcwODYzMTEgMTc4Ljk1Njg3OSwyNi43MDg2MzExIEMxODEuNjI2MjgzLDI2LjcwODYzMTEgMTgzLjIwNjU3MSwyNS41MzM0NTE0IDE4NC41MzA1OTUsMjMuNzM4NjMxMyBMMTg0LjU5NDY2MSwyMy43Mzg2MzEzIEwxODQuNTk0NjYxLDI2LjI4MTI5MyBMMTg3LjQ5ODk3MywyNi4yODEyOTMgTDE4Ny40OTg5NzMsNy43OTg5MjAyOSBMMTg0LjYxNjAxNiw3Ljc5ODkyMDI5IEwxODQuNjE2MDE2LDE5LjE2NjExMzcgTDE4NC41OTQ2NjEsMTkuMTY2MTEzNyBaIE0yMDQuOTY3NTU2LDAuNzI2NDc0NzY3IEwyMDQuOTY3NTU2LDEwLjQwNTY4MjcgTDIwNC45MDM0OTEsMTAuNDA1NjgyNyBDMjAzLjcyODk1Myw4LjY1MzU5NjQ5IDIwMS43MjE1NjEsNy4zNzE1ODIxOSAxOTkuMTE2MjIyLDcuMzcxNTgyMTkgQzE5NC41NDYyMDEsNy4zNzE1ODIxOSAxOTEuMDAxMjMyLDEwLjkzOTg1NTMgMTkxLjAwMTIzMiwxNy4wOTM1MjM5IEMxOTEuMDAxMjMyLDIzLjAzMzUyMzUgMTk0LjE0MDQ1MiwyNi44MTU0NjU3IDE5OS4xODAyODcsMjYuODE1NDY1NyBDMjAxLjc4NTYyNiwyNi44MTU0NjU3IDIwMy40OTQwNDUsMjUuODExMjIxMSAyMDQuOTAzNDkxLDI0LjAzNzc2OCBMMjA0Ljk2NzU1NiwyNC4wMzc3NjggTDIwNC45Njc1NTYsMjYuMjgxMjkzIEwyMDcuODUwNTEzLDI2LjI4MTI5MyBMMjA3Ljg1MDUxMywwLjcyNjQ3NDc2NyBMMjA0Ljk2NzU1NiwwLjcyNjQ3NDc2NyBaIE0xOTkuMjg3MDY0LDI0LjM3OTYzODUgQzE5NS43NDIwOTQsMjQuMzc5NjM4NSAxOTMuOTY5NjEsMjEuMzAyODA0MiAxOTMuOTY5NjEsMTcuMTM2MjU3NyBDMTkzLjk2OTYxLDEyLjk5MTA3ODIgMTk1Ljc2MzQ1LDkuODUwMTQzMTYgMTk5LjI0NDM1Myw5Ljg1MDE0MzE2IEMyMDMuMDY2OTQsOS44NTAxNDMxNiAyMDUuMTM4Mzk4LDEyLjg0MTUwOTggMjA1LjEzODM5OCwxNy4xMzYyNTc3IEMyMDUuMTM4Mzk4LDIxLjMwMjgwNDIgMjAzLjQwODYyNCwyNC4zNzk2Mzg1IDE5OS4yODcwNjQsMjQuMzc5NjM4NSBaIiBpZD0iU2hhcGUiIGZpbGw9IiNGRkZGRkYiPjwvcGF0aD4NCjxnIGlkPSJsb2dvLWNhYmxlcyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsIDAuNjQxMDA3KSIgZmlsbD0iIzdCMDBGRiI+DQo8cGF0aCBkPSJNNTkuMzI0ODQ2LDE1LjU3NjQ3MzcgTDI4LjA2MDc4MDMsMTUuNTc2NDczNyBMMjguMDYwNzgwMywxNy45MjY4MzMyIEw1OS4zNDYyMDEyLDE3LjkyNjgzMzIgQzYwLjg0MTA2NzgsMTcuOTI2ODMzMiA2Mi4wMzY5NjEsMTkuMTIzMzc5OSA2Mi4wMzY5NjEsMjAuNjE5MDYzMiBDNjIuMDM2OTYxLDIyLjExNDc0NjYgNjAuODQxMDY3OCwyMy4zMTEyOTMyIDU5LjM0NjIwMTIsMjMuMzExMjkzMiBMMjUuNjkwMzQ5MSwyMy4zMTEyOTMyIEwyNS42OTAzNDkxLDEyLjU0MjM3MzIgTDIzLjM0MTI3MzEsMTIuNTQyMzczMiBMMjMuMzQxMjczMSwyNS42NjE2NTI4IEw1OS4zMjQ4NDYsMjUuNjYxNjUyOCBDNjIuMTAxMDI2NywyNS42NjE2NTI4IDY0LjM2NDY4MTcsMjMuMzk2NzYwOSA2NC4zNjQ2ODE3LDIwLjYxOTA2MzIgQzY0LjM2NDY4MTcsMTcuODQxMzY1NiA2Mi4xMDEwMjY3LDE1LjU3NjQ3MzcgNTkuMzI0ODQ2LDE1LjU3NjQ3MzcgWiIgaWQ9IlNoYXBlIj48L3BhdGg+DQo8cGF0aCBkPSJNMi40OTg1NjI2MywxMi44ODQyNDM3IEMyLjQ5ODU2MjYzLDExLjM4ODU2MDMgMy42OTQ0NTU4NSwxMC4xOTIwMTM2IDUuMTg5MzIyMzgsMTAuMTkyMDEzNiBMMzYuMTMzMDU5NSwxMC4xOTIwMTM2IEMzOC45MDkyNDAyLDEwLjE5MjAxMzYgNDEuMTcyODk1Myw3LjkyNzEyMTcyIDQxLjE3Mjg5NTMsNS4xNDk0MjQwOCBDNDEuMTcyODk1MywyLjM3MTcyNjQ0IDM4LjkwOTI0MDIsMC4xMDY4MzQ1MjUgMzYuMTMzMDU5NSwwLjEwNjgzNDUyNSBMMjMuMzYyNjI4MywwLjEwNjgzNDUyNSBMMjMuMzYyNjI4Myw1LjQ5MTI5NDU2IEwyNS43MTE3MDQzLDUuNDkxMjk0NTYgTDI1LjcxMTcwNDMsMi40NTcxOTQwNiBMMzYuMTMzMDU5NSwyLjQ1NzE5NDA2IEMzNy42Mjc5MjYxLDIuNDU3MTk0MDYgMzguODIzODE5MywzLjY1Mzc0MDc0IDM4LjgyMzgxOTMsNS4xNDk0MjQwOCBDMzguODIzODE5Myw2LjY0NTEwNzQyIDM3LjYyNzkyNjEsNy44NDE2NTQxIDM2LjEzMzA1OTUsNy44NDE2NTQxIEw1LjE4OTMyMjM4LDcuODQxNjU0MSBDMi40MTMxNDE2OCw3Ljg0MTY1NDEgMC4xNDk0ODY2NTMsMTAuMTA2NTQ2IDAuMTQ5NDg2NjUzLDEyLjg4NDI0MzcgQzAuMTQ5NDg2NjUzLDE1LjY2MTk0MTMgMi4zOTE3ODY0NSwxNy45NDgyMDAxIDUuMTg5MzIyMzgsMTcuOTQ4MjAwMSBMMjAuOTkyMTk3MSwxNy45NDgyMDAxIEwyMC45OTIxOTcxLDE1LjU5Nzg0MDYgTDUuMTg5MzIyMzgsMTUuNTk3ODQwNiBDMy42OTQ0NTU4NSwxNS41NzY0NzM3IDIuNDk4NTYyNjMsMTQuMzc5OTI3IDIuNDk4NTYyNjMsMTIuODg0MjQzNyBaIiBpZD0iU2hhcGUiPjwvcGF0aD4NCjwvZz4NCjwvZz4NCjwvZz4NCjwvZz4NCjwvZz4NCjwvZz4NCjwvc3ZnPg==",
-              "whiteLogo": true,
-              "countries": [
-                "finland"
-              ]
-            },
-            "other": [
-              {
-                "id": "luxaslabs",
-                "name": "luxas labs",
-                "websiteURL": "https://luxaslabs.com",
-                "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
-                "countries": [
-                  "finland",
-                  "sweden"
-                ]
-              },
-              {
-                "id": "cncf",
-                "name": "Cloud Native Computing Foundation (CNCF)",
-                "websiteURL": "https://www.cncf.io/",
-                "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
-                "countries": [
-                  "denmark",
-                  "finland"
-                ]
-              },
-              {
-                "id": "emblica",
-                "name": "Emblica",
-                "websiteURL": "https://www.emblica.fi/",
-                "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSIwIDAgMTQxLjgzNzk5NzQzNjUyMzQ0IDMwIiB3aWR0aD0iMTQxLjgzNzk5NzQzNjUyMzQ0IiBoZWlnaHQ9IjMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0gMTAuMzAxIDguNzMzIEMgNC4zMzIgOC43MzMgMCAxMy4xOTUgMCAxOS4zMzkgQyAwIDI1LjQ4MyA0LjM4NyAyOS45ODkgMTAuNDQxIDI5Ljk4OSBDIDE0Ljg2IDI5Ljk4OSAxOC41MjQgMjcuNzEyIDIwLjIzOSAyMy44OTggTCAyMC40MTggMjMuNTAxIEwgMTQuOTAzIDIzLjM1NSBMIDE0LjgxNSAyMy40ODkgQyAxMy45MjQgMjQuODQ0IDEyLjMzMiAyNS42MjEgMTAuNDQzIDI1LjYyMSBDIDcuNzU0IDI1LjYyMSA1Ljc3MyAyMy44OTYgNS4yNzIgMjEuMTE0IEwgNS4yNDYgMjAuOTc3IEwgMjAuNjU2IDIwLjk3NyBMIDIwLjY1NiAyMC42NDMgQyAyMC42NTYgMTYuODE0IDE5LjU3MyAxMy42ODIgMTcuNTIyIDExLjU5NCBDIDE1LjcxNSA5LjczOCAxMy4xNTQgOC43MzMgMTAuMzEzIDguNzMzIE0gNS4yNzIgMTcuMjIxIEwgNS4zMDkgMTcuMDc1IEMgNS45NjMgMTQuNTg0IDcuODQ5IDEzLjA5NyAxMC4zNTUgMTMuMDk3IEMgMTIuNzA1IDEzLjA5MyAxNC43MTkgMTQuNzczIDE1LjEzNyAxNy4wODYgTCAxNS4xNiAxNy4yMjMgWiBNIDQ3LjczOCA4LjczMyBDIDQ1LjE4NSA4LjczMyA0Mi45MTkgOS44MTQgNDEuMDMgMTEuOTQ0IEwgNDAuOTI0IDEyLjA2NSBMIDQwLjg0MiAxMS45MjYgQyAzOS42NDUgOS44MzggMzcuNDk5IDguNzM1IDM0LjYzNiA4LjczNSBDIDMyLjUzIDguNzQ0IDMwLjUwNiA5LjU1NiAyOC45NzkgMTEuMDA3IEwgMjguNzggMTEuMTkyIEwgMjguNzggMTAuOTIxIEwgMjguNzggOS4yNTkgTCAyMy45NzcgOS4yNTkgTCAyMy45NzcgMjkuNDcxIEwgMjguODY1IDI5LjQ3MSBMIDI4Ljg2NSAxNS44NzkgTCAyOC44OTUgMTUuODQ3IEMgMzAuNDczIDE0LjA1OCAzMi4wNDkgMTMuMTg4IDMzLjcxMyAxMy4xODggQyAzNS44NDIgMTMuMTg4IDM3LjE2NSAxNC41OTQgMzcuMTY1IDE2Ljg1OCBMIDM3LjE2NSAyOS40NjYgTCA0Mi4wNTMgMjkuNDY2IEwgNDIuMDUzIDE1Ljg3OSBMIDQyLjA4MyAxNS44NDcgQyA0My42NjEgMTQuMDU4IDQ1LjIzNyAxMy4xODggNDYuOTAxIDEzLjE4OCBDIDQ5LjAzMSAxMy4xODggNTAuMzUzIDE0LjU5NCA1MC4zNTMgMTYuODU4IEwgNTAuMzUzIDI5LjQ2NiBMIDU1LjI1MyAyOS40NjYgTCA1NS4yNTMgMTYuMzgxIEMgNTUuMjUzIDExLjY2MyA1Mi4zNzMgOC43MjQgNDcuNzM4IDguNzI0IE0gNzAuNDExIDguNzMzIEMgNjguMDc1IDguNzMzIDY1LjY0NyA5LjcyMSA2NC4yMjcgMTEuMjUzIEwgNjQuMDIxIDExLjQ4NSBMIDY0LjAyMSAxMS4xODMgQyA2NC4wMzUgMTAuMTU4IDY0LjAzNSA5LjA1NiA2NC4wMzUgNy45OSBMIDY0LjAzNSAwIEwgNTkuMTUzIDAgTCA1OS4xNTMgMjkuNDY2IEwgNjQuMDQyIDI5LjQ2NiBMIDY0LjA0MiAyNy4yOTcgTCA2NC4yNDMgMjcuNTI5IEMgNjUuNjM1IDI5LjA1MyA2Ny45NTYgMzAgNzAuMzI1IDMwIEMgNzYuMjQzIDMwIDgwLjUzNCAyNS41MjIgODAuNTM0IDE5LjM1IEMgODAuNTM0IDEzLjE3OSA3Ni4yNzMgOC43NDUgNzAuNDA2IDguNzQ1IE0gNjkuNzEgMjUuNjgyIEMgNjYuMzQ2IDI1LjY4MiA2My45MSAyMy4wMjEgNjMuOTEgMTkuMzU4IEMgNjMuOTEgMTUuNjk0IDY2LjM1IDEzLjA3NCA2OS43MSAxMy4wNzQgQyA3My4wNyAxMy4wNzQgNzUuNTExIDE1LjcxNyA3NS41MTEgMTkuMzU4IEMgNzUuNTExIDIyLjk5OCA3My4wNyAyNS42ODIgNjkuNzEgMjUuNjgyIE0gODMuMzQ4IDAgTCA4OC4yMzcgMCBMIDg4LjIzNyAyOS40NjYgTCA4My4zNDggMjkuNDY2IFogTSA5NC4yODggMjkuNDY2IEwgOTkuMTc5IDI5LjQ2NiBMIDk5LjE3OSA5LjI1NSBMIDkxLjMzIDkuMjU1IEwgOTEuMzMgMTMuNDA0IEwgOTQuMjg4IDEzLjQwNCBMIDk0LjI4OCAyOS40NjYgTSAxMTcuODk2IDIyLjg5OCBDIDExNi45MDkgMjQuNjU0IDExNS4yMjMgMjUuNjIxIDExMy4xNDEgMjUuNjIxIEMgMTA5Ljc3NSAyNS42MjEgMTA3LjQyNSAyMy4wNTYgMTA3LjQyNSAxOS4zODMgQyAxMDcuNDI1IDE1LjcxIDEwOS44MjkgMTMuMDk5IDExMy4xNDEgMTMuMDk5IEMgMTE1LjIzIDEzLjA5OSAxMTYuOTA5IDE0LjA2NyAxMTcuODk2IDE1LjgyMyBMIDExOC4wMzMgMTYuMDU2IEwgMTIyLjI4OCAxMy45MDEgTCAxMjIuMTQ5IDEzLjY0IEMgMTIwLjU1IDEwLjY2NiAxMTcuMDE3IDguNzQzIDExMy4xNDQgOC43NDMgQyAxMDcuMDQ5IDguNzQzIDEwMi40NSAxMy4zMiAxMDIuNDUgMTkuMzkyIEMgMTAyLjQ1IDI1LjQ2NCAxMDcuMDQ3IDI5Ljk5OCAxMTMuMTQ0IDI5Ljk5OCBDIDExNy4wMTcgMjkuOTk4IDEyMC41NSAyOC4wNzQgMTIyLjE0OSAyNS4wOTkgTCAxMjIuMjg4IDI0Ljg0IEwgMTE4LjAzMyAyMi42NjMgWiBNIDEzMy40MTcgOC43MzMgQyAxMzAuMzMyIDguNzMzIDEyNy4zMTUgOS43NTIgMTI1LjM1MSAxMS40NTkgTCAxMjUuMTYyIDExLjYyNCBMIDEyNy41MTUgMTUuMzM3IEwgMTI3Ljc2OCAxNS4xMzcgQyAxMjguOTI4IDE0LjIwOSAxMzAuODA1IDEzLjExMSAxMzMuMTA1IDEzLjExMSBDIDEzNC41MjUgMTMuMTExIDEzNi45MDUgMTMuNDg3IDEzNi45MDUgMTYgTCAxMzYuOTA1IDE2LjMwNCBDIDEzNi45MDUgMTYuODYxIDEzNi43MTcgMTcuMjMyIDEzNS44MDMgMTcuMjMyIEwgMTMxLjU4IDE3LjIzMiBDIDEyNi45NTYgMTcuMjMyIDEyNC4xOTUgMTkuNTg3IDEyNC4xOTUgMjMuNTI5IEMgMTI0LjE5NSAyNy40NzEgMTI3LjA5MyAzMCAxMzEuNTggMzAgQyAxMzMuNjE1IDMwIDEzNS41MjQgMjkuMzI3IDEzNi43MDggMjguMTk3IEwgMTM2LjkwNSAyOC4wMSBMIDEzNi45MDUgMjkuNDc4IEwgMTQxLjgzOCAyOS40NzggTCAxNDEuODM4IDE2LjA3NCBDIDE0MS44MzggMTEuNjE1IDEzOC41MjkgOC43MzMgMTMzLjQwOSA4LjczMyBNIDEzNi45MDUgMjEuOTkzIEMgMTM2LjkwNSAyMi45MzUgMTM2LjU4NyAyNi4wMTEgMTMyLjQ5NyAyNi4wMTEgQyAxMzAuMTQyIDI2LjAxMSAxMjkuMzA0IDI0LjU5NiAxMjkuMzA0IDIzLjM4NSBDIDEyOS4zMDQgMjEuODM4IDEzMC40MDkgMjEuMDIxIDEzMi40OTcgMjEuMDIxIEwgMTM1LjEwNyAyMS4wMjEgQyAxMzUuNjYzIDIxLjAzOCAxMzYuMjE5IDIwLjk3NCAxMzYuNzU3IDIwLjgzIEwgMTM2LjkwNyAyMC43ODQgWiBNIDkzLjgwMiAwIEwgOTkuMTc2IDAgTCA5OS4xNzYgNS4zNzQgTCA5My44MDIgNS4zNzQgWiIgc3R5bGU9ImZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KTsiLz4KPC9zdmc+",
-                "whiteLogo": true,
-                "countries": [
-                  "finland"
-                ]
-              },
-              {
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
                 "id": "upcloud",
                 "name": "UpCloud",
                 "websiteURL": "https://upcloud.com/",
@@ -8252,8 +8197,60 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            },
+            {
+              "role": "Other",
+              "company": {
+                "id": "luxaslabs",
+                "name": "luxas labs",
+                "websiteURL": "https://luxaslabs.com",
+                "logoURL": "https://raw.githubusercontent.com/luxaslabs/luxaslabs/master/artwork/logo.png",
+                "countries": [
+                  "finland",
+                  "sweden"
+                ]
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
+                "id": "cncf",
+                "name": "Cloud Native Computing Foundation (CNCF)",
+                "websiteURL": "https://www.cncf.io/",
+                "logoURL": "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/stacked/color/cncf-stacked-color.png",
+                "countries": [
+                  "denmark",
+                  "finland"
+                ]
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
+                "id": "emblica",
+                "name": "Emblica",
+                "websiteURL": "https://www.emblica.fi/",
+                "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSIwIDAgMTQxLjgzNzk5NzQzNjUyMzQ0IDMwIiB3aWR0aD0iMTQxLjgzNzk5NzQzNjUyMzQ0IiBoZWlnaHQ9IjMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0gMTAuMzAxIDguNzMzIEMgNC4zMzIgOC43MzMgMCAxMy4xOTUgMCAxOS4zMzkgQyAwIDI1LjQ4MyA0LjM4NyAyOS45ODkgMTAuNDQxIDI5Ljk4OSBDIDE0Ljg2IDI5Ljk4OSAxOC41MjQgMjcuNzEyIDIwLjIzOSAyMy44OTggTCAyMC40MTggMjMuNTAxIEwgMTQuOTAzIDIzLjM1NSBMIDE0LjgxNSAyMy40ODkgQyAxMy45MjQgMjQuODQ0IDEyLjMzMiAyNS42MjEgMTAuNDQzIDI1LjYyMSBDIDcuNzU0IDI1LjYyMSA1Ljc3MyAyMy44OTYgNS4yNzIgMjEuMTE0IEwgNS4yNDYgMjAuOTc3IEwgMjAuNjU2IDIwLjk3NyBMIDIwLjY1NiAyMC42NDMgQyAyMC42NTYgMTYuODE0IDE5LjU3MyAxMy42ODIgMTcuNTIyIDExLjU5NCBDIDE1LjcxNSA5LjczOCAxMy4xNTQgOC43MzMgMTAuMzEzIDguNzMzIE0gNS4yNzIgMTcuMjIxIEwgNS4zMDkgMTcuMDc1IEMgNS45NjMgMTQuNTg0IDcuODQ5IDEzLjA5NyAxMC4zNTUgMTMuMDk3IEMgMTIuNzA1IDEzLjA5MyAxNC43MTkgMTQuNzczIDE1LjEzNyAxNy4wODYgTCAxNS4xNiAxNy4yMjMgWiBNIDQ3LjczOCA4LjczMyBDIDQ1LjE4NSA4LjczMyA0Mi45MTkgOS44MTQgNDEuMDMgMTEuOTQ0IEwgNDAuOTI0IDEyLjA2NSBMIDQwLjg0MiAxMS45MjYgQyAzOS42NDUgOS44MzggMzcuNDk5IDguNzM1IDM0LjYzNiA4LjczNSBDIDMyLjUzIDguNzQ0IDMwLjUwNiA5LjU1NiAyOC45NzkgMTEuMDA3IEwgMjguNzggMTEuMTkyIEwgMjguNzggMTAuOTIxIEwgMjguNzggOS4yNTkgTCAyMy45NzcgOS4yNTkgTCAyMy45NzcgMjkuNDcxIEwgMjguODY1IDI5LjQ3MSBMIDI4Ljg2NSAxNS44NzkgTCAyOC44OTUgMTUuODQ3IEMgMzAuNDczIDE0LjA1OCAzMi4wNDkgMTMuMTg4IDMzLjcxMyAxMy4xODggQyAzNS44NDIgMTMuMTg4IDM3LjE2NSAxNC41OTQgMzcuMTY1IDE2Ljg1OCBMIDM3LjE2NSAyOS40NjYgTCA0Mi4wNTMgMjkuNDY2IEwgNDIuMDUzIDE1Ljg3OSBMIDQyLjA4MyAxNS44NDcgQyA0My42NjEgMTQuMDU4IDQ1LjIzNyAxMy4xODggNDYuOTAxIDEzLjE4OCBDIDQ5LjAzMSAxMy4xODggNTAuMzUzIDE0LjU5NCA1MC4zNTMgMTYuODU4IEwgNTAuMzUzIDI5LjQ2NiBMIDU1LjI1MyAyOS40NjYgTCA1NS4yNTMgMTYuMzgxIEMgNTUuMjUzIDExLjY2MyA1Mi4zNzMgOC43MjQgNDcuNzM4IDguNzI0IE0gNzAuNDExIDguNzMzIEMgNjguMDc1IDguNzMzIDY1LjY0NyA5LjcyMSA2NC4yMjcgMTEuMjUzIEwgNjQuMDIxIDExLjQ4NSBMIDY0LjAyMSAxMS4xODMgQyA2NC4wMzUgMTAuMTU4IDY0LjAzNSA5LjA1NiA2NC4wMzUgNy45OSBMIDY0LjAzNSAwIEwgNTkuMTUzIDAgTCA1OS4xNTMgMjkuNDY2IEwgNjQuMDQyIDI5LjQ2NiBMIDY0LjA0MiAyNy4yOTcgTCA2NC4yNDMgMjcuNTI5IEMgNjUuNjM1IDI5LjA1MyA2Ny45NTYgMzAgNzAuMzI1IDMwIEMgNzYuMjQzIDMwIDgwLjUzNCAyNS41MjIgODAuNTM0IDE5LjM1IEMgODAuNTM0IDEzLjE3OSA3Ni4yNzMgOC43NDUgNzAuNDA2IDguNzQ1IE0gNjkuNzEgMjUuNjgyIEMgNjYuMzQ2IDI1LjY4MiA2My45MSAyMy4wMjEgNjMuOTEgMTkuMzU4IEMgNjMuOTEgMTUuNjk0IDY2LjM1IDEzLjA3NCA2OS43MSAxMy4wNzQgQyA3My4wNyAxMy4wNzQgNzUuNTExIDE1LjcxNyA3NS41MTEgMTkuMzU4IEMgNzUuNTExIDIyLjk5OCA3My4wNyAyNS42ODIgNjkuNzEgMjUuNjgyIE0gODMuMzQ4IDAgTCA4OC4yMzcgMCBMIDg4LjIzNyAyOS40NjYgTCA4My4zNDggMjkuNDY2IFogTSA5NC4yODggMjkuNDY2IEwgOTkuMTc5IDI5LjQ2NiBMIDk5LjE3OSA5LjI1NSBMIDkxLjMzIDkuMjU1IEwgOTEuMzMgMTMuNDA0IEwgOTQuMjg4IDEzLjQwNCBMIDk0LjI4OCAyOS40NjYgTSAxMTcuODk2IDIyLjg5OCBDIDExNi45MDkgMjQuNjU0IDExNS4yMjMgMjUuNjIxIDExMy4xNDEgMjUuNjIxIEMgMTA5Ljc3NSAyNS42MjEgMTA3LjQyNSAyMy4wNTYgMTA3LjQyNSAxOS4zODMgQyAxMDcuNDI1IDE1LjcxIDEwOS44MjkgMTMuMDk5IDExMy4xNDEgMTMuMDk5IEMgMTE1LjIzIDEzLjA5OSAxMTYuOTA5IDE0LjA2NyAxMTcuODk2IDE1LjgyMyBMIDExOC4wMzMgMTYuMDU2IEwgMTIyLjI4OCAxMy45MDEgTCAxMjIuMTQ5IDEzLjY0IEMgMTIwLjU1IDEwLjY2NiAxMTcuMDE3IDguNzQzIDExMy4xNDQgOC43NDMgQyAxMDcuMDQ5IDguNzQzIDEwMi40NSAxMy4zMiAxMDIuNDUgMTkuMzkyIEMgMTAyLjQ1IDI1LjQ2NCAxMDcuMDQ3IDI5Ljk5OCAxMTMuMTQ0IDI5Ljk5OCBDIDExNy4wMTcgMjkuOTk4IDEyMC41NSAyOC4wNzQgMTIyLjE0OSAyNS4wOTkgTCAxMjIuMjg4IDI0Ljg0IEwgMTE4LjAzMyAyMi42NjMgWiBNIDEzMy40MTcgOC43MzMgQyAxMzAuMzMyIDguNzMzIDEyNy4zMTUgOS43NTIgMTI1LjM1MSAxMS40NTkgTCAxMjUuMTYyIDExLjYyNCBMIDEyNy41MTUgMTUuMzM3IEwgMTI3Ljc2OCAxNS4xMzcgQyAxMjguOTI4IDE0LjIwOSAxMzAuODA1IDEzLjExMSAxMzMuMTA1IDEzLjExMSBDIDEzNC41MjUgMTMuMTExIDEzNi45MDUgMTMuNDg3IDEzNi45MDUgMTYgTCAxMzYuOTA1IDE2LjMwNCBDIDEzNi45MDUgMTYuODYxIDEzNi43MTcgMTcuMjMyIDEzNS44MDMgMTcuMjMyIEwgMTMxLjU4IDE3LjIzMiBDIDEyNi45NTYgMTcuMjMyIDEyNC4xOTUgMTkuNTg3IDEyNC4xOTUgMjMuNTI5IEMgMTI0LjE5NSAyNy40NzEgMTI3LjA5MyAzMCAxMzEuNTggMzAgQyAxMzMuNjE1IDMwIDEzNS41MjQgMjkuMzI3IDEzNi43MDggMjguMTk3IEwgMTM2LjkwNSAyOC4wMSBMIDEzNi45MDUgMjkuNDc4IEwgMTQxLjgzOCAyOS40NzggTCAxNDEuODM4IDE2LjA3NCBDIDE0MS44MzggMTEuNjE1IDEzOC41MjkgOC43MzMgMTMzLjQwOSA4LjczMyBNIDEzNi45MDUgMjEuOTkzIEMgMTM2LjkwNSAyMi45MzUgMTM2LjU4NyAyNi4wMTEgMTMyLjQ5NyAyNi4wMTEgQyAxMzAuMTQyIDI2LjAxMSAxMjkuMzA0IDI0LjU5NiAxMjkuMzA0IDIzLjM4NSBDIDEyOS4zMDQgMjEuODM4IDEzMC40MDkgMjEuMDIxIDEzMi40OTcgMjEuMDIxIEwgMTM1LjEwNyAyMS4wMjEgQyAxMzUuNjYzIDIxLjAzOCAxMzYuMjE5IDIwLjk3NCAxMzYuNzU3IDIwLjgzIEwgMTM2LjkwNyAyMC43ODQgWiBNIDkzLjgwMiAwIEwgOTkuMTc2IDAgTCA5OS4xNzYgNS4zNzQgTCA5My44MDIgNS4zNzQgWiIgc3R5bGU9ImZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KTsiLz4KPC9zdmc+",
+                "whiteLogo": true,
+                "countries": [
+                  "finland"
+                ]
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
+                "id": "upcloud",
+                "name": "UpCloud",
+                "websiteURL": "https://upcloud.com/",
+                "logoURL": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjA4cHgiIGhlaWdodD0iMzNweCIgdmlld0JveD0iMCAwIDIwOCAzMyIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4NCg0KPHRpdGxlPlVwQ2xvdWQgQnJhbmQgR3VpZGUtMDwvdGl0bGU+DQo8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4NCjxkZWZzPjwvZGVmcz4NCjxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPg0KPGcgaWQ9IlN0YXJ0cGFnZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIwLjAwMDAwMCwgLTI2LjAwMDAwMCkiIGZpbGwtcnVsZT0ibm9uemVybyI+DQo8ZyBpZD0iSW50cm9kdWN0aW9uLUhlYWRlciIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEzOC4wMDAwMDAsIC0yLjAwMDAwMCkiPg0KPGcgaWQ9Ik1haW4tbWVudSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTM4LjAwMDAwMCwgMC4wMDAwMDApIj4NCjxnIGlkPSJVcENsb3VkLUJyYW5kLUd1aWRlLTAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIwLjAwMDAwMCwgMjguMDAwMDAwKSI+DQo8cGF0aCBkPSJNOTAuODIzODE5MywxNy42OTE3OTczIEM5MC44MjM4MTkzLDIyLjA1MDY0NTkgODguMzg5MzIyNCwyMy45MDk1NjY2IDg0LjM1MzE4MjgsMjMuOTA5NTY2NiBDODAuMTQ2MjAxMiwyMy45MDk1NjY2IDc3LjY2ODk5MzgsMjIuMDUwNjQ1OSA3Ny42Njg5OTM4LDE3LjY5MTc5NzMgTDc3LjY2ODk5MzgsMC43MjY0NzQ3NjcgTDc0LjQ2NTcwODQsMC43MjY0NzQ3NjcgTDc0LjQ2NTcwODQsMTguMDEyMzAwOCBDNzQuNDY1NzA4NCwyNC4xODczMzYzIDc4LjY3MjY4OTksMjYuNjY1ODk3MyA4NC4yNDY0MDY2LDI2LjY2NTg5NzMgQzg5LjcxMzM0NywyNi42NjU4OTczIDk0LjAyNzEwNDcsMjQuMjA4NzAzMyA5NC4wMjcxMDQ3LDE4LjAxMjMwMDggTDk0LjAyNzEwNDcsMC43MjY0NzQ3NjcgTDkwLjgyMzgxOTMsMC43MjY0NzQ3NjcgTDkwLjgyMzgxOTMsMTcuNjkxNzk3MyBaIE0xMDcuNjczMTAxLDcuMzcxNTgyMTkgQzEwNS4wMDM2OTYsNy4zNzE1ODIxOSAxMDMuMTQ1NzkxLDguNTI1Mzk1MDYgMTAxLjczNjM0NSwxMC40MDU2ODI3IEwxMDEuNjcyMjc5LDEwLjQwNTY4MjcgTDEwMS42NzIyNzksNy43OTg5MjAyOSBMOTguNzg5MzIyNCw3Ljc5ODkyMDI5IEw5OC43ODkzMjI0LDMyLjE5OTkyNTcgTDEwMS42NzIyNzksMzIuMTk5OTI1NyBMMTAxLjY3MjI3OSwyNC4wODA1MDE4IEwxMDEuNzM2MzQ1LDI0LjA4MDUwMTggQzEwMy4yNzM5MjIsMjYuMDQ2MjU3MSAxMDUuMDY3NzYyLDI2Ljc5NDA5ODcgMTA3LjU2NjMyNCwyNi43OTQwOTg3IEMxMTIuNTYzNDUsMjYuNzk0MDk4NyAxMTUuNTk1ODkzLDIzLjAxMjE1NjYgMTE1LjU5NTg5MywxNy4wNzIxNTcgQzExNS41OTU4OTMsMTAuOTM5ODU1MyAxMTIuMzQ5ODk3LDcuMzcxNTgyMTkgMTA3LjY3MzEwMSw3LjM3MTU4MjE5IFogTTEwNy4zNTI3NzIsMjQuMzc5NjM4NSBDMTAzLjEwMzA4LDI0LjM3OTYzODUgMTAxLjUwMTQzNywyMS4xMzE4Njg5IDEwMS41MDE0MzcsMTcuMTM2MjU3NyBDMTAxLjUwMTQzNywxMy4xNDA2NDY1IDEwMy4zNTkzNDMsOS44Mjg3NzYyNiAxMDcuMzk1NDgzLDkuODI4Nzc2MjYgQzExMC44OTc3NDEsOS44Mjg3NzYyNiAxMTIuNjQ4ODcxLDEyLjk2OTcxMTMgMTEyLjY0ODg3MSwxNy4xMTQ4OTA4IEMxMTIuNjQ4ODcxLDIxLjMwMjgwNDIgMTEwLjg5Nzc0MSwyNC4zNzk2Mzg1IDEwNy4zNTI3NzIsMjQuMzc5NjM4NSBaIE0xMzAuNzU4MTExLDIzLjk1MjMwMDQgQzEyNS40NDA2NTcsMjMuOTUyMzAwNCAxMjEuOTgxMTA5LDE5Ljc0MzAyMDEgMTIxLjk4MTEwOSwxMy40ODI1MTcgQzEyMS45ODExMDksNy40Nzg0MTY3MiAxMjUuMTIwMzI5LDIuOTQ4NjMyODggMTMwLjczNjc1NiwyLjk0ODYzMjg4IEMxMzQuNzcyODk1LDIuOTQ4NjMyODggMTM3LjMxNDE2OCw1LjEyODA1NzE4IDEzNy45MTIxMTUsOC4zMTE3MjYwMSBMMTQxLjA1MTMzNSw4LjMxMTcyNjAxIEMxNDAuMzY3OTY3LDMuNTg5NjQwMDIgMTM2Ljc1ODkzMiwwLjE3MDkzNTIzOSAxMzAuODAwODIxLDAuMTcwOTM1MjM5IEMxMjMuMTk4MzU3LDAuMTcwOTM1MjM5IDExOC42OTI0MDIsNi4wMDQxMDAyOCAxMTguNjkyNDAyLDEzLjUwMzg4MzkgQzExOC42OTI0MDIsMjEuMjYwMDcwNCAxMjMuNDExOTEsMjYuNzk0MDk4NyAxMzAuNjUxMzM1LDI2Ljc5NDA5ODcgQzEzMy44OTczMzEsMjYuNzk0MDk4NyAxMzYuNTAyNjY5LDI1Ljg3NTMyMTggMTM4LjI5NjUwOSwyNC4xMjMyMzU2IEMxNDAuMTExNzA0LDIyLjMyODQxNTYgMTQxLjMyODk1MywxOS40ODY2MTczIDE0MS4zNzE2NjMsMTYuOTQzOTU1NiBMMTM4LjE4OTczMywxNi45NDM5NTU2IEMxMzcuODY5NDA1LDIwLjY2MTc5NyAxMzUuNTg0Mzk0LDIzLjk1MjMwMDQgMTMwLjc1ODExMSwyMy45NTIzMDA0IFogTTE0NS4xOTQyNTEsMC43MjY0NzQ3NjcgTDE0OC4wNzcyMDcsMC43MjY0NzQ3NjcgTDE0OC4wNzcyMDcsMjYuMjgxMjkzIEwxNDUuMTk0MjUxLDI2LjI4MTI5MyBMMTQ1LjE5NDI1MSwwLjcyNjQ3NDc2NyBaIE0xNjAuNTA1OTU1LDcuMzI4ODQ4MzggQzE1NC45OTYzMDQsNy4zMjg4NDgzOCAxNTEuNTc5NDY2LDExLjY4NzY5NyAxNTEuNTc5NDY2LDE3LjA1MDc5MDEgQzE1MS41Nzk0NjYsMjIuNDEzODgzMiAxNTUuMDE3NjU5LDI2Ljc3MjczMTggMTYwLjUwNTk1NSwyNi43NzI3MzE4IEMxNjYuMDM2OTYxLDI2Ljc3MjczMTggMTY5LjM4OTczMywyMi40MTM4ODMyIDE2OS4zODk3MzMsMTcuMDUwNzkwMSBDMTY5LjM4OTczMywxMS42ODc2OTcgMTY2LjAzNjk2MSw3LjMyODg0ODM4IDE2MC41MDU5NTUsNy4zMjg4NDgzOCBaIE0xNjAuNTA1OTU1LDI0LjMzNjkwNDcgQzE1Ni41NzY1OTEsMjQuMzM2OTA0NyAxNTQuNTQ3ODQ0LDIxLjEzMTg2ODkgMTU0LjU0Nzg0NCwxNy4wNTA3OTAxIEMxNTQuNTQ3ODQ0LDEyLjk2OTcxMTMgMTU2LjU3NjU5MSw5LjcyMTk0MTczIDE2MC41MDU5NTUsOS43MjE5NDE3MyBDMTY0LjQzNTMxOCw5LjcyMTk0MTczIDE2Ni40NDI3MSwxMi45Njk3MTEzIDE2Ni40NDI3MSwxNy4wNTA3OTAxIEMxNjYuNDQyNzEsMjEuMTMxODY4OSAxNjQuNDM1MzE4LDI0LjMzNjkwNDcgMTYwLjUwNTk1NSwyNC4zMzY5MDQ3IFogTTE4NC41OTQ2NjEsMTkuMTY2MTEzNyBDMTg0LjU5NDY2MSwyMi4wOTMzNzk3IDE4Mi42OTQwNDUsMjQuMzE1NTM3OCAxNzkuNzY4Mzc4LDI0LjMxNTUzNzggQzE3Ny4xNjMwMzksMjQuMzE1NTM3OCAxNzUuNjI1NDYyLDIyLjkyNjY4OSAxNzUuNjI1NDYyLDIwLjUzMzU5NTYgTDE3NS42MjU0NjIsNy43OTg5MjAyOSBMMTcyLjc0MjUwNSw3Ljc5ODkyMDI5IEwxNzIuNzQyNTA1LDIwLjU5NzY5NjMgQzE3Mi43NDI1MDUsMjQuNDIyMzcyMyAxNzUuMTc3MDAyLDI2LjcwODYzMTEgMTc4Ljk1Njg3OSwyNi43MDg2MzExIEMxODEuNjI2MjgzLDI2LjcwODYzMTEgMTgzLjIwNjU3MSwyNS41MzM0NTE0IDE4NC41MzA1OTUsMjMuNzM4NjMxMyBMMTg0LjU5NDY2MSwyMy43Mzg2MzEzIEwxODQuNTk0NjYxLDI2LjI4MTI5MyBMMTg3LjQ5ODk3MywyNi4yODEyOTMgTDE4Ny40OTg5NzMsNy43OTg5MjAyOSBMMTg0LjYxNjAxNiw3Ljc5ODkyMDI5IEwxODQuNjE2MDE2LDE5LjE2NjExMzcgTDE4NC41OTQ2NjEsMTkuMTY2MTEzNyBaIE0yMDQuOTY3NTU2LDAuNzI2NDc0NzY3IEwyMDQuOTY3NTU2LDEwLjQwNTY4MjcgTDIwNC45MDM0OTEsMTAuNDA1NjgyNyBDMjAzLjcyODk1Myw4LjY1MzU5NjQ5IDIwMS43MjE1NjEsNy4zNzE1ODIxOSAxOTkuMTE2MjIyLDcuMzcxNTgyMTkgQzE5NC41NDYyMDEsNy4zNzE1ODIxOSAxOTEuMDAxMjMyLDEwLjkzOTg1NTMgMTkxLjAwMTIzMiwxNy4wOTM1MjM5IEMxOTEuMDAxMjMyLDIzLjAzMzUyMzUgMTk0LjE0MDQ1MiwyNi44MTU0NjU3IDE5OS4xODAyODcsMjYuODE1NDY1NyBDMjAxLjc4NTYyNiwyNi44MTU0NjU3IDIwMy40OTQwNDUsMjUuODExMjIxMSAyMDQuOTAzNDkxLDI0LjAzNzc2OCBMMjA0Ljk2NzU1NiwyNC4wMzc3NjggTDIwNC45Njc1NTYsMjYuMjgxMjkzIEwyMDcuODUwNTEzLDI2LjI4MTI5MyBMMjA3Ljg1MDUxMywwLjcyNjQ3NDc2NyBMMjA0Ljk2NzU1NiwwLjcyNjQ3NDc2NyBaIE0xOTkuMjg3MDY0LDI0LjM3OTYzODUgQzE5NS43NDIwOTQsMjQuMzc5NjM4NSAxOTMuOTY5NjEsMjEuMzAyODA0MiAxOTMuOTY5NjEsMTcuMTM2MjU3NyBDMTkzLjk2OTYxLDEyLjk5MTA3ODIgMTk1Ljc2MzQ1LDkuODUwMTQzMTYgMTk5LjI0NDM1Myw5Ljg1MDE0MzE2IEMyMDMuMDY2OTQsOS44NTAxNDMxNiAyMDUuMTM4Mzk4LDEyLjg0MTUwOTggMjA1LjEzODM5OCwxNy4xMzYyNTc3IEMyMDUuMTM4Mzk4LDIxLjMwMjgwNDIgMjAzLjQwODYyNCwyNC4zNzk2Mzg1IDE5OS4yODcwNjQsMjQuMzc5NjM4NSBaIiBpZD0iU2hhcGUiIGZpbGw9IiNGRkZGRkYiPjwvcGF0aD4NCjxnIGlkPSJsb2dvLWNhYmxlcyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsIDAuNjQxMDA3KSIgZmlsbD0iIzdCMDBGRiI+DQo8cGF0aCBkPSJNNTkuMzI0ODQ2LDE1LjU3NjQ3MzcgTDI4LjA2MDc4MDMsMTUuNTc2NDczNyBMMjguMDYwNzgwMywxNy45MjY4MzMyIEw1OS4zNDYyMDEyLDE3LjkyNjgzMzIgQzYwLjg0MTA2NzgsMTcuOTI2ODMzMiA2Mi4wMzY5NjEsMTkuMTIzMzc5OSA2Mi4wMzY5NjEsMjAuNjE5MDYzMiBDNjIuMDM2OTYxLDIyLjExNDc0NjYgNjAuODQxMDY3OCwyMy4zMTEyOTMyIDU5LjM0NjIwMTIsMjMuMzExMjkzMiBMMjUuNjkwMzQ5MSwyMy4zMTEyOTMyIEwyNS42OTAzNDkxLDEyLjU0MjM3MzIgTDIzLjM0MTI3MzEsMTIuNTQyMzczMiBMMjMuMzQxMjczMSwyNS42NjE2NTI4IEw1OS4zMjQ4NDYsMjUuNjYxNjUyOCBDNjIuMTAxMDI2NywyNS42NjE2NTI4IDY0LjM2NDY4MTcsMjMuMzk2NzYwOSA2NC4zNjQ2ODE3LDIwLjYxOTA2MzIgQzY0LjM2NDY4MTcsMTcuODQxMzY1NiA2Mi4xMDEwMjY3LDE1LjU3NjQ3MzcgNTkuMzI0ODQ2LDE1LjU3NjQ3MzcgWiIgaWQ9IlNoYXBlIj48L3BhdGg+DQo8cGF0aCBkPSJNMi40OTg1NjI2MywxMi44ODQyNDM3IEMyLjQ5ODU2MjYzLDExLjM4ODU2MDMgMy42OTQ0NTU4NSwxMC4xOTIwMTM2IDUuMTg5MzIyMzgsMTAuMTkyMDEzNiBMMzYuMTMzMDU5NSwxMC4xOTIwMTM2IEMzOC45MDkyNDAyLDEwLjE5MjAxMzYgNDEuMTcyODk1Myw3LjkyNzEyMTcyIDQxLjE3Mjg5NTMsNS4xNDk0MjQwOCBDNDEuMTcyODk1MywyLjM3MTcyNjQ0IDM4LjkwOTI0MDIsMC4xMDY4MzQ1MjUgMzYuMTMzMDU5NSwwLjEwNjgzNDUyNSBMMjMuMzYyNjI4MywwLjEwNjgzNDUyNSBMMjMuMzYyNjI4Myw1LjQ5MTI5NDU2IEwyNS43MTE3MDQzLDUuNDkxMjk0NTYgTDI1LjcxMTcwNDMsMi40NTcxOTQwNiBMMzYuMTMzMDU5NSwyLjQ1NzE5NDA2IEMzNy42Mjc5MjYxLDIuNDU3MTk0MDYgMzguODIzODE5MywzLjY1Mzc0MDc0IDM4LjgyMzgxOTMsNS4xNDk0MjQwOCBDMzguODIzODE5Myw2LjY0NTEwNzQyIDM3LjYyNzkyNjEsNy44NDE2NTQxIDM2LjEzMzA1OTUsNy44NDE2NTQxIEw1LjE4OTMyMjM4LDcuODQxNjU0MSBDMi40MTMxNDE2OCw3Ljg0MTY1NDEgMC4xNDk0ODY2NTMsMTAuMTA2NTQ2IDAuMTQ5NDg2NjUzLDEyLjg4NDI0MzcgQzAuMTQ5NDg2NjUzLDE1LjY2MTk0MTMgMi4zOTE3ODY0NSwxNy45NDgyMDAxIDUuMTg5MzIyMzgsMTcuOTQ4MjAwMSBMMjAuOTkyMTk3MSwxNy45NDgyMDAxIEwyMC45OTIxOTcxLDE1LjU5Nzg0MDYgTDUuMTg5MzIyMzgsMTUuNTk3ODQwNiBDMy42OTQ0NTU4NSwxNS41NzY0NzM3IDIuNDk4NTYyNjMsMTQuMzc5OTI3IDIuNDk4NTYyNjMsMTIuODg0MjQzNyBaIiBpZD0iU2hhcGUiPjwvcGF0aD4NCjwvZz4NCjwvZz4NCjwvZz4NCjwvZz4NCjwvZz4NCjwvZz4NCjwvc3ZnPg==",
+                "whiteLogo": true,
+                "countries": [
+                  "finland"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "30m0s",
@@ -8394,19 +8391,23 @@
           "attendees": 65,
           "address": "Lapinlahdenkatu 16",
           "recording": "https://www.youtube.com/watch?v=4ZMEejSX8nM",
-          "sponsors": {
-            "venue": {
-              "id": "maria01",
-              "name": "Maria 01",
-              "websiteURL": "https://maria.io/",
-              "logoURL": "https://maria.io/wp-content/themes/maria01/dist/assets/images/bottom-logo.svg",
-              "whiteLogo": true,
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "maria01",
+                "name": "Maria 01",
+                "websiteURL": "https://maria.io/",
+                "logoURL": "https://maria.io/wp-content/themes/maria01/dist/assets/images/bottom-logo.svg",
+                "whiteLogo": true,
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -8415,8 +8416,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -8425,8 +8429,11 @@
                   "denmark",
                   "finland"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "emblica",
                 "name": "Emblica",
                 "websiteURL": "https://www.emblica.fi/",
@@ -8435,8 +8442,11 @@
                 "countries": [
                   "finland"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "upcloud",
                 "name": "UpCloud",
                 "websiteURL": "https://upcloud.com/",
@@ -8446,8 +8456,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "20m0s",
@@ -8560,19 +8570,23 @@
           "attendees": 63,
           "address": "Lapinlahdenkatu 16",
           "recording": "https://www.youtube.com/watch?v=JhBgGv0xCE0",
-          "sponsors": {
-            "venue": {
-              "id": "maria01",
-              "name": "Maria 01",
-              "websiteURL": "https://maria.io/",
-              "logoURL": "https://maria.io/wp-content/themes/maria01/dist/assets/images/bottom-logo.svg",
-              "whiteLogo": true,
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "maria01",
+                "name": "Maria 01",
+                "websiteURL": "https://maria.io/",
+                "logoURL": "https://maria.io/wp-content/themes/maria01/dist/assets/images/bottom-logo.svg",
+                "whiteLogo": true,
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -8581,8 +8595,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -8591,8 +8608,11 @@
                   "denmark",
                   "finland"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "emblica",
                 "name": "Emblica",
                 "websiteURL": "https://www.emblica.fi/",
@@ -8601,8 +8621,11 @@
                 "countries": [
                   "finland"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "upcloud",
                 "name": "UpCloud",
                 "websiteURL": "https://upcloud.com/",
@@ -8612,8 +8635,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "20m0s",
@@ -8733,18 +8756,22 @@
           "attendees": 110,
           "address": "Aleksis Kivis Gata 7",
           "recording": "https://www.youtube.com/watch?v=y3tbLJVkKN0",
-          "sponsors": {
-            "venue": {
-              "id": "nordea",
-              "name": "Nordea",
-              "websiteURL": "https://www.nordea.fi",
-              "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEzNi4xIDI4LjYiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEzNi4xIDI4LjY7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBjbGFzcz0iaW5qZWN0ZWQtc3ZnIiBhcmlhLWxhYmVsPSJOb3JkZWFuIGV0dXNpdnVsbGUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzAwMDBBMDt9DQoJLnN0MXtmaWxsOm5vbmU7fQ0KPC9zdHlsZT4NCjxnIGlkPSJMYWdlcl8xIj4NCgkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEyNC4xLDYuMmMtNS41LDAuNC05LjksNC45LTEwLjMsMTAuNGMtMC40LDYuNSw0LjcsMTEuOSwxMS4xLDExLjljMi4zLDAsNS40LTEuMiw2LjgtMy42djMuM2g0LjNWMTcuNiAgICBDMTM2LjIsMTAuNiwxMzAuNiw1LjcsMTI0LjEsNi4yeiBNMTMxLjQsMTcuNmMtMC4yLDMuNy0zLjQsNi41LTcuMiw2Yy0yLjktMC40LTUuMi0yLjctNS42LTUuNmMtMC40LTMuOSwyLjYtNy4yLDYuNC03LjIgICAgYzMuNCwwLDYuMiwyLjcsNi40LDYuMUwxMzEuNCwxNy42TDEzMS40LDE3LjZ6Ij48L3BhdGg+DQoJCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMDAuNSw2LjJjLTUuOSwwLjItMTAuOSw0LjctMTAuOSwxMS4zYzAsNiw0LjksMTEuMSwxMS4yLDExLjFjNC40LDAsOC43LTIuNiwxMC40LTYuOWwtNC4zLTEuMyAgICBjLTAuOCwxLjgtMi43LDMuMy00LjgsMy43Yy0zLDAuNi01LjgtMS4zLTYuOS0zLjNsMTYuNy00LjZDMTExLjQsMTEuOCwxMDcuNiw2LDEwMC41LDYuMnogTTk0LjMsMTYuOGMwLTIuMywxLjQtNSw0LjQtNi4xICAgIGMzLjQtMS4zLDYuNCwwLjQsNy43LDIuOEw5NC4zLDE2Ljh6Ij48L3BhdGg+DQoJCQkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTYzLjgsMTAuN1Y2LjFjLTQuMiwwLTUuNiwyLjEtNi4zLDMuMlY2LjhoLTQuOFYxN3YxMS4xaDQuOWMwLTYuNiwwLTYuNSwwLTEwLjUgICAgICBDNTcuNiwxMi44LDYwLjQsMTAuOSw2My44LDEwLjd6Ij48L3BhdGg+DQoJCQkJPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSIxOS43LDE5LjYgNS4xLDIuNCAwLjEsMi40IDAuMSwyOC4xIDUuMywyOC4xIDUuMywxMC45IDIwLjEsMjguMiAyNC42LDI4LjIgMjQuNiwyLjQgMTkuNywyLjQgICAgICAgICAgICI+PC9wb2x5Z29uPg0KCQkJCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik04Ni43LDAuMWgtNC42djguNGMtMS4xLTEuNC00LjUtMi42LTcuNC0yLjNjLTUuNSwwLjQtOS45LDQuOS0xMC4zLDEwLjRjLTAuNCw2LjUsNC43LDExLjksMTEuMSwxMS45ICAgICAgYzIuNCwwLDUuNy0xLjEsNi44LTMuMnYyLjhoNC4zVjE3LjVjMC0wLjEsMC0wLjEsMC0wLjJjMC0wLjEsMC0wLjEsMC0wLjJMODYuNywwLjFMODYuNywwLjF6IE04MS45LDE3LjYgICAgICBjLTAuMiwzLjctMy40LDYuNS03LjIsNmMtMi45LTAuNC01LjItMi43LTUuNi01LjZjLTAuNC0zLjksMi42LTcuMiw2LjQtNy4yYzMuNCwwLDYuMiwyLjcsNi40LDYuMSAgICAgIEM4MS45LDE2LjksODEuOSwxNy42LDgxLjksMTcuNnoiPjwvcGF0aD4NCgkJCQk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzguNyw2LjFjLTYuMiwwLTExLjIsNS0xMS4yLDExLjJzNSwxMS4yLDExLjIsMTEuMnMxMS4yLTUsMTEuMi0xMS4yQzQ5LjgsMTEuMSw0NC44LDYuMSwzOC43LDYuMXogICAgICAgTTM4LjcsMjMuN2MtMy41LDAtNi40LTIuOS02LjQtNi40czIuOS02LjQsNi40LTYuNHM2LjQsMi45LDYuNCw2LjRDNDUuMSwyMC45LDQyLjIsMjMuNywzOC43LDIzLjd6Ij48L3BhdGg+DQo8L2c+DQo8L3N2Zz4=",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "nordea",
+                "name": "Nordea",
+                "websiteURL": "https://www.nordea.fi",
+                "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDEzNi4xIDI4LjYiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDEzNi4xIDI4LjY7IiB4bWw6c3BhY2U9InByZXNlcnZlIiBjbGFzcz0iaW5qZWN0ZWQtc3ZnIiBhcmlhLWxhYmVsPSJOb3JkZWFuIGV0dXNpdnVsbGUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzAwMDBBMDt9DQoJLnN0MXtmaWxsOm5vbmU7fQ0KPC9zdHlsZT4NCjxnIGlkPSJMYWdlcl8xIj4NCgkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTEyNC4xLDYuMmMtNS41LDAuNC05LjksNC45LTEwLjMsMTAuNGMtMC40LDYuNSw0LjcsMTEuOSwxMS4xLDExLjljMi4zLDAsNS40LTEuMiw2LjgtMy42djMuM2g0LjNWMTcuNiAgICBDMTM2LjIsMTAuNiwxMzAuNiw1LjcsMTI0LjEsNi4yeiBNMTMxLjQsMTcuNmMtMC4yLDMuNy0zLjQsNi41LTcuMiw2Yy0yLjktMC40LTUuMi0yLjctNS42LTUuNmMtMC40LTMuOSwyLjYtNy4yLDYuNC03LjIgICAgYzMuNCwwLDYuMiwyLjcsNi40LDYuMUwxMzEuNCwxNy42TDEzMS40LDE3LjZ6Ij48L3BhdGg+DQoJCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xMDAuNSw2LjJjLTUuOSwwLjItMTAuOSw0LjctMTAuOSwxMS4zYzAsNiw0LjksMTEuMSwxMS4yLDExLjFjNC40LDAsOC43LTIuNiwxMC40LTYuOWwtNC4zLTEuMyAgICBjLTAuOCwxLjgtMi43LDMuMy00LjgsMy43Yy0zLDAuNi01LjgtMS4zLTYuOS0zLjNsMTYuNy00LjZDMTExLjQsMTEuOCwxMDcuNiw2LDEwMC41LDYuMnogTTk0LjMsMTYuOGMwLTIuMywxLjQtNSw0LjQtNi4xICAgIGMzLjQtMS4zLDYuNCwwLjQsNy43LDIuOEw5NC4zLDE2Ljh6Ij48L3BhdGg+DQoJCQkJPHBhdGggY2xhc3M9InN0MCIgZD0iTTYzLjgsMTAuN1Y2LjFjLTQuMiwwLTUuNiwyLjEtNi4zLDMuMlY2LjhoLTQuOFYxN3YxMS4xaDQuOWMwLTYuNiwwLTYuNSwwLTEwLjUgICAgICBDNTcuNiwxMi44LDYwLjQsMTAuOSw2My44LDEwLjd6Ij48L3BhdGg+DQoJCQkJPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSIxOS43LDE5LjYgNS4xLDIuNCAwLjEsMi40IDAuMSwyOC4xIDUuMywyOC4xIDUuMywxMC45IDIwLjEsMjguMiAyNC42LDI4LjIgMjQuNiwyLjQgMTkuNywyLjQgICAgICAgICAgICI+PC9wb2x5Z29uPg0KCQkJCTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik04Ni43LDAuMWgtNC42djguNGMtMS4xLTEuNC00LjUtMi42LTcuNC0yLjNjLTUuNSwwLjQtOS45LDQuOS0xMC4zLDEwLjRjLTAuNCw2LjUsNC43LDExLjksMTEuMSwxMS45ICAgICAgYzIuNCwwLDUuNy0xLjEsNi44LTMuMnYyLjhoNC4zVjE3LjVjMC0wLjEsMC0wLjEsMC0wLjJjMC0wLjEsMC0wLjEsMC0wLjJMODYuNywwLjFMODYuNywwLjF6IE04MS45LDE3LjYgICAgICBjLTAuMiwzLjctMy40LDYuNS03LjIsNmMtMi45LTAuNC01LjItMi43LTUuNi01LjZjLTAuNC0zLjksMi42LTcuMiw2LjQtNy4yYzMuNCwwLDYuMiwyLjcsNi40LDYuMSAgICAgIEM4MS45LDE2LjksODEuOSwxNy42LDgxLjksMTcuNnoiPjwvcGF0aD4NCgkJCQk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzguNyw2LjFjLTYuMiwwLTExLjIsNS0xMS4yLDExLjJzNSwxMS4yLDExLjIsMTEuMnMxMS4yLTUsMTEuMi0xMS4yQzQ5LjgsMTEuMSw0NC44LDYuMSwzOC43LDYuMXogICAgICAgTTM4LjcsMjMuN2MtMy41LDAtNi40LTIuOS02LjQtNi40czIuOS02LjQsNi40LTYuNHM2LjQsMi45LDYuNCw2LjRDNDUuMSwyMC45LDQyLjIsMjMuNywzOC43LDIzLjd6Ij48L3BhdGg+DQo8L2c+DQo8L3N2Zz4=",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -8753,8 +8780,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -8764,8 +8794,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -8887,18 +8917,22 @@
           "attendees": 95,
           "address": "Ratavartijankatu 5",
           "recording": "https://www.youtube.com/watch?v=3ZWKm26Aw9Q",
-          "sponsors": {
-            "venue": {
-              "id": "elisa",
-              "name": "Elisa",
-              "websiteURL": "https://www.elisa.com",
-              "logoURL": "https://static.elisa.fi/components/elisa-navi/5.3.9//img/logo-elisa_2x.png",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "elisa",
+                "name": "Elisa",
+                "websiteURL": "https://www.elisa.com",
+                "logoURL": "https://static.elisa.fi/components/elisa-navi/5.3.9//img/logo-elisa_2x.png",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -8907,8 +8941,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -8918,8 +8955,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -9070,18 +9107,22 @@
           "attendees": 88,
           "address": "Westendintie 1 ",
           "recording": "https://www.youtube.com/watch?v=CfMKDg_iprg",
-          "sponsors": {
-            "venue": {
-              "id": "tuxera",
-              "name": "Tuxera Oy",
-              "websiteURL": "https://www.tuxera.com",
-              "logoURL": "https://www.tuxera.com/wp-content/uploads/2018/11/Tuxera_tagline_horizontal_RGB.png",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "tuxera",
+                "name": "Tuxera Oy",
+                "websiteURL": "https://www.tuxera.com",
+                "logoURL": "https://www.tuxera.com/wp-content/uploads/2018/11/Tuxera_tagline_horizontal_RGB.png",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -9090,8 +9131,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -9101,8 +9145,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -9275,18 +9319,22 @@
           "attendees": 114,
           "address": "Aleksanterinkatu 46a",
           "recording": "TBA",
-          "sponsors": {
-            "venue": {
-              "id": "accenture",
-              "name": "Accenture",
-              "websiteURL": "https://accenture.com",
-              "logoURL": "https://www.accenture.com/t20180820T081710Z__w__/fi-en/_acnmedia/Accenture/Dev/Redesign/Acc_Logo_Black_Purple_RGB.PNG",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "accenture",
+                "name": "Accenture",
+                "websiteURL": "https://accenture.com",
+                "logoURL": "https://www.accenture.com/t20180820T081710Z__w__/fi-en/_acnmedia/Accenture/Dev/Redesign/Acc_Logo_Black_Purple_RGB.PNG",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -9295,8 +9343,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -9306,8 +9357,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -9425,19 +9476,23 @@
           "attendees": 3,
           "address": "Kaivokatu 6",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "unity",
-              "name": "Unity",
-              "websiteURL": "https://www.unity.com",
-              "logoURL": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjc1IiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDI3NSAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTgyLjc3NSA3OS44NDJMNjQuOSA0OS43NzVsMTcuODc1LTMwLjA2NyA4LjYxNyAzMC4wNjctOC42MTcgMzAuMDY3em0tMzkuNzgzLTIuOTM0TDIwLjUzMyA1NC42MzNoMzUuNzVMNzQuMTU4IDg0LjdsLTMxLjE2Ni03Ljc5MnptMC01NC4zNThsMzEuMDc1LTcuNzkyLTE3Ljg3NSAzMC4wNjdoLTM1Ljc1bDIyLjU1LTIyLjI3NXpNODguNjQyIDBMNDguMDMzIDEwLjU0MiA0MS45ODMgMjAuOWwtMTIuMTkxLS4wOTJMMCA0OS43NzVsMjkuNzkyIDI4Ljk2NyAxMi4xOTEtLjA5MiA2LjA1IDEwLjM1OCA0MC42MDkgMTAuNjM0TDk5LjU1IDYwLjEzM2wtNi4xNDItMTAuMjY2TDk5LjU1IDM5LjYgODguNjQyIDB6bTkyLjIxNiAyOS4yNDJjLTUuNDA4IDAtOS4wNzUgMi4yOTEtMTEuODI1IDYuNTA4aC0uMTgzdi01LjQwOGgtOS41MzN2MzkuNzgzaDkuNzE2di0yMi41NWMwLTUuNDA4IDMuMzkyLTkuMTY3IDguMDY3LTkuMTY3IDQuNCAwIDcuNyAyLjY1OSA3LjcgNy4zMzR2MjQuNDc1aDkuNzE3VjQ0LjE4M2MuMDkxLTguNzA4LTUuNDA5LTE0Ljk0MS0xMy42NTktMTQuOTQxem0tMzYuMyAyNC4xMDhjMCA1LjMxNy0zLjAyNSA4Ljk4My03Ljk3NSA4Ljk4My00LjQ5MSAwLTcuMzMzLTIuNTY2LTcuMzMzLTcuMjQxdi0yNC43NWgtOS43MTd2MjYuNTgzYzAgOC43MDggNC45NSAxNC4zOTIgMTMuODQyIDE0LjM5MiA1LjU5MiAwIDguNzA4LTIuMTA5IDExLjM2Ny01Ljc3NWguMjc1djQuNjc1aDkuMzVWMzAuMzQyaC05LjcxN1Y1My4zNWgtLjA5MnptNTUuMTg0LTIzLjAwOGg5LjcxNnYzOS43ODNoLTkuNzE2VjMwLjM0MnptMC0xMi4zNzVoOS43MTZ2Ny45NzVoLTkuNzE2di03Ljk3NXptNjQuODA4IDEyLjM3NWwtNS43NzUgMTcuOTY2Yy0xLjI4MyAzLjY2Ny0yLjI5MiA4LjcwOS0yLjI5MiA4LjcwOWgtLjI3NXMtMS4yODMtNS4wNDItMi41NjYtOC43MDlsLTYuNTA5LTE3Ljk2NmgtMTAuNDVsMTAuNzI1IDI4LjMyNWMyLjI5MiA2LjA1IDMuMDI1IDguNjE2IDMuMDI1IDEwLjgxNiAwIDMuMy0xLjc0MSA1LjQwOS01Ljg2NiA1LjQwOWgtMy43NTl2OC4zNDFoNi4yMzRjOC4wNjYgMCAxMC45MDgtMy4yMDggMTMuOTMzLTEyLjAwOEwyNzUgMzAuNDMzaC0xMC40NXYtLjA5MXptLTM2Ljk0MiAyOC4xNDFWMzcuNGg2LjIzNHYtNi45NjdoLTYuMjM0VjE3Ljk2N2gtOS43MTZ2MTIuMzc1aC01LjV2Ni45NjZoNS41djIzLjM3NWMwIDcuNTE3IDUuNjgzIDkuNTM0IDEwLjgxNiA5LjUzNCA0LjIxNyAwIDUuMzE3LS4xODQgNS4zMTctLjE4NHYtNy43aC0yLjQ3NWMtMi4yOTIuMDkyLTMuOTQyLS45MTYtMy45NDItMy44NXoiIGZpbGwtcnVsZT0ibm9uemVybyIgZmlsbD0iI0ZGRiIvPgo8L3N2Zz4K",
-              "whiteLogo": true,
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "unity",
+                "name": "Unity",
+                "websiteURL": "https://www.unity.com",
+                "logoURL": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjc1IiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDI3NSAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTgyLjc3NSA3OS44NDJMNjQuOSA0OS43NzVsMTcuODc1LTMwLjA2NyA4LjYxNyAzMC4wNjctOC42MTcgMzAuMDY3em0tMzkuNzgzLTIuOTM0TDIwLjUzMyA1NC42MzNoMzUuNzVMNzQuMTU4IDg0LjdsLTMxLjE2Ni03Ljc5MnptMC01NC4zNThsMzEuMDc1LTcuNzkyLTE3Ljg3NSAzMC4wNjdoLTM1Ljc1bDIyLjU1LTIyLjI3NXpNODguNjQyIDBMNDguMDMzIDEwLjU0MiA0MS45ODMgMjAuOWwtMTIuMTkxLS4wOTJMMCA0OS43NzVsMjkuNzkyIDI4Ljk2NyAxMi4xOTEtLjA5MiA2LjA1IDEwLjM1OCA0MC42MDkgMTAuNjM0TDk5LjU1IDYwLjEzM2wtNi4xNDItMTAuMjY2TDk5LjU1IDM5LjYgODguNjQyIDB6bTkyLjIxNiAyOS4yNDJjLTUuNDA4IDAtOS4wNzUgMi4yOTEtMTEuODI1IDYuNTA4aC0uMTgzdi01LjQwOGgtOS41MzN2MzkuNzgzaDkuNzE2di0yMi41NWMwLTUuNDA4IDMuMzkyLTkuMTY3IDguMDY3LTkuMTY3IDQuNCAwIDcuNyAyLjY1OSA3LjcgNy4zMzR2MjQuNDc1aDkuNzE3VjQ0LjE4M2MuMDkxLTguNzA4LTUuNDA5LTE0Ljk0MS0xMy42NTktMTQuOTQxem0tMzYuMyAyNC4xMDhjMCA1LjMxNy0zLjAyNSA4Ljk4My03Ljk3NSA4Ljk4My00LjQ5MSAwLTcuMzMzLTIuNTY2LTcuMzMzLTcuMjQxdi0yNC43NWgtOS43MTd2MjYuNTgzYzAgOC43MDggNC45NSAxNC4zOTIgMTMuODQyIDE0LjM5MiA1LjU5MiAwIDguNzA4LTIuMTA5IDExLjM2Ny01Ljc3NWguMjc1djQuNjc1aDkuMzVWMzAuMzQyaC05LjcxN1Y1My4zNWgtLjA5MnptNTUuMTg0LTIzLjAwOGg5LjcxNnYzOS43ODNoLTkuNzE2VjMwLjM0MnptMC0xMi4zNzVoOS43MTZ2Ny45NzVoLTkuNzE2di03Ljk3NXptNjQuODA4IDEyLjM3NWwtNS43NzUgMTcuOTY2Yy0xLjI4MyAzLjY2Ny0yLjI5MiA4LjcwOS0yLjI5MiA4LjcwOWgtLjI3NXMtMS4yODMtNS4wNDItMi41NjYtOC43MDlsLTYuNTA5LTE3Ljk2NmgtMTAuNDVsMTAuNzI1IDI4LjMyNWMyLjI5MiA2LjA1IDMuMDI1IDguNjE2IDMuMDI1IDEwLjgxNiAwIDMuMy0xLjc0MSA1LjQwOS01Ljg2NiA1LjQwOWgtMy43NTl2OC4zNDFoNi4yMzRjOC4wNjYgMCAxMC45MDgtMy4yMDggMTMuOTMzLTEyLjAwOEwyNzUgMzAuNDMzaC0xMC40NXYtLjA5MXptLTM2Ljk0MiAyOC4xNDFWMzcuNGg2LjIzNHYtNi45NjdoLTYuMjM0VjE3Ljk2N2gtOS43MTZ2MTIuMzc1aC01LjV2Ni45NjZoNS41djIzLjM3NWMwIDcuNTE3IDUuNjgzIDkuNTM0IDEwLjgxNiA5LjUzNCA0LjIxNyAwIDUuMzE3LS4xODQgNS4zMTctLjE4NHYtNy43aC0yLjQ3NWMtMi4yOTIuMDkyLTMuOTQyLS45MTYtMy45NDItMy44NXoiIGZpbGwtcnVsZT0ibm9uemVybyIgZmlsbD0iI0ZGRiIvPgo8L3N2Zz4K",
+                "whiteLogo": true,
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -9446,8 +9501,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -9456,8 +9514,11 @@
                   "denmark",
                   "finland"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "weaveworks",
                 "name": "Weaveworks",
                 "websiteURL": "https://www.weave.works",
@@ -9466,8 +9527,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "3h30m0s",
@@ -9508,18 +9569,22 @@
           "attendees": 75,
           "address": "Antinkatu 1A, 4th floor",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "nordcloud",
-              "name": "NordCloud",
-              "websiteURL": "https://nordcloud.com/",
-              "logoURL": "https://nordcloud.com/wp-content/themes/nordcloud/images/logo.svg",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "nordcloud",
+                "name": "NordCloud",
+                "websiteURL": "https://nordcloud.com/",
+                "logoURL": "https://nordcloud.com/wp-content/themes/nordcloud/images/logo.svg",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -9528,8 +9593,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -9539,8 +9607,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "10m0s",
@@ -9738,19 +9806,23 @@
           "attendees": 95,
           "address": "Lapinlahdenkatu 16",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "maria01",
-              "name": "Maria 01",
-              "websiteURL": "https://maria.io/",
-              "logoURL": "https://maria.io/wp-content/themes/maria01/dist/assets/images/bottom-logo.svg",
-              "whiteLogo": true,
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "maria01",
+                "name": "Maria 01",
+                "websiteURL": "https://maria.io/",
+                "logoURL": "https://maria.io/wp-content/themes/maria01/dist/assets/images/bottom-logo.svg",
+                "whiteLogo": true,
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -9759,8 +9831,11 @@
                   "denmark",
                   "finland"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -9769,8 +9844,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "upcloud",
                 "name": "UpCloud",
                 "websiteURL": "https://upcloud.com/",
@@ -9780,8 +9858,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "10m0s",
@@ -9930,18 +10008,22 @@
           "duration": "3h0m0s",
           "address": "Karasvängen 7",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "nokia",
-              "name": "Nokia",
-              "websiteURL": "https://www.nokia.fi/",
-              "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMTM0Ljg0IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIj4NCiAgPHBhdGggZmlsbD0iIzEyNDE5MSIgZD0iTTM4LjUyIDEzMy4xOEgwVjIuMThINjYuNjJMMTQzLjA1IDk5Ljk4VjIuMThIMTgxLjU3VjEzMy4xOEgxMTYuM0wzOC41MiAzMy43MVYxMzMuMThNMzY1Ljg3IDkyLjY3QzM2NS44NyAxMTAuODggMzYyLjY1IDExNy4xNiAzNTcuMzIgMTIzLjE4QzM0OS4xNSAxMzIuMTQgMzM3LjI2IDEzNC44NCAzMTQuMzUgMTM0Ljg0TDI0OC41OCAxMzQuODRDMjI1LjY3IDEzNC44NCAyMTMuNzYgMTMyLjE0IDIwNS42IDEyMy4xOEMyMDAuMjcgMTE3LjE2IDE5Ny4wNSAxMTAuODggMTk3LjA1IDkyLjY3TDE5Ny4wNSA0Mi4xN0MxOTcuMDUgMjMuOTcgMjAwLjI3IDE3LjcgMjA1LjYgMTEuNjdDMjEzLjc3IDIuNyAyMjUuNjcgMCAyNDguNTggMEwzMTQuMzUgMEMzMzcuMjYgMCAzNDkuMTUgMi43IDM1Ny4zMiAxMS42N0MzNjIuNjUgMTcuNyAzNjUuODcgMjMuOTcgMzY1Ljg3IDQyLjE3TDM2NS44NyA5Mi42N00zMTIuNzMgMTAxLjY1QzMyMS41MyAxMDEuNjUgMzI0LjYzIDEwMS4xMyAzMjYuNzQgOTkuMjFDMzI4LjcxIDk3LjQyIDMyOS41OCA5NS4xMSAzMjkuNTggODcuNDFMMzI5LjU4IDQ3LjQzQzMyOS41OCAzOS43MyAzMjguNzEgMzcuNDQgMzI2Ljc0IDM1LjY0QzMyNC42MyAzMy43MSAzMjEuNTMgMzMuMiAzMTIuNzMgMzMuMkwyNTAuMTkgMzMuMkMyNDEuMzkgMzMuMiAyMzguMjkgMzMuNzEgMjM2LjE5IDM1LjY0QzIzNC4yMSAzNy40NCAyMzMuMzQgMzkuNzMgMjMzLjM0IDQ3LjQzTDIzMy4zNCA4Ny40MUMyMzMuMzQgOTUuMTEgMjM0LjIxIDk3LjQyIDIzNi4xOSA5OS4yMUMyMzguMjkgMTAxLjEzIDI0MS4zOSAxMDEuNjUgMjUwLjE5IDEwMS42NUwzMTIuNzMgMTAxLjY1VjEwMS42NU00MjEuODUgMi4xOFYxMzMuMThIMzgxLjZWMi4xOEg0MjEuODVNNDg5Ljg1IDIuMThINTQyLjk5TDQ3MS4yNyA2My40NSA1NTIuMTYgMTMzLjE4SDQ5NS4zTDQyMS44NSA2NC44NiA0ODkuODUgMi4xOE01NTkuNTggMi4xOEg1OTkuODRWMTMzLjE4SDU1OS41OE03NTMuMzEgMTMzLjE4IDc0MS40IDExMC4zNkg2NjMuNTFMNjUxLjc0IDEzMy4xN0g2MDcuMjdMNjc4LjYyIDIuMThINzI4LjY2TDgwMCAxMzMuMThINzUzLjMxTTY3Ny41IDgxLjkxSDcyNy41NUw3MDIuNTIgMzQuNDggNjc3LjUgODEuOTEiPg0KICA8L3BhdGg+DQo8L3N2Zz4=",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "nokia",
+                "name": "Nokia",
+                "websiteURL": "https://www.nokia.fi/",
+                "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDAgMTM0Ljg0IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIj4NCiAgPHBhdGggZmlsbD0iIzEyNDE5MSIgZD0iTTM4LjUyIDEzMy4xOEgwVjIuMThINjYuNjJMMTQzLjA1IDk5Ljk4VjIuMThIMTgxLjU3VjEzMy4xOEgxMTYuM0wzOC41MiAzMy43MVYxMzMuMThNMzY1Ljg3IDkyLjY3QzM2NS44NyAxMTAuODggMzYyLjY1IDExNy4xNiAzNTcuMzIgMTIzLjE4QzM0OS4xNSAxMzIuMTQgMzM3LjI2IDEzNC44NCAzMTQuMzUgMTM0Ljg0TDI0OC41OCAxMzQuODRDMjI1LjY3IDEzNC44NCAyMTMuNzYgMTMyLjE0IDIwNS42IDEyMy4xOEMyMDAuMjcgMTE3LjE2IDE5Ny4wNSAxMTAuODggMTk3LjA1IDkyLjY3TDE5Ny4wNSA0Mi4xN0MxOTcuMDUgMjMuOTcgMjAwLjI3IDE3LjcgMjA1LjYgMTEuNjdDMjEzLjc3IDIuNyAyMjUuNjcgMCAyNDguNTggMEwzMTQuMzUgMEMzMzcuMjYgMCAzNDkuMTUgMi43IDM1Ny4zMiAxMS42N0MzNjIuNjUgMTcuNyAzNjUuODcgMjMuOTcgMzY1Ljg3IDQyLjE3TDM2NS44NyA5Mi42N00zMTIuNzMgMTAxLjY1QzMyMS41MyAxMDEuNjUgMzI0LjYzIDEwMS4xMyAzMjYuNzQgOTkuMjFDMzI4LjcxIDk3LjQyIDMyOS41OCA5NS4xMSAzMjkuNTggODcuNDFMMzI5LjU4IDQ3LjQzQzMyOS41OCAzOS43MyAzMjguNzEgMzcuNDQgMzI2Ljc0IDM1LjY0QzMyNC42MyAzMy43MSAzMjEuNTMgMzMuMiAzMTIuNzMgMzMuMkwyNTAuMTkgMzMuMkMyNDEuMzkgMzMuMiAyMzguMjkgMzMuNzEgMjM2LjE5IDM1LjY0QzIzNC4yMSAzNy40NCAyMzMuMzQgMzkuNzMgMjMzLjM0IDQ3LjQzTDIzMy4zNCA4Ny40MUMyMzMuMzQgOTUuMTEgMjM0LjIxIDk3LjQyIDIzNi4xOSA5OS4yMUMyMzguMjkgMTAxLjEzIDI0MS4zOSAxMDEuNjUgMjUwLjE5IDEwMS42NUwzMTIuNzMgMTAxLjY1VjEwMS42NU00MjEuODUgMi4xOFYxMzMuMThIMzgxLjZWMi4xOEg0MjEuODVNNDg5Ljg1IDIuMThINTQyLjk5TDQ3MS4yNyA2My40NSA1NTIuMTYgMTMzLjE4SDQ5NS4zTDQyMS44NSA2NC44NiA0ODkuODUgMi4xOE01NTkuNTggMi4xOEg1OTkuODRWMTMzLjE4SDU1OS41OE03NTMuMzEgMTMzLjE4IDc0MS40IDExMC4zNkg2NjMuNTFMNjUxLjc0IDEzMy4xN0g2MDcuMjdMNjc4LjYyIDIuMThINzI4LjY2TDgwMCAxMzMuMThINzUzLjMxTTY3Ny41IDgxLjkxSDcyNy41NUw3MDIuNTIgMzQuNDggNjc3LjUgODEuOTEiPg0KICA8L3BhdGg+DQo8L3N2Zz4=",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -9950,8 +10032,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -9961,8 +10046,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "10m0s",
@@ -10108,18 +10193,22 @@
           "duration": "3h0m0s",
           "address": "Westendgatan 7",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "intel",
-              "name": "Intel",
-              "websiteURL": "https://www.intel.com",
-              "logoURL": "https://www.cncf.io/wp-content/uploads/2017/03/intel-01.svg",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "intel",
+                "name": "Intel",
+                "websiteURL": "https://www.intel.com",
+                "logoURL": "https://www.cncf.io/wp-content/uploads/2017/03/intel-01.svg",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -10128,8 +10217,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -10139,8 +10231,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": null
         }
       }
@@ -10205,10 +10297,7 @@
           "attendees": 72,
           "address": "Grensen 5-7",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20170906": {
@@ -10219,10 +10308,7 @@
           "attendees": 92,
           "address": "Sannergata 2",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20170918": {
@@ -10233,10 +10319,7 @@
           "attendees": 50,
           "address": "Bryggegata 6",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20180228": {
@@ -10247,10 +10330,7 @@
           "attendees": 1,
           "address": "Bryggegata 6",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20180319": {
@@ -10261,10 +10341,7 @@
           "attendees": 63,
           "address": "Tordenskioldsgate 3, 0160",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20180410": {
@@ -10275,10 +10352,7 @@
           "attendees": 25,
           "address": "Pilestredet 56",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20181009": {
@@ -10289,10 +10363,7 @@
           "attendees": 2,
           "address": "Pilestredet 56",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20181129": {
@@ -10303,10 +10374,7 @@
           "attendees": 59,
           "address": "Pilestredet 56",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         }
       }
@@ -10372,18 +10440,20 @@
           "attendees": 32,
           "address": "Borgartún 37",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "tempo",
-              "name": "Tempo",
-              "websiteURL": "https://www.tempo.io/",
-              "logoURL": "https://www.tempo.io/hubfs/Tempo%20logos/Tempo_Tempo%20Full%20Color%20A.svg",
-              "countries": [
-                "iceland"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "tempo",
+                "name": "Tempo",
+                "websiteURL": "https://www.tempo.io/",
+                "logoURL": "https://www.tempo.io/hubfs/Tempo%20logos/Tempo_Tempo%20Full%20Color%20A.svg",
+                "countries": [
+                  "iceland"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "30m0s",
@@ -10491,18 +10561,20 @@
           "attendees": 53,
           "address": "Ármúli 31",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "sensa",
-              "name": "Sensa",
-              "websiteURL": "https://www.sensa.tech/",
-              "logoURL": "https://www.sensa.tech/wp-content/uploads/2014/12/sensa-logo-new.png",
-              "countries": [
-                "iceland"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "sensa",
+                "name": "Sensa",
+                "websiteURL": "https://www.sensa.tech/",
+                "logoURL": "https://www.sensa.tech/wp-content/uploads/2014/12/sensa-logo-new.png",
+                "countries": [
+                  "iceland"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -10700,18 +10772,20 @@
           "attendees": 43,
           "address": "Kringlan 5",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "netapp",
-              "name": "NetApp",
-              "websiteURL": "https://www.netapp.com/us/index.aspx",
-              "logoURL": "https://landscape.cncf.io/logos/net-app-kubernetes-service.svg",
-              "countries": [
-                "iceland"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "netapp",
+                "name": "NetApp",
+                "websiteURL": "https://www.netapp.com/us/index.aspx",
+                "logoURL": "https://landscape.cncf.io/logos/net-app-kubernetes-service.svg",
+                "countries": [
+                  "iceland"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "30m0s",
@@ -10909,10 +10983,7 @@
           "attendees": 96,
           "address": "Vasagatan 7",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": [
             {
               "duration": "30m0s",
@@ -10963,18 +11034,20 @@
           "attendees": 148,
           "address": "Regeringsgatan 13",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "Spotify",
-              "name": "Spotify",
-              "websiteURL": "https://www.spotify.com/",
-              "logoURL": "https://www.scdn.co/i/_global/logos/spotify-logo-lockup-197@2x.png",
-              "countries": [
-                "sweden"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "Spotify",
+                "name": "Spotify",
+                "websiteURL": "https://www.spotify.com/",
+                "logoURL": "https://www.scdn.co/i/_global/logos/spotify-logo-lockup-197@2x.png",
+                "countries": [
+                  "sweden"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -11025,10 +11098,7 @@
           "attendees": 88,
           "address": "Linnégatan 89C",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         },
         "20191023": {
@@ -11038,10 +11108,7 @@
           "duration": "3h0m0s",
           "address": "Regeringsgatan 29",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         }
       }
@@ -11147,19 +11214,23 @@
           "attendees": 50,
           "address": "Pakkahuoneenaukio 2",
           "recording": "https://youtu.be/PvrFMc9bZ-k",
-          "sponsors": {
-            "venue": {
-              "id": "cybercom",
-              "name": "Cybercom",
-              "websiteURL": "https://www.cybercom.com/",
-              "logoURL": "https://www.cybercom.com/Static/cybercom/img/CybercomG_logo_Neg_CR.png",
-              "whiteLogo": true,
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "cybercom",
+                "name": "Cybercom",
+                "websiteURL": "https://www.cybercom.com/",
+                "logoURL": "https://www.cybercom.com/Static/cybercom/img/CybercomG_logo_Neg_CR.png",
+                "whiteLogo": true,
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -11168,8 +11239,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -11179,8 +11253,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "15m0s",
@@ -11328,18 +11402,22 @@
           "attendees": 48,
           "address": "Kalevantie 7",
           "recording": "https://youtu.be/rnpMBRe0CY0",
-          "sponsors": {
-            "venue": {
-              "id": "netum",
-              "name": "Netum",
-              "websiteURL": "https://www.netum.fi/",
-              "logoURL": "data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxuczp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyIgeG1sbnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCA0MjUuMiA5NS4zIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA0MjUuMiA5NS4zIiB4bWw6c3BhY2U9InByZXNlcnZlIiBjbGFzcz0ic3R5bGUtc3ZnIHJlcGxhY2VkLXN2ZyBzdmctcmVwbGFjZWQtMCI+Cjxzd2l0Y2g+CjxnIGk6ZXh0cmFuZW91cz0ic2VsZiI+CjxnPgo8Zz4KPHBhdGggZmlsbD0iIzNBQUEzNSIgZD0iTTQ5LDU0LjdjMC03LjMtMy45LTEwLjEtMTAuMi0xMC4xYy02LDAtOSwzLjEtMTEuMiw1LjV2NDMuNEgxLjNWMjMuMmgyNi4ydjhjNC4xLTQuNywxMS44LTkuOCwyNC4yLTkuOCAgICAgIGMxNi4zLDAsMjMuNSw5LjksMjMuNSwyMi4xdjUwSDQ5VjU0Ljd6Ij48L3BhdGg+CjxwYXRoIGZpbGw9IiMzQUFBMzUiIGQ9Ik0xMjEuMiwyMS41YzIwLjcsMCwzNi42LDE0LjksMzYuNiwzOS42djUuNEgxMTBjMS41LDQuNSw2LjYsOC45LDE1LjQsOC45YzYsMCwxMi40LTIuMiwxNS45LTUgICAgICBsMTAuOCwxNi4yYy03LDYtMTkuNSw4LjctMzAsOC43Yy0yMiwwLTM5LjItMTMuOC0zOS4yLTM3QzgyLjksMzcuOSw5OC41LDIxLjUsMTIxLjIsMjEuNXogTTEwOS43LDQ5LjloMjMuMiAgICAgIGMtMC43LTMuMS0zLjItOC40LTExLjctOC40QzExMy4yLDQxLjQsMTEwLjYsNDYuNywxMDkuNyw0OS45eiI+PC9wYXRoPgo8cGF0aCBmaWxsPSIjM0FBQTM1IiBkPSJNMTczLjIsNzMuMlY0MmgtMTEuN1YxOS4yaDExLjdWMGgyNi4ydjE5LjJoNDIuNEwyMTMuNyw0MmgtMTQuM3YyMy43YzAsMy42LDIuMyw2LjYsNS44LDYuNiAgICAgIGMyLjMsMCw0LjctMC43LDUuMi0xLjNsNC43LDE5LjhjLTIuOCwyLjUtOC45LDQuNy0xNy44LDQuN0MxODEuOCw5NS4zLDE3My4yLDg3LjksMTczLjIsNzMuMnoiPjwvcGF0aD4KPHBhdGggZmlsbD0iIzNBQUEzNSIgZD0iTTI3MSw4NS43Yy00LjEsNC41LTExLjgsOS42LTI0LjIsOS42Yy0xNi4zLDAtMjMuMy05LjgtMjMuMy0yMS45VjQ1LjNsMjYuMi0yMi4xdjM5ICAgICAgYzAsNy4xLDMuOCw5LjksMTAuMiw5LjljNS44LDAsOC45LTMuMSwxMS4xLTUuNVYyMy4yaDI2LjJ2NzAuNEgyNzFWODUuN3oiPjwvcGF0aD4KPHBhdGggZmlsbD0iIzNBQUEzNSIgZD0iTTM5Ny43LDUyLjVjMC00LjItMi4yLTcuOS04LTcuOXMtOSwzLjUtMTAuOCw1LjV2NDMuNGgtMjYuMlY1Mi41YzAtNC4yLTItNy45LTgtNy45ICAgICAgYy01LjcsMC04LjksMy41LTEwLjYsNS41djQzLjRoLTI2LjJWMjMuMkgzMzR2OGMzLjEtMy45LDExLjktOS44LDIzLjMtOS44YzkuOSwwLDE3LDMuNiwyMC4yLDEyLjRjNC4xLTYuMSwxMy4zLTEyLjQsMjQuNi0xMi40ICAgICAgYzEzLDAsMjEuNyw2LjYsMjEuNywyMS4xdjUxaC0yNi4yVjUyLjV6Ij48L3BhdGg+CjwvZz4KPC9nPgo8L2c+Cjwvc3dpdGNoPgo8L3N2Zz4K",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "netum",
+                "name": "Netum",
+                "websiteURL": "https://www.netum.fi/",
+                "logoURL": "data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxuczp4PSJodHRwOi8vbnMuYWRvYmUuY29tL0V4dGVuc2liaWxpdHkvMS4wLyIgeG1sbnM6aT0iaHR0cDovL25zLmFkb2JlLmNvbS9BZG9iZUlsbHVzdHJhdG9yLzEwLjAvIiB4bWxuczpncmFwaD0iaHR0cDovL25zLmFkb2JlLmNvbS9HcmFwaHMvMS4wLyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCA0MjUuMiA5NS4zIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA0MjUuMiA5NS4zIiB4bWw6c3BhY2U9InByZXNlcnZlIiBjbGFzcz0ic3R5bGUtc3ZnIHJlcGxhY2VkLXN2ZyBzdmctcmVwbGFjZWQtMCI+Cjxzd2l0Y2g+CjxnIGk6ZXh0cmFuZW91cz0ic2VsZiI+CjxnPgo8Zz4KPHBhdGggZmlsbD0iIzNBQUEzNSIgZD0iTTQ5LDU0LjdjMC03LjMtMy45LTEwLjEtMTAuMi0xMC4xYy02LDAtOSwzLjEtMTEuMiw1LjV2NDMuNEgxLjNWMjMuMmgyNi4ydjhjNC4xLTQuNywxMS44LTkuOCwyNC4yLTkuOCAgICAgIGMxNi4zLDAsMjMuNSw5LjksMjMuNSwyMi4xdjUwSDQ5VjU0Ljd6Ij48L3BhdGg+CjxwYXRoIGZpbGw9IiMzQUFBMzUiIGQ9Ik0xMjEuMiwyMS41YzIwLjcsMCwzNi42LDE0LjksMzYuNiwzOS42djUuNEgxMTBjMS41LDQuNSw2LjYsOC45LDE1LjQsOC45YzYsMCwxMi40LTIuMiwxNS45LTUgICAgICBsMTAuOCwxNi4yYy03LDYtMTkuNSw4LjctMzAsOC43Yy0yMiwwLTM5LjItMTMuOC0zOS4yLTM3QzgyLjksMzcuOSw5OC41LDIxLjUsMTIxLjIsMjEuNXogTTEwOS43LDQ5LjloMjMuMiAgICAgIGMtMC43LTMuMS0zLjItOC40LTExLjctOC40QzExMy4yLDQxLjQsMTEwLjYsNDYuNywxMDkuNyw0OS45eiI+PC9wYXRoPgo8cGF0aCBmaWxsPSIjM0FBQTM1IiBkPSJNMTczLjIsNzMuMlY0MmgtMTEuN1YxOS4yaDExLjdWMGgyNi4ydjE5LjJoNDIuNEwyMTMuNyw0MmgtMTQuM3YyMy43YzAsMy42LDIuMyw2LjYsNS44LDYuNiAgICAgIGMyLjMsMCw0LjctMC43LDUuMi0xLjNsNC43LDE5LjhjLTIuOCwyLjUtOC45LDQuNy0xNy44LDQuN0MxODEuOCw5NS4zLDE3My4yLDg3LjksMTczLjIsNzMuMnoiPjwvcGF0aD4KPHBhdGggZmlsbD0iIzNBQUEzNSIgZD0iTTI3MSw4NS43Yy00LjEsNC41LTExLjgsOS42LTI0LjIsOS42Yy0xNi4zLDAtMjMuMy05LjgtMjMuMy0yMS45VjQ1LjNsMjYuMi0yMi4xdjM5ICAgICAgYzAsNy4xLDMuOCw5LjksMTAuMiw5LjljNS44LDAsOC45LTMuMSwxMS4xLTUuNVYyMy4yaDI2LjJ2NzAuNEgyNzFWODUuN3oiPjwvcGF0aD4KPHBhdGggZmlsbD0iIzNBQUEzNSIgZD0iTTM5Ny43LDUyLjVjMC00LjItMi4yLTcuOS04LTcuOXMtOSwzLjUtMTAuOCw1LjV2NDMuNGgtMjYuMlY1Mi41YzAtNC4yLTItNy45LTgtNy45ICAgICAgYy01LjcsMC04LjksMy41LTEwLjYsNS41djQzLjRoLTI2LjJWMjMuMkgzMzR2OGMzLjEtMy45LDExLjktOS44LDIzLjMtOS44YzkuOSwwLDE3LDMuNiwyMC4yLDEyLjRjNC4xLTYuMSwxMy4zLTEyLjQsMjQuNi0xMi40ICAgICAgYzEzLDAsMjEuNyw2LjYsMjEuNywyMS4xdjUxaC0yNi4yVjUyLjV6Ij48L3BhdGg+CjwvZz4KPC9nPgo8L2c+Cjwvc3dpdGNoPgo8L3N2Zz4K",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -11348,8 +11426,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -11359,8 +11440,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "10m0s",
@@ -11526,18 +11607,22 @@
           "attendees": 50,
           "address": "Kelloportinkatu 1 D",
           "recording": "https://youtu.be/rnpMBRe0CY0",
-          "sponsors": {
-            "venue": {
-              "id": "futurice",
-              "name": "Futurice",
-              "websiteURL": "https://www.futurice.com/",
-              "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNDQ4cHgiIGhlaWdodD0iOTBweCIgdmlld0JveD0iMCAwIDQ0OCA5MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNDkuMSAoNTExNDcpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPmZ1dHVyaWNlLWxvZ28tYmxhY2s8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iQXJ0Ym9hcmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ny4wMDAwMDAsIC01OC4wMDAwMDApIiBmaWxsPSIjMDAwMDAwIj4KICAgICAgICAgICAgPHBhdGggZD0iTTM0NS41MzcxNDIsMTQ2LjgwMTIwMSBMMzYxLjkwNzEyMywxNDYuODAxMjAxIEwzNjEuOTA3MTIzLDg1LjYwMDkzNzIgTDM0NS41MzcxNDIsODUuNjAwOTM3MiBMMzQ1LjUzNzE0MiwxNDYuODAxMjAxIFogTTM1My44NDUzMDMsNTkuMTk4Nzk5MiBDMzQ4LjI2NTE4Niw1OS4xOTg3OTkyIDM0My44MDE4OTMsNjMuNTE5NTI4NSAzNDMuODAxODkzLDY4LjkxOTM0MTcgQzM0My44MDE4OTMsNzQuMzE5MTU1IDM0OC4yNjUxODYsNzguNjQwNDMzNSAzNTMuODQ1MzAzLDc4LjY0MDQzMzUgQzM1OS40MjU0Miw3OC42NDA0MzM1IDM2My44OTA0MjgsNzQuMzE5MTU1IDM2My44OTA0MjgsNjguOTE5MzQxNyBDMzYzLjg5MDQyOCw2My41MTk1Mjg1IDM1OS40MjU0Miw1OS4xOTg3OTkyIDM1My44NDUzMDMsNTkuMTk4Nzk5MiBaIE00ODkuMDA0Mzg5LDEwOS41OTk0MzYgQzQ4OS4wMDQzODksMTAzLjM1OTQyIDQ4Ni4wMjYwMDIsOTcuMDAwNzg3MSA0NzUuOTgyNTkyLDk3LjAwMDc4NzEgQzQ2Ny4zMDI5MTgsOTcuMDAwNzg3MSA0NjMuMjA5NDIyLDEwMy4yMzkxNTYgNDYyLjQ2NTI1NCwxMDkuNTk5NDM2IEw0ODkuMDA0Mzg5LDEwOS41OTk0MzYgWiBNNTA1LDEyMC4xNjA3MzEgTDQ2Mi4yMTY2MjcsMTIwLjE2MDczMSBDNDYyLjU4OTI4MiwxMzAuMTIxODAyIDQ2OC41NDE0ODMsMTM1LjE2MTM3MSA0NzYuMTA2NjIsMTM1LjE2MTM3MSBDNDgzLjA0OTkwMiwxMzUuMTYxMzcxIDQ4OC4zODE5NjMsMTMxLjgwMTEwOSA0OTEuMjM0MDM1LDEyNi4wNDEwNTIgTDUwNC4zNzkyODgsMTMyLjUyMTU5NyBDNDk4Ljc5OTE3MSwxNDEuOTk5OTYzIDQ5MC4yNDI5NTQsMTQ4IDQ3Ni40NzY5ODksMTQ4IEM0NTYuMTQwMzk4LDE0OCA0NDUuNjAwODc1LDEzNS41MjE2MTUgNDQ1LjYwMDg3NSwxMTUuODQwMDAxIEM0NDUuNjAwODc1LDk2LjI4MDI5OTUgNDU3LjUwNTg0OSw4NC4zOTk5NDE0IDQ3NS42MDgyMjEsODQuMzk5OTQxNCBDNDkyLjk3MDk5OSw4NC4zOTk5NDE0IDUwNSw5My40MDA1NDU1IDUwNSwxMTIuOTU5Njk4IEw1MDUsMTIwLjE2MDczMSBaIE00MDguNDA2NzY0LDk3LjcxOTA3ODIgQzQxNC4zNTg5NjUsOTcuNzE5MDc4MiA0MTguMjAxNTQ3LDEwMC44MzkzNjEgNDIwLjMwODg4LDEwNi45NTk2NjIgTDQzNS40MzgwMSwxMDMuMzU5NDIgQzQzMS4zNDY4LDkwLjY0MDUwNjcgNDIzLjAzOTIxLDg0LjM5OTk0MTQgNDA3LjkxMDA4LDg0LjM5OTk0MTQgQzM4OC44MTI2MjYsODQuMzk5OTQxNCAzNzcuMjgwMzA4LDk2LjQwMDU2MzggMzc3LjI4MDMwOCwxMTYuMjAwMjQ1IEMzNzcuMjgwMzA4LDEzNS45OTk5MjcgMzg4LjgxMjYyNiwxNDggNDA3LjkxMDA4LDE0OCBDNDIzLjAzOTIxLDE0OCA0MzEuMzQ2OCwxNDEuNzYxNjMxIDQzNS40MzgwMSwxMjkuMDQxMDcgTDQyMC4zMDg4OCwxMjUuNDQwMjggQzQxOC4yMDE1NDcsMTMxLjU2MDU4MSA0MTQuMzU4OTY1LDEzNC42ODA4NjMgNDA4LjQwNjc2NCwxMzQuNjgwODYzIEMzOTguOTgxNzc5LDEzNC42ODA4NjMgMzk0LjM5MjE3MSwxMjguNTYwNTYyIDM5NC4zOTIxNzEsMTE2LjIwMDI0NSBDMzk0LjM5MjE3MSwxMDMuODM5Mzc5IDM5OS4xMDM1MjEsOTcuNzE5MDc4MiA0MDguNDA2NzY0LDk3LjcxOTA3ODIgWiBNMjk1LjgxNTYzMSwxNDYuODAxMjAxIEwzMTIuMTgzMzI2LDE0Ni44MDEyMDEgTDMxMi4xODMzMjYsOTguOTIwMDc0IEwzMzQuMTMzNDI0LDk4LjkyMDA3NCBMMzM0LjEzMzQyNCw4NS42MDA5MzcyIEwyOTUuODE1NjMxLDg1LjYwMDkzNzIgTDI5NS44MTU2MzEsMTQ2LjgwMTIwMSBaIE04MS4zMDU0ODczLDcxLjMxOTEzNjcgQzg0LjY1NDI0MzQsNzEuMzE5MTM2NyA4Ni44ODU2MDQzLDcyLjI3OTYwMzkgODguOTkyOTM3Miw3My45NjExMDc4IEw5NS40NDE4MjE3LDYyLjkxOTMwNTEgQzkwLjg1NDUwMDMsNTkuNzk5MDIyNSA4NS4xNTAzNTU0LDU4IDc4LjgyNjA3MDQsNTggQzY0LjY4NzQ0OTgsNTggNTcsNjYuMTU5MzAyOSA1Nyw3OC4xNTk5MjUzIEw1NywxNDYuODAxMjAxIEw3My4zNjc2OTUzLDE0Ni44MDEyMDEgTDczLjM2NzY5NTMsOTguOTIwMDc0IEw5Mi4zNDE2OTMyLDk4LjkyMDA3NCBMOTIuMzQxNjkzMiw4NS42MDA5MzcyIEw3My4zNjc2OTUzLDg1LjYwMDkzNzIgTDczLjM2NzY5NTMsNzkuOTU4OTQ3OCBDNzMuMzY3Njk1Myw3NC41NTkxMzQ1IDc1Ljk3Mzk5OCw3MS4zMTkxMzY3IDgxLjMwNTQ4NzMsNzEuMzE5MTM2NyBaIE0xOTguNDgxNjU2LDEzNC42ODA4NjMgQzE5My43NjgwMiwxMzQuNjgwODYzIDE5MC4xNzE3OCwxMzIuNjM5NjY1IDE5MC4xNzE3OCwxMjYuMDQxMDUyIEwxOTAuMTcxNzgsOTguOTIwMDc0IEwyMTAuMzg0MzQzLDk4LjkyMDA3NCBMMjEwLjM4NDM0Myw4NS42MDA5MzcyIEwxOTAuMTcxNzgsODUuNjAwOTM3MiBMMTkwLjE3MTc4LDYyLjc5OTA0MDggTDE3My44MDE3OTgsNjIuNzk5MDQwOCBMMTczLjgwMTc5OCwxMjcuOTYwMzM5IEMxNzMuODAxNzk4LDEzOS45NjA0MTIgMTgxLjQ5MTUzNCwxNDggMTk1LjYyNzI5NywxNDggQzIwMy4xOTMwMDUsMTQ4IDIwOS4wMjExNzgsMTQ1LjQ4MDQ5IDIxMy4yMzgxMywxNDIuMzYwMjA3IEwyMDYuOTEzODQ1LDEzMS4wODAwNzIgQzIwNC4zMDk4MjksMTMzLjM2MDE1MiAyMDIuMjAwMjEsMTM0LjY4MDg2MyAxOTguNDgxNjU2LDEzNC42ODA4NjMgWiBNMjYyLjA5MTQ0NSwxMjEuNzE5Nzc0IEMyNjIuMDkxNDQ1LDEzMS4wODAwNzIgMjU4LjI0ODg2NCwxMzQuNjgwODYzIDI1MC45MzEyMTIsMTM0LjY4MDg2MyBDMjQzLjYxNDEzMSwxMzQuNjgwODYzIDIzOS42NDc1MjEsMTMxLjA4MDA3MiAyMzkuNjQ3NTIxLDEyMS43MTk3NzQgTDIzOS42NDc1MjEsODUuNjAwOTM3MiBMMjIzLjI3NzU0LDg1LjYwMDkzNzIgTDIyMy4yNzc1NCwxMjEuNTk5NTA5IEMyMjMuMjc3NTQsMTM5LjM2MDE4OSAyMzIuNzAxOTUzLDE0OCAyNTAuOTMxMjEyLDE0OCBDMjY5LjE2MDQ3LDE0OCAyNzguNDYxNDI3LDEzOS4zNjAxODkgMjc4LjQ2MTQyNywxMjEuNTk5NTA5IEwyNzguNDYxNDI3LDg1LjYwMDkzNzIgTDI2Mi4wOTE0NDUsODUuNjAwOTM3MiBMMjYyLjA5MTQ0NSwxMjEuNzE5Nzc0IFogTTE0MS4zMjA3NTEsODUuNjAwOTM3MiBMMTU3LjY5MDczMiw4NS42MDA5MzcyIEwxNTcuNjkwNzMyLDEyMS41OTk1MDkgQzE1Ny42OTA3MzIsMTM5LjM2MDE4OSAxNDguMzg4MDYxLDE0OCAxMzAuMTYwNTE3LDE0OCBDMTExLjkyOTU0NCwxNDggMTAyLjUwNjg0NSwxMzkuMzYwMTg5IDEwMi41MDY4NDUsMTIxLjU5OTUwOSBMMTAyLjUwNjg0NSw4NS42MDA5MzcyIEwxMTguODc0NTQxLDg1LjYwMDkzNzIgTDExOC44NzQ1NDEsMTIxLjcxOTc3NCBDMTE4Ljg3NDU0MSwxMzEuMDgwMDcyIDEyMi44NDM0MzcsMTM0LjY4MDg2MyAxMzAuMTYwNTE3LDEzNC42ODA4NjMgQzEzNy40NzU4ODMsMTM0LjY4MDg2MyAxNDEuMzIwNzUxLDEzMS4wODAwNzIgMTQxLjMyMDc1MSwxMjEuNzE5Nzc0IEwxNDEuMzIwNzUxLDg1LjYwMDkzNzIgWiIgaWQ9ImZ1dHVyaWNlLWxvZ28tYmxhY2siPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "futurice",
+                "name": "Futurice",
+                "websiteURL": "https://www.futurice.com/",
+                "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNDQ4cHgiIGhlaWdodD0iOTBweCIgdmlld0JveD0iMCAwIDQ0OCA5MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNDkuMSAoNTExNDcpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPmZ1dHVyaWNlLWxvZ28tYmxhY2s8L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iQXJ0Ym9hcmQiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01Ny4wMDAwMDAsIC01OC4wMDAwMDApIiBmaWxsPSIjMDAwMDAwIj4KICAgICAgICAgICAgPHBhdGggZD0iTTM0NS41MzcxNDIsMTQ2LjgwMTIwMSBMMzYxLjkwNzEyMywxNDYuODAxMjAxIEwzNjEuOTA3MTIzLDg1LjYwMDkzNzIgTDM0NS41MzcxNDIsODUuNjAwOTM3MiBMMzQ1LjUzNzE0MiwxNDYuODAxMjAxIFogTTM1My44NDUzMDMsNTkuMTk4Nzk5MiBDMzQ4LjI2NTE4Niw1OS4xOTg3OTkyIDM0My44MDE4OTMsNjMuNTE5NTI4NSAzNDMuODAxODkzLDY4LjkxOTM0MTcgQzM0My44MDE4OTMsNzQuMzE5MTU1IDM0OC4yNjUxODYsNzguNjQwNDMzNSAzNTMuODQ1MzAzLDc4LjY0MDQzMzUgQzM1OS40MjU0Miw3OC42NDA0MzM1IDM2My44OTA0MjgsNzQuMzE5MTU1IDM2My44OTA0MjgsNjguOTE5MzQxNyBDMzYzLjg5MDQyOCw2My41MTk1Mjg1IDM1OS40MjU0Miw1OS4xOTg3OTkyIDM1My44NDUzMDMsNTkuMTk4Nzk5MiBaIE00ODkuMDA0Mzg5LDEwOS41OTk0MzYgQzQ4OS4wMDQzODksMTAzLjM1OTQyIDQ4Ni4wMjYwMDIsOTcuMDAwNzg3MSA0NzUuOTgyNTkyLDk3LjAwMDc4NzEgQzQ2Ny4zMDI5MTgsOTcuMDAwNzg3MSA0NjMuMjA5NDIyLDEwMy4yMzkxNTYgNDYyLjQ2NTI1NCwxMDkuNTk5NDM2IEw0ODkuMDA0Mzg5LDEwOS41OTk0MzYgWiBNNTA1LDEyMC4xNjA3MzEgTDQ2Mi4yMTY2MjcsMTIwLjE2MDczMSBDNDYyLjU4OTI4MiwxMzAuMTIxODAyIDQ2OC41NDE0ODMsMTM1LjE2MTM3MSA0NzYuMTA2NjIsMTM1LjE2MTM3MSBDNDgzLjA0OTkwMiwxMzUuMTYxMzcxIDQ4OC4zODE5NjMsMTMxLjgwMTEwOSA0OTEuMjM0MDM1LDEyNi4wNDEwNTIgTDUwNC4zNzkyODgsMTMyLjUyMTU5NyBDNDk4Ljc5OTE3MSwxNDEuOTk5OTYzIDQ5MC4yNDI5NTQsMTQ4IDQ3Ni40NzY5ODksMTQ4IEM0NTYuMTQwMzk4LDE0OCA0NDUuNjAwODc1LDEzNS41MjE2MTUgNDQ1LjYwMDg3NSwxMTUuODQwMDAxIEM0NDUuNjAwODc1LDk2LjI4MDI5OTUgNDU3LjUwNTg0OSw4NC4zOTk5NDE0IDQ3NS42MDgyMjEsODQuMzk5OTQxNCBDNDkyLjk3MDk5OSw4NC4zOTk5NDE0IDUwNSw5My40MDA1NDU1IDUwNSwxMTIuOTU5Njk4IEw1MDUsMTIwLjE2MDczMSBaIE00MDguNDA2NzY0LDk3LjcxOTA3ODIgQzQxNC4zNTg5NjUsOTcuNzE5MDc4MiA0MTguMjAxNTQ3LDEwMC44MzkzNjEgNDIwLjMwODg4LDEwNi45NTk2NjIgTDQzNS40MzgwMSwxMDMuMzU5NDIgQzQzMS4zNDY4LDkwLjY0MDUwNjcgNDIzLjAzOTIxLDg0LjM5OTk0MTQgNDA3LjkxMDA4LDg0LjM5OTk0MTQgQzM4OC44MTI2MjYsODQuMzk5OTQxNCAzNzcuMjgwMzA4LDk2LjQwMDU2MzggMzc3LjI4MDMwOCwxMTYuMjAwMjQ1IEMzNzcuMjgwMzA4LDEzNS45OTk5MjcgMzg4LjgxMjYyNiwxNDggNDA3LjkxMDA4LDE0OCBDNDIzLjAzOTIxLDE0OCA0MzEuMzQ2OCwxNDEuNzYxNjMxIDQzNS40MzgwMSwxMjkuMDQxMDcgTDQyMC4zMDg4OCwxMjUuNDQwMjggQzQxOC4yMDE1NDcsMTMxLjU2MDU4MSA0MTQuMzU4OTY1LDEzNC42ODA4NjMgNDA4LjQwNjc2NCwxMzQuNjgwODYzIEMzOTguOTgxNzc5LDEzNC42ODA4NjMgMzk0LjM5MjE3MSwxMjguNTYwNTYyIDM5NC4zOTIxNzEsMTE2LjIwMDI0NSBDMzk0LjM5MjE3MSwxMDMuODM5Mzc5IDM5OS4xMDM1MjEsOTcuNzE5MDc4MiA0MDguNDA2NzY0LDk3LjcxOTA3ODIgWiBNMjk1LjgxNTYzMSwxNDYuODAxMjAxIEwzMTIuMTgzMzI2LDE0Ni44MDEyMDEgTDMxMi4xODMzMjYsOTguOTIwMDc0IEwzMzQuMTMzNDI0LDk4LjkyMDA3NCBMMzM0LjEzMzQyNCw4NS42MDA5MzcyIEwyOTUuODE1NjMxLDg1LjYwMDkzNzIgTDI5NS44MTU2MzEsMTQ2LjgwMTIwMSBaIE04MS4zMDU0ODczLDcxLjMxOTEzNjcgQzg0LjY1NDI0MzQsNzEuMzE5MTM2NyA4Ni44ODU2MDQzLDcyLjI3OTYwMzkgODguOTkyOTM3Miw3My45NjExMDc4IEw5NS40NDE4MjE3LDYyLjkxOTMwNTEgQzkwLjg1NDUwMDMsNTkuNzk5MDIyNSA4NS4xNTAzNTU0LDU4IDc4LjgyNjA3MDQsNTggQzY0LjY4NzQ0OTgsNTggNTcsNjYuMTU5MzAyOSA1Nyw3OC4xNTk5MjUzIEw1NywxNDYuODAxMjAxIEw3My4zNjc2OTUzLDE0Ni44MDEyMDEgTDczLjM2NzY5NTMsOTguOTIwMDc0IEw5Mi4zNDE2OTMyLDk4LjkyMDA3NCBMOTIuMzQxNjkzMiw4NS42MDA5MzcyIEw3My4zNjc2OTUzLDg1LjYwMDkzNzIgTDczLjM2NzY5NTMsNzkuOTU4OTQ3OCBDNzMuMzY3Njk1Myw3NC41NTkxMzQ1IDc1Ljk3Mzk5OCw3MS4zMTkxMzY3IDgxLjMwNTQ4NzMsNzEuMzE5MTM2NyBaIE0xOTguNDgxNjU2LDEzNC42ODA4NjMgQzE5My43NjgwMiwxMzQuNjgwODYzIDE5MC4xNzE3OCwxMzIuNjM5NjY1IDE5MC4xNzE3OCwxMjYuMDQxMDUyIEwxOTAuMTcxNzgsOTguOTIwMDc0IEwyMTAuMzg0MzQzLDk4LjkyMDA3NCBMMjEwLjM4NDM0Myw4NS42MDA5MzcyIEwxOTAuMTcxNzgsODUuNjAwOTM3MiBMMTkwLjE3MTc4LDYyLjc5OTA0MDggTDE3My44MDE3OTgsNjIuNzk5MDQwOCBMMTczLjgwMTc5OCwxMjcuOTYwMzM5IEMxNzMuODAxNzk4LDEzOS45NjA0MTIgMTgxLjQ5MTUzNCwxNDggMTk1LjYyNzI5NywxNDggQzIwMy4xOTMwMDUsMTQ4IDIwOS4wMjExNzgsMTQ1LjQ4MDQ5IDIxMy4yMzgxMywxNDIuMzYwMjA3IEwyMDYuOTEzODQ1LDEzMS4wODAwNzIgQzIwNC4zMDk4MjksMTMzLjM2MDE1MiAyMDIuMjAwMjEsMTM0LjY4MDg2MyAxOTguNDgxNjU2LDEzNC42ODA4NjMgWiBNMjYyLjA5MTQ0NSwxMjEuNzE5Nzc0IEMyNjIuMDkxNDQ1LDEzMS4wODAwNzIgMjU4LjI0ODg2NCwxMzQuNjgwODYzIDI1MC45MzEyMTIsMTM0LjY4MDg2MyBDMjQzLjYxNDEzMSwxMzQuNjgwODYzIDIzOS42NDc1MjEsMTMxLjA4MDA3MiAyMzkuNjQ3NTIxLDEyMS43MTk3NzQgTDIzOS42NDc1MjEsODUuNjAwOTM3MiBMMjIzLjI3NzU0LDg1LjYwMDkzNzIgTDIyMy4yNzc1NCwxMjEuNTk5NTA5IEMyMjMuMjc3NTQsMTM5LjM2MDE4OSAyMzIuNzAxOTUzLDE0OCAyNTAuOTMxMjEyLDE0OCBDMjY5LjE2MDQ3LDE0OCAyNzguNDYxNDI3LDEzOS4zNjAxODkgMjc4LjQ2MTQyNywxMjEuNTk5NTA5IEwyNzguNDYxNDI3LDg1LjYwMDkzNzIgTDI2Mi4wOTE0NDUsODUuNjAwOTM3MiBMMjYyLjA5MTQ0NSwxMjEuNzE5Nzc0IFogTTE0MS4zMjA3NTEsODUuNjAwOTM3MiBMMTU3LjY5MDczMiw4NS42MDA5MzcyIEwxNTcuNjkwNzMyLDEyMS41OTk1MDkgQzE1Ny42OTA3MzIsMTM5LjM2MDE4OSAxNDguMzg4MDYxLDE0OCAxMzAuMTYwNTE3LDE0OCBDMTExLjkyOTU0NCwxNDggMTAyLjUwNjg0NSwxMzkuMzYwMTg5IDEwMi41MDY4NDUsMTIxLjU5OTUwOSBMMTAyLjUwNjg0NSw4NS42MDA5MzcyIEwxMTguODc0NTQxLDg1LjYwMDkzNzIgTDExOC44NzQ1NDEsMTIxLjcxOTc3NCBDMTE4Ljg3NDU0MSwxMzEuMDgwMDcyIDEyMi44NDM0MzcsMTM0LjY4MDg2MyAxMzAuMTYwNTE3LDEzNC42ODA4NjMgQzEzNy40NzU4ODMsMTM0LjY4MDg2MyAxNDEuMzIwNzUxLDEzMS4wODAwNzIgMTQxLjMyMDc1MSwxMjEuNzE5Nzc0IEwxNDEuMzIwNzUxLDg1LjYwMDkzNzIgWiIgaWQ9ImZ1dHVyaWNlLWxvZ28tYmxhY2siPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -11546,8 +11631,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -11557,8 +11645,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "10m0s",
@@ -11705,19 +11793,23 @@
           "attendees": 48,
           "address": "Pinninkatu 47",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "tribe",
-              "name": "P47 Tribe Tampere",
-              "websiteURL": "https://tribetampere.com",
-              "logoURL": "https://tribetampere.com/wp-content/themes/tribetampere/img/tribe-logo-nega.svg",
-              "whiteLogo": true,
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "tribe",
+                "name": "P47 Tribe Tampere",
+                "websiteURL": "https://tribetampere.com",
+                "logoURL": "https://tribetampere.com/wp-content/themes/tribetampere/img/tribe-logo-nega.svg",
+                "whiteLogo": true,
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -11726,8 +11818,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -11737,8 +11832,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "10m0s",
@@ -11905,19 +12000,23 @@
           "duration": "4h0m0s",
           "address": "Åkerlundinkatu 11 A",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "eficode",
-              "name": "Eficode",
-              "websiteURL": "https://www.eficode.com/home",
-              "logoURL": "https://www.eficode.com/hubfs/images/logos/efilogotext.svg",
-              "whiteLogo": true,
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "eficode",
+                "name": "Eficode",
+                "websiteURL": "https://www.eficode.com/home",
+                "logoURL": "https://www.eficode.com/hubfs/images/logos/efilogotext.svg",
+                "whiteLogo": true,
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -11926,8 +12025,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -11936,8 +12038,11 @@
                   "denmark",
                   "finland"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "digitalocean",
                 "name": "Digital Ocean",
                 "websiteURL": "https://www.digitalocean.com/",
@@ -11946,8 +12051,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "3h30m0s",
@@ -12082,18 +12187,22 @@
           "duration": "3h0m0s",
           "address": "Lemminkäisenkatu 14B",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "walkbase",
-              "name": "Walkbase",
-              "websiteURL": "https://www.walkbase.com/",
-              "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png",
-              "countries": [
-                "finland"
-              ]
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "walkbase",
+                "name": "Walkbase",
+                "websiteURL": "https://www.walkbase.com/",
+                "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png",
+                "countries": [
+                  "finland"
+                ]
+              }
             },
-            "other": [
-              {
+            {
+              "role": "Other",
+              "company": {
                 "id": "luxaslabs",
                 "name": "luxas labs",
                 "websiteURL": "https://luxaslabs.com",
@@ -12102,8 +12211,11 @@
                   "finland",
                   "sweden"
                 ]
-              },
-              {
+              }
+            },
+            {
+              "role": "Other",
+              "company": {
                 "id": "cncf",
                 "name": "Cloud Native Computing Foundation (CNCF)",
                 "websiteURL": "https://www.cncf.io/",
@@ -12113,8 +12225,8 @@
                   "finland"
                 ]
               }
-            ]
-          },
+            }
+          ],
           "presentations": [
             {
               "duration": "10m0s",
@@ -12321,10 +12433,7 @@
           "duration": "3h0m0s",
           "address": "Linnankatu 16",
           "recording": "",
-          "sponsors": {
-            "venue": null,
-            "other": null
-          },
+          "sponsors": null,
           "presentations": null
         }
       }
@@ -12407,18 +12516,20 @@
           "attendees": 45,
           "address": "Tvistevägen 47",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "elastisys",
-              "name": "Elastisys",
-              "websiteURL": "https://elastisys.com/",
-              "logoURL": "",
-              "countries": [
-                "sweden"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "elastisys",
+                "name": "Elastisys",
+                "websiteURL": "https://elastisys.com/",
+                "logoURL": "",
+                "countries": [
+                  "sweden"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "1h0m0s",
@@ -12460,18 +12571,20 @@
           "attendees": 45,
           "address": "Södra Ersmarksgatan 7",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "codemill",
-              "name": "Codemill",
-              "websiteURL": "https://codemill.se/",
-              "logoURL": "",
-              "countries": [
-                "sweden"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "codemill",
+                "name": "Codemill",
+                "websiteURL": "https://codemill.se/",
+                "logoURL": "",
+                "countries": [
+                  "sweden"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "1h0m0s",
@@ -12548,18 +12661,20 @@
           "attendees": 36,
           "address": "Västra Norrlandsgatan 10D",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "xlent",
-              "name": "Xlent Norr",
-              "websiteURL": "https://www.xlent.se/",
-              "logoURL": "",
-              "countries": [
-                "sweden"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "xlent",
+                "name": "Xlent Norr",
+                "websiteURL": "https://www.xlent.se/",
+                "logoURL": "",
+                "countries": [
+                  "sweden"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "1h0m0s",
@@ -12601,18 +12716,20 @@
           "attendees": 19,
           "address": "Kuratorvägen 2A",
           "recording": "",
-          "sponsors": {
-            "venue": {
-              "id": "elastisys",
-              "name": "Elastisys",
-              "websiteURL": "https://elastisys.com/",
-              "logoURL": "",
-              "countries": [
-                "sweden"
-              ]
-            },
-            "other": null
-          },
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "elastisys",
+                "name": "Elastisys",
+                "websiteURL": "https://elastisys.com/",
+                "logoURL": "",
+                "countries": [
+                  "sweden"
+                ]
+              }
+            }
+          ],
           "presentations": [
             {
               "duration": "1h30m0s",

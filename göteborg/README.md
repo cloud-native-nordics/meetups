@@ -14,7 +14,6 @@
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/263937712
  - Attendees (according to meetup.com): 70
 
-
 #### Agenda
 
 
@@ -23,7 +22,6 @@
  - Date: 27 August, 2019 at 17:40 - 20:40
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/263936791
  - Attendees (according to meetup.com): 1
-
 
 #### Agenda
 
@@ -56,7 +54,6 @@
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/256374545
  - Attendees (according to meetup.com): 33
 
-
 #### Agenda
 
  - 17:00 - 18:00: Demo av Knative 
@@ -67,7 +64,6 @@
  - Date: 25 October, 2017 at 17:00 - 19:00
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/242830009
  - Attendees (according to meetup.com): 36
-
 
 #### Agenda
 
@@ -80,7 +76,6 @@
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/241821276
  - Attendees (according to meetup.com): 14
 
-
 #### Agenda
 
  - 17:00 - 18:00: Vad händer när 100 tjänster delar på 10 noder? 
@@ -92,7 +87,6 @@
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/235779397
  - Attendees (according to meetup.com): 30
 
-
 #### Agenda
 
 
@@ -102,7 +96,6 @@
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/235779214
  - Attendees (according to meetup.com): 34
 
-
 #### Agenda
 
 
@@ -111,7 +104,6 @@
  - Date: 30 November, 2016 at 11:30 - 13:00
  - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/235779901
  - Attendees (according to meetup.com): 8
-
 
 #### Agenda
 
