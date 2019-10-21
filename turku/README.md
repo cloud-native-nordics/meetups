@@ -11,6 +11,15 @@
 
 If you're interested in speaking in this meetup, fill out this form: https://bit.ly/k8sfin-cfp
 
+### December Meetup in Turku
+
+ - Date: 12 December, 2019 at 17:00 - 20:00
+ - Meetup link: https://www.meetup.com/Kubernetes-Turku/events/265794322
+
+
+#### Agenda
+
+
 ### First Kubernetes Turku Meetup!
 
  - Date: 31 October, 2019 at 17:00 - 20:00

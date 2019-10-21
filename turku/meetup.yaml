@@ -58,3 +58,10 @@ meetups:
       - luxaslabs
       - cncf
       venue: walkbase
+  "20191212":
+    # TODO(lucas): Create an agenda
+    presentations: null
+    recording: ""
+    sponsors:
+      other: null
+      venue: null
