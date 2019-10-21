@@ -1,10 +1,10 @@
-## Sponsor guide for the CNCF & Kubernetes meetup
+# Sponsor guide for the CNCF & Kubernetes meetup
 
 This is a community event, but it wouldn't live on for long without
 companies sponsoring the events. Hence, sponsors are important to the
 health of the project. Thank you for sponsoring our events!
 
-#### Respect the Community
+## Respect the Community
 
 We'd like to remind everybody (especially speakers and sponsors) that these meetups
 are **community events**. We're here to discuss problems, ideas, solutions and technical
@@ -13,7 +13,7 @@ attending meetups to pitch or sell any products, to favor a specific company's s
 or to talk badly about competitors. This is a good place to say that _all our meetups_
 **follow the [CNCF][cncf-coc] and [The Linux Foundation][lf-coc] Code of Conducts**.
 
-### Venue sponsors
+## Venue sponsors
 
 This is the most common form of sponsoring our events -- to open up your office
 to the community and let us be there for an evening. Venue sponsors get
@@ -25,7 +25,7 @@ the dedicated 5 minute venue sponsor pitch. This talk may let the participants
 know what the company does, what they sell, or what kind of people they're hiring.
 The venue should have a good enough internet connection to host a Youtube livestream.
 
-### Long-term sponsors
+## Long-term sponsors
 
 Long-term sponsor multiple meetups in a row for a period of time. They help with
 practical costs where needed (travel, stickers, etc.), as well as valuable
