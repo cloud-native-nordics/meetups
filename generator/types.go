@@ -10,10 +10,11 @@ import (
 )
 
 var (
-	globalSpeakerMap       = map[SpeakerID]*Speaker{}
-	globalCompanyMap       = map[CompanyID]*Company{}
-	shouldMarshalCompanyID = false
-	shouldMarshalSpeakerID = false
+	globalSpeakerMap        = map[SpeakerID]*Speaker{}
+	globalCompanyMap        = map[CompanyID]*Company{}
+	shouldMarshalCompanyID  = false
+	shouldMarshalSpeakerID  = false
+	shouldMarshalAutoMeetup = false
 )
 
 type CompanyID string
@@ -98,6 +99,36 @@ var _ json.Marshaler = &Company{}
 var _ json.Unmarshaler = &Company{}
 var _ json.Unmarshaler = &Speaker{}
 
+type SponsorRole string
+
+var (
+	SponsorRoleVenue    SponsorRole = "Venue"
+	SponsorRoleLongterm SponsorRole = "Longterm"
+	SponsorRoleCloud    SponsorRole = "Cloud"
+	SponsorRoleFood     SponsorRole = "Food"
+	SponsorRoleOther    SponsorRole = "Other"
+
+	ValidSponsorRoles = map[SponsorRole]struct{}{
+		SponsorRoleVenue:    {},
+		SponsorRoleLongterm: {},
+		SponsorRoleCloud:    {},
+		SponsorRoleFood:     {},
+		SponsorRoleOther:    {},
+	}
+)
+
+func (c *SponsorRole) UnmarshalJSON(b []byte) error {
+	str := ""
+	if err := json.Unmarshal(b, &str); err != nil {
+		return err
+	}
+	if _, ok := ValidSponsorRoles[SponsorRole(str)]; !ok {
+		return fmt.Errorf("not a valid sponsor role: %q", str)
+	}
+	*c = SponsorRole(str)
+	return nil
+}
+
 type Company struct {
 	companyInternal
 }
@@ -129,7 +160,8 @@ func (c *Company) UnmarshalJSON(b []byte) error {
 		return nil
 	}
 	cid := CompanyID("")
-	if err := json.Unmarshal(b, &cid); err == nil {
+	err := json.Unmarshal(b, &cid)
+	if err == nil {
 		company, ok := globalCompanyMap[cid]
 		if !ok {
 			log.Fatalf("company reference not found: %s", cid)
@@ -137,7 +169,7 @@ func (c *Company) UnmarshalJSON(b []byte) error {
 		*c = *company
 		return nil
 	}
-	return fmt.Errorf("couldn't marshal company")
+	return fmt.Errorf("couldn't marshal company %q: %v", string(b), err)
 }
 
 type Speaker struct {
@@ -192,7 +224,8 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 		return nil
 	}
 	sid := SpeakerID("")
-	if err := json.Unmarshal(b, &sid); err == nil {
+	err := json.Unmarshal(b, &sid)
+	if err == nil {
 		speaker, ok := globalSpeakerMap[sid]
 		if !ok {
 			log.Fatalf("speaker reference not found: %s", sid)
@@ -200,7 +233,7 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 		*s = *speaker
 		return nil
 	}
-	return fmt.Errorf("couldn't marshal speaker")
+	return fmt.Errorf("couldn't marshal speaker %q: %v", string(b), err)
 }
 
 type AutogenMeetupGroup struct {
@@ -209,7 +242,7 @@ type AutogenMeetupGroup struct {
 	City        string                   `json:"city"`
 	Country     string                   `json:"country"`
 	Description string                   `json:"description"`
-	AutoMeetups map[string]AutogenMeetup `json:"autoMeetups,omitempty"`
+	AutoMeetups map[string]AutogenMeetup `json:"-"`
 
 	members uint64
 }
@@ -291,11 +324,35 @@ type AutogenMeetup struct {
 	rsvps map[uint64]uint64
 }
 
+type HumanMeetup struct {
+	Recording     string          `json:"recording"`
+	Sponsors      []MeetupSponsor `json:"sponsors"`
+	Presentations []Presentation  `json:"presentations"`
+}
+
 type Meetup struct {
 	*AutogenMeetup `json:",inline,omitempty"`
-	Recording      string         `json:"recording"`
-	Sponsors       Sponsors       `json:"sponsors"`
-	Presentations  []Presentation `json:"presentations"`
+	HumanMeetup    `json:",inline"`
+}
+
+type fullMeetup struct {
+	*AutogenMeetup `json:",inline,omitempty"`
+	HumanMeetup    `json:",inline"`
+}
+
+func (m Meetup) MarshalJSON() ([]byte, error) {
+	if shouldMarshalAutoMeetup {
+		return json.Marshal(fullMeetup{
+			AutogenMeetup: m.AutogenMeetup,
+			HumanMeetup:   m.HumanMeetup,
+		})
+	}
+	return json.Marshal(m.HumanMeetup)
+}
+
+type MeetupSponsor struct {
+	Role    SponsorRole `json:"role"`
+	Company *Company    `json:"company"`
 }
 
 func (m *Meetup) DateTime() string {
@@ -324,9 +381,4 @@ func (p *Presentation) StartTime() string {
 
 func (p *Presentation) EndTime() string {
 	return fmt.Sprintf("%d:%02d", p.end.UTC().Hour(), p.end.UTC().Minute())
-}
-
-type Sponsors struct {
-	Venue *Company   `json:"venue"`
-	Other []*Company `json:"other"`
 }

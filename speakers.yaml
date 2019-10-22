@@ -901,7 +901,6 @@ speakers:
   id: tomsolem
   name: Tom Solem
   speakersBureau: ""
-  title: ""
 - company: evry
   countries:
   - norway
@@ -910,7 +909,6 @@ speakers:
   id: davidkarlsen
   name: David Karlsen
   speakersBureau: ""
-  title: ""
 - company: evry
   countries:
   - norway
@@ -919,7 +917,6 @@ speakers:
   id: randax
   name: Øyvind Randa
   speakersBureau: ""
-  title: ""
 - company: evry
   countries:
   - norway
@@ -928,7 +925,6 @@ speakers:
   id: Modulus
   name: John Sigvald Skauge
   speakersBureau: ""
-  title: ""
 - company: praqma
   countries:
   - norway

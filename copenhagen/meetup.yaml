@@ -1,11 +1,7 @@
 cfpLink: ""
-meetupID: Cloud-Native-Copenhagen
 latitude: 55.676111
 longitude: 12.568333
-organizers:
-- laszlo
-- jasmine
-- jeppe
+meetupID: Cloud-Native-Copenhagen
 meetups:
   "20171212":
     presentations:
@@ -45,8 +41,8 @@ meetups:
       title: Gates close
     recording: ""
     sponsors:
-      other: null
-      venue: twentythree
+    - company: twentythree
+      role: Venue
   "20180123":
     presentations:
     - duration: 30m0s
@@ -79,8 +75,8 @@ meetups:
       title: Goodbye
     recording: ""
     sponsors:
-      other: null
-      venue: falconio
+    - company: falconio
+      role: Venue
   "20180308":
     presentations:
     - duration: 30m0s
@@ -111,8 +107,8 @@ meetups:
       title: Community chats
     recording: ""
     sponsors:
-      other: null
-      venue: trifork
+    - company: trifork
+      role: Venue
   "20180430":
     presentations:
     - duration: 10m0s
@@ -162,8 +158,8 @@ meetups:
       title: Goodbye and see you at KubeCon!
     recording: ""
     sponsors:
-      other: null
-      venue: republikken
+    - company: republikken
+      role: Venue
   "20181106":
     presentations:
     - duration: 20m0s
@@ -194,53 +190,41 @@ meetups:
       title: Goodbye
     recording: ""
     sponsors:
-      other: null
-      venue: simcorp
+    - company: simcorp
+      role: Venue
   "20190313":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20190319":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20190409":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20190425":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20190611":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20190821":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20190910":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20191021":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
+organizers:
+- laszlo
+- jasmine
+- jeppe

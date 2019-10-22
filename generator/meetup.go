@@ -221,12 +221,12 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 						}
 					}
 				}
-				for _, c := range append(m.Sponsors.Other, m.Sponsors.Venue) {
-					if c == nil {
+				for _, s := range m.Sponsors {
+					if s.Company == nil {
 						continue
 					}
-					if _, ok := sponsors[string(c.ID)]; !ok {
-						sponsors[string(c.ID)] = true
+					if _, ok := sponsors[string(s.Company.ID)]; !ok {
+						sponsors[string(s.Company.ID)] = true
 					}
 				}
 

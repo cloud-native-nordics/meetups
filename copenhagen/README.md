@@ -10,7 +10,7 @@
 
  - Date: 21 October, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/264886621
-
+ - Attendees (according to meetup.com): 77
 
 #### Agenda
 
@@ -21,7 +21,6 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/262668370
  - Attendees (according to meetup.com): 52
 
-
 #### Agenda
 
 
@@ -30,7 +29,6 @@
  - Date: 21 August, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/262635188
  - Attendees (according to meetup.com): 58
-
 
 #### Agenda
 
@@ -41,7 +39,6 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/261858991
  - Attendees (according to meetup.com): 35
 
-
 #### Agenda
 
 
@@ -50,7 +47,6 @@
  - Date: 25 April, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/259355667
  - Attendees (according to meetup.com): 50
-
 
 #### Agenda
 
@@ -61,7 +57,6 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/258922126
  - Attendees (according to meetup.com): 68
 
-
 #### Agenda
 
 
@@ -71,7 +66,6 @@
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/259113734
  - Attendees (according to meetup.com): 1
 
-
 #### Agenda
 
 
@@ -80,7 +74,6 @@
  - Date: 13 March, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/258900627
  - Attendees (according to meetup.com): 46
-
 
 #### Agenda
 

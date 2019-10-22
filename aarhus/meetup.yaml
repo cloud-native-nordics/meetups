@@ -1,19 +1,12 @@
 cfpLink: ""
-meetupID: Cloud-Native-Aarhus
 latitude: 56.150222
 longitude: 10.209139
-organizers:
-- kaspernissen
-- rasmussteiniche
-- henrikhoegh
-- danielfly
+meetupID: Cloud-Native-Aarhus
 meetups:
   "20170530":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20170829":
     presentations:
     - duration: 5m0s
@@ -45,8 +38,8 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-      other: null
-      venue: lunarway
+    - company: lunarway
+      role: Venue
   "20171030":
     presentations:
     - duration: 5m0s
@@ -78,8 +71,8 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-      other: null
-      venue: itminds
+    - company: itminds
+      role: Venue
   "20171207":
     presentations:
     - delay: -30m0s
@@ -121,8 +114,8 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-      other: null
-      venue: uberaarhus
+    - company: uberaarhus
+      role: Venue
   "20180130":
     presentations:
     - duration: 30m0s
@@ -136,8 +129,8 @@ meetups:
       title: Workshop, discussions, "Cloud Native Workshop and Networking"
     recording: ""
     sponsors:
-      other: null
-      venue: praqma
+    - company: praqma
+      role: Venue
   "20180228":
     presentations:
     - duration: 5m0s
@@ -169,8 +162,8 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-      other: null
-      venue: boligportal
+    - company: boligportal
+      role: Venue
   "20180424":
     presentations:
     - duration: 5m0s
@@ -203,8 +196,8 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-      other: null
-      venue: bestseller
+    - company: bestseller
+      role: Venue
   "20180621":
     presentations:
     - duration: 5m0s
@@ -240,8 +233,8 @@ meetups:
       title: Food and networking
     recording: ""
     sponsors:
-      other: null
-      venue: systematic
+    - company: systematic
+      role: Venue
   "20180920":
     presentations:
     - duration: 5m0s
@@ -273,8 +266,8 @@ meetups:
       title: Discussions and networking
     recording: ""
     sponsors:
-      other: null
-      venue: firstagenda
+    - company: firstagenda
+      role: Venue
   "20181106":
     presentations:
     - duration: 5m0s
@@ -315,8 +308,8 @@ meetups:
       title: Discussions and networking
     recording: ""
     sponsors:
-      other: null
-      venue: uberaarhus
+    - company: uberaarhus
+      role: Venue
   "20181211":
     presentations:
     - duration: 15m0s
@@ -351,8 +344,8 @@ meetups:
       title: Discussions and networking
     recording: ""
     sponsors:
-      other: null
-      venue: trifork
+    - company: trifork
+      role: Venue
   "20190108":
     presentations:
     - duration: 5m0s
@@ -385,8 +378,8 @@ meetups:
       title: Discussions and networking
     recording: ""
     sponsors:
-      other: null
-      venue: bestseller
+    - company: bestseller
+      role: Venue
   "20190212":
     presentations:
     - duration: 5m0s
@@ -436,8 +429,8 @@ meetups:
       title: Discussions and networking
     recording: ""
     sponsors:
-      other: null
-      venue: praqma
+    - company: praqma
+      role: Venue
   "20190305":
     presentations:
     - duration: 5m0s
@@ -471,8 +464,8 @@ meetups:
       title: Discussions and networking
     recording: ""
     sponsors:
-      other: null
-      venue: sparnordbank
+    - company: sparnordbank
+      role: Venue
   "20190328":
     presentations:
     - duration: 5m0s
@@ -511,9 +504,10 @@ meetups:
       title: Raffle and networking
     recording: ""
     sponsors:
-      other:
-      - lunarway
-      venue: orbitlab
+    - company: orbitlab
+      role: Venue
+    - company: lunarway
+      role: Other
   "20190425":
     presentations:
     - duration: 5m0s
@@ -548,8 +542,8 @@ meetups:
       title: Discussions and networking
     recording: ""
     sponsors:
-      other: null
-      venue: mobilepay
+    - company: mobilepay
+      role: Venue
   "20190528":
     presentations:
     - delay: 15m0s
@@ -598,8 +592,8 @@ meetups:
       title: 2 years of Cloud Native Aarhus celebration with cake
     recording: ""
     sponsors:
-      other: null
-      venue: praqma
+    - company: praqma
+      role: Venue
   "20190603":
     presentations:
     - delay: 30m0s
@@ -628,9 +622,10 @@ meetups:
       title: Discussions and networking
     recording: ""
     sponsors:
-      other:
-      - tradeshift
-      venue: orbitlab
+    - company: orbitlab
+      role: Venue
+    - company: tradeshift
+      role: Other
   "20190625":
     presentations:
     - duration: 5m0s
@@ -662,20 +657,18 @@ meetups:
       title: Discussions and networking
     recording: ""
     sponsors:
-      other: null
-      venue: jysk
+    - company: jysk
+      role: Venue
   "20190808":
     presentations: null
     recording: ""
     sponsors:
-      other: null
-      venue: systematic
+    - company: systematic
+      role: Venue
   "20190821":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20190903":
     presentations:
     - duration: 1h15m0s
@@ -725,8 +718,8 @@ meetups:
       title: Bus transport from LEGO House to Aarhus
     recording: ""
     sponsors:
-      other: null
-      venue: lego
+    - company: lego
+      role: Venue
   "20190924":
     presentations:
     - duration: 30m0s
@@ -741,18 +734,21 @@ meetups:
       - kevinsimper
       title: How Cloud Run is the final destination in my Cloud Native journey
     - duration: 30m0s
-      slides: "https://www.slideshare.net/FrederikMogensen/cloud-native-nordics-real-world-istio"
+      slides: https://www.slideshare.net/FrederikMogensen/cloud-native-nordics-real-world-istio
       speakers:
       - lassehojgaard
       - frederikmogensen
       title: Real world Istio - War stories and Gotchas
     recording: ""
     sponsors:
-      other: null
-      venue: trifork
+    - company: trifork
+      role: Venue
   "20191022":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
+organizers:
+- kaspernissen
+- rasmussteiniche
+- henrikhoegh
+- danielfly

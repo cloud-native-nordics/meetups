@@ -13,7 +13,6 @@
  - Date: 23 October, 2019 at 17:30 - 20:30
  - Meetup link: https://www.meetup.com/sthlm-k8s/events/265099547
 
-
 #### Agenda
 
 
@@ -22,7 +21,6 @@
  - Date: 8 May, 2019 at 18:30 - 21:30
  - Meetup link: https://www.meetup.com/sthlm-k8s/events/260846917
  - Attendees (according to meetup.com): 88
-
 
 #### Agenda
 
@@ -48,7 +46,6 @@
  - Date: 25 January, 2018 at 17:30 - 20:30
  - Meetup link: https://www.meetup.com/sthlm-k8s/events/245823087
  - Attendees (according to meetup.com): 96
-
 
 #### Agenda
 

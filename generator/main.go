@@ -164,6 +164,7 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	result := map[string][]byte{}
 	shouldMarshalSpeakerID = true
 	shouldMarshalCompanyID = true
+	shouldMarshalAutoMeetup = false
 	for _, mg := range cfg.MeetupGroups {
 		mg.SetMeetupList()
 		b, err := tmpl(readmeTmpl, mg)
@@ -173,6 +174,14 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		city := mg.CityLowercase()
 		path := filepath.Join(city, "README.md")
 		result[path] = b
+
+		path = filepath.Join(city, "meetup.yaml")
+		mg.AutogenMeetupGroup = nil
+		meetupYAML, err := yaml.Marshal(mg)
+		if err != nil {
+			return nil, err
+		}
+		result[path] = meetupYAML
 	}
 	shouldMarshalSpeakerID = false
 	shouldMarshalCompanyID = false
@@ -196,11 +205,7 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	}
 	result["README.md"] = readmeBytes
 	shouldMarshalCompanyID = false
-	// Don't output the autoMeetups thing in config.json
-	for i, mg := range cfg.MeetupGroups {
-		mg.AutoMeetups = nil
-		cfg.MeetupGroups[i] = mg
-	}
+	shouldMarshalAutoMeetup = true
 	configJSON, err := json.MarshalIndent(cfg, "", "  ")
 	if err != nil {
 		return nil, err
@@ -234,9 +239,9 @@ func update(cfg *Config) error {
 					cfg.SetSpeakerCountry(s, mg.Country)
 				}
 			}
-			cfg.SetCompanyCountry(m.Sponsors.Venue, mg.Country)
-			for _, s := range m.Sponsors.Other {
-				cfg.SetCompanyCountry(s, mg.Country)
+
+			for _, s := range m.Sponsors {
+				cfg.SetCompanyCountry(s.Company, mg.Country)
 			}
 			mg.Meetups[j] = m
 		}

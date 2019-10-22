@@ -1,9 +1,7 @@
 cfpLink: ""
+latitude: 0
+longitude: 0
 meetupID: Cloud-Native-Northern-Sweden
-organizers:
-- robertwinter
-- eriklindskog
-- tordsson
 meetups:
   "20181120":
     presentations:
@@ -15,8 +13,8 @@ meetups:
       title: Intro to the cloud-native world with Kubernetes
     recording: ""
     sponsors:
-      other: null
-      venue: elastisys
+    - company: elastisys
+      role: Venue
   "20190228":
     presentations:
     - delay: 30m0s
@@ -29,8 +27,8 @@ meetups:
       title: Lightning talks
     recording: ""
     sponsors:
-      other: null
-      venue: codemill
+    - company: codemill
+      role: Venue
   "20190507":
     presentations:
     - delay: 30m0s
@@ -41,8 +39,8 @@ meetups:
       title: What does “production ready” really mean for a Kubernetes cluster?
     recording: ""
     sponsors:
-      other: null
-      venue: xlent
+    - company: xlent
+      role: Venue
   "20190528":
     presentations:
     - duration: 1h30m0s
@@ -53,5 +51,9 @@ meetups:
       title: Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona
     recording: ""
     sponsors:
-      other: null
-      venue: elastisys
+    - company: elastisys
+      role: Venue
+organizers:
+- robertwinter
+- eriklindskog
+- tordsson
