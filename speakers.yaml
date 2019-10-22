@@ -887,10 +887,43 @@ speakers:
 - company: evry
   countries:
   - norway
+  email: hans@starefossen.com
+  github: starefossen
+  id: starefossen
+  name: Hans Kristian Flaatten
+  speakersBureau: ""
+  title: DevOps Practice Lead
+- company: evry
+  countries:
+  - norway
   email: ""
   github: ""
-  id: hanskristianflaatten
-  name: Hans Kristian Flaatten
+  id: tomsolem
+  name: Tom Solem
+  speakersBureau: ""
+- company: evry
+  countries:
+  - norway
+  email: ""
+  github: ""
+  id: davidkarlsen
+  name: David Karlsen
+  speakersBureau: ""
+- company: evry
+  countries:
+  - norway
+  email: ""
+  github: ""
+  id: randax
+  name: Øyvind Randa
+  speakersBureau: ""
+- company: evry
+  countries:
+  - norway
+  email: ""
+  github: ""
+  id: Modulus
+  name: John Sigvald Skauge
   speakersBureau: ""
 - company: praqma
   countries:

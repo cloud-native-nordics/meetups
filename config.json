@@ -3018,8 +3018,85 @@
       "speakersBureau": ""
     },
     {
-      "id": "hanskristianflaatten",
+      "id": "starefossen",
       "name": "Hans Kristian Flaatten",
+      "title": "DevOps Practice Lead",
+      "email": "hans@starefossen.com",
+      "company": {
+        "id": "evry",
+        "name": "EVRY",
+        "websiteURL": "https://www.evry.com/en/",
+        "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+        "countries": [
+          "norway"
+        ]
+      },
+      "countries": [
+        "norway"
+      ],
+      "github": "starefossen",
+      "speakersBureau": ""
+    },
+    {
+      "id": "tomsolem",
+      "name": "Tom Solem",
+      "email": "",
+      "company": {
+        "id": "evry",
+        "name": "EVRY",
+        "websiteURL": "https://www.evry.com/en/",
+        "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+        "countries": [
+          "norway"
+        ]
+      },
+      "countries": [
+        "norway"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "davidkarlsen",
+      "name": "David Karlsen",
+      "email": "",
+      "company": {
+        "id": "evry",
+        "name": "EVRY",
+        "websiteURL": "https://www.evry.com/en/",
+        "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+        "countries": [
+          "norway"
+        ]
+      },
+      "countries": [
+        "norway"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "randax",
+      "name": "Øyvind Randa",
+      "email": "",
+      "company": {
+        "id": "evry",
+        "name": "EVRY",
+        "websiteURL": "https://www.evry.com/en/",
+        "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+        "countries": [
+          "norway"
+        ]
+      },
+      "countries": [
+        "norway"
+      ],
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "Modulus",
+      "name": "John Sigvald Skauge",
       "email": "",
       "company": {
         "id": "evry",
@@ -6814,9 +6891,10 @@
       "meetupID": "cloudnative-bergen",
       "organizers": [
         {
-          "id": "hanskristianflaatten",
+          "id": "starefossen",
           "name": "Hans Kristian Flaatten",
-          "email": "",
+          "title": "DevOps Practice Lead",
+          "email": "hans@starefossen.com",
           "company": {
             "id": "evry",
             "name": "EVRY",
@@ -6829,7 +6907,7 @@
           "countries": [
             "norway"
           ],
-          "github": "",
+          "github": "starefossen",
           "speakersBureau": ""
         }
       ],
@@ -6845,8 +6923,101 @@
           "attendees": 28,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "evry",
+                "name": "EVRY",
+                "websiteURL": "https://www.evry.com/en/",
+                "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                "countries": [
+                  "norway"
+                ]
+              }
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "30m0s",
+              "title": "Experience with containers in productions",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "starefossen",
+                  "name": "Hans Kristian Flaatten",
+                  "title": "DevOps Practice Lead",
+                  "email": "hans@starefossen.com",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "starefossen",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Visual Studio Team Services",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "tomsolem",
+                  "name": "Tom Solem",
+                  "email": "",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "DevOps and Automation in Financial Services.",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "davidkarlsen",
+                  "name": "David Karlsen",
+                  "email": "",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            }
+          ]
         },
         "20170801": {
           "id": 240906920,
@@ -6856,8 +7027,49 @@
           "attendees": 23,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "evry",
+                "name": "EVRY",
+                "websiteURL": "https://www.evry.com/en/",
+                "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                "countries": [
+                  "norway"
+                ]
+              }
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "1h30m0s",
+              "title": "Jenkins – Build great things at any scale",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "starefossen",
+                  "name": "Hans Kristian Flaatten",
+                  "title": "DevOps Practice Lead",
+                  "email": "hans@starefossen.com",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "starefossen",
+                  "speakersBureau": ""
+                }
+              ]
+            }
+          ]
         },
         "20170912": {
           "id": 242776090,
@@ -6867,8 +7079,49 @@
           "attendees": 25,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "evry",
+                "name": "EVRY",
+                "websiteURL": "https://www.evry.com/en/",
+                "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                "countries": [
+                  "norway"
+                ]
+              }
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "1h30m0s",
+              "title": "Prometheus – An open-source monitoring system and tsdb.",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "starefossen",
+                  "name": "Hans Kristian Flaatten",
+                  "title": "DevOps Practice Lead",
+                  "email": "hans@starefossen.com",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "starefossen",
+                  "speakersBureau": ""
+                }
+              ]
+            }
+          ]
         },
         "20180118": {
           "id": 246129996,
@@ -6878,8 +7131,68 @@
           "attendees": 11,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "evry",
+                "name": "EVRY",
+                "websiteURL": "https://www.evry.com/en/",
+                "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                "countries": [
+                  "norway"
+                ]
+              }
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "2h0m0s",
+              "title": "Hands on Kubernetes and Google Cloud",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "starefossen",
+                  "name": "Hans Kristian Flaatten",
+                  "title": "DevOps Practice Lead",
+                  "email": "hans@starefossen.com",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "starefossen",
+                  "speakersBureau": ""
+                },
+                {
+                  "id": "randax",
+                  "name": "Øyvind Randa",
+                  "email": "",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            }
+          ]
         },
         "20181101": {
           "id": 255241597,
@@ -6889,8 +7202,49 @@
           "attendees": 15,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "evry",
+                "name": "EVRY",
+                "websiteURL": "https://www.evry.com/en/",
+                "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                "countries": [
+                  "norway"
+                ]
+              }
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "1h30m0s",
+              "title": "Helm – The Kubernetes Package Manager",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "starefossen",
+                  "name": "Hans Kristian Flaatten",
+                  "title": "DevOps Practice Lead",
+                  "email": "hans@starefossen.com",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "starefossen",
+                  "speakersBureau": ""
+                }
+              ]
+            }
+          ]
         },
         "20190815": {
           "id": 263860870,
@@ -6900,8 +7254,49 @@
           "attendees": 25,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "evry",
+                "name": "EVRY",
+                "websiteURL": "https://www.evry.com/en/",
+                "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                "countries": [
+                  "norway"
+                ]
+              }
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "1h30m0s",
+              "title": "Infrastructure as Code with Terraform",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "starefossen",
+                  "name": "Hans Kristian Flaatten",
+                  "title": "DevOps Practice Lead",
+                  "email": "hans@starefossen.com",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "starefossen",
+                  "speakersBureau": ""
+                }
+              ]
+            }
+          ]
         },
         "20191016": {
           "id": 265630882,
@@ -6911,8 +7306,145 @@
           "attendees": 1,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "evry",
+                "name": "EVRY",
+                "websiteURL": "https://www.evry.com/en/",
+                "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                "countries": [
+                  "norway"
+                ]
+              }
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "2h0m0s",
+              "title": "Knative - Serverless on your own terms",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "starefossen",
+                  "name": "Hans Kristian Flaatten",
+                  "title": "DevOps Practice Lead",
+                  "email": "hans@starefossen.com",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "starefossen",
+                  "speakersBureau": ""
+                },
+                {
+                  "id": "randax",
+                  "name": "Øyvind Randa",
+                  "email": "",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            }
+          ]
+        },
+        "20191106": {
+          "id": 265768501,
+          "name": "Serverless on AWS",
+          "date": "2019-11-06T17:30:00Z",
+          "duration": "2h30m0s",
+          "address": "Folke Bernadottes vei 40",
+          "recording": "",
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": {
+                "id": "evry",
+                "name": "EVRY",
+                "websiteURL": "https://www.evry.com/en/",
+                "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                "countries": [
+                  "norway"
+                ]
+              }
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "1h0m0s",
+              "title": "Container Orchestration with AWS Fargate",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "Modulus",
+                  "name": "John Sigvald Skauge",
+                  "email": "",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "",
+                  "speakersBureau": ""
+                }
+              ]
+            },
+            {
+              "duration": "1h0m0s",
+              "title": "Serverless Applications with AWS Lambda and API Gateway",
+              "slides": "",
+              "speakers": [
+                {
+                  "id": "starefossen",
+                  "name": "Hans Kristian Flaatten",
+                  "title": "DevOps Practice Lead",
+                  "email": "hans@starefossen.com",
+                  "company": {
+                    "id": "evry",
+                    "name": "EVRY",
+                    "websiteURL": "https://www.evry.com/en/",
+                    "logoURL": "https://www.evry.com/gui/project/images/logos/EVRY_logo.svg",
+                    "countries": [
+                      "norway"
+                    ]
+                  },
+                  "countries": [
+                    "norway"
+                  ],
+                  "github": "starefossen",
+                  "speakersBureau": ""
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -7716,6 +8248,7 @@
           "name": "Chaos Engineering, Istio \u0026 KubeOne",
           "date": "2019-10-21T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 77,
           "address": "Langebrogade 1",
           "recording": "",
           "sponsors": null,

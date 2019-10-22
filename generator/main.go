@@ -20,9 +20,7 @@ var companiesFile = pflag.String("companies-file", "companies.yaml", "Point to t
 var rootDir = pflag.String("meetups-dir", ".", "Point to the directory that has all meetup groups as subfolders, each with a meetup.yaml file")
 var dryRun = pflag.Bool("dry-run", true, "Whether to actually apply the changes or not")
 var validateFlag = pflag.Bool("validate", false, "Whether to validate the current state of the repo content with the spec")
-
-// TODO: Change back after data migration
-var unmarshal = yaml.Unmarshal
+var unmarshal = yaml.UnmarshalStrict
 
 // this maps the locations returned from meetup.com to what we want to use here.
 // TODO: Maybe skip this and just use "Århus" directly in our
