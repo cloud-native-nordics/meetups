@@ -10,6 +10,7 @@
 
  - Date: 21 October, 2019 at 17:00 - 20:00
  - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/264886621
+ - Attendees (according to meetup.com): 77
 
 
 #### Agenda

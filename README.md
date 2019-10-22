@@ -13,7 +13,7 @@ Repository to gather all meetup information and slides from Cloud Native Nordic 
   * Henrik Høegh, [Praqma](https://www.praqma.com/)
   * Daniel Fly, [Zitcom](https://www.zitcom.dk/)
 * [Bergen](bergen/README.md)
-  * Hans Kristian Flaatten, [EVRY](https://www.evry.com/en/)
+  * Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
 * [Copenhagen](copenhagen/README.md)
   * Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
   * Jasmine Crozier, [Praqma](https://www.praqma.com/)

@@ -129,7 +129,8 @@ func (c *Company) UnmarshalJSON(b []byte) error {
 		return nil
 	}
 	cid := CompanyID("")
-	if err := json.Unmarshal(b, &cid); err == nil {
+	err := json.Unmarshal(b, &cid)
+	if err == nil {
 		company, ok := globalCompanyMap[cid]
 		if !ok {
 			log.Fatalf("company reference not found: %s", cid)
@@ -137,7 +138,7 @@ func (c *Company) UnmarshalJSON(b []byte) error {
 		*c = *company
 		return nil
 	}
-	return fmt.Errorf("couldn't marshal company")
+	return fmt.Errorf("couldn't marshal company %q: %v", string(b), err)
 }
 
 type Speaker struct {
@@ -192,7 +193,8 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 		return nil
 	}
 	sid := SpeakerID("")
-	if err := json.Unmarshal(b, &sid); err == nil {
+	err := json.Unmarshal(b, &sid)
+	if err == nil {
 		speaker, ok := globalSpeakerMap[sid]
 		if !ok {
 			log.Fatalf("speaker reference not found: %s", sid)
@@ -200,7 +202,7 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 		*s = *speaker
 		return nil
 	}
-	return fmt.Errorf("couldn't marshal speaker")
+	return fmt.Errorf("couldn't marshal speaker %q: %v", string(b), err)
 }
 
 type AutogenMeetupGroup struct {
