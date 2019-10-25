@@ -219,21 +219,9 @@ func update(cfg *Config) error {
 
 		calcSponsorTiers(mg)
 
-		for _, s := range mg.Organizers {
-			cfg.SetSpeakerCountry(s.Speaker, mg.Country)
-		}
 		for j, m := range mg.Meetups {
 			if err := setPresentationTimestamps(&m); err != nil {
 				return err
-			}
-			for _, pres := range m.Presentations {
-				for _, s := range pres.Speakers {
-					cfg.SetSpeakerCountry(s.Speaker, mg.Country)
-				}
-			}
-
-			for _, s := range m.Sponsors {
-				cfg.SetCompanyCountry(s.Company.Company, mg.Country)
 			}
 			mg.Meetups[j] = m
 		}

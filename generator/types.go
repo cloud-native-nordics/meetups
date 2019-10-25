@@ -41,49 +41,6 @@ type Config struct {
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
 }
 
-func (cfg *Config) SetSpeakerCountry(speaker *Speaker, country string) {
-	if speaker == nil || country == "" {
-		return
-	}
-	for i, s := range cfg.Speakers {
-		if s.ID != speaker.ID {
-			continue
-		}
-		found := false
-		for _, c := range cfg.Speakers[i].Countries {
-			if c == country {
-				found = true
-				break
-			}
-		}
-		if !found {
-			cfg.Speakers[i].Countries = append(cfg.Speakers[i].Countries, country)
-		}
-	}
-	cfg.SetCompanyCountry(speaker.Company.Company, country)
-}
-
-func (cfg *Config) SetCompanyCountry(company *Company, country string) {
-	if company == nil || country == "" {
-		return
-	}
-	for i, c := range cfg.Companies {
-		if c.ID != company.ID {
-			continue
-		}
-		found := false
-		for _, c := range cfg.Companies[i].Countries {
-			if c == country {
-				found = true
-				break
-			}
-		}
-		if !found {
-			cfg.Companies[i].Countries = append(cfg.Companies[i].Countries, country)
-		}
-	}
-}
-
 var _ json.Marshaler = &CompanyRef{}
 var _ json.Unmarshaler = &CompanyRef{}
 var _ json.Unmarshaler = &Company{}
@@ -140,7 +97,6 @@ type companyInternal struct {
 	WebsiteURL string    `json:"websiteURL"`
 	LogoURL    string    `json:"logoURL"`
 	WhiteLogo  bool      `json:"whiteLogo,omitempty"`
-	Countries  []string  `json:"countries"`
 }
 
 func (c *Company) UnmarshalJSON(b []byte) error {
@@ -195,7 +151,6 @@ type speakerInternal struct {
 	Title          string     `json:"title,omitempty"`
 	Email          string     `json:"email"`
 	Company        CompanyRef `json:"company"`
-	Countries      []string   `json:"countries"`
 	Github         string     `json:"github"`
 	Twitter        string     `json:"twitter,omitempty"`
 	SpeakersBureau string     `json:"speakersBureau"`
