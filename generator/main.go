@@ -122,7 +122,6 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 	return &Config{
 		Speakers:     speakersObj.Speakers,
 		Sponsors:     companiesObj.Sponsors,
-		Members:      companiesObj.Members,
 		MeetupGroups: meetupGroups,
 	}, nil
 }
@@ -183,7 +182,6 @@ func exec(cfg *Config) (map[string][]byte, error) {
 	}
 	companiesYAML, err := yaml.Marshal(CompaniesFile{
 		Sponsors: cfg.Sponsors,
-		Members:  cfg.Members,
 	})
 	if err != nil {
 		return nil, err
@@ -221,6 +219,8 @@ func update(cfg *Config) error {
 	for i := range cfg.MeetupGroups {
 		mg := &cfg.MeetupGroups[i]
 
+		calcSponsorTiers(mg)
+
 		for _, s := range mg.Organizers {
 			cfg.SetSpeakerCountry(s.Speaker, mg.Country)
 		}
@@ -241,6 +241,40 @@ func update(cfg *Config) error {
 		}
 	}
 	return nil
+}
+
+func calcSponsorTiers(mg *MeetupGroup) {
+	mg.SponsorTiers = map[CompanyID]SponsorTier{}
+	for _, c := range mg.EcosystemMembers {
+		if c.Company != nil {
+			mg.SponsorTiers[c.ID] = SponsorTierEcosystemMember
+		}
+	}
+	for _, m := range mg.Meetups {
+		for _, p := range m.Presentations {
+			for _, s := range p.Speakers {
+				if s.Company.Company != nil {
+					mg.SponsorTiers[s.Company.ID] = SponsorTierSpeakerProvider
+				}
+			}
+		}
+	}
+	for _, o := range mg.Organizers {
+		if o.Company.Company != nil {
+			mg.SponsorTiers[o.Company.ID] = SponsorTierMeetup
+		}
+	}
+	for _, m := range mg.Meetups {
+		for _, s := range m.Sponsors {
+			if s.Company.Company != nil {
+				if s.Role == SponsorRoleLongterm {
+					mg.SponsorTiers[s.Company.ID] = SponsorTierLongterm
+				} else {
+					mg.SponsorTiers[s.Company.ID] = SponsorTierMeetup
+				}
+			}
+		}
+	}
 }
 
 func writeFile(path string, b []byte) error {

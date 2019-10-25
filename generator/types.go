@@ -20,7 +20,6 @@ type SpeakerID string
 
 type CompaniesFile struct {
 	Sponsors []Company `json:"sponsors"`
-	Members  []Company `json:"members"`
 }
 
 type SpeakersFile struct {
@@ -34,13 +33,14 @@ type StatsFile struct {
 }
 
 type MeetupStats struct {
-	Sponsors     uint64 `json:"sponsors"`
-	Speakers     uint64 `json:"speakers"`
-	Meetups      uint64 `json:"meetups"`
-	Members      uint64 `json:"members"`
-	TotalRSVPs   uint64 `json:"totalRSVPs"`
-	AverageRSVPs uint64 `json:"averageRSVPs"`
-	UniqueRSVPs  uint64 `json:"uniqueRSVPs"`
+	Sponsors      uint64                 `json:"sponsors"`
+	SponsorByTier map[SponsorTier]uint64 `json:"sponsorByTier,omitempty"`
+	Speakers      uint64                 `json:"speakers"`
+	Meetups       uint64                 `json:"meetups"`
+	Members       uint64                 `json:"members"`
+	TotalRSVPs    uint64                 `json:"totalRSVPs"`
+	AverageRSVPs  uint64                 `json:"averageRSVPs"`
+	UniqueRSVPs   uint64                 `json:"uniqueRSVPs"`
 }
 
 type Config struct {
@@ -129,6 +129,15 @@ func (c *SponsorRole) UnmarshalJSON(b []byte) error {
 	*c = SponsorRole(str)
 	return nil
 }
+
+type SponsorTier string
+
+var (
+	SponsorTierLongterm        SponsorTier = "Longterm"
+	SponsorTierMeetup          SponsorTier = "Meetup"
+	SponsorTierSpeakerProvider SponsorTier = "SpeakerProvider"
+	SponsorTierEcosystemMember SponsorTier = "EcosystemMember"
+)
 
 type Company struct {
 	companyInternal
@@ -264,12 +273,13 @@ func (s *SpeakerRef) UnmarshalJSON(b []byte) error {
 }
 
 type AutogenMeetupGroup struct {
-	Photo       string                   `json:"photo,omitempty"`
-	Name        string                   `json:"name"`
-	City        string                   `json:"city"`
-	Country     string                   `json:"country"`
-	Description string                   `json:"description"`
-	AutoMeetups map[string]AutogenMeetup `json:"-"`
+	Photo        string                    `json:"photo,omitempty"`
+	Name         string                    `json:"name"`
+	City         string                    `json:"city"`
+	Country      string                    `json:"country"`
+	Description  string                    `json:"description"`
+	SponsorTiers map[CompanyID]SponsorTier `json:"sponsorTiers"`
+	AutoMeetups  map[string]AutogenMeetup  `json:"-"`
 
 	members uint64
 }
@@ -283,6 +293,7 @@ type MeetupGroup struct {
 	CFP               string            `json:"cfpLink"`
 	Latitude          float64           `json:"latitude"`
 	Longitude         float64           `json:"longitude"`
+	EcosystemMembers  []CompanyRef      `json:"ecosystemMembers"`
 	Meetups           map[string]Meetup `json:"meetups"`
 	MeetupList        MeetupList        `json:"-"`
 }
