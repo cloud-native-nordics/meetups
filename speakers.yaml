@@ -1,7 +1,4 @@
 - company: luxaslabs
-  countries:
-  - finland
-  - sweden
   email: lucas@luxaslabs.com
   github: luxas
   id: luxas
@@ -9,152 +6,114 @@
   speakersBureau: luxas
   title: CNCF Ambassador
 - company: netum
-  countries:
-  - finland
   email: ""
   github: oliverjoggerst
   id: netumoliver
   name: Oliver Joggerst
   speakersBureau: ""
 - company: kontena
-  countries:
-  - finland
   email: ""
   github: jnummelin
   id: jnummelin
   name: Jussi Nummelin
   speakersBureau: ""
 - company: futurice
-  countries:
-  - finland
   email: ""
   github: ""
   id: poutanen
   name: Ilkka Poutanen
   speakersBureau: ""
 - company: cybercom
-  countries:
-  - finland
   email: ""
   github: ""
   id: ylenius
   name: Toni Ylenius
   speakersBureau: ""
 - company: eficode
-  countries:
-  - finland
   email: ""
   github: ""
   id: hoisko
   name: Sakari Hoisko
   speakersBureau: ""
 - company: emblica
-  countries:
-  - finland
   email: ""
   github: ""
   id: teemu
   name: Teemu Heikkilä
   speakersBureau: ""
 - company: microsoft
-  countries:
-  - finland
   email: ""
   github: ""
   id: annie
   name: Annie Talvasto
   speakersBureau: ""
 - company: d2iq
-  countries:
-  - finland
   email: ""
   github: ""
   id: jörg
   name: Jörg Schad
   speakersBureau: ""
 - company: nokia
-  countries:
-  - finland
   email: ""
   github: ""
   id: niklas
   name: Niklas Wik
   speakersBureau: ""
 - company: accenture
-  countries:
-  - finland
   email: ""
   github: ""
   id: oscar
   name: Oscar Renalias
   speakersBureau: ""
 - company: microsoft
-  countries:
-  - finland
   email: ""
   github: ""
   id: christina
   name: Christina Warren
   speakersBureau: ""
 - company: vincit
-  countries:
-  - finland
   email: ""
   github: ""
   id: mikko
   name: Mikko Hällfors
   speakersBureau: ""
 - company: tuxera
-  countries:
-  - finland
   email: ""
   github: ""
   id: anoop
   name: Anoop Vijayan
   speakersBureau: ""
 - company: unity
-  countries:
-  - finland
   email: ""
   github: ""
   id: rasmus
   name: Rasmus Selsmark
   speakersBureau: ""
 - company: elisa
-  countries:
-  - finland
   email: ""
   github: ""
   id: tommi
   name: Tommi Berg
   speakersBureau: ""
 - company: qvik
-  countries:
-  - finland
   email: ""
   github: ""
   id: jerry
   name: Jerry Jalava
   speakersBureau: ""
 - company: redhat
-  countries:
-  - finland
   email: ""
   github: ""
   id: marek
   name: Marek Jelen
   speakersBureau: ""
 - company: eficode
-  countries:
-  - finland
   email: ""
   github: ""
   id: severi
   name: Severi Haverila
   speakersBureau: ""
 - company: sshcom
-  countries:
-  - finland
   email: ""
   github: ""
   id: markku
@@ -162,112 +121,84 @@
   speakersBureau: ""
   title: CTO
 - company: intel
-  countries:
-  - finland
   email: ""
   github: ""
   id: alexander
   name: Alexander Kanevskiy
   speakersBureau: ""
 - company: kompozure
-  countries:
-  - finland
   email: ""
   github: ""
   id: karl
   name: Karl Ots
   speakersBureau: ""
 - company: zalando
-  countries:
-  - finland
   email: ""
   github: ""
   id: michael
   name: Michael Duergner
   speakersBureau: ""
 - company: intel
-  countries:
-  - finland
   email: ""
   github: ""
   id: mylinen
   name: Mikko Ylinen
   speakersBureau: ""
 - company: netum
-  countries:
-  - finland
   email: ""
   github: ""
   id: mpmattila
   name: Mika Mattila
   speakersBureau: ""
 - company: storaenso
-  countries:
-  - finland
   email: sergey.sedelnikov@storaenso.com
   github: serge-sedelnikov
   id: sergeysedelnikov
   name: Sergey Sedelnikov
   speakersBureau: ""
 - company: futurice
-  countries:
-  - finland
   email: cihan.m.bebek@gmail.com
   github: Keksike
   id: cihanbebek
   name: Cihan Bebek
   speakersBureau: ""
 - company: redhat
-  countries:
-  - finland
   email: carol.chen@redhat.com
   github: cybette
   id: carolchen
   name: Carol Chen
   speakersBureau: ""
 - company: opentext
-  countries:
-  - finland
   email: osc.neira.m@gmail.com
   github: OscarNeira
   id: oscarneira
   name: Oscar Neira
   speakersBureau: ""
 - company: polarsquad
-  countries:
-  - finland
   email: ""
   github: yairlisk
   id: yairetziony
   name: Yair Etziony
   speakersBureau: ""
 - company: polarsquad
-  countries:
-  - finland
   email: hapsahainen@gmail.com
   github: ""
   id: terovepsalainen
   name: Tero Vepsäläinen
   speakersBureau: ""
 - company: d2iq
-  countries:
-  - finland
   email: ""
   github: ""
   id: nickjones
   name: Nick Jones
   speakersBureau: ""
 - company: microsoft
-  countries:
-  - finland
   email: ""
   github: ""
   id: sachinkundu
   name: Sachin Kundu
   speakersBureau: ""
 - company: chaosiq
-  countries:
-  - finland
   email: ""
   github: ""
   id: russmiles
@@ -275,201 +206,150 @@
   speakersBureau: ""
   title: CEO
 - company: loodse
-  countries:
-  - finland
   email: ""
   github: ""
   id: alexandersowitzki
   name: Alexander Sowitzki
   speakersBureau: ""
 - company: nokia
-  countries:
-  - finland
   email: ""
   github: ""
   id: gergelycsatari
   name: Gergely Csatári
   speakersBureau: ""
 - company: walkbase
-  countries:
-  - finland
   email: ""
   github: LinAnt
   id: antonlindholm
   name: Anton Lindholm
   speakersBureau: ""
 - company: meltwater
-  countries:
-  - finland
-  - sweden
   email: ""
   github: ""
   id: jessicaandersson
   name: Jessica Andersson
   speakersBureau: ""
 - company: meltwater
-  countries:
-  - sweden
   email: ""
   github: ""
   id: federicohernandez
   name: Federico Hernandez
   speakersBureau: ""
 - company: meltwater
-  countries:
-  - sweden
   email: ""
   github: ""
   id: simonesciarrati
   name: Simone Sciarrati
   speakersBureau: ""
 - company: yolean
-  countries:
-  - sweden
   email: ""
   github: ""
   id: staffanolsson
   name: Staffan Olsson
   speakersBureau: ""
 - company: yolean
-  countries:
-  - sweden
   email: ""
   github: ""
   id: antonlindgren
   name: Anton Lindgren
   speakersBureau: ""
 - company: pagero
-  countries:
-  - sweden
   email: ""
   github: ""
   id: peterrosell
   name: Peter Rosell
   speakersBureau: ""
 - company: codemill
-  countries:
-  - sweden
   email: ""
   github: ""
   id: lindaalmersson
   name: Linda Almersson
   speakersBureau: ""
 - company: codemill
-  countries:
-  - sweden
   email: ""
   github: ""
   id: eriklindskog
   name: Erik Lindskog
   speakersBureau: ""
 - company: elastisys
-  countries:
-  - sweden
   email: ""
   github: ""
   id: tordsson
   name: Johan Tordsson
   speakersBureau: ""
 - company: elastisys
-  countries:
-  - sweden
   email: ""
   github: ""
   id: robertwinter
   name: Robert Winter
   speakersBureau: ""
 - company: ""
-  countries:
-  - sweden
   email: ""
   github: ""
   id: jacobhagstedtpsuorra
   name: Jacob Hagstedt P Suorra
   speakersBureau: ""
 - company: ""
-  countries:
-  - sweden
   email: ""
   github: ""
   id: karlbergstrom
   name: Karl Bergström
   speakersBureau: ""
 - company: nordcloud
-  countries:
-  - finland
   email: ""
   github: ""
   id: piotr
   name: Piotr Kieszczyński
   speakersBureau: ""
 - company: praqma
-  countries:
-  - denmark
   email: ""
   github: ""
   id: henrikhoegh
   name: Henrik Høegh
   speakersBureau: ""
 - company: praqma
-  countries:
-  - denmark
   email: ""
   github: ""
   id: michaelvittruplarsen
   name: Michael Vittrup Larsen
   speakersBureau: ""
 - company: lunarway
-  countries:
-  - denmark
   email: ""
   github: ""
   id: martinjensen
   name: Martin Jensen
   speakersBureau: ""
 - company: lunarway
-  countries:
-  - denmark
   email: ""
   github: ""
   id: bjornsorensen
   name: Bjørn Sørensen
   speakersBureau: ""
 - company: schneiderelectric
-  countries:
-  - denmark
   email: ""
   github: ""
   id: mikerostermund
   name: Mike Rostermund
   speakersBureau: ""
 - company: schneiderelectric
-  countries:
-  - denmark
   email: ""
   github: ""
   id: steffanlund
   name: Steffan Lund
   speakersBureau: ""
 - company: lix
-  countries:
-  - denmark
   email: ""
   github: ""
   id: benjaminnorgaard
   name: Benjamin Nørgaard
   speakersBureau: ""
 - company: zitcom
-  countries:
-  - denmark
   email: ""
   github: ""
   id: danielfly
   name: Daniel Fly
   speakersBureau: ""
 - company: lunarway
-  countries:
-  - denmark
   email: kaspernissen@gmail.com
   github: kaspernissen
   id: kaspernissen
@@ -478,8 +358,6 @@
   title: Cloud Architect/SRE, CNCF Ambassador
   twitter: phennex
 - company: neurospace
-  countries:
-  - denmark
   email: ""
   github: ""
   id: rasmussteiniche
@@ -487,8 +365,6 @@
   speakersBureau: ""
   title: CEO
 - company: sparnordbank
-  countries:
-  - denmark
   email: ""
   github: ""
   id: camillalarsen
@@ -496,8 +372,6 @@
   speakersBureau: ""
   title: Systems Engineer
 - company: sparnordbank
-  countries:
-  - denmark
   email: ""
   github: ""
   id: rasmusroemer
@@ -505,8 +379,6 @@
   speakersBureau: ""
   title: Systems Engineer
 - company: tv2play
-  countries:
-  - denmark
   email: ""
   github: ""
   id: martinvillumsen
@@ -514,8 +386,6 @@
   speakersBureau: ""
   title: Software Developer & Site Reliability Engineer
 - company: lunarway
-  countries:
-  - denmark
   email: ""
   github: ""
   id: emilingerslev
@@ -523,16 +393,12 @@
   speakersBureau: ""
   title: Cloud Architect/SRE
 - company: berlingskemedia
-  countries:
-  - denmark
   email: ""
   github: ""
   id: christianselech
   name: Christian Selch
   speakersBureau: ""
 - company: whyyy
-  countries:
-  - denmark
   email: ""
   github: ""
   id: jeppejohansen
@@ -540,200 +406,150 @@
   speakersBureau: ""
   title: Head of Software Engineering & Lead Software Developer
 - company: uberaarhus
-  countries:
-  - denmark
   email: ""
   github: ""
   id: magnusvinther
   name: Magnus Vinther
   speakersBureau: ""
 - company: zalando
-  countries:
-  - denmark
   email: ""
   github: ""
   id: mikkeloscarlarsen
   name: Mikkel Oscar Lyderik Larsen
   speakersBureau: ""
 - company: microsoft
-  countries:
-  - denmark
   email: ""
   github: ""
   id: gustavkaleta
   name: Gustav Kaleta
   speakersBureau: ""
 - company: humio
-  countries:
-  - denmark
   email: ""
   github: ""
   id: petermechlenborg
   name: Peter Mechlenborg
   speakersBureau: ""
 - company: bestseller
-  countries:
-  - denmark
   email: ""
   github: ""
   id: peterbroendum
   name: Peter Brøndum
   speakersBureau: ""
 - company: bestseller
-  countries:
-  - denmark
   email: ""
   github: ""
   id: andreipredoiu
   name: Andrei Predoiu
   speakersBureau: ""
 - company: lunarway
-  countries:
-  - denmark
   email: ""
   github: ""
   id: thomasboeghfangel
   name: Thomas Bøgh Fangel
   speakersBureau: ""
 - company: lunarway
-  countries:
-  - denmark
   email: ""
   github: ""
   id: nicolaikobber
   name: Nicolai Kobber
   speakersBureau: ""
 - company: uberaarhus
-  countries:
-  - denmark
   email: ""
   github: ""
   id: mathiasbakberthelsen
   name: Mathias Bak Berthelsen
   speakersBureau: ""
 - company: uberaarhus
-  countries:
-  - denmark
   email: ""
   github: ""
   id: jeppehansen
   name: Jeppe Hansen
   speakersBureau: ""
 - company: praqma
-  countries:
-  - denmark
   email: ""
   github: ""
   id: davidchristensen
   name: David Christensen
   speakersBureau: ""
 - company: stibosystems
-  countries:
-  - denmark
   email: ""
   github: ""
   id: torbenhaagh
   name: Torben Haagh
   speakersBureau: ""
 - company: praqma
-  countries:
-  - denmark
   email: ""
   github: ""
   id: ewelina
   name: Ewelina Wilkosz
   speakersBureau: ""
 - company: laszlocloud
-  countries:
-  - denmark
   email: ""
   github: ""
   id: laszlo
   name: Laszlo Fogas
   speakersBureau: ""
 - company: praqma
-  countries:
-  - denmark
   email: ""
   github: ""
   id: david
   name: David Christensen
   speakersBureau: ""
 - company: humio
-  countries:
-  - denmark
   email: ""
   github: ""
   id: martin
   name: Martin Westergaard Lassen
   speakersBureau: ""
 - company: economic
-  countries:
-  - denmark
   email: ""
   github: ""
   id: hans
   name: Hans Duedal
   speakersBureau: ""
 - company: cncf
-  countries:
-  - denmark
   email: ""
   github: ""
   id: ihor
   name: Ihor Dvoretskyi
   speakersBureau: ""
 - company: loodse
-  countries:
-  - denmark
   email: ""
   github: ""
   id: guus
   name: Guus van Weelden
   speakersBureau: ""
 - company: praqma
-  countries:
-  - denmark
   email: ""
   github: ""
   id: sami
   name: Sami Alajrami
   speakersBureau: ""
 - company: microsoft
-  countries:
-  - denmark
   email: ""
   github: ""
   id: justin
   name: Justin Luk
   speakersBureau: ""
 - company: jfrog
-  countries:
-  - denmark
   email: ""
   github: ""
   id: craig
   name: Craig Peters
   speakersBureau: ""
 - company: whyyy
-  countries:
-  - denmark
   email: ""
   github: ""
   id: jeppe
   name: Jeppe Johansen
   speakersBureau: ""
 - company: praqma
-  countries:
-  - denmark
   email: ""
   github: ""
   id: jasmine
   name: Jasmine Crozier
   speakersBureau: ""
 - company: Spotify
-  countries:
-  - sweden
   email: ""
   github: dzolotusky
   id: dzolo
@@ -741,88 +557,66 @@
   speakersBureau: ""
   title: CNCF Ambassador, Software Engineer
 - company: Spotify
-  countries:
-  - sweden
   email: ""
   github: mattgruter
   id: mattgruter
   name: Matthias Grüter
   speakersBureau: ""
 - company: elastx
-  countries:
-  - sweden
   email: ""
   github: fyx
   id: fyx
   name: Viktor Ekmark
   speakersBureau: ""
 - company: elastx
-  countries:
-  - sweden
   email: ""
   github: holmsten
   id: holmsten
   name: Andreas Holmsten
   speakersBureau: ""
 - company: ""
-  countries:
-  - sweden
   email: ""
   github: iljoo
   id: iljoo
   name: Ilia Mikhailov
   speakersBureau: ""
 - company: tradeshift
-  countries:
-  - denmark
   email: ""
   github: ""
   id: sorenmathiasen
   name: Søren Mathiasen
   speakersBureau: ""
 - company: trackunit
-  countries:
-  - denmark
   email: ""
   github: ""
   id: lassenedergaard
   name: Lasse Nedergaard
   speakersBureau: ""
 - company: zalando
-  countries:
-  - denmark
   email: ""
   github: ""
   id: henningjacobs
   name: Henning Jacobs
   speakersBureau: ""
 - company: mobilepay
-  countries:
-  - denmark
   email: ""
   github: ""
   id: martinankerhave
   name: Martin Anker Have
   speakersBureau: ""
 - company: mobilepay
-  countries:
-  - denmark
   email: ""
   github: ""
   id: mathiashermann
   name: Mathias Hermann
   speakersBureau: ""
 - company: mobilepay
-  countries:
-  - denmark
   email: ""
   github: ""
   id: renerotvigjensen
   name: René Rotvig Jensen
   speakersBureau: ""
 - company: sparnordbank
-  countries:
-  - denmark
   email: ""
   github: ""
   id: arnemejlholm
@@ -830,8 +624,6 @@
   speakersBureau: ""
   title: Systems Engineer
 - company: sparnordbank
-  countries:
-  - denmark
   email: ""
   github: ""
   id: simonbengtsson
@@ -839,8 +631,6 @@
   speakersBureau: ""
   title: Systems Engineer
 - company: oracle
-  countries:
-  - denmark
   email: ""
   github: ""
   id: allanhojgaardjensen
@@ -848,8 +638,6 @@
   speakersBureau: ""
   title: Cloud Platform Architect
 - company: google
-  countries:
-  - denmark
   email: ""
   github: ""
   id: alejandromontenegro
@@ -857,8 +645,6 @@
   speakersBureau: ""
   title: Customer Engineer
 - company: blackbeard
-  countries:
-  - denmark
   email: ""
   github: ""
   id: kevinsimper
@@ -866,8 +652,6 @@
   speakersBureau: ""
   title: Freelancer
 - company: trifork
-  countries:
-  - denmark
   email: ""
   github: ""
   id: lassehojgaard
@@ -875,8 +659,6 @@
   speakersBureau: ""
   title: Software Pilot
 - company: trifork
-  countries:
-  - denmark
   email: ""
   github: ""
   id: frederikmogensen
@@ -884,8 +666,6 @@
   speakersBureau: ""
   title: Software Pilot
 - company: evry
-  countries:
-  - norway
   email: hans@starefossen.com
   github: starefossen
   id: starefossen
@@ -893,56 +673,42 @@
   speakersBureau: ""
   title: DevOps Practice Lead
 - company: evry
-  countries:
-  - norway
   email: ""
   github: ""
   id: tomsolem
   name: Tom Solem
   speakersBureau: ""
 - company: evry
-  countries:
-  - norway
   email: ""
   github: ""
   id: davidkarlsen
   name: David Karlsen
   speakersBureau: ""
 - company: evry
-  countries:
-  - norway
   email: ""
   github: ""
   id: randax
   name: Øyvind Randa
   speakersBureau: ""
 - company: evry
-  countries:
-  - norway
   email: ""
   github: ""
   id: Modulus
   name: John Sigvald Skauge
   speakersBureau: ""
 - company: praqma
-  countries:
-  - norway
   email: ""
   github: ""
   id: samialajrami
   name: Sami Alajrami
   speakersBureau: ""
 - company: nav
-  countries:
-  - norway
   email: ""
   github: ""
   id: audunstrand
   name: Audun Fauchald Strand
   speakersBureau: ""
 - company: redhat
-  countries:
-  - iceland
   email: ""
   github: sttts
   id: sttts
@@ -950,56 +716,42 @@
   speakersBureau: ""
   twitter: the_sttts
 - company: netapp
-  countries:
-  - iceland
   email: ""
   github: ""
   id: skeggithormar
   name: Skeggi Þormar
   speakersBureau: ""
 - company: tempo
-  countries:
-  - iceland
   email: ""
   github: baldurthoremilsson
   id: baldurthoremilsson
   name: Baldur Þór Emilsson
   speakersBureau: ""
 - company: microsoft
-  countries:
-  - iceland
   email: ""
   github: ""
   id: jeremyrickard
   name: Jeremy Rickard
   speakersBureau: ""
 - company: sensa
-  countries:
-  - iceland
   email: ""
   github: ""
   id: gunnarsigurdsson
   name: Gunnar Sigurðsson
   speakersBureau: ""
 - company: sensa
-  countries:
-  - iceland
   email: ""
   github: ""
   id: eyjolfurolafsson
   name: Eyjólfur Ólafsson
   speakersBureau: ""
 - company: netapp
-  countries:
-  - iceland
   email: ""
   github: ""
   id: tryggvilarusson
   name: Tryggvi Lárusson
   speakersBureau: ""
 - company: sysdig
-  countries:
-  - iceland
   email: ""
   github: kris-nova
   id: krisnova
@@ -1007,16 +759,12 @@
   speakersBureau: ""
   twitter: krisnova
 - company: semantum
-  countries:
-  - finland
   email: ""
   github: Mierpo
   id: miroeklund
   name: Miro Eklund
   speakersBureau: ""
 - company: nextfour
-  countries:
-  - finland
   email: ""
   github: lsundman
   id: lassesundman
