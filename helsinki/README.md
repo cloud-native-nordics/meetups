@@ -35,6 +35,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 - Date: 24 October, 2019 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264646130
+- Attendees (according to meetup.com): 103
 - Venue sponsor: [Nokia](https://www.nokia.fi/)
 - Other sponsor: [luxas labs](https://luxaslabs.com)
 - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)

@@ -19,6 +19,7 @@
 
 - Date: 22 October, 2019 at 17:00 - 20:00
 - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/264744301
+- Attendees (according to meetup.com): 65
 
 #### Agenda
 

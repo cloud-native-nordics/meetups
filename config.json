@@ -6875,6 +6875,7 @@
           "name": "Chaos Engineering with Russ Miles \u0026 KubeOne with Alexander Sowitzki",
           "date": "2019-10-22T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 65,
           "address": "Åbogade 15",
           "recording": "",
           "sponsors": null,
@@ -10539,6 +10540,7 @@
           "name": "October: Chaos Engineering \u0026 KubeOne",
           "date": "2019-10-24T18:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 103,
           "address": "Karasvängen 7",
           "recording": "",
           "sponsors": [
@@ -11639,6 +11641,7 @@
           "name": "Chaos, Storage, and Caching",
           "date": "2019-10-23T17:30:00Z",
           "duration": "3h0m0s",
+          "attendees": 120,
           "address": "Regeringsgatan 29",
           "recording": "",
           "sponsors": null,
