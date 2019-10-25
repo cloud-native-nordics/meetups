@@ -18,14 +18,6 @@ var (
 type CompanyID string
 type SpeakerID string
 
-type CompaniesFile struct {
-	Sponsors []Company `json:"sponsors"`
-}
-
-type SpeakersFile struct {
-	Speakers []Speaker `json:"speakers"`
-}
-
 type StatsFile struct {
 	MeetupGroups uint64                 `json:"meetupGroups"`
 	AllMeetups   MeetupStats            `json:"allMeetups"`
@@ -44,8 +36,7 @@ type MeetupStats struct {
 }
 
 type Config struct {
-	Sponsors     []Company     `json:"sponsors"`
-	Members      []Company     `json:"members"`
+	Companies    []Company     `json:"companies"`
 	Speakers     []Speaker     `json:"speakers"`
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
 }
@@ -76,19 +67,19 @@ func (cfg *Config) SetCompanyCountry(company *Company, country string) {
 	if company == nil || country == "" {
 		return
 	}
-	for i, c := range cfg.Sponsors {
+	for i, c := range cfg.Companies {
 		if c.ID != company.ID {
 			continue
 		}
 		found := false
-		for _, c := range cfg.Sponsors[i].Countries {
+		for _, c := range cfg.Companies[i].Countries {
 			if c == country {
 				found = true
 				break
 			}
 		}
 		if !found {
-			cfg.Sponsors[i].Countries = append(cfg.Sponsors[i].Countries, country)
+			cfg.Companies[i].Countries = append(cfg.Companies[i].Countries, country)
 		}
 	}
 }

@@ -55,20 +55,20 @@ func run() error {
 }
 
 func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
-	companiesObj := &CompaniesFile{}
+	companies := []Company{}
 	companiesContent, err := ioutil.ReadFile(companiesPath)
 	if err != nil {
 		return nil, err
 	}
-	if err := unmarshal(companiesContent, companiesObj); err != nil {
+	if err := unmarshal(companiesContent, &companies); err != nil {
 		return nil, err
 	}
-	speakersObj := &SpeakersFile{}
+	speakers := []Speaker{}
 	speakersContent, err := ioutil.ReadFile(speakersPath)
 	if err != nil {
 		return nil, err
 	}
-	if err := unmarshal(speakersContent, speakersObj); err != nil {
+	if err := unmarshal(speakersContent, &speakers); err != nil {
 		return nil, err
 	}
 	meetupGroups := []MeetupGroup{}
@@ -120,8 +120,8 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 	wg.Wait()
 
 	return &Config{
-		Speakers:     speakersObj.Speakers,
-		Sponsors:     companiesObj.Sponsors,
+		Speakers:     speakers,
+		Companies:    companies,
 		MeetupGroups: meetupGroups,
 	}, nil
 }
@@ -180,14 +180,12 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		}
 		result[path] = meetupYAML
 	}
-	companiesYAML, err := yaml.Marshal(CompaniesFile{
-		Sponsors: cfg.Sponsors,
-	})
+	companiesYAML, err := yaml.Marshal(cfg.Companies)
 	if err != nil {
 		return nil, err
 	}
 	result["companies.yaml"] = companiesYAML
-	speakersYAML, err := yaml.Marshal(SpeakersFile{Speakers: cfg.Speakers})
+	speakersYAML, err := yaml.Marshal(cfg.Speakers)
 	if err != nil {
 		return nil, err
 	}
