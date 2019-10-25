@@ -222,7 +222,7 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 					}
 				}
 				for _, s := range m.Sponsors {
-					if s.Company == nil {
+					if s.Company.Company == nil {
 						continue
 					}
 					if _, ok := sponsors[string(s.Company.ID)]; !ok {

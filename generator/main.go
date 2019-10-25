@@ -162,8 +162,6 @@ func tmpl(t *template.Template, obj interface{}) ([]byte, error) {
 
 func exec(cfg *Config) (map[string][]byte, error) {
 	result := map[string][]byte{}
-	shouldMarshalSpeakerID = true
-	shouldMarshalCompanyID = true
 	shouldMarshalAutoMeetup = false
 	for _, mg := range cfg.MeetupGroups {
 		mg.SetMeetupList()
@@ -183,8 +181,6 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		}
 		result[path] = meetupYAML
 	}
-	shouldMarshalSpeakerID = false
-	shouldMarshalCompanyID = false
 	companiesYAML, err := yaml.Marshal(CompaniesFile{
 		Sponsors: cfg.Sponsors,
 		Members:  cfg.Members,
@@ -193,7 +189,6 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		return nil, err
 	}
 	result["companies.yaml"] = companiesYAML
-	shouldMarshalCompanyID = true
 	speakersYAML, err := yaml.Marshal(SpeakersFile{Speakers: cfg.Speakers})
 	if err != nil {
 		return nil, err
@@ -204,7 +199,6 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		return nil, err
 	}
 	result["README.md"] = readmeBytes
-	shouldMarshalCompanyID = false
 	shouldMarshalAutoMeetup = true
 	configJSON, err := json.MarshalIndent(cfg, "", "  ")
 	if err != nil {
@@ -228,7 +222,7 @@ func update(cfg *Config) error {
 		mg := &cfg.MeetupGroups[i]
 
 		for _, s := range mg.Organizers {
-			cfg.SetSpeakerCountry(s, mg.Country)
+			cfg.SetSpeakerCountry(s.Speaker, mg.Country)
 		}
 		for j, m := range mg.Meetups {
 			if err := setPresentationTimestamps(&m); err != nil {
@@ -236,12 +230,12 @@ func update(cfg *Config) error {
 			}
 			for _, pres := range m.Presentations {
 				for _, s := range pres.Speakers {
-					cfg.SetSpeakerCountry(s, mg.Country)
+					cfg.SetSpeakerCountry(s.Speaker, mg.Country)
 				}
 			}
 
 			for _, s := range m.Sponsors {
-				cfg.SetCompanyCountry(s.Company, mg.Country)
+				cfg.SetCompanyCountry(s.Company.Company, mg.Country)
 			}
 			mg.Meetups[j] = m
 		}
