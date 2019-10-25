@@ -286,6 +286,155 @@
       ]
     },
     {
+      "id": "google",
+      "name": "Google Cloud",
+      "websiteURL": "https://cloud.google.com",
+      "logoURL": "https://cloud.google.com/_static/e4e95039f4/images/cloud/cloud-logo.svg",
+      "countries": [
+        "finland",
+        "denmark"
+      ]
+    },
+    {
+      "id": "kyyti",
+      "name": "Kyyti Group",
+      "websiteURL": "https://www.kyyti.com",
+      "logoURL": "https://42wce24f6tlj3aekpv1r9ydp-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/kyyti_logo_2019_janne_WHITE_WEBSITE.png",
+      "whiteLogo": true,
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "hostingpalvelu",
+      "name": "Suomen Hostingpalvelu",
+      "websiteURL": "https://www.hostingpalvelu.fi",
+      "logoURL": "https://www.hostingpalvelu.fi/img/logo.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "speechgrinder",
+      "name": "Speechgrinder",
+      "websiteURL": "https://www.speechgrinder.com",
+      "logoURL": "https://www.speechgrinder.com/images/logo.png",
+      "whiteLogo": true,
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "suse",
+      "name": "SUSE",
+      "websiteURL": "https://www.suse.com",
+      "logoURL": "https://www.suse.com/assets/img/suse_logo.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "wartsila",
+      "name": "Wärtsilä",
+      "websiteURL": "https://www.wartsila.com",
+      "logoURL": "https://www.wartsila.com/Sitefinity/WebsiteTemplates/Wartsila/App_Themes/WartsilaRebrand/Images/logo@2.png?1479748350",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "ericsson",
+      "name": "Ericsson",
+      "websiteURL": "https://www.ericsson.com",
+      "logoURL": "https://landscape.cncf.io/logos/ericsson-cloud-container-distribution.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "agileo",
+      "name": "Agileo",
+      "websiteURL": "https://www.agileo.fi",
+      "logoURL": "",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "pilvia",
+      "name": "Pilvia",
+      "websiteURL": "https://pilvia.com",
+      "logoURL": "https://pilvia.com/wp-content/uploads/2017/09/pilvia_logo_v9.svg",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "verifa",
+      "name": "Verifa",
+      "websiteURL": "https://verifa.io",
+      "logoURL": "https://verifa.io/wp-content/uploads/2019/02/header_logo_2color-1.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "selko",
+      "name": "Selko",
+      "websiteURL": "https://selko.io",
+      "logoURL": "https://selko.io/wp-content/uploads/2018/09/cropped-selko-logo.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "medisapiens",
+      "name": "Medisapiens",
+      "websiteURL": "https://medisapiens.com",
+      "logoURL": "https://medisapiens.com/wp-content/themes/medisapiens/img/logo.png",
+      "whiteLogo": true,
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "intopalo",
+      "name": "Intopalo",
+      "websiteURL": "https://www.intopalo.com",
+      "logoURL": "https://www.intopalo.com/img/logo.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "wolt",
+      "name": "Wolt",
+      "websiteURL": "https://wolt.com",
+      "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSIzMCIgdmlld0JveD0iMCAwIDY0IDMwIiBhbHQ9IldvbHQiIGNsYXNzPSJXaGl0ZUhlYWRlcl9fbG9nb19fXzNuRFFQIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0wIDBoNjR2MzBIMHoiPjwvcGF0aD48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMi4zMzcgMjVjMS42NiAwIDMuNDAzLTMuNTEzIDMuNjY0LTguMjk4LTEuNTQ2LS4yNDgtMi44MzYtMS4wOTYtMy4zNTMtMi42MDQtLjg5MiAxLjY3Mi0xLjYwMyAzLjkxNS0xLjc0NSA2LjI0Ni0uMTg0IDMuMDkyLjE4NCA0LjY1NiAxLjQzNCA0LjY1NnptMjguNDE2LTExLjA5NWMtMS41MDUuMjg3LTMuNDIuNTY1LTUuNDI1Ljc3My0uNzQzIDIuNzUtMS40NSA2LjA4Ni0xLjQ1IDguODY3IDAgLjguMTEgMS42LjgxIDEuNiAxLjQ3IDAgNC4xMTYtMi4xNDYgNi42NTMtNS45MjkuMjk0LS40MzYuNTE0LS41NDYuNzM1LS40MzYuNTE1LjI1NC4xNDcgNC42NTYtMS43NjUgNi4wNzUtMi41IDEuODU1LTUuMDczIDIuMTEtNi4xNzUgMi4xMS0xLjkgMC00LjQxOC0xLjE1MS00LjIzLTMuOTg4LTEuNzQyIDIuMzUzLTQuMDY0IDMuOTg4LTUuNjIyIDMuOTg4LTEuMTQgMC0xLjk0OS0uNC0yLjU3NC0uODczLS42MjQtLjQ3My0uOTE5LTEuMDU1LS45MTktMi4yMiAwLTIuNDUyLjM2Mi01LjkyOC45LTkuNDIxYTEwLjMgMTAuMyAwIDAgMS0zLjY0NCAyLjAwNmMtLjA0NiAzLjY4OC0xLjI5MiA3LjM5NC0zLjEzNyA5LjM4LS45OTMgMS4wNTUtMS44MDEgMS4xMjgtMi42ODQgMS4xMjgtMS4yMTMgMC0yLjY0Ni0uNC0zLjU2Ni0uOTQ2LS44ODItLjUxLTEuNDMzLTEuMDkxLTEuNjU0LTIuNDc0LS40NzgtMi45NDYgMC03LjI3NiAxLjgzOC0xMC4zMzEuNjI1LTEuMDU1IDEuMjEzLTEuNDIgMi4zNTMtMS41NjUgMS4yMTMtLjE0NSAzLjM0NS4xODIgNC41OTUuNjE5IDEuMjUuNDM2IDEuODAxIDEuMTI4IDIuMjA2IDIuNDc0IDEuNjktLjY0IDIuOTQ0LTEuNjEgNC4xNDgtMy4wMTYuNTEzLTIuODQ4IDEuMTEzLTUuNTI3IDEuNjk3LTcuNDYyLjIyLS42OS40NzgtLjgzNiAxLjA2Ni0uODM2Ljc3MiAwIDEuOTg1LjIxOCAyLjc5NC42OTEuNTE0LjI5MS43MzUuNjU1LjUxNCAxLjU2NC0uNDc4IDIuMDM3LS45MTkgMy42MzgtMi4wNTggNi40MDMtLjgxIDMuOTI5LTEuNDM0IDkuMDk1LTEuNDM0IDExLjM1IDAgLjk4Mi4yMiAxLjI3My41NTEgMS4yNzMuODYzIDAgMi45NTQtMS45NTQgNS4wMjYtNS4yNDZhNjYuMDUgNjYuMDUgMCAwIDEgLjgxLTQuNDcyYy0uNjUzLjAyNy0xLjI5LjA0Mi0xLjkwMi4wNDItLjYyNSAwLS44MS0uMTgyLS44MS0uNjE5IDAtLjY5MS4xNDgtMS40MTkuNDA1LTEuOTI4LjIyLS40MzcuNTE1LS41MSAxLjE0LS41MS42NCAwIDEuMjc2LjAwNiAxLjkwOC4wMTcuMzYzLTEuMjk3Ljc3LTIuNTIgMS4yMTctMy41ODEuMjU3LS42MTkuNDc3LS43MjggMS4wNjYtLjcyOC40NCAwIDEuOC4yMTggMi41LjUxLjQ0LjE4MS41ODguNDcyLjM2NyAxLjEyNy0uMDg2LjI1Ni0uNDY2IDEuMzEtLjkzMiAyLjgwOCAyLjExMy4xIDQuMDgzLjI0MiA1Ljc4NC4zOTMuODQ2LjA3MyAxLjE0LjIxOSAxLjE0LjQ3MyAwIC4yNTUtLjQ3OC41ODItMi4yNDIuOTF6TTI2LjM4IDQuMDgzYy41ODguNCAxLjAzLjk0NSAxLjAzIDIuMDczIDAgNi44MDMtMy43NSAyMC44MDktOS43MDUgMjAuODA5LTMuMzA5IDAtNC44OS0yLjc2NS01LjIyLTcuNzQ5LS4xMy0xLjg2Ni0uMTk2LTMuNDkzLS4xNzYtNS4xNTQtMS43MjYgNC4zODMtNC4xMjEgOS4wNjUtNS40ODUgMTEuNTkzLS42MjUgMS4xNjQtMS4yNSAxLjMxLTEuOTg1IDEuMzEtLjY2MiAwLTEuNzI4LS4yOTEtMi4yMDYtLjU4MnMtLjc3Mi0uNTQ2LS45NTYtMS42MzdjLTEuMTAyLTYuNTEyLS42NjEtMTIuNTUtLjA3Mi0xNS44MjYuMTQ3LS44LjU1MS0xLjM0NiAxLjMyMy0xLjgxOS45MTktLjU0NiAxLjgzOC0uOTEgMi44My0xLjA1NS43NzMtLjExLjg0Ni4yNTUuNjk5Ljg3My0xLjA2MyA0LjQ5LTEuNjgyIDEwLjcwNi0xLjE2NSAxNy41MzhDOC4wOTggMTkuMTA4IDEwLjQ0IDEzLjYgMTEuODI0IDkuMjEyYy4yNTctLjguNTE1LTEuMDkxIDEuMTQtMS4zMS43NzItLjI1NCAxLjg3NC0uNDczIDIuNzU3LS40NzMuNTg4IDAgLjk5Mi4xODIuOTU2Ljk0Ni0uMTQ3IDMuMDU2LS4xODQgNy4wMjEuMDM2IDEwLjM2OC4yNTggMy42NzQuODQ2IDUuNTY2IDEuOTg1IDUuNTY2IDIuNzIgMCA0LjQ4NS0xMC45ODYgMy41NjYtMjAuMjYzLS4wNzMtLjcyNy4xODQtLjk0Ni42NjItLjk0Ni45NTYgMCAyLjY0Ny40MzcgMy40NTUuOTgzeiI+PC9wYXRoPjwvZz48L3N2Zz4K",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "montel",
+      "name": "Montel Intergalactic",
+      "websiteURL": "https://www.montel.fi/",
+      "logoURL": "https://www.montel.fi/images/montel-intergalactic-text-5.png",
+      "whiteLogo": true,
+      "countries": [
+        "finland"
+      ]
+    },
+    {
+      "id": "fraktal",
+      "name": "Fraktal Oy",
+      "websiteURL": "https://www.fraktal.fi/",
+      "logoURL": "https://www.fraktal.fi/wp-content/uploads/2019/07/Fraktal_Web_header2-768x353.png",
+      "countries": [
+        "finland"
+      ]
+    },
+    {
       "id": "meltwater",
       "name": "Meltwater",
       "websiteURL": "https://underthehood.meltwater.com/",
@@ -778,156 +927,6 @@
       "countries": [
         "finland"
       ]
-    }
-  ],
-  "members": [
-    {
-      "id": "google",
-      "name": "Google Cloud",
-      "websiteURL": "https://cloud.google.com",
-      "logoURL": "https://cloud.google.com/_static/e4e95039f4/images/cloud/cloud-logo.svg",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "kyyti",
-      "name": "Kyyti Group",
-      "websiteURL": "https://www.kyyti.com",
-      "logoURL": "https://42wce24f6tlj3aekpv1r9ydp-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/kyyti_logo_2019_janne_WHITE_WEBSITE.png",
-      "whiteLogo": true,
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "hostingpalvelu",
-      "name": "Suomen Hostingpalvelu",
-      "websiteURL": "https://www.hostingpalvelu.fi",
-      "logoURL": "https://www.hostingpalvelu.fi/img/logo.png",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "speechgrinder",
-      "name": "Speechgrinder",
-      "websiteURL": "https://www.speechgrinder.com",
-      "logoURL": "https://www.speechgrinder.com/images/logo.png",
-      "whiteLogo": true,
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "suse",
-      "name": "SUSE",
-      "websiteURL": "https://www.suse.com",
-      "logoURL": "https://www.suse.com/assets/img/suse_logo.svg",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "wartsila",
-      "name": "Wärtsilä",
-      "websiteURL": "https://www.wartsila.com",
-      "logoURL": "https://www.wartsila.com/Sitefinity/WebsiteTemplates/Wartsila/App_Themes/WartsilaRebrand/Images/logo@2.png?1479748350",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "ericsson",
-      "name": "Ericsson",
-      "websiteURL": "https://www.ericsson.com",
-      "logoURL": "https://landscape.cncf.io/logos/ericsson-cloud-container-distribution.svg",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "agileo",
-      "name": "Agileo",
-      "websiteURL": "https://www.agileo.fi",
-      "logoURL": "",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "pilvia",
-      "name": "Pilvia",
-      "websiteURL": "https://pilvia.com",
-      "logoURL": "https://pilvia.com/wp-content/uploads/2017/09/pilvia_logo_v9.svg",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "verifa",
-      "name": "Verifa",
-      "websiteURL": "https://verifa.io",
-      "logoURL": "https://verifa.io/wp-content/uploads/2019/02/header_logo_2color-1.png",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "selko",
-      "name": "Selko",
-      "websiteURL": "https://selko.io",
-      "logoURL": "https://selko.io/wp-content/uploads/2018/09/cropped-selko-logo.png",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "medisapiens",
-      "name": "Medisapiens",
-      "websiteURL": "https://medisapiens.com",
-      "logoURL": "https://medisapiens.com/wp-content/themes/medisapiens/img/logo.png",
-      "whiteLogo": true,
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "intopalo",
-      "name": "Intopalo",
-      "websiteURL": "https://www.intopalo.com",
-      "logoURL": "https://www.intopalo.com/img/logo.png",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "wolt",
-      "name": "Wolt",
-      "websiteURL": "https://wolt.com",
-      "logoURL": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSIzMCIgdmlld0JveD0iMCAwIDY0IDMwIiBhbHQ9IldvbHQiIGNsYXNzPSJXaGl0ZUhlYWRlcl9fbG9nb19fXzNuRFFQIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0wIDBoNjR2MzBIMHoiPjwvcGF0aD48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik0zMi4zMzcgMjVjMS42NiAwIDMuNDAzLTMuNTEzIDMuNjY0LTguMjk4LTEuNTQ2LS4yNDgtMi44MzYtMS4wOTYtMy4zNTMtMi42MDQtLjg5MiAxLjY3Mi0xLjYwMyAzLjkxNS0xLjc0NSA2LjI0Ni0uMTg0IDMuMDkyLjE4NCA0LjY1NiAxLjQzNCA0LjY1NnptMjguNDE2LTExLjA5NWMtMS41MDUuMjg3LTMuNDIuNTY1LTUuNDI1Ljc3My0uNzQzIDIuNzUtMS40NSA2LjA4Ni0xLjQ1IDguODY3IDAgLjguMTEgMS42LjgxIDEuNiAxLjQ3IDAgNC4xMTYtMi4xNDYgNi42NTMtNS45MjkuMjk0LS40MzYuNTE0LS41NDYuNzM1LS40MzYuNTE1LjI1NC4xNDcgNC42NTYtMS43NjUgNi4wNzUtMi41IDEuODU1LTUuMDczIDIuMTEtNi4xNzUgMi4xMS0xLjkgMC00LjQxOC0xLjE1MS00LjIzLTMuOTg4LTEuNzQyIDIuMzUzLTQuMDY0IDMuOTg4LTUuNjIyIDMuOTg4LTEuMTQgMC0xLjk0OS0uNC0yLjU3NC0uODczLS42MjQtLjQ3My0uOTE5LTEuMDU1LS45MTktMi4yMiAwLTIuNDUyLjM2Mi01LjkyOC45LTkuNDIxYTEwLjMgMTAuMyAwIDAgMS0zLjY0NCAyLjAwNmMtLjA0NiAzLjY4OC0xLjI5MiA3LjM5NC0zLjEzNyA5LjM4LS45OTMgMS4wNTUtMS44MDEgMS4xMjgtMi42ODQgMS4xMjgtMS4yMTMgMC0yLjY0Ni0uNC0zLjU2Ni0uOTQ2LS44ODItLjUxLTEuNDMzLTEuMDkxLTEuNjU0LTIuNDc0LS40NzgtMi45NDYgMC03LjI3NiAxLjgzOC0xMC4zMzEuNjI1LTEuMDU1IDEuMjEzLTEuNDIgMi4zNTMtMS41NjUgMS4yMTMtLjE0NSAzLjM0NS4xODIgNC41OTUuNjE5IDEuMjUuNDM2IDEuODAxIDEuMTI4IDIuMjA2IDIuNDc0IDEuNjktLjY0IDIuOTQ0LTEuNjEgNC4xNDgtMy4wMTYuNTEzLTIuODQ4IDEuMTEzLTUuNTI3IDEuNjk3LTcuNDYyLjIyLS42OS40NzgtLjgzNiAxLjA2Ni0uODM2Ljc3MiAwIDEuOTg1LjIxOCAyLjc5NC42OTEuNTE0LjI5MS43MzUuNjU1LjUxNCAxLjU2NC0uNDc4IDIuMDM3LS45MTkgMy42MzgtMi4wNTggNi40MDMtLjgxIDMuOTI5LTEuNDM0IDkuMDk1LTEuNDM0IDExLjM1IDAgLjk4Mi4yMiAxLjI3My41NTEgMS4yNzMuODYzIDAgMi45NTQtMS45NTQgNS4wMjYtNS4yNDZhNjYuMDUgNjYuMDUgMCAwIDEgLjgxLTQuNDcyYy0uNjUzLjAyNy0xLjI5LjA0Mi0xLjkwMi4wNDItLjYyNSAwLS44MS0uMTgyLS44MS0uNjE5IDAtLjY5MS4xNDgtMS40MTkuNDA1LTEuOTI4LjIyLS40MzcuNTE1LS41MSAxLjE0LS41MS42NCAwIDEuMjc2LjAwNiAxLjkwOC4wMTcuMzYzLTEuMjk3Ljc3LTIuNTIgMS4yMTctMy41ODEuMjU3LS42MTkuNDc3LS43MjggMS4wNjYtLjcyOC40NCAwIDEuOC4yMTggMi41LjUxLjQ0LjE4MS41ODguNDcyLjM2NyAxLjEyNy0uMDg2LjI1Ni0uNDY2IDEuMzEtLjkzMiAyLjgwOCAyLjExMy4xIDQuMDgzLjI0MiA1Ljc4NC4zOTMuODQ2LjA3MyAxLjE0LjIxOSAxLjE0LjQ3MyAwIC4yNTUtLjQ3OC41ODItMi4yNDIuOTF6TTI2LjM4IDQuMDgzYy41ODguNCAxLjAzLjk0NSAxLjAzIDIuMDczIDAgNi44MDMtMy43NSAyMC44MDktOS43MDUgMjAuODA5LTMuMzA5IDAtNC44OS0yLjc2NS01LjIyLTcuNzQ5LS4xMy0xLjg2Ni0uMTk2LTMuNDkzLS4xNzYtNS4xNTQtMS43MjYgNC4zODMtNC4xMjEgOS4wNjUtNS40ODUgMTEuNTkzLS42MjUgMS4xNjQtMS4yNSAxLjMxLTEuOTg1IDEuMzEtLjY2MiAwLTEuNzI4LS4yOTEtMi4yMDYtLjU4MnMtLjc3Mi0uNTQ2LS45NTYtMS42MzdjLTEuMTAyLTYuNTEyLS42NjEtMTIuNTUtLjA3Mi0xNS44MjYuMTQ3LS44LjU1MS0xLjM0NiAxLjMyMy0xLjgxOS45MTktLjU0NiAxLjgzOC0uOTEgMi44My0xLjA1NS43NzMtLjExLjg0Ni4yNTUuNjk5Ljg3My0xLjA2MyA0LjQ5LTEuNjgyIDEwLjcwNi0xLjE2NSAxNy41MzhDOC4wOTggMTkuMTA4IDEwLjQ0IDEzLjYgMTEuODI0IDkuMjEyYy4yNTctLjguNTE1LTEuMDkxIDEuMTQtMS4zMS43NzItLjI1NCAxLjg3NC0uNDczIDIuNzU3LS40NzMuNTg4IDAgLjk5Mi4xODIuOTU2Ljk0Ni0uMTQ3IDMuMDU2LS4xODQgNy4wMjEuMDM2IDEwLjM2OC4yNTggMy42NzQuODQ2IDUuNTY2IDEuOTg1IDUuNTY2IDIuNzIgMCA0LjQ4NS0xMC45ODYgMy41NjYtMjAuMjYzLS4wNzMtLjcyNy4xODQtLjk0Ni42NjItLjk0Ni45NTYgMCAyLjY0Ny40MzcgMy40NTUuOTgzeiI+PC9wYXRoPjwvZz48L3N2Zz4K",
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "montel",
-      "name": "Montel Intergalactic",
-      "websiteURL": "https://www.montel.fi/",
-      "logoURL": "https://www.montel.fi/images/montel-intergalactic-text-5.png",
-      "whiteLogo": true,
-      "countries": [
-        "finland"
-      ]
-    },
-    {
-      "id": "fraktal",
-      "name": "Fraktal Oy",
-      "websiteURL": "https://www.fraktal.fi/",
-      "logoURL": "https://www.fraktal.fi/wp-content/uploads/2019/07/Fraktal_Web_header2-768x353.png",
-      "countries": [
-        "finland"
-      ]
     },
     {
       "id": "neurospace",
@@ -939,6 +938,7 @@
       ]
     }
   ],
+  "members": null,
   "speakers": [
     {
       "id": "luxas",
@@ -2347,6 +2347,13 @@
       "city": "Aalborg",
       "country": "denmark",
       "description": "\u003cp\u003eCloud Native Aalborg is a meetup having focus on Cloud Native technologies. Cloud Native technologies are graduated and incubating projects, such as: Kubernetes, Prometheus, Envoy, fluentd and e.g. OpenTracing, Jaeger, etc. to mention a few. \u003cbr\u003eTechnologies and practices around the platform of platforms will also be on the agenda for the meetup group.\u003cbr\u003eWe are a small group of people passionate about these technologies working together with the Cloud Native Nordics team in an effort to share experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e \n\u003cp\u003eCloud Native Aalborg will apply for being an official Cloud Native Computing Foundation meetup group, and part of the Cloud Native Nordics community as well.\u003c/p\u003e \n\u003cp\u003eYou can join the Cloud Native Nordics Slack Community for further discussions: \u003ca href=\"https://www.cloudnativenordics.com\" class=\"linkified\"\u003ehttps://www.cloudnativenordics.com\u003c/a\u003e and to share your thoughts and ideas with other people sharing the passion for this.\u003c/p\u003e",
+      "sponsorTiers": {
+        "cncf": "SpeakerProvider",
+        "lunarway": "SpeakerProvider",
+        "oracle": "Meetup",
+        "praqma": "SpeakerProvider",
+        "sparnordbank": "Meetup"
+      },
       "meetupID": "Cloud-Native-Aalborg",
       "organizers": [
         "allanhojgaardjensen",
@@ -2357,6 +2364,7 @@
       "cfpLink": "",
       "latitude": 57.055465,
       "longitude": 9.917825,
+      "ecosystemMembers": null,
       "meetups": {
         "20190904": {
           "id": 263744803,
@@ -2522,6 +2530,38 @@
       "city": "Aarhus",
       "country": "denmark",
       "description": "\u003cp\u003eCloud Native Aarhus is a\u0026nbsp;meetup group focusing on the Cloud Native stack. This means that projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd will be the focal point. We are a small group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e\n\u003cp\u003eCloud Native Aarhus is an official Cloud Native Computing Foundation meetup group, and part of the Cloud Native Nordics community as well.\u0026nbsp;\u003cbr\u003e\u003cbr\u003ePlease join the Cloud Native Nordics Slack Community for further\u0026nbsp;discussions: https://www.cloudnativenordics.com\u003c/p\u003e",
+      "sponsorTiers": {
+        "berlingskemedia": "SpeakerProvider",
+        "bestseller": "Meetup",
+        "blackbeard": "SpeakerProvider",
+        "boligportal": "Meetup",
+        "cncf": "SpeakerProvider",
+        "economic": "SpeakerProvider",
+        "firstagenda": "Meetup",
+        "google": "SpeakerProvider",
+        "humio": "SpeakerProvider",
+        "itminds": "Meetup",
+        "jysk": "Meetup",
+        "lego": "Meetup",
+        "lix": "SpeakerProvider",
+        "lunarway": "Meetup",
+        "microsoft": "SpeakerProvider",
+        "mobilepay": "Meetup",
+        "neurospace": "Meetup",
+        "orbitlab": "Meetup",
+        "praqma": "Meetup",
+        "schneiderelectric": "SpeakerProvider",
+        "sparnordbank": "Meetup",
+        "systematic": "Meetup",
+        "trackunit": "SpeakerProvider",
+        "tradeshift": "Meetup",
+        "trifork": "Meetup",
+        "tv2play": "SpeakerProvider",
+        "uberaarhus": "Meetup",
+        "whyyy": "SpeakerProvider",
+        "zalando": "SpeakerProvider",
+        "zitcom": "Meetup"
+      },
       "meetupID": "Cloud-Native-Aarhus",
       "organizers": [
         "kaspernissen",
@@ -2532,6 +2572,7 @@
       "cfpLink": "",
       "latitude": 56.150222,
       "longitude": 10.209139,
+      "ecosystemMembers": null,
       "meetups": {
         "20170530": {
           "id": 239352311,
@@ -3857,6 +3898,9 @@
       "city": "Bergen",
       "country": "norway",
       "description": "\u003cp\u003eAll about DevOps, Cloud Native Architecture, Kubernetes, Site Reliability Engineering (SRE), Continuous Integration, Continuous Delivery in Bergen, Norway.\u003c/p\u003e",
+      "sponsorTiers": {
+        "evry": "Meetup"
+      },
       "meetupID": "cloudnative-bergen",
       "organizers": [
         "starefossen"
@@ -3864,6 +3908,7 @@
       "cfpLink": "",
       "latitude": 60.3651119,
       "longitude": 5.2890912,
+      "ecosystemMembers": null,
       "meetups": {
         "20170608": {
           "id": 239961806,
@@ -4098,6 +4143,22 @@
       "city": "Copenhagen",
       "country": "denmark",
       "description": "\u003cp\u003eCloud Native Copenhagen is a new meet-up group focusing on the Cloud Native stack. This means projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd... We are a small group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e",
+      "sponsorTiers": {
+        "cncf": "SpeakerProvider",
+        "economic": "SpeakerProvider",
+        "falconio": "Meetup",
+        "humio": "SpeakerProvider",
+        "jfrog": "SpeakerProvider",
+        "laszlocloud": "Meetup",
+        "loodse": "SpeakerProvider",
+        "microsoft": "SpeakerProvider",
+        "praqma": "Meetup",
+        "republikken": "Meetup",
+        "simcorp": "Meetup",
+        "trifork": "Meetup",
+        "twentythree": "Meetup",
+        "whyyy": "Meetup"
+      },
       "meetupID": "Cloud-Native-Copenhagen",
       "organizers": [
         "laszlo",
@@ -4107,6 +4168,7 @@
       "cfpLink": "",
       "latitude": 55.676111,
       "longitude": 12.568333,
+      "ecosystemMembers": null,
       "meetups": {
         "20171212": {
           "id": 245248552,
@@ -4533,6 +4595,11 @@
       "city": "Göteborg",
       "country": "sweden",
       "description": "\u003cp\u003e\u003cspan\u003eWelcome to Kubernetes Göteborg!\u0026nbsp;\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003eThis group is about Kubernetes and technologies related to running Kubernetes. \u003c/span\u003e\u003cspan\u003eWe are a group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies. So j\u003c/span\u003e\u003cspan\u003eoin us to share your experience from running Kubernetes, or learn from others!\u0026nbsp;\u003c/span\u003e \u003cbr\u003e\u003c/p\u003e",
+      "sponsorTiers": {
+        "meltwater": "Meetup",
+        "pagero": "Meetup",
+        "yolean": "Meetup"
+      },
       "meetupID": "Kubernetes-Goteborg",
       "organizers": [
         "jessicaandersson",
@@ -4544,6 +4611,7 @@
       "cfpLink": "",
       "latitude": 57.702295,
       "longitude": 11.972025,
+      "ecosystemMembers": null,
       "meetups": {
         "20161130": {
           "id": 235779901,
@@ -4714,6 +4782,51 @@
       "city": "Helsinki",
       "country": "finland",
       "description": "\u003cp\u003eCloud Native tech and Kubernetes goes Helsinki! Cloud Native and Kubernetes Helsinki is the official Cloud Native Computing Foundation Meetup group about the technologies hosted under CNCF umbrella: \u003cbr\u003e- Kubernetes \u003cbr\u003e- Prometheus \u003cbr\u003e- Opentracing \u003cbr\u003e- Fluentd \u003cbr\u003e- CoreDNS \u003cbr\u003e- linkerd \u003cbr\u003e- containerd \u003cbr\u003e- rkt \u003cbr\u003e- gRPC \u003cbr\u003e- CNI\u003c/p\u003e\n\u003cp\u003eWe host talks from anyone doing cool things with Kubernetes, and the other CNCF technologies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do.\u003c/p\u003e\n\u003cp\u003ePresentations will be focused on introduction slides, guides, workshops, adoption stories and demos, but not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out organizing or speaking will be truly welcome.\u003c/p\u003e\n\u003cp\u003eTo become an organizer or speaker, please reach out to us!\u003c/p\u003e\n\u003cp\u003e This meetup's official language is English; the conversations and presentations will be in English.\u003c/p\u003e\n\u003cp\u003eFor more information, check out the blog at \u003ca href=\"https://kubernetesfinland.com\" class=\"linkified\"\u003ehttps://kubernetesfinland.com\u003c/a\u003e\u003c/p\u003e",
+      "sponsorTiers": {
+        "accenture": "Meetup",
+        "agileo": "EcosystemMember",
+        "chaosiq": "SpeakerProvider",
+        "cncf": "Meetup",
+        "d2iq": "SpeakerProvider",
+        "eficode": "SpeakerProvider",
+        "elisa": "Meetup",
+        "emblica": "Meetup",
+        "ericsson": "EcosystemMember",
+        "fraktal": "EcosystemMember",
+        "google": "EcosystemMember",
+        "hostingpalvelu": "EcosystemMember",
+        "intel": "Meetup",
+        "intopalo": "EcosystemMember",
+        "kompozure": "SpeakerProvider",
+        "kontena": "SpeakerProvider",
+        "kyyti": "EcosystemMember",
+        "loodse": "SpeakerProvider",
+        "luxaslabs": "Meetup",
+        "maria01": "Meetup",
+        "medisapiens": "EcosystemMember",
+        "meltwater": "SpeakerProvider",
+        "microsoft": "Meetup",
+        "montel": "EcosystemMember",
+        "nokia": "Meetup",
+        "nordcloud": "Meetup",
+        "nordea": "Meetup",
+        "pilvia": "EcosystemMember",
+        "qvik": "SpeakerProvider",
+        "redhat": "SpeakerProvider",
+        "selko": "EcosystemMember",
+        "speechgrinder": "EcosystemMember",
+        "sshcom": "SpeakerProvider",
+        "suse": "EcosystemMember",
+        "tuxera": "Meetup",
+        "unity": "Meetup",
+        "upcloud": "Meetup",
+        "verifa": "EcosystemMember",
+        "vincit": "SpeakerProvider",
+        "wartsila": "EcosystemMember",
+        "weaveworks": "Meetup",
+        "wolt": "EcosystemMember",
+        "zalando": "SpeakerProvider"
+      },
       "meetupID": "Kubernetes-Finland",
       "organizers": [
         "luxas",
@@ -4731,6 +4844,24 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp",
       "latitude": 60.164574,
       "longitude": 24.938838,
+      "ecosystemMembers": [
+        "google",
+        "kyyti",
+        "hostingpalvelu",
+        "speechgrinder",
+        "suse",
+        "wartsila",
+        "ericsson",
+        "agileo",
+        "pilvia",
+        "verifa",
+        "selko",
+        "medisapiens",
+        "intopalo",
+        "wolt",
+        "montel",
+        "fraktal"
+      ],
       "meetups": {
         "20171004": {
           "id": 242096170,
@@ -5630,6 +5761,10 @@
       "city": "Oslo",
       "country": "norway",
       "description": "\u003cp\u003eCloud Native and Kubernetes Oslo is the official Cloud Native Computing Foundation Meetup group about the techonologies hosted under CNCF umbrella (\u003ca href=\"https://www.cncf.io/\" class=\"linkified\"\u003ehttps://www.cncf.io/\u003c/a\u003e): \u0026lt;br\u0026gt;- Kubernetes \u0026lt;br\u0026gt;- Prometheus \u0026lt;br\u0026gt;- Opentracing \u0026lt;br\u0026gt;- Fluentd \u0026lt;br\u0026gt;- CoreDns \u0026lt;br\u0026gt;- LInkerd \u0026lt;br\u0026gt;- Containerd \u0026lt;br\u0026gt;- Rkt \u0026lt;br\u0026gt;- Grpc\u003c/p\u003e\n\u003cp\u003eWe host talks from anyone doing cool things with Kubernetes, and the other CNCF technoligies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do.\u003c/p\u003e\n\u003cp\u003ePresenations will be focused on demos, and not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out organizing will be welcome.\u003c/p\u003e\n\u003cp\u003eWe believe in open sponsorships, so anyone can cover the cost of food, space, and travel for speakers. Organizations donating speakers, food/drinks, or space will automatically count as sponsors for the event.\u003c/p\u003e\n\u003cp\u003eTo become an organizer, sponsor, or speaker, please reach out to us!\u003c/p\u003e",
+      "sponsorTiers": {
+        "nav": "Meetup",
+        "praqma": "Meetup"
+      },
       "meetupID": "Cloud-Native-and-Kubernetes-Oslo",
       "organizers": [
         "samialajrami",
@@ -5638,6 +5773,7 @@
       "cfpLink": "",
       "latitude": 59.8937806,
       "longitude": 10.6450355,
+      "ecosystemMembers": null,
       "meetups": {
         "20170615": {
           "id": 240203630,
@@ -5735,6 +5871,14 @@
       "city": "Reykjavík",
       "country": "iceland",
       "description": "\u003cp\u003eVelkomin! Þessi hópur fjallar um Kubernetes – stýrikerfinn fyrir\u0026nbsp;tölvuskýinu.\u0026nbsp;\u003c/p\u003e\n\u003cp\u003eThis group is about all things around Kubernetes – from using it to deploy apps, over deploying of Kubernetes clusters to development inside of the Kubernetes OpenSource project.\u003c/p\u003e\n\u003cp\u003eKubernetes is a container orchestration platform originally started by Google based on their 10 years of experience managing containers at scale in their datacenters. Compared to other solution it is highly opinionated, based on a number of concepts like pods, services, etc. which are used to build distributed applications. It can be run on-premise, in the cloud or operated by cloud providers as a PaaS-like solution.\u003c/p\u003e\n\u003cp\u003eKubernetes today is a very active OpenSource project with many companies and independent developer contributing.\u003c/p\u003e\n\u003cp\u003eLearn more about Kubernetes at \u003ca href=\"http://kubernetes.io\" class=\"linkified\"\u003ehttp://kubernetes.io\u003c/a\u003e\u003c/p\u003e",
+      "sponsorTiers": {
+        "microsoft": "SpeakerProvider",
+        "netapp": "Meetup",
+        "redhat": "Meetup",
+        "sensa": "Meetup",
+        "sysdig": "SpeakerProvider",
+        "tempo": "Meetup"
+      },
       "meetupID": "Reykjavik-Kubernetes-Meetup",
       "organizers": [
         "sttts",
@@ -5743,6 +5887,7 @@
       "cfpLink": "",
       "latitude": 64.14,
       "longitude": -21.92,
+      "ecosystemMembers": null,
       "meetups": {
         "20180531": {
           "id": 251052060,
@@ -5909,6 +6054,10 @@
       "city": "Stockholm",
       "country": "sweden",
       "description": "\u003cp\u003eJoin if you like Kubernetes and CNCF initiative! We are all in this together to learn more and exchange ideas.\u003c/p\u003e\n\u003cp\u003eWe got a Slack community for discussing all kind of CNCF related topics outside of our Meetup events! Join us \u003ca href=\"https://communityinviter.com/apps/stockholmk8sandcncf/inviter\"\u003ehere\u003c/a\u003e! \u003cbr\u003e\u003c/p\u003e",
+      "sponsorTiers": {
+        "Spotify": "Meetup",
+        "elastx": "Meetup"
+      },
       "meetupID": "sthlm-k8s",
       "organizers": [
         "dzolo",
@@ -5920,6 +6069,7 @@
       "cfpLink": "",
       "latitude": 59.329444,
       "longitude": 18.068611,
+      "ecosystemMembers": null,
       "meetups": {
         "20180125": {
           "id": 245823087,
@@ -6058,6 +6208,22 @@
       "city": "Tampere",
       "country": "finland",
       "description": "\u003cp\u003eThis group is for all Kubernauts and cloud enthusiasts that are living, working or visiting Tampere that want to talk and share their experiences with Cloud Native Computing Foundation software. \u003cbr\u003eThe Kubernetes and CNCF Tampere meetup is part of the official \u003ca href=\"https://www.meetup.com/Kubernetes-Finland/\"\u003eCNCF Finland Meetup group\u003c/a\u003e about the technologies hosted under CNCF umbrella.\u003c/p\u003e\n\u003cp\u003eWe host talks from anyone doing cool things with Kubernetes, and the other CNCF technologies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do. \u003cbr\u003e \u003cbr\u003ePresentations will be focused on introduction slides, guides, workshops, adoption stories and demos, but not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out sponsoring a venue or speaking will be truly welcome. \u003cbr\u003e \u003cbr\u003eTo become a venue sponsor or speaker, please reach out to us! \u003cbr\u003e \u003cbr\u003eThis meetup's official language is English; the conversations and presentations will be in English.\u003c/p\u003e\n\u003cp\u003e \u003cbr\u003e\u003c/p\u003e",
+      "sponsorTiers": {
+        "cncf": "Meetup",
+        "cybercom": "Meetup",
+        "digitalocean": "Meetup",
+        "eficode": "Meetup",
+        "futurice": "Meetup",
+        "intel": "SpeakerProvider",
+        "kontena": "Meetup",
+        "luxaslabs": "Meetup",
+        "netum": "Meetup",
+        "opentext": "SpeakerProvider",
+        "polarsquad": "SpeakerProvider",
+        "redhat": "SpeakerProvider",
+        "storaenso": "SpeakerProvider",
+        "tribe": "Meetup"
+      },
       "meetupID": "Kubernetes-Tampere",
       "organizers": [
         "luxas",
@@ -6068,6 +6234,7 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp",
       "latitude": 61.498333,
       "longitude": 23.764167,
+      "ecosystemMembers": null,
       "meetups": {
         "20190117": {
           "id": 257164934,
@@ -6454,6 +6621,14 @@
       "city": "Turku",
       "country": "finland",
       "description": "\u003cp\u003eCloud Native tech and Kubernetes goes Turku! Cloud Native and Kubernetes Turku is the official Cloud Native Computing Foundation Meetup group about the technologies hosted under CNCF umbrella. Furthermore, we're part of the Cloud Native Nordics family, an umbrella for the Cloud Native meetups in the Nordic countries. Join our Slack here: \u003ca href=\"https://cloudnativenordics.com\" class=\"linkified\"\u003ehttps://cloudnativenordics.com\u003c/a\u003e\u003c/p\u003e \n\u003cp\u003eWe host talks from anyone doing cool things with Kubernetes, and the other CNCF technologies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do.\u003c/p\u003e \n\u003cp\u003ePresentations will be focused on introduction slides, guides, workshops, adoption stories and demos, but not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out organizing or speaking will be truly welcome.\u003c/p\u003e \n\u003cp\u003eTo become a venue sponsor or speaker, please reach out to us!\u003c/p\u003e \n\u003cp\u003eThis meetup's official language is English; the conversations and presentations will be in English.\u003c/p\u003e \n\u003cp\u003eFor more information, check out \u003ca href=\"https://cloudnativenordics.com\" class=\"linkified\"\u003ehttps://cloudnativenordics.com\u003c/a\u003e / \u003ca href=\"https://github.com/cloud-native-nordics\" class=\"linkified\"\u003ehttps://github.com/cloud-native-nordics\u003c/a\u003e\u003c/p\u003e",
+      "sponsorTiers": {
+        "cncf": "Meetup",
+        "luxaslabs": "Meetup",
+        "microsoft": "SpeakerProvider",
+        "nextfour": "Meetup",
+        "semantum": "Meetup",
+        "walkbase": "Meetup"
+      },
       "meetupID": "Kubernetes-Turku",
       "organizers": [
         "luxas",
@@ -6464,6 +6639,7 @@
       "cfpLink": "https://bit.ly/k8sfin-cfp",
       "latitude": 60.451766,
       "longitude": 22.266254,
+      "ecosystemMembers": null,
       "meetups": {
         "20191031": {
           "id": 264987939,
@@ -6569,6 +6745,12 @@
       "city": "Umeå",
       "country": "sweden",
       "description": "\u003cp\u003eCloud Native Northern Sweden is a meetup with the goal to build a strong and diverse developer community around the new cloud-native computing paradigm.\u003c/p\u003e\n\u003cp\u003eCloud-native technologies, such as containers and microservices, empower organizations to develop and deploy scalable, agile applications and services in dynamic, distributed environments. Such systems are designed to be resilient, elastic and loosely coupled, enabling developers to build great products faster.\u003c/p\u003e\n\u003cp\u003eIf you're interested in microservices, open-source, DevOps, Docker, Kubernetes, OpenShift, Prometheus, AWS/Azure/GCP or any of the many other technologies in the new container stack, join us!\u003c/p\u003e\n\u003cp\u003eIf you have ideas, want to help organize or have something you want to talk about, please reach out.\u003c/p\u003e",
+      "sponsorTiers": {
+        "codemill": "Meetup",
+        "elastisys": "Meetup",
+        "luxaslabs": "SpeakerProvider",
+        "xlent": "Meetup"
+      },
       "meetupID": "Cloud-Native-Northern-Sweden",
       "organizers": [
         "robertwinter",
@@ -6578,6 +6760,7 @@
       "cfpLink": "",
       "latitude": 0,
       "longitude": 0,
+      "ecosystemMembers": null,
       "meetups": {
         "20181120": {
           "id": 255929396,

@@ -1,8 +1,8 @@
 {
   "meetupGroups": 12,
   "allMeetups": {
-    "sponsors": 84,
-    "speakers": 125,
+    "sponsors": 114,
+    "speakers": 117,
     "meetups": 89,
     "members": 5518,
     "totalRSVPs": 4702,
@@ -11,7 +11,11 @@
   },
   "perMeetup": {
     "aalborg": {
-      "sponsors": 1,
+      "sponsors": 5,
+      "sponsorByTier": {
+        "Meetup": 2,
+        "SpeakerProvider": 3
+      },
       "speakers": 6,
       "meetups": 2,
       "members": 122,
@@ -20,7 +24,11 @@
       "uniqueRSVPs": 77
     },
     "aarhus": {
-      "sponsors": 15,
+      "sponsors": 30,
+      "sponsorByTier": {
+        "Meetup": 17,
+        "SpeakerProvider": 13
+      },
       "speakers": 39,
       "meetups": 24,
       "members": 916,
@@ -30,6 +38,9 @@
     },
     "bergen": {
       "sponsors": 1,
+      "sponsorByTier": {
+        "Meetup": 1
+      },
       "speakers": 4,
       "meetups": 7,
       "members": 190,
@@ -38,7 +49,11 @@
       "uniqueRSVPs": 77
     },
     "copenhagen": {
-      "sponsors": 5,
+      "sponsors": 14,
+      "sponsorByTier": {
+        "Meetup": 8,
+        "SpeakerProvider": 6
+      },
       "speakers": 11,
       "meetups": 13,
       "members": 820,
@@ -47,7 +62,10 @@
       "uniqueRSVPs": 405
     },
     "göteborg": {
-      "sponsors": 1,
+      "sponsors": 3,
+      "sponsorByTier": {
+        "Meetup": 3
+      },
       "speakers": 5,
       "meetups": 9,
       "members": 516,
@@ -56,7 +74,12 @@
       "uniqueRSVPs": 179
     },
     "helsinki": {
-      "sponsors": 13,
+      "sponsors": 27,
+      "sponsorByTier": {
+        "EcosystemMember": 16,
+        "Meetup": 15,
+        "SpeakerProvider": 12
+      },
       "speakers": 26,
       "meetups": 11,
       "members": 864,
@@ -65,7 +88,10 @@
       "uniqueRSVPs": 453
     },
     "oslo": {
-      "sponsors": 0,
+      "sponsors": 2,
+      "sponsorByTier": {
+        "Meetup": 2
+      },
       "speakers": 0,
       "meetups": 8,
       "members": 732,
@@ -74,7 +100,11 @@
       "uniqueRSVPs": 243
     },
     "reykjavík": {
-      "sponsors": 3,
+      "sponsors": 6,
+      "sponsorByTier": {
+        "Meetup": 4,
+        "SpeakerProvider": 2
+      },
       "speakers": 8,
       "meetups": 3,
       "members": 208,
@@ -83,7 +113,10 @@
       "uniqueRSVPs": 98
     },
     "stockholm": {
-      "sponsors": 1,
+      "sponsors": 2,
+      "sponsorByTier": {
+        "Meetup": 2
+      },
       "speakers": 0,
       "meetups": 4,
       "members": 762,
@@ -92,7 +125,11 @@
       "uniqueRSVPs": 336
     },
     "tampere": {
-      "sponsors": 6,
+      "sponsors": 14,
+      "sponsorByTier": {
+        "Meetup": 9,
+        "SpeakerProvider": 5
+      },
       "speakers": 14,
       "meetups": 4,
       "members": 188,
@@ -101,7 +138,11 @@
       "uniqueRSVPs": 114
     },
     "turku": {
-      "sponsors": 0,
+      "sponsors": 6,
+      "sponsorByTier": {
+        "Meetup": 5,
+        "SpeakerProvider": 1
+      },
       "speakers": 0,
       "meetups": 0,
       "members": 63,
@@ -110,7 +151,11 @@
       "uniqueRSVPs": 0
     },
     "umeå": {
-      "sponsors": 3,
+      "sponsors": 4,
+      "sponsorByTier": {
+        "Meetup": 3,
+        "SpeakerProvider": 1
+      },
       "speakers": 4,
       "meetups": 4,
       "members": 137,
