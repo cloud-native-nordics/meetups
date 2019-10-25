@@ -121,7 +121,7 @@ speakers:
   id: rasmus
   name: Rasmus Selsmark
   speakersBureau: ""
-- company: null
+- company: elisa
   countries:
   - finland
   email: ""
@@ -145,7 +145,7 @@ speakers:
   id: marek
   name: Marek Jelen
   speakersBureau: ""
-- company: null
+- company: eficode
   countries:
   - finland
   email: ""
@@ -380,7 +380,7 @@ speakers:
   id: robertwinter
   name: Robert Winter
   speakersBureau: ""
-- company: null
+- company: ""
   countries:
   - sweden
   email: ""
@@ -388,7 +388,7 @@ speakers:
   id: jacobhagstedtpsuorra
   name: Jacob Hagstedt P Suorra
   speakersBureau: ""
-- company: null
+- company: ""
   countries:
   - sweden
   email: ""
@@ -765,7 +765,7 @@ speakers:
   id: holmsten
   name: Andreas Holmsten
   speakersBureau: ""
-- company: null
+- company: ""
   countries:
   - sweden
   email: ""
