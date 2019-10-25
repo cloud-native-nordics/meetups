@@ -25,7 +25,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
  - Date: 24 October, 2019 at 18:00 - 21:00
  - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264646130
- - Venue sponsor: [Nokia](https://www.nokia.fi/)
+ - Venue sponsor: [Nokia](https://www.nokia.com/)
  - Meetup sponsors:
    - [luxas labs](https://luxaslabs.com)
    - [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
@@ -42,7 +42,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
  - 19:30 - 20:00: Building KubeOne: yet another Kubernetes cluster management tool 
    - Alexander Sowitzki, [Loodse](https://www.loodse.com/)
  - 20:10 - 20:40: How to make Kubernetes Real Time for Telcos 
-   - Gergely Csatári, [Nokia](https://www.nokia.fi/)
+   - Gergely Csatári, [Nokia](https://www.nokia.com/)
+   - [Slides](https://drive.google.com/open?id=1C9BMsO0-lngcSHSAc219HWBdNHZmeucG)
  - 20:45 - 21:00: Networking 
 
 ### August Meetup in Helsinki
