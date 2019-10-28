@@ -17,7 +17,7 @@ stats: bin/generator
 	bin/generator --stats
 
 build-docker:
-	docker run -it -e GOOS=${GOOS} -e GOARCH=${GOARCH} -v $(shell pwd):/meetups -w /meetups golang:1.12 make bin-generator
+	docker run -it -e GOOS=${GOOS} -e GOARCH=${GOARCH} -v $(shell pwd):/meetups -w /meetups golang:1.13 make bin-generator
 
 bin/generator bin-generator:
 	go build -mod vendor -o bin/generator ./generator/...
