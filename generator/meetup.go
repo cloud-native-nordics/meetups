@@ -191,13 +191,11 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 	s := &StatsFile{
 		MeetupGroups: uint64(len(cfg.MeetupGroups)),
 		PerMeetup:    map[string]MeetupStats{},
-		/*AllMeetups: MeetupStats{
-			SponsorByTier: map[SponsorTier]uint64{},
-		},*/
 	}
 
 	var wg sync.WaitGroup
 	wg.Add(len(cfg.MeetupGroups))
+	mux := &sync.Mutex{}
 
 	for _, mg := range cfg.MeetupGroups {
 		go func(mg MeetupGroup) {
@@ -256,6 +254,10 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 			for _, num := range uniqueRSVPs {
 				mgStat.UniqueRSVPs += num
 			}
+
+			// Write to the global state one goroutine at a time
+			mux.Lock()
+			defer mux.Unlock()
 
 			s.PerMeetup[mg.CityLowercase()] = mgStat
 
