@@ -519,7 +519,7 @@ meetups:
       title: 'Building KubeOne: yet another Kubernetes cluster management tool'
     - delay: 10m0s
       duration: 30m0s
-      slides: ""
+      slides: "https://drive.google.com/open?id=1C9BMsO0-lngcSHSAc219HWBdNHZmeucG"
       speakers:
       - gergelycsatari
       title: How to make Kubernetes Real Time for Telcos
