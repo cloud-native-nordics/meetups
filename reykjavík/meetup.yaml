@@ -1,14 +1,14 @@
 cfpLink: ""
-meetupID: Reykjavik-Kubernetes-Meetup
+ecosystemMembers: null
 latitude: 64.14
 longitude: -21.92
-organizers:
-- sttts
-- skeggithormar
+meetupID: Reykjavik-Kubernetes-Meetup
 meetups:
   "20180531":
     presentations:
     - duration: 30m0s
+      slides: ""
+      speakers: null
       title: Socializing, grabbing some beer
     - duration: 30m0s
       slides: ""
@@ -28,14 +28,17 @@ meetups:
       - jeremyrickard
       title: Service Catalog
     - duration: 30m0s
+      slides: ""
+      speakers: null
       title: Networking
     recording: ""
     sponsors:
-      other: null
-      venue: tempo
+    - company: tempo
+      role: Venue
   "20190612":
     presentations:
     - duration: 15m0s
+      slides: ""
       speakers:
       - eyjolfurolafsson
       title: A keynote welcome and introduction
@@ -52,18 +55,21 @@ meetups:
       - eyjolfurolafsson
       - skeggithormar
       - gunnarsigurdsson
-      title: Kubernetes, a natural habitat for containers. Introduction and examples running containers in a Kubernetes cluster
+      title: Kubernetes, a natural habitat for containers. Introduction and examples
+        running containers in a Kubernetes cluster
     - duration: 30m0s
       slides: ""
       speakers:
       - gunnarsigurdsson
       title: Follow up discussions, Q&A. Topics for future meetups
     - duration: 15m0s
+      slides: ""
+      speakers: null
       title: Networking, beer and pizza
     recording: ""
     sponsors:
-      other: null
-      venue: sensa
+    - company: sensa
+      role: Venue
   "20190919":
     presentations:
     - duration: 30m0s
@@ -82,8 +88,12 @@ meetups:
       slides: ""
       speakers:
       - krisnova
-      title: Hacking Kubernetes. Deep-dive into how containers work and exploit known vulnerabilities in Kubernetes
+      title: Hacking Kubernetes. Deep-dive into how containers work and exploit known
+        vulnerabilities in Kubernetes
     recording: ""
     sponsors:
-      other: null
-      venue: netapp
+    - company: netapp
+      role: Venue
+organizers:
+- sttts
+- skeggithormar

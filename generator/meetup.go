@@ -195,17 +195,19 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 
 	var wg sync.WaitGroup
 	wg.Add(len(cfg.MeetupGroups))
+	mux := &sync.Mutex{}
 
 	for _, mg := range cfg.MeetupGroups {
 		go func(mg MeetupGroup) {
 			defer wg.Done()
 
-			mgStat := MeetupStats{}
+			mgStat := MeetupStats{
+				SponsorByTier: map[SponsorTier]uint64{},
+			}
 			mgStat.Members = mg.members
 			totalRSVPs := uint64(0)
 			// uniqueRSVPs maps an user ID to the amount of RSVPs for that user
 			uniqueRSVPs := map[uint64]uint64{}
-			sponsors := map[string]bool{}
 			speakers := map[string]bool{}
 			priorMeetups := uint64(0)
 			for _, m := range mg.Meetups {
@@ -216,17 +218,7 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 				totalRSVPs += m.Attendees
 				for _, pres := range m.Presentations {
 					for _, s := range pres.Speakers {
-						if _, ok := speakers[string(s.ID)]; !ok {
-							speakers[string(s.ID)] = true
-						}
-					}
-				}
-				for _, c := range append(m.Sponsors.Other, m.Sponsors.Venue) {
-					if c == nil {
-						continue
-					}
-					if _, ok := sponsors[string(c.ID)]; !ok {
-						sponsors[string(c.ID)] = true
+						speakers[string(s.ID)] = true
 					}
 				}
 
@@ -243,8 +235,17 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 					}
 				}
 			}
+
+			var sponsors uint64 = 0
+			for _, tier := range mg.SponsorTiers {
+				mgStat.SponsorByTier[tier] += 1
+				if tier != SponsorTierEcosystemMember {
+					sponsors++
+				}
+			}
+
+			mgStat.Sponsors = sponsors
 			mgStat.Speakers = uint64(len(speakers))
-			mgStat.Sponsors = uint64(len(sponsors))
 			mgStat.TotalRSVPs = totalRSVPs
 			if priorMeetups > 0 {
 				mgStat.Meetups = priorMeetups
@@ -254,17 +255,21 @@ func aggregateStats(cfg *Config) (*StatsFile, error) {
 				mgStat.UniqueRSVPs += num
 			}
 
+			// Write to the global state one goroutine at a time
+			mux.Lock()
+			defer mux.Unlock()
+
 			s.PerMeetup[mg.CityLowercase()] = mgStat
 
 			s.AllMeetups.Meetups += mgStat.Meetups
 			s.AllMeetups.Members += mgStat.Members
 			s.AllMeetups.TotalRSVPs += mgStat.TotalRSVPs
 			s.AllMeetups.UniqueRSVPs += mgStat.UniqueRSVPs
+			s.AllMeetups.Speakers += mgStat.Speakers
+			s.AllMeetups.Sponsors += mgStat.Sponsors
 		}(mg)
 	}
 	wg.Wait()
-	s.AllMeetups.Sponsors = uint64(len(cfg.Sponsors))
-	s.AllMeetups.Speakers = uint64(len(cfg.Speakers))
 	s.AllMeetups.AverageRSVPs = uint64(math.Floor(float64(s.AllMeetups.TotalRSVPs / s.AllMeetups.Meetups)))
 	return s, nil
 }

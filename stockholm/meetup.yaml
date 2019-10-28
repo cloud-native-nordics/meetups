@@ -1,13 +1,8 @@
 cfpLink: ""
-meetupID: sthlm-k8s
+ecosystemMembers: null
 latitude: 59.329444
 longitude: 18.068611
-organizers:
-- dzolo
-- mattgruter
-- iljoo
-- fyx
-- holmsten
+meetupID: sthlm-k8s
 meetups:
   "20180125":
     presentations:
@@ -40,9 +35,7 @@ meetups:
       speakers: null
       title: Doors Closed
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20180925":
     presentations:
     - duration: 15m0s
@@ -74,17 +67,19 @@ meetups:
       title: Doors Close
     recording: ""
     sponsors:
-      other: null
-      venue: Spotify
+    - company: Spotify
+      role: Venue
   "20190508":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
   "20191023":
     presentations: null
     recording: ""
-    sponsors:
-      other: null
-      venue: null
+    sponsors: null
+organizers:
+- dzolo
+- mattgruter
+- iljoo
+- fyx
+- holmsten

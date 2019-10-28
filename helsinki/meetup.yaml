@@ -1,7 +1,21 @@
 cfpLink: https://bit.ly/k8sfin-cfp
-meetupID: Kubernetes-Finland
-latitude: 60.164574
-longitude: 24.938838
+ecosystemMembers:
+- google
+- kyyti
+- hostingpalvelu
+- speechgrinder
+- suse
+- wartsila
+- ericsson
+- agileo
+- pilvia
+- verifa
+- selko
+- medisapiens
+- intopalo
+- wolt
+- montel
+- fraktal
 ignoreMeetupDates:
 - "20190117"
 - "20190404"
@@ -10,9 +24,9 @@ ignoreMeetupDates:
 - "20191029"
 - "20191031"
 - "20191212"
-organizers:
-- luxas
-- annie
+latitude: 60.164574
+longitude: 24.938838
+meetupID: Kubernetes-Finland
 meetups:
   "20171004":
     presentations:
@@ -53,12 +67,16 @@ meetups:
         some Q&A with the speakers, etc.
     recording: https://youtu.be/9ZY-m4vAhiQ
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      - emblica
-      - upcloud
-      venue: upcloud
+    - company: upcloud
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
+    - company: emblica
+      role: Other
+    - company: upcloud
+      role: Other
   "20180222":
     presentations:
     - duration: 20m0s
@@ -92,12 +110,16 @@ meetups:
       title: Socialize and network with the people around you!
     recording: https://www.youtube.com/watch?v=4ZMEejSX8nM
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      - emblica
-      - upcloud
-      venue: maria01
+    - company: maria01
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
+    - company: emblica
+      role: Other
+    - company: upcloud
+      role: Other
   "20180403":
     presentations:
     - duration: 20m0s
@@ -135,12 +157,16 @@ meetups:
       title: Socialize and network with the people around you!
     recording: https://www.youtube.com/watch?v=JhBgGv0xCE0
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      - emblica
-      - upcloud
-      venue: maria01
+    - company: maria01
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
+    - company: emblica
+      role: Other
+    - company: upcloud
+      role: Other
   "20180606":
     presentations:
     - duration: 15m0s
@@ -180,10 +206,12 @@ meetups:
       title: Socialize and network with the people around you!
     recording: https://www.youtube.com/watch?v=y3tbLJVkKN0
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: nordea
+    - company: nordea
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20180828":
     presentations:
     - duration: 15m0s
@@ -230,10 +258,12 @@ meetups:
       title: Time for networking
     recording: https://www.youtube.com/watch?v=3ZWKm26Aw9Q
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: elisa
+    - company: elisa
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20181203":
     presentations:
     - duration: 15m0s
@@ -283,10 +313,12 @@ meetups:
       title: Networking time
     recording: https://www.youtube.com/watch?v=CfMKDg_iprg
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: tuxera
+    - company: tuxera
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20190123":
     presentations:
     - duration: 15m0s
@@ -327,10 +359,12 @@ meetups:
       title: Networking time & optional Accenture lab prototypes
     recording: TBA
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: accenture
+    - company: accenture
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20190325":
     presentations:
     - duration: 3h30m0s
@@ -340,11 +374,14 @@ meetups:
       title: Kubernetes 101 Hands-On Workshop
     recording: ""
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      - weaveworks
-      venue: unity
+    - company: unity
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
+    - company: weaveworks
+      role: Other
   "20190611":
     presentations:
     - duration: 10m0s
@@ -395,10 +432,12 @@ meetups:
       title: Networking time
     recording: ""
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: nordcloud
+    - company: nordcloud
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20190827":
     presentations:
     - duration: 10m0s
@@ -441,13 +480,16 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-      other:
-      - cncf
-      - luxaslabs
-      - upcloud
-      venue: maria01
+    - company: maria01
+      role: Venue
+    - company: cncf
+      role: Other
+    - company: luxaslabs
+      role: Other
+    - company: upcloud
+      role: Other
   "20191024":
-    presentations: # TODO(Lucas): Add slides here when done
+    presentations:
     - duration: 10m0s
       slides: ""
       speakers: null
@@ -474,7 +516,7 @@ meetups:
       slides: ""
       speakers:
       - alexandersowitzki
-      title: "Building KubeOne: yet another Kubernetes cluster management tool"
+      title: 'Building KubeOne: yet another Kubernetes cluster management tool'
     - delay: 10m0s
       duration: 30m0s
       slides: ""
@@ -488,16 +530,22 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: nokia
+    - company: nokia
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
   "20191128":
-    # TODO(lucas): Create an agenda
     presentations: null
     recording: ""
     sponsors:
-      other:
-      - luxaslabs
-      - cncf
-      venue: intel
+    - company: intel
+      role: Venue
+    - company: luxaslabs
+      role: Other
+    - company: cncf
+      role: Other
+organizers:
+- luxas
+- annie

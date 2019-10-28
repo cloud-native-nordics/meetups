@@ -1,101 +1,113 @@
 cfpLink: ""
-meetupID: cloudnative-bergen
+ecosystemMembers: null
 latitude: 60.3651119
 longitude: 5.2890912
-organizers:
-- starefossen
+meetupID: cloudnative-bergen
 meetups:
   "20170608":
     presentations:
     - duration: 30m0s
+      slides: ""
       speakers:
       - starefossen
       title: Experience with containers in productions
     - duration: 30m0s
+      slides: ""
       speakers:
       - tomsolem
       title: Visual Studio Team Services
     - duration: 30m0s
+      slides: ""
       speakers:
       - davidkarlsen
       title: DevOps and Automation in Financial Services.
     recording: ""
     sponsors:
-      other: null
-      venue: evry
+    - company: evry
+      role: Venue
   "20170801":
     presentations:
     - duration: 1h30m0s
+      slides: ""
       speakers:
       - starefossen
       title: Jenkins – Build great things at any scale
     recording: ""
     sponsors:
-      other: null
-      venue: evry
+    - company: evry
+      role: Venue
   "20170912":
     presentations:
     - duration: 1h30m0s
+      slides: ""
       speakers:
       - starefossen
       title: Prometheus – An open-source monitoring system and tsdb.
     recording: ""
     sponsors:
-      other: null
-      venue: evry
+    - company: evry
+      role: Venue
   "20180118":
     presentations:
     - duration: 2h0m0s
+      slides: ""
       speakers:
       - starefossen
       - randax
       title: Hands on Kubernetes and Google Cloud
     recording: ""
     sponsors:
-      other: null
-      venue: evry
+    - company: evry
+      role: Venue
   "20181101":
     presentations:
     - duration: 1h30m0s
+      slides: ""
       speakers:
       - starefossen
       title: Helm – The Kubernetes Package Manager
     recording: ""
     sponsors:
-      other: null
-      venue: evry
+    - company: evry
+      role: Venue
   "20190815":
     presentations:
     - duration: 1h30m0s
+      slides: ""
       speakers:
       - starefossen
       title: Infrastructure as Code with Terraform
     recording: ""
     sponsors:
-      other: null
-      venue: evry
+    - company: evry
+      role: Venue
   "20191016":
     presentations:
     - duration: 2h0m0s
+      slides: ""
       speakers:
       - starefossen
       - randax
       title: Knative - Serverless on your own terms
     recording: ""
     sponsors:
-      other: null
-      venue: evry
+    - company: evry
+      role: Venue
   "20191106":
     presentations:
     - duration: 1h0m0s
+      slides: ""
       speakers:
       - Modulus
       title: Container Orchestration with AWS Fargate
     - duration: 1h0m0s
+      slides: ""
       speakers:
       - starefossen
       title: Serverless Applications with AWS Lambda and API Gateway
     recording: ""
     sponsors:
-      other: null
-      venue: evry
+    - company: evry
+      role: Venue
+organizers:
+- starefossen
