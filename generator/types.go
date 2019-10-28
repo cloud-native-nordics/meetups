@@ -12,22 +12,11 @@ import (
 var (
 	globalSpeakerMap        = map[SpeakerID]*Speaker{}
 	globalCompanyMap        = map[CompanyID]*Company{}
-	shouldMarshalCompanyID  = false
-	shouldMarshalSpeakerID  = false
 	shouldMarshalAutoMeetup = false
 )
 
 type CompanyID string
 type SpeakerID string
-
-type CompaniesFile struct {
-	Sponsors []Company `json:"sponsors"`
-	Members  []Company `json:"members"`
-}
-
-type SpeakersFile struct {
-	Speakers []Speaker `json:"speakers"`
-}
 
 type StatsFile struct {
 	MeetupGroups uint64                 `json:"meetupGroups"`
@@ -36,67 +25,27 @@ type StatsFile struct {
 }
 
 type MeetupStats struct {
-	Sponsors     uint64 `json:"sponsors"`
-	Speakers     uint64 `json:"speakers"`
-	Meetups      uint64 `json:"meetups"`
-	Members      uint64 `json:"members"`
-	TotalRSVPs   uint64 `json:"totalRSVPs"`
-	AverageRSVPs uint64 `json:"averageRSVPs"`
-	UniqueRSVPs  uint64 `json:"uniqueRSVPs"`
+	Sponsors      uint64                 `json:"sponsors"`
+	SponsorByTier map[SponsorTier]uint64 `json:"sponsorByTier,omitempty"`
+	Speakers      uint64                 `json:"speakers"`
+	Meetups       uint64                 `json:"meetups"`
+	Members       uint64                 `json:"members"`
+	TotalRSVPs    uint64                 `json:"totalRSVPs"`
+	AverageRSVPs  uint64                 `json:"averageRSVPs"`
+	UniqueRSVPs   uint64                 `json:"uniqueRSVPs"`
 }
 
 type Config struct {
-	Sponsors     []Company     `json:"sponsors"`
-	Members      []Company     `json:"members"`
+	Companies    []Company     `json:"companies"`
 	Speakers     []Speaker     `json:"speakers"`
 	MeetupGroups []MeetupGroup `json:"meetupGroups"`
 }
 
-func (cfg *Config) SetSpeakerCountry(speaker *Speaker, country string) {
-	if speaker == nil || country == "" {
-		return
-	}
-	for i, s := range cfg.Speakers {
-		if s.ID != speaker.ID {
-			continue
-		}
-		found := false
-		for _, c := range cfg.Speakers[i].Countries {
-			if c == country {
-				found = true
-				break
-			}
-		}
-		if !found {
-			cfg.Speakers[i].Countries = append(cfg.Speakers[i].Countries, country)
-		}
-	}
-	cfg.SetCompanyCountry(speaker.Company, country)
-}
-
-func (cfg *Config) SetCompanyCountry(company *Company, country string) {
-	if company == nil || country == "" {
-		return
-	}
-	for i, c := range cfg.Sponsors {
-		if c.ID != company.ID {
-			continue
-		}
-		found := false
-		for _, c := range cfg.Sponsors[i].Countries {
-			if c == country {
-				found = true
-				break
-			}
-		}
-		if !found {
-			cfg.Sponsors[i].Countries = append(cfg.Sponsors[i].Countries, country)
-		}
-	}
-}
-
-var _ json.Marshaler = &Company{}
+var _ json.Marshaler = &CompanyRef{}
+var _ json.Unmarshaler = &CompanyRef{}
 var _ json.Unmarshaler = &Company{}
+var _ json.Marshaler = &SpeakerRef{}
+var _ json.Unmarshaler = &SpeakerRef{}
 var _ json.Unmarshaler = &Speaker{}
 
 type SponsorRole string
@@ -129,6 +78,15 @@ func (c *SponsorRole) UnmarshalJSON(b []byte) error {
 	return nil
 }
 
+type SponsorTier string
+
+var (
+	SponsorTierLongterm        SponsorTier = "Longterm"
+	SponsorTierMeetup          SponsorTier = "Meetup"
+	SponsorTierSpeakerProvider SponsorTier = "SpeakerProvider"
+	SponsorTierEcosystemMember SponsorTier = "EcosystemMember"
+)
+
 type Company struct {
 	companyInternal
 }
@@ -139,37 +97,48 @@ type companyInternal struct {
 	WebsiteURL string    `json:"websiteURL"`
 	LogoURL    string    `json:"logoURL"`
 	WhiteLogo  bool      `json:"whiteLogo,omitempty"`
-	Countries  []string  `json:"countries"`
-}
-
-func (c Company) MarshalJSON() ([]byte, error) {
-	if shouldMarshalCompanyID {
-		return []byte(`"` + c.ID + `"`), nil
-	}
-	return json.Marshal(c.companyInternal)
 }
 
 func (c *Company) UnmarshalJSON(b []byte) error {
 	ctest := companyInternal{}
-	if err := json.Unmarshal(b, &ctest); err == nil {
-		c.companyInternal = ctest
-		if _, ok := globalCompanyMap[c.ID]; ok {
-			log.Printf("duplicate company found: %q", c.ID)
-		}
-		globalCompanyMap[c.ID] = c
+	if err := json.Unmarshal(b, &ctest); err != nil {
+		return fmt.Errorf("couldn't marshal company %q: %v", string(b), err)
+	}
+	c.companyInternal = ctest
+	if _, ok := globalCompanyMap[c.ID]; ok {
+		log.Printf("duplicate company found: %q", c.ID)
+	}
+	globalCompanyMap[c.ID] = c
+	return nil
+}
+
+type CompanyRef struct {
+	*Company `json:"-"`
+}
+
+func (c CompanyRef) MarshalJSON() ([]byte, error) {
+	if c.Company == nil {
+		return []byte(`""`), nil
+	}
+	return []byte(`"` + c.ID + `"`), nil
+}
+
+func (c *CompanyRef) UnmarshalJSON(b []byte) error {
+	if string(b) == "null" || string(b) == `""` {
+		*c = CompanyRef{}
 		return nil
 	}
 	cid := CompanyID("")
-	err := json.Unmarshal(b, &cid)
-	if err == nil {
-		company, ok := globalCompanyMap[cid]
-		if !ok {
-			log.Fatalf("company reference not found: %s", cid)
-		}
-		*c = *company
-		return nil
+	if err := json.Unmarshal(b, &cid); err != nil {
+		return fmt.Errorf("couldn't marshal company %q: %v", string(b), err)
 	}
-	return fmt.Errorf("couldn't marshal company %q: %v", string(b), err)
+
+	company, ok := globalCompanyMap[cid]
+	if !ok {
+		log.Fatalf("company reference not found %q: %q", cid, string(b))
+	}
+	*c = CompanyRef{company}
+	return nil
 }
 
 type Speaker struct {
@@ -177,15 +146,31 @@ type Speaker struct {
 }
 
 type speakerInternal struct {
-	ID             SpeakerID `json:"id"`
-	Name           string    `json:"name"`
-	Title          string    `json:"title,omitempty"`
-	Email          string    `json:"email"`
-	Company        *Company  `json:"company"`
-	Countries      []string  `json:"countries"`
-	Github         string    `json:"github"`
-	Twitter        string    `json:"twitter,omitempty"`
-	SpeakersBureau string    `json:"speakersBureau"`
+	ID             SpeakerID  `json:"id"`
+	Name           string     `json:"name"`
+	Title          string     `json:"title,omitempty"`
+	Email          string     `json:"email"`
+	Company        CompanyRef `json:"company"`
+	Github         string     `json:"github"`
+	Twitter        string     `json:"twitter,omitempty"`
+	SpeakersBureau string     `json:"speakersBureau"`
+}
+
+func (s *Speaker) UnmarshalJSON(b []byte) error {
+	stest := speakerInternal{}
+	if err := json.Unmarshal(b, &stest); err != nil {
+		return fmt.Errorf("couldn't marshal speaker %q: %v", string(b), err)
+	}
+	s.speakerInternal = stest
+	if _, ok := globalSpeakerMap[s.ID]; ok {
+		// TODO: Make this Fatal, after figuring out the combination of member/sponsor companies
+		log.Printf("duplicate speaker found: %q", s.ID)
+	}
+	if s.Company.Company == nil {
+		log.Printf("speaker %q doesn't have a company", s.ID)
+	}
+	globalSpeakerMap[s.ID] = s
+	return nil
 }
 
 func (s Speaker) String() string {
@@ -196,7 +181,7 @@ func (s Speaker) String() string {
 	if len(s.Title) != 0 {
 		str += fmt.Sprintf(", %s", s.Title)
 	}
-	if s.Company != nil {
+	if s.Company.Company != nil {
 		str += fmt.Sprintf(", [%s](%s)", s.Company.Name, s.Company.WebsiteURL)
 	}
 	if len(s.SpeakersBureau) != 0 {
@@ -205,44 +190,42 @@ func (s Speaker) String() string {
 	return str
 }
 
-func (s Speaker) MarshalJSON() ([]byte, error) {
-	if shouldMarshalSpeakerID {
-		return []byte(`"` + s.ID + `"`), nil
-	}
-	return json.Marshal(s.speakerInternal)
+type SpeakerRef struct {
+	*Speaker `json:"-"`
 }
 
-func (s *Speaker) UnmarshalJSON(b []byte) error {
-	stest := speakerInternal{}
-	if err := json.Unmarshal(b, &stest); err == nil {
-		s.speakerInternal = stest
-		if _, ok := globalSpeakerMap[s.ID]; ok {
-			// TODO: Make this Fatal, after figuring out the combination of member/sponsor companies
-			log.Printf("duplicate speaker found: %q", s.ID)
-		}
-		globalSpeakerMap[s.ID] = s
+func (s SpeakerRef) MarshalJSON() ([]byte, error) {
+	if s.Speaker == nil {
+		return []byte(`""`), nil
+	}
+	return []byte(`"` + s.ID + `"`), nil
+}
+
+func (s *SpeakerRef) UnmarshalJSON(b []byte) error {
+	if string(b) == "null" || string(b) == `""` {
+		*s = SpeakerRef{}
 		return nil
 	}
 	sid := SpeakerID("")
-	err := json.Unmarshal(b, &sid)
-	if err == nil {
-		speaker, ok := globalSpeakerMap[sid]
-		if !ok {
-			log.Fatalf("speaker reference not found: %s", sid)
-		}
-		*s = *speaker
-		return nil
+	if err := json.Unmarshal(b, &sid); err != nil {
+		return fmt.Errorf("couldn't marshal speaker %q: %v", string(b), err)
 	}
-	return fmt.Errorf("couldn't marshal speaker %q: %v", string(b), err)
+	speaker, ok := globalSpeakerMap[sid]
+	if !ok {
+		log.Fatalf("speaker reference not found %q: %q", sid, string(b))
+	}
+	*s = SpeakerRef{speaker}
+	return nil
 }
 
 type AutogenMeetupGroup struct {
-	Photo       string                   `json:"photo,omitempty"`
-	Name        string                   `json:"name"`
-	City        string                   `json:"city"`
-	Country     string                   `json:"country"`
-	Description string                   `json:"description"`
-	AutoMeetups map[string]AutogenMeetup `json:"-"`
+	Photo        string                    `json:"photo,omitempty"`
+	Name         string                    `json:"name"`
+	City         string                    `json:"city"`
+	Country      string                    `json:"country"`
+	Description  string                    `json:"description"`
+	SponsorTiers map[CompanyID]SponsorTier `json:"sponsorTiers"`
+	AutoMeetups  map[string]AutogenMeetup  `json:"-"`
 
 	members uint64
 }
@@ -251,11 +234,12 @@ type MeetupGroup struct {
 	*AutogenMeetupGroup `json:",inline,omitempty"`
 
 	MeetupID          string            `json:"meetupID"`
-	Organizers        []*Speaker        `json:"organizers"`
+	Organizers        []SpeakerRef      `json:"organizers"`
 	IgnoreMeetupDates []string          `json:"ignoreMeetupDates,omitempty"`
 	CFP               string            `json:"cfpLink"`
 	Latitude          float64           `json:"latitude"`
 	Longitude         float64           `json:"longitude"`
+	EcosystemMembers  []CompanyRef      `json:"ecosystemMembers"`
 	Meetups           map[string]Meetup `json:"meetups"`
 	MeetupList        MeetupList        `json:"-"`
 }
@@ -352,7 +336,7 @@ func (m Meetup) MarshalJSON() ([]byte, error) {
 
 type MeetupSponsor struct {
 	Role    SponsorRole `json:"role"`
-	Company *Company    `json:"company"`
+	Company CompanyRef  `json:"company"`
 }
 
 func (m *Meetup) DateTime() string {
@@ -364,12 +348,12 @@ func (m *Meetup) DateTime() string {
 }
 
 type Presentation struct {
-	Duration  Duration   `json:"duration"`
-	Delay     *Duration  `json:"delay,omitempty"`
-	Title     string     `json:"title"`
-	Slides    string     `json:"slides"`
-	Recording string     `json:"recording,omitempty"`
-	Speakers  []*Speaker `json:"speakers"`
+	Duration  Duration     `json:"duration"`
+	Delay     *Duration    `json:"delay,omitempty"`
+	Title     string       `json:"title"`
+	Slides    string       `json:"slides"`
+	Recording string       `json:"recording,omitempty"`
+	Speakers  []SpeakerRef `json:"speakers"`
 
 	start time.Time
 	end   time.Time

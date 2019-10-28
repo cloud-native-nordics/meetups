@@ -35,6 +35,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 - Date: 24 October, 2019 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264646130
+- Attendees (according to meetup.com): 103
 - Venue sponsor: [Nokia](https://www.nokia.fi/)
 - Other sponsor: [luxas labs](https://luxaslabs.com)
 - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
@@ -199,7 +200,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - 18:00 - 18:15: Arrive to the venue, sit down, grab a pizza slice and network with others ;) 
 - 18:15 - 18:20: Welcome from the organizers 
 - 18:25 - 18:35: Introductionary words from the venue sponsor for this time, Elisa 
-  - Tommi Berg
+  - Tommi Berg, [Elisa](https://www.elisa.com)
 - 18:40 - 19:00: Manage Kubernetes application complexity with Helm 
   - Annie Talvasto, [Microsoft](https://www.microsoft.com)
   - Slides: https://www.slideshare.net/AnnieTalvasto/manage-kubernetes-application-complexity-with-helm
@@ -210,7 +211,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
   - Marek Jelen, [Red Hat](https://www.redhat.com)
   - Slides: https://speakerdeck.com/maniankara/implementing-container-storage-interface-csi-for-moosefs
 - 20:00 - 20:20: Orchestrate VMs on top of Kubernetes 
-  - Severi Haverila
+  - Severi Haverila, [Eficode](https://www.eficode.com/home)
   - Slides: https://drive.google.com/file/d/1JxBgTSPgFtAtNOxri5iyMHtYGC3t46NR/view
 - 20:20 - 21:00: Time for networking 
 

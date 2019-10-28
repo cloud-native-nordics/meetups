@@ -55,20 +55,20 @@ func run() error {
 }
 
 func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
-	companiesObj := &CompaniesFile{}
+	companies := []Company{}
 	companiesContent, err := ioutil.ReadFile(companiesPath)
 	if err != nil {
 		return nil, err
 	}
-	if err := unmarshal(companiesContent, companiesObj); err != nil {
+	if err := unmarshal(companiesContent, &companies); err != nil {
 		return nil, err
 	}
-	speakersObj := &SpeakersFile{}
+	speakers := []Speaker{}
 	speakersContent, err := ioutil.ReadFile(speakersPath)
 	if err != nil {
 		return nil, err
 	}
-	if err := unmarshal(speakersContent, speakersObj); err != nil {
+	if err := unmarshal(speakersContent, &speakers); err != nil {
 		return nil, err
 	}
 	meetupGroups := []MeetupGroup{}
@@ -120,9 +120,8 @@ func load(companiesPath, speakersPath, meetupsDir string) (*Config, error) {
 	wg.Wait()
 
 	return &Config{
-		Speakers:     speakersObj.Speakers,
-		Sponsors:     companiesObj.Sponsors,
-		Members:      companiesObj.Members,
+		Speakers:     speakers,
+		Companies:    companies,
 		MeetupGroups: meetupGroups,
 	}, nil
 }
@@ -162,8 +161,6 @@ func tmpl(t *template.Template, obj interface{}) ([]byte, error) {
 
 func exec(cfg *Config) (map[string][]byte, error) {
 	result := map[string][]byte{}
-	shouldMarshalSpeakerID = true
-	shouldMarshalCompanyID = true
 	shouldMarshalAutoMeetup = false
 	for _, mg := range cfg.MeetupGroups {
 		mg.SetMeetupList()
@@ -183,18 +180,12 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		}
 		result[path] = meetupYAML
 	}
-	shouldMarshalSpeakerID = false
-	shouldMarshalCompanyID = false
-	companiesYAML, err := yaml.Marshal(CompaniesFile{
-		Sponsors: cfg.Sponsors,
-		Members:  cfg.Members,
-	})
+	companiesYAML, err := yaml.Marshal(cfg.Companies)
 	if err != nil {
 		return nil, err
 	}
 	result["companies.yaml"] = companiesYAML
-	shouldMarshalCompanyID = true
-	speakersYAML, err := yaml.Marshal(SpeakersFile{Speakers: cfg.Speakers})
+	speakersYAML, err := yaml.Marshal(cfg.Speakers)
 	if err != nil {
 		return nil, err
 	}
@@ -204,7 +195,6 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		return nil, err
 	}
 	result["README.md"] = readmeBytes
-	shouldMarshalCompanyID = false
 	shouldMarshalAutoMeetup = true
 	configJSON, err := json.MarshalIndent(cfg, "", "  ")
 	if err != nil {
@@ -227,26 +217,50 @@ func update(cfg *Config) error {
 	for i := range cfg.MeetupGroups {
 		mg := &cfg.MeetupGroups[i]
 
-		for _, s := range mg.Organizers {
-			cfg.SetSpeakerCountry(s, mg.Country)
-		}
+		calcSponsorTiers(mg)
+
 		for j, m := range mg.Meetups {
 			if err := setPresentationTimestamps(&m); err != nil {
 				return err
-			}
-			for _, pres := range m.Presentations {
-				for _, s := range pres.Speakers {
-					cfg.SetSpeakerCountry(s, mg.Country)
-				}
-			}
-
-			for _, s := range m.Sponsors {
-				cfg.SetCompanyCountry(s.Company, mg.Country)
 			}
 			mg.Meetups[j] = m
 		}
 	}
 	return nil
+}
+
+func calcSponsorTiers(mg *MeetupGroup) {
+	mg.SponsorTiers = map[CompanyID]SponsorTier{}
+	for _, c := range mg.EcosystemMembers {
+		if c.Company != nil {
+			mg.SponsorTiers[c.ID] = SponsorTierEcosystemMember
+		}
+	}
+	for _, m := range mg.Meetups {
+		for _, p := range m.Presentations {
+			for _, s := range p.Speakers {
+				if s.Company.Company != nil {
+					mg.SponsorTiers[s.Company.ID] = SponsorTierSpeakerProvider
+				}
+			}
+		}
+	}
+	for _, o := range mg.Organizers {
+		if o.Company.Company != nil {
+			mg.SponsorTiers[o.Company.ID] = SponsorTierMeetup
+		}
+	}
+	for _, m := range mg.Meetups {
+		for _, s := range m.Sponsors {
+			if s.Company.Company != nil {
+				if s.Role == SponsorRoleLongterm {
+					mg.SponsorTiers[s.Company.ID] = SponsorTierLongterm
+				} else {
+					mg.SponsorTiers[s.Company.ID] = SponsorTierMeetup
+				}
+			}
+		}
+	}
 }
 
 func writeFile(path string, b []byte) error {

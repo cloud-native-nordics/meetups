@@ -1,4 +1,21 @@
 cfpLink: https://bit.ly/k8sfin-cfp
+ecosystemMembers:
+- google
+- kyyti
+- hostingpalvelu
+- speechgrinder
+- suse
+- wartsila
+- ericsson
+- agileo
+- pilvia
+- verifa
+- selko
+- medisapiens
+- intopalo
+- wolt
+- montel
+- fraktal
 ignoreMeetupDates:
 - "20190117"
 - "20190404"

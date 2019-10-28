@@ -20,6 +20,7 @@
 
 - Date: 23 October, 2019 at 17:30 - 20:30
 - Meetup link: https://www.meetup.com/sthlm-k8s/events/265099547
+- Attendees (according to meetup.com): 120
 
 #### Agenda
 
