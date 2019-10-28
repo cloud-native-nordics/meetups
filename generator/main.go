@@ -5,12 +5,12 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"log"
 	"os"
 	"path/filepath"
 	"sync"
 	"text/template"
 
+	log "github.com/sirupsen/logrus"
 	"github.com/spf13/pflag"
 	"sigs.k8s.io/yaml"
 )
@@ -147,7 +147,7 @@ func validate(files map[string][]byte, rootDir string) error {
 			return fmt.Errorf("%s differs from expected state. expected: \"%s\", actual: \"%s\"", fullPath, fileContent, actual)
 		}
 	}
-	fmt.Println("Validation succeeded!")
+	log.Info("Validation succeeded!")
 	return nil
 }
 

@@ -3,10 +3,11 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"log"
 	"sort"
 	"strings"
 	"time"
+
+	log "github.com/sirupsen/logrus"
 )
 
 var (
@@ -106,7 +107,7 @@ func (c *Company) UnmarshalJSON(b []byte) error {
 	}
 	c.companyInternal = ctest
 	if _, ok := globalCompanyMap[c.ID]; ok {
-		log.Printf("duplicate company found: %q", c.ID)
+		log.Fatalf("Duplicate company found: %q", c.ID)
 	}
 	globalCompanyMap[c.ID] = c
 	return nil
@@ -135,7 +136,7 @@ func (c *CompanyRef) UnmarshalJSON(b []byte) error {
 
 	company, ok := globalCompanyMap[cid]
 	if !ok {
-		log.Fatalf("company reference not found %q: %q", cid, string(b))
+		log.Fatalf("Company reference not found %q: %q", cid, string(b))
 	}
 	*c = CompanyRef{company}
 	return nil
@@ -163,11 +164,10 @@ func (s *Speaker) UnmarshalJSON(b []byte) error {
 	}
 	s.speakerInternal = stest
 	if _, ok := globalSpeakerMap[s.ID]; ok {
-		// TODO: Make this Fatal, after figuring out the combination of member/sponsor companies
-		log.Printf("duplicate speaker found: %q", s.ID)
+		log.Fatalf("Duplicate speaker found: %q", s.ID)
 	}
 	if s.Company.Company == nil {
-		log.Printf("speaker %q doesn't have a company", s.ID)
+		log.Warnf("Speaker %q doesn't have a company", s.ID)
 	}
 	globalSpeakerMap[s.ID] = s
 	return nil
@@ -212,7 +212,7 @@ func (s *SpeakerRef) UnmarshalJSON(b []byte) error {
 	}
 	speaker, ok := globalSpeakerMap[sid]
 	if !ok {
-		log.Fatalf("speaker reference not found %q: %q", sid, string(b))
+		log.Fatalf("Speaker reference not found %q: %q", sid, string(b))
 	}
 	*s = SpeakerRef{speaker}
 	return nil
@@ -255,7 +255,7 @@ func (mg *MeetupGroup) ApplyGeneratedData() {
 				}
 			}
 			if !found {
-				fmt.Printf("%s: didn't find meetup with date %q\n", mg.Name, key)
+				log.Warnf("Didn't find information about meetup at %s on date %q\n", mg.Name, key)
 			}
 			continue
 		}
