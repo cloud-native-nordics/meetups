@@ -3,11 +3,11 @@
   "allMeetups": {
     "sponsors": 114,
     "speakers": 117,
-    "meetups": 89,
-    "members": 5547,
-    "totalRSVPs": 4702,
+    "meetups": 90,
+    "members": 5582,
+    "totalRSVPs": 4706,
     "averageRSVPs": 52,
-    "uniqueRSVPs": 2599
+    "uniqueRSVPs": 2598
   },
   "perMeetup": {
     "aalborg": {
@@ -18,7 +18,7 @@
       },
       "speakers": 6,
       "meetups": 2,
-      "members": 122,
+      "members": 126,
       "totalRSVPs": 104,
       "averageRSVPs": 52,
       "uniqueRSVPs": 77
@@ -31,7 +31,7 @@
       },
       "speakers": 39,
       "meetups": 24,
-      "members": 922,
+      "members": 930,
       "totalRSVPs": 1356,
       "averageRSVPs": 56,
       "uniqueRSVPs": 533
@@ -43,7 +43,7 @@
       },
       "speakers": 4,
       "meetups": 7,
-      "members": 192,
+      "members": 197,
       "totalRSVPs": 128,
       "averageRSVPs": 18,
       "uniqueRSVPs": 77
@@ -56,7 +56,7 @@
       },
       "speakers": 11,
       "meetups": 13,
-      "members": 828,
+      "members": 829,
       "totalRSVPs": 670,
       "averageRSVPs": 51,
       "uniqueRSVPs": 405
@@ -68,7 +68,7 @@
       },
       "speakers": 5,
       "meetups": 9,
-      "members": 516,
+      "members": 519,
       "totalRSVPs": 271,
       "averageRSVPs": 30,
       "uniqueRSVPs": 179
@@ -82,10 +82,10 @@
       },
       "speakers": 26,
       "meetups": 11,
-      "members": 868,
+      "members": 870,
       "totalRSVPs": 888,
       "averageRSVPs": 80,
-      "uniqueRSVPs": 453
+      "uniqueRSVPs": 452
     },
     "oslo": {
       "sponsors": 2,
@@ -94,7 +94,7 @@
       },
       "speakers": 0,
       "meetups": 8,
-      "members": 738,
+      "members": 742,
       "totalRSVPs": 364,
       "averageRSVPs": 45,
       "uniqueRSVPs": 243
@@ -119,7 +119,7 @@
       },
       "speakers": 0,
       "meetups": 4,
-      "members": 763,
+      "members": 764,
       "totalRSVPs": 452,
       "averageRSVPs": 113,
       "uniqueRSVPs": 336
@@ -131,10 +131,10 @@
         "SpeakerProvider": 5
       },
       "speakers": 14,
-      "meetups": 4,
-      "members": 189,
-      "totalRSVPs": 196,
-      "averageRSVPs": 49,
+      "meetups": 5,
+      "members": 191,
+      "totalRSVPs": 200,
+      "averageRSVPs": 40,
       "uniqueRSVPs": 114
     },
     "turku": {
@@ -145,7 +145,7 @@
       },
       "speakers": 0,
       "meetups": 0,
-      "members": 64,
+      "members": 69,
       "totalRSVPs": 0,
       "averageRSVPs": 0,
       "uniqueRSVPs": 0
