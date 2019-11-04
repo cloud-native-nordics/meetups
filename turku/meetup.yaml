@@ -39,7 +39,7 @@ meetups:
       title: Managing Kubernetes clusters easily with Rancher
     - delay: 10m0s
       duration: 30m0s
-      slides: ""
+      slides: "https://www.slideshare.net/AntonLindholm2/managing-kubernetes-clusters-easily-with-rancher"
       speakers:
       - sachinkundu
       title: All Meshed Up - How we use Linkerd
