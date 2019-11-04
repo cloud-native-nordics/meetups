@@ -34,6 +34,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 - Date: 31 October, 2019 at 17:00 - 20:00
 - Meetup link: https://www.meetup.com/Kubernetes-Turku/events/264987939
+- Attendees (according to meetup.com): 49
 - Venue sponsor: [Walkbase](https://www.walkbase.com/)
 - Other sponsor: [luxas labs](https://luxaslabs.com)
 - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
