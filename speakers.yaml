@@ -313,15 +313,15 @@
   id: michaelvittruplarsen
   name: Michael Vittrup Larsen
   speakersBureau: ""
-- company: lunarway
+- company: lunar
   email: ""
-  github: ""
+  github: mrjensen
   id: martinjensen
   name: Martin Jensen
   speakersBureau: ""
-- company: lunarway
+- company: lunar
   email: ""
-  github: ""
+  github: Crevil
   id: bjornsorensen
   name: Bjørn Sørensen
   speakersBureau: ""
@@ -349,7 +349,7 @@
   id: danielfly
   name: Daniel Fly
   speakersBureau: ""
-- company: lunarway
+- company: lunar
   email: kaspernissen@gmail.com
   github: kaspernissen
   id: kaspernissen
@@ -359,7 +359,7 @@
   twitter: phennex
 - company: neurospace
   email: ""
-  github: ""
+  github: Steiniche
   id: rasmussteiniche
   name: Rasmus Steiniche
   speakersBureau: ""
@@ -385,9 +385,9 @@
   name: Martin Villumsen
   speakersBureau: ""
   title: Software Developer & Site Reliability Engineer
-- company: lunarway
+- company: lunar
   email: ""
-  github: ""
+  github: emilingerslev
   id: emilingerslev
   name: Emil Ingerslev
   speakersBureau: ""
@@ -441,15 +441,15 @@
   id: andreipredoiu
   name: Andrei Predoiu
   speakersBureau: ""
-- company: lunarway
+- company: lunar
   email: ""
-  github: ""
+  github: tbflw
   id: thomasboeghfangel
   name: Thomas Bøgh Fangel
   speakersBureau: ""
-- company: lunarway
+- company: lunar
   email: ""
-  github: ""
+  github: nkobber
   id: nicolaikobber
   name: Nicolai Kobber
   speakersBureau: ""

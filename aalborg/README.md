@@ -59,7 +59,7 @@
   - Allan Hojgaard Jensen, Cloud Platform Architect, [Oracle](https://www.oracle.com)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
 - 17:25 - 17:35: What is Cloud Native Nordics 
-  - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar Way](https://www.lunarway.com)
+  - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
 - 17:35 - 17:45: What is Cloud Native 
   - Ihor Dvoretskyi, [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)

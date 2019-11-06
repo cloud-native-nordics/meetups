@@ -354,10 +354,10 @@
       "logoURL": "https://landscape.cncf.io/logos/digital-ocean-kubernetes.svg"
     },
     {
-      "id": "lunarway",
-      "name": "Lunar Way",
+      "id": "lunar",
+      "name": "Lunar",
       "websiteURL": "https://www.lunarway.com",
-      "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png"
+      "logoURL": "https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunar.png"
     },
     {
       "id": "schneiderelectric",
@@ -1048,16 +1048,16 @@
       "id": "martinjensen",
       "name": "Martin Jensen",
       "email": "",
-      "company": "lunarway",
-      "github": "",
+      "company": "lunar",
+      "github": "mrjensen",
       "speakersBureau": ""
     },
     {
       "id": "bjornsorensen",
       "name": "Bjørn Sørensen",
       "email": "",
-      "company": "lunarway",
-      "github": "",
+      "company": "lunar",
+      "github": "Crevil",
       "speakersBureau": ""
     },
     {
@@ -1097,7 +1097,7 @@
       "name": "Kasper Nissen",
       "title": "Cloud Architect/SRE, CNCF Ambassador",
       "email": "kaspernissen@gmail.com",
-      "company": "lunarway",
+      "company": "lunar",
       "github": "kaspernissen",
       "twitter": "phennex",
       "speakersBureau": ""
@@ -1108,7 +1108,7 @@
       "title": "CEO",
       "email": "",
       "company": "neurospace",
-      "github": "",
+      "github": "Steiniche",
       "speakersBureau": ""
     },
     {
@@ -1143,8 +1143,8 @@
       "name": "Emil Ingerslev",
       "title": "Cloud Architect/SRE",
       "email": "",
-      "company": "lunarway",
-      "github": "",
+      "company": "lunar",
+      "github": "emilingerslev",
       "speakersBureau": ""
     },
     {
@@ -1216,16 +1216,16 @@
       "id": "thomasboeghfangel",
       "name": "Thomas Bøgh Fangel",
       "email": "",
-      "company": "lunarway",
-      "github": "",
+      "company": "lunar",
+      "github": "tbflw",
       "speakersBureau": ""
     },
     {
       "id": "nicolaikobber",
       "name": "Nicolai Kobber",
       "email": "",
-      "company": "lunarway",
-      "github": "",
+      "company": "lunar",
+      "github": "nkobber",
       "speakersBureau": ""
     },
     {
@@ -1657,7 +1657,7 @@
       "description": "\u003cp\u003eCloud Native Aalborg is a meetup having focus on Cloud Native technologies. Cloud Native technologies are graduated and incubating projects, such as: Kubernetes, Prometheus, Envoy, fluentd and e.g. OpenTracing, Jaeger, etc. to mention a few. \u003cbr\u003eTechnologies and practices around the platform of platforms will also be on the agenda for the meetup group. \u003cbr\u003eWe are a small group of people passionate about these technologies working together with the Cloud Native Nordics team in an effort to share experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e\n\u003cp\u003eCloud Native Aalborg will apply for being an official Cloud Native Computing Foundation meetup group, and part of the Cloud Native Nordics community as well.\u003c/p\u003e\n\u003cp\u003eYou can join the Cloud Native Nordics Slack Community for further discussions: \u003ca href=\"https://www.cloudnativenordics.com\" class=\"linkified\"\u003ehttps://www.cloudnativenordics.com\u003c/a\u003e and to share your thoughts and ideas with other people sharing the passion for this.\u003c/p\u003e",
       "sponsorTiers": {
         "cncf": "SpeakerProvider",
-        "lunarway": "SpeakerProvider",
+        "lunar": "SpeakerProvider",
         "oracle": "Meetup",
         "praqma": "SpeakerProvider",
         "sparnordbank": "Meetup"
@@ -1853,7 +1853,7 @@
         "jysk": "Meetup",
         "lego": "Meetup",
         "lix": "SpeakerProvider",
-        "lunarway": "Meetup",
+        "lunar": "Meetup",
         "microsoft": "SpeakerProvider",
         "mobilepay": "Meetup",
         "neurospace": "Meetup",
@@ -1906,7 +1906,7 @@
           "sponsors": [
             {
               "role": "Venue",
-              "company": "lunarway"
+              "company": "lunar"
             }
           ],
           "presentations": [
@@ -2725,7 +2725,7 @@
             },
             {
               "role": "Other",
-              "company": "lunarway"
+              "company": "lunar"
             }
           ],
           "presentations": [
