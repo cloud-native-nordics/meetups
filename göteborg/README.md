@@ -10,11 +10,11 @@
 
 ## Organizers
 
-- Jessica Andersson, [Meltwater](https://underthehood.meltwater.com/)
+- Jessica Andersson [@Solisol](https://github.com/Solisol), [Meltwater](https://underthehood.meltwater.com/)
 - Staffan Olsson, [Yolean](https://www.yolean.com/)
-- Peter Rosell, [Pagero](https://www.pagero.se)
+- Peter Rosell [@peterrosell](https://github.com/peterrosell), [Pagero](https://www.pagero.se)
 - Anton Lindgren, [Yolean](https://www.yolean.com/)
-- Jacob Hagstedt P Suorra
+- Jacob Hagstedt P Suorra [@Jacobh2](https://github.com/Jacobh2)
 
 ### September meetup in Gothenburg
 
@@ -44,15 +44,15 @@
 #### Agenda
 
 - 18:00 - 18:30: Getting Developers to Adopt Your Service 
-  - Jessica Andersson, [Meltwater](https://underthehood.meltwater.com/)
+  - Jessica Andersson [@Solisol](https://github.com/Solisol), [Meltwater](https://underthehood.meltwater.com/)
   - Slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-getting-developers-to-adopt-your-service.pdf
   - Recording: https://youtu.be/EpIgwYQlp4c
 - 18:35 - 19:05: Knowing what your Kubernetes cluster is doing 
-  - Federico Hernandez, [Meltwater](https://underthehood.meltwater.com/)
+  - Federico Hernandez [@recollir](https://github.com/recollir), [Meltwater](https://underthehood.meltwater.com/)
   - Slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-knowing-what-your-kubernetes-cluster-is-doing.pdf
   - Recording: https://youtu.be/EpIgwYQlp4c
 - 19:10 - 19:20: Zero downtime upgrades of Kubernetes 
-  - Simone Sciarrati, [Meltwater](https://underthehood.meltwater.com/)
+  - Simone Sciarrati [@dezmodue](https://github.com/dezmodue), [Meltwater](https://underthehood.meltwater.com/)
   - Slides: https://github.com/meltwater/MeltwaterEng-public-presentations/blob/master/files/2019-05-19-zero-downtime-kubernetes-cluster-upgrades.pdf
   - Recording: https://youtu.be/EpIgwYQlp4c
 
@@ -76,7 +76,7 @@
 #### Agenda
 
 - 17:00 - 18:00: Hur monitorerar man, med hjälp av Prometheus, kubernetes status & metrics? 
-  - Karl Bergström
+  - Karl Bergström [@Kalle444](https://github.com/Kalle444)
 
 ### Var med och sänk ett kluster!
 

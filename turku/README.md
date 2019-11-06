@@ -54,5 +54,5 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - 18:30 - 19:00: Managing Kubernetes clusters easily with Rancher 
   - Anton Lindholm [@LinAnt](https://github.com/LinAnt), [Walkbase](https://www.walkbase.com/)
 - 19:10 - 19:40: All Meshed Up - How we use Linkerd 
-  - Sachin Kundu, [Microsoft](https://www.microsoft.com)
+  - Sachin Kundu [@sachinkundu](https://github.com/sachinkundu), [Microsoft](https://www.microsoft.com)
 - 19:45 - 20:00: Networking 

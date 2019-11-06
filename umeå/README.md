@@ -13,8 +13,8 @@
 ## Organizers
 
 - Robert Winter, [Elastisys](https://elastisys.com/)
-- Erik Lindskog, [Codemill](https://codemill.se/)
-- Johan Tordsson, [Elastisys](https://elastisys.com/)
+- Erik Lindskog [@cartmanume](https://github.com/cartmanume), [Codemill](https://codemill.se/)
+- Johan Tordsson [@tordsson](https://github.com/tordsson), [Elastisys](https://elastisys.com/)
 
 ### Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona 
 
@@ -27,7 +27,7 @@
 
 - 17:00 - 18:30: Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona 
   - Linda Almersson, [Codemill](https://codemill.se/)
-  - Johan Tordsson, [Elastisys](https://elastisys.com/)
+  - Johan Tordsson [@tordsson](https://github.com/tordsson), [Elastisys](https://elastisys.com/)
 
 ### What does “production ready” really mean for a Kubernetes cluster?
 
@@ -52,9 +52,9 @@
 #### Agenda
 
 - 17:30 - 18:30: Lightning talks 
-  - Erik Lindskog, [Codemill](https://codemill.se/)
+  - Erik Lindskog [@cartmanume](https://github.com/cartmanume), [Codemill](https://codemill.se/)
   - Linda Almersson, [Codemill](https://codemill.se/)
-  - Johan Tordsson, [Elastisys](https://elastisys.com/)
+  - Johan Tordsson [@tordsson](https://github.com/tordsson), [Elastisys](https://elastisys.com/)
 
 ### Cloud-native, Kubernetes and trends
 

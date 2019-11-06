@@ -28,7 +28,7 @@
 - 16:00 - 16:30: CRDs to the next level 
   - Stefan Schimanski [@sttts](https://github.com/sttts), [Red Hat](https://www.redhat.com)
 - 16:45 - 17:15: NetApp Containerized Storage 
-  - Tryggvi Lárusson, [NetApp](https://www.netapp.com/us/index.aspx)
+  - Tryggvi Lárusson [@tryggvil](https://github.com/tryggvil), [NetApp](https://www.netapp.com/us/index.aspx)
 - 17:30 - 18:00: Hacking Kubernetes. Deep-dive into how containers work and exploit known vulnerabilities in Kubernetes 
   - Kris Nóva [@kris-nova](https://github.com/kris-nova), [Sysdig](https://sysdig.com/)
 
@@ -46,13 +46,13 @@
 - 16:45 - 17:15: Container and images overview. Building and running. Simple examples 
   - Eyjólfur Ólafsson, [Sensa](https://www.sensa.tech/)
   - Skeggi Þormar, [NetApp](https://www.netapp.com/us/index.aspx)
-  - Gunnar Sigurðsson, [Sensa](https://www.sensa.tech/)
+  - Gunnar Sigurðsson [@gsig](https://github.com/gsig), [Sensa](https://www.sensa.tech/)
 - 17:15 - 17:45: Kubernetes, a natural habitat for containers. Introduction and examples running containers in a Kubernetes cluster 
   - Eyjólfur Ólafsson, [Sensa](https://www.sensa.tech/)
   - Skeggi Þormar, [NetApp](https://www.netapp.com/us/index.aspx)
-  - Gunnar Sigurðsson, [Sensa](https://www.sensa.tech/)
+  - Gunnar Sigurðsson [@gsig](https://github.com/gsig), [Sensa](https://www.sensa.tech/)
 - 17:45 - 18:15: Follow up discussions, Q&A. Topics for future meetups 
-  - Gunnar Sigurðsson, [Sensa](https://www.sensa.tech/)
+  - Gunnar Sigurðsson [@gsig](https://github.com/gsig), [Sensa](https://www.sensa.tech/)
 - 18:15 - 18:30: Networking, beer and pizza 
 
 ### Kubernetes Meetup co-located with GopherCon EU
@@ -70,5 +70,5 @@
 - 19:45 - 20:15: Kubernetes as an API driven platform 
   - Stefan Schimanski [@sttts](https://github.com/sttts), [Red Hat](https://www.redhat.com)
 - 20:30 - 21:00: Service Catalog 
-  - Jeremy Rickard, [Microsoft](https://www.microsoft.com)
+  - Jeremy Rickard [@jeremyrickard](https://github.com/jeremyrickard), [Microsoft](https://www.microsoft.com)
 - 21:00 - 21:30: Networking 

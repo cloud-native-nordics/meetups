@@ -13,8 +13,8 @@
 
 ## Organizers
 
-- Sami Alajrami, [Praqma](https://www.praqma.com/)
-- Audun Fauchald Strand, [Nav](https://www.nav.no/Forsiden)
+- Sami Alajrami [@sami](https://github.com/sami), [Praqma](https://www.praqma.com/)
+- Audun Fauchald Strand [@audunstrand](https://github.com/audunstrand), [Nav](https://www.nav.no/Forsiden)
 
 ### GitOps your kubernetes deployments with Helm and Helmsman
 

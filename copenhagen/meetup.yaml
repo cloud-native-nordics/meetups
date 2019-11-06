@@ -124,7 +124,7 @@ meetups:
     - duration: 15m0s
       slides: ""
       speakers:
-      - samialajrami
+      - sami
       title: Automating Helm deployments to Kubernetes with Helmsman
     - duration: 30m0s
       slides: ""
