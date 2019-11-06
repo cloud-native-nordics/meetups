@@ -329,7 +329,7 @@ meetups:
     - duration: 45m0s
       slides: ""
       speakers:
-      - jeppejohansen
+      - jeppe
       title: From Mainframe to Kubernetes
     - duration: 15m0s
       slides: ""
