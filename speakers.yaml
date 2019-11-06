@@ -327,7 +327,7 @@
   speakersBureau: ""
 - company: schneiderelectric
   email: ""
-  github: ""
+  github: SaaldjorMike
   id: mikerostermund
   name: Mike Rostermund
   speakersBureau: ""
@@ -339,13 +339,13 @@
   speakersBureau: ""
 - company: lix
   email: ""
-  github: ""
+  github: blacksails
   id: benjaminnorgaard
   name: Benjamin Nørgaard
   speakersBureau: ""
 - company: zitcom
   email: ""
-  github: ""
+  github: sazo
   id: danielfly
   name: Daniel Fly
   speakersBureau: ""
@@ -354,7 +354,7 @@
   github: kaspernissen
   id: kaspernissen
   name: Kasper Nissen
-  speakersBureau: ""
+  speakersBureau: kaspernissen
   title: Cloud Architect/SRE, CNCF Ambassador
   twitter: phennex
 - company: neurospace
@@ -380,7 +380,7 @@
   title: Systems Engineer
 - company: tv2play
   email: ""
-  github: ""
+  github: mvillumsen
   id: martinvillumsen
   name: Martin Villumsen
   speakersBureau: ""
@@ -394,38 +394,38 @@
   title: Cloud Architect/SRE
 - company: berlingskemedia
   email: ""
-  github: ""
+  github: bbs-csel
   id: christianselech
   name: Christian Selch
   speakersBureau: ""
 - company: whyyy
   email: ""
-  github: ""
-  id: jeppejohansen
+  github: jepp2078
+  id: jeppe
   name: Jeppe Johansen
-  speakersBureau: ""
-  title: Head of Software Engineering & Lead Software Developer
+  speakersBureau: jepp2078
+  title: Head of Software Engineering
 - company: uberaarhus
   email: ""
-  github: ""
+  github: magnuschatt
   id: magnusvinther
   name: Magnus Vinther
   speakersBureau: ""
 - company: zalando
   email: ""
-  github: ""
+  github: mikkeloscar
   id: mikkeloscarlarsen
   name: Mikkel Oscar Lyderik Larsen
   speakersBureau: ""
 - company: microsoft
   email: ""
-  github: ""
+  github: gkaleta
   id: gustavkaleta
   name: Gustav Kaleta
   speakersBureau: ""
 - company: humio
   email: ""
-  github: ""
+  github: pmech
   id: petermechlenborg
   name: Peter Mechlenborg
   speakersBureau: ""
@@ -437,7 +437,7 @@
   speakersBureau: ""
 - company: bestseller
   email: ""
-  github: ""
+  github: Andrei-Predoiu
   id: andreipredoiu
   name: Andrei Predoiu
   speakersBureau: ""
@@ -467,7 +467,7 @@
   speakersBureau: ""
 - company: praqma
   email: ""
-  github: ""
+  github: Sharor
   id: davidchristensen
   name: David Christensen
   speakersBureau: ""
@@ -479,25 +479,19 @@
   speakersBureau: ""
 - company: praqma
   email: ""
-  github: ""
+  github: ewelinawilkosz
   id: ewelina
   name: Ewelina Wilkosz
   speakersBureau: ""
 - company: laszlocloud
   email: ""
-  github: ""
+  github: laszlocph
   id: laszlo
   name: Laszlo Fogas
   speakersBureau: ""
-- company: praqma
-  email: ""
-  github: ""
-  id: david
-  name: David Christensen
-  speakersBureau: ""
 - company: humio
   email: ""
-  github: ""
+  github: mwl
   id: martin
   name: Martin Westergaard Lassen
   speakersBureau: ""
@@ -509,43 +503,37 @@
   speakersBureau: ""
 - company: cncf
   email: ""
-  github: ""
+  github: idvoretskyi
   id: ihor
   name: Ihor Dvoretskyi
   speakersBureau: ""
 - company: loodse
   email: ""
-  github: ""
+  github: guusvw
   id: guus
   name: Guus van Weelden
   speakersBureau: ""
 - company: praqma
   email: ""
-  github: ""
+  github: sami
   id: sami
   name: Sami Alajrami
   speakersBureau: ""
 - company: microsoft
   email: ""
-  github: ""
+  github: jluk
   id: justin
   name: Justin Luk
   speakersBureau: ""
 - company: jfrog
   email: ""
-  github: ""
+  github: craiglpeters
   id: craig
   name: Craig Peters
   speakersBureau: ""
-- company: whyyy
-  email: ""
-  github: ""
-  id: jeppe
-  name: Jeppe Johansen
-  speakersBureau: ""
 - company: praqma
   email: ""
-  github: ""
+  github: JasmineCrozier
   id: jasmine
   name: Jasmine Crozier
   speakersBureau: ""
@@ -582,25 +570,25 @@
   speakersBureau: ""
 - company: tradeshift
   email: ""
-  github: ""
+  github: sorenmat
   id: sorenmathiasen
   name: Søren Mathiasen
   speakersBureau: ""
 - company: trackunit
   email: ""
-  github: ""
+  github: lnetrackunit
   id: lassenedergaard
   name: Lasse Nedergaard
   speakersBureau: ""
 - company: zalando
   email: ""
-  github: ""
+  github: hjacobs
   id: henningjacobs
   name: Henning Jacobs
   speakersBureau: ""
 - company: mobilepay
   email: ""
-  github: ""
+  github: MartinHave
   id: martinankerhave
   name: Martin Anker Have
   speakersBureau: ""
@@ -612,13 +600,13 @@
   speakersBureau: ""
 - company: mobilepay
   email: ""
-  github: ""
+  github: Rotvig
   id: renerotvigjensen
   name: René Rotvig Jensen
   speakersBureau: ""
 - company: sparnordbank
   email: ""
-  github: ""
+  github: mejlholm
   id: arnemejlholm
   name: Arne Mejlholm
   speakersBureau: ""
@@ -632,7 +620,7 @@
   title: Systems Engineer
 - company: oracle
   email: ""
-  github: ""
+  github: AllanHoejgaardJensen
   id: allanhojgaardjensen
   name: Allan Hojgaard Jensen
   speakersBureau: ""
@@ -646,21 +634,21 @@
   title: Customer Engineer
 - company: blackbeard
   email: ""
-  github: ""
+  github: kevinsimper
   id: kevinsimper
   name: Kevin Simper
   speakersBureau: ""
   title: Freelancer
 - company: trifork
   email: ""
-  github: ""
+  github: lassehoj
   id: lassehojgaard
   name: Lasse Højgaard
   speakersBureau: ""
   title: Software Pilot
 - company: trifork
   email: ""
-  github: ""
+  github: mogensen
   id: frederikmogensen
   name: Frederik Mogensen
   speakersBureau: ""
@@ -674,37 +662,31 @@
   title: DevOps Practice Lead
 - company: evry
   email: ""
-  github: ""
+  github: tomsolem
   id: tomsolem
   name: Tom Solem
   speakersBureau: ""
 - company: evry
   email: ""
-  github: ""
+  github: davidkarlsen
   id: davidkarlsen
   name: David Karlsen
   speakersBureau: ""
 - company: evry
   email: ""
-  github: ""
+  github: randax
   id: randax
   name: Øyvind Randa
   speakersBureau: ""
 - company: evry
   email: ""
-  github: ""
+  github: Modulus
   id: Modulus
   name: John Sigvald Skauge
   speakersBureau: ""
-- company: praqma
-  email: ""
-  github: ""
-  id: samialajrami
-  name: Sami Alajrami
-  speakersBureau: ""
 - company: nav
   email: ""
-  github: ""
+  github: audunstrand
   id: audunstrand
   name: Audun Fauchald Strand
   speakersBureau: ""
@@ -729,13 +711,13 @@
   speakersBureau: ""
 - company: microsoft
   email: ""
-  github: ""
+  github: jeremyrickard
   id: jeremyrickard
   name: Jeremy Rickard
   speakersBureau: ""
 - company: sensa
   email: ""
-  github: ""
+  github: gsig
   id: gunnarsigurdsson
   name: Gunnar Sigurðsson
   speakersBureau: ""
@@ -747,7 +729,7 @@
   speakersBureau: ""
 - company: netapp
   email: ""
-  github: ""
+  github: tryggvil
   id: tryggvilarusson
   name: Tryggvi Lárusson
   speakersBureau: ""
