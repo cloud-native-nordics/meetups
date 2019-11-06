@@ -315,13 +315,14 @@
       "id": "elastisys",
       "name": "Elastisys",
       "websiteURL": "https://elastisys.com/",
-      "logoURL": ""
+      "logoURL": "https://elastisys.com/wp-content/themes/elastisys-wordpress-theme/src/assets/images/logos/elastisys-logo-with-text-allwhite.svg",
+      "whiteLogo": true
     },
     {
       "id": "codemill",
       "name": "Codemill",
       "websiteURL": "https://codemill.se/",
-      "logoURL": ""
+      "logoURL": "https://www.piteasciencepark.se/wp-content/uploads/2016/09/codemill.png"
     },
     {
       "id": "xlent",
@@ -381,7 +382,7 @@
       "id": "sparnordbank",
       "name": "Spar Nord Bank",
       "websiteURL": "https://www.sparnord.dk/",
-      "logoURL": "https://commentor.dk/wp-content/uploads/2018/01/spar-nord-logo.png"
+      "logoURL": "https://www.laanekassen.dk/wp-content/uploads/2014/04/sparnord.png"
     },
     {
       "id": "tv2play",
@@ -399,7 +400,7 @@
       "id": "berlingskemedia",
       "name": "Berlingske Media",
       "websiteURL": "https://www.berlingskemedia.dk/",
-      "logoURL": "http://www.lighthouse-consulting.dk/wp-content/uploads/2015/06/client-logos_berlingske-media-698x500.png"
+      "logoURL": "https://ocast-media-image.s3.amazonaws.com/PumtMtirLSa5uePG_400x400.jpg"
     },
     {
       "id": "trifork",
@@ -417,7 +418,7 @@
       "id": "firstagenda",
       "name": "First Agenda",
       "websiteURL": "https://firstagenda.com",
-      "logoURL": "https://firstagenda.com/assets/F0CD/First-Agenda-logo-RGB-pos-text_transp.png"
+      "logoURL": "https://support.firstagenda.com/sites/default/files/firstagenda-logo_0.png"
     },
     {
       "id": "systematic",
@@ -483,7 +484,7 @@
       "id": "humio",
       "name": "Humio",
       "websiteURL": "https://humio.com/",
-      "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAyNDYgNjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxLjQxNDIxOyI+PGc+PHBhdGggZD0iTTEzMy4wOTksMjIuMTQxbDAsMTQuNjk4YzAsNS41NTkgLTMuNTUzLDkuNjEgLTEwLjE2NSw5LjYxYy02LjYxMiwwIC0xMC4xNjUsLTQuMDUxIC0xMC4xNjUsLTkuNjFsMCwtMTQuNjk4bC00LjczNywwbDAsMTQuNjk4YzAsOC4yOTEgNi4wMiwxMy45NDQgMTQuOTAyLDEzLjk0NGM4Ljg4MiwwIDE0LjkwMiwtNS43NDcgMTQuOTAyLC0xMy45NDRsMCwtMTQuNjk4bC00LjczNywwWiIgc3R5bGU9ImZpbGw6I2ZmZjtmaWxsLXJ1bGU6bm9uemVybzsiLz48cGF0aCBkPSJNNzkuMjE1LDQwLjUxM2wwLC03LjYzMWwxOC43NTEsMGwwLDcuNjMxbDQuNzM3LDBsMCwtMjcuNTExbC00LjczNywwbDAsMTUuNDUybC0xOC43NTEsMGwwLC0xNS40NTJsLTQuODM2LDBsMCwyNy41MTFsNC44MzYsMFoiIHN0eWxlPSJmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87Ii8+PHBhdGggZD0iTTE0Ny42MDcsNDAuNTEzbDAsLTE1LjkyMmMwLC00LjM5NCAzLjc4NiwtOC4wMDkgOC4zODgsLTguMDA5YzQuNjAyLDAgOC4zODksMy42MTUgOC4zODksOC4wMDlsMCwxNS45MjJsNC43MzcsMGwwLC0xNS45MjJjMCwtNC4zOTQgMy43ODcsLTguMDA5IDguMzg4LC04LjAwOWM0LjYwMiwwIDguMzg5LDMuNjE1IDguMzg5LDguMDA5bDAsMTUuOTIybDQuNzM3LDBsMCwtMTUuOTIyYzAuMDcxLC02Ljc5MyAtNS43MTQsLTEyLjQ0NCAtMTIuODMsLTEyLjUzMWwtMC4yOTYsMGMtNC4zNzgsLTAuMDc4IC04LjQ4NCwyLjA3OSAtMTAuNzU3LDUuNjUzYy0yLjI1NSwtMy41OTEgLTYuMzcyLC01Ljc1NSAtMTAuNzU3LC01LjY1M2MtNy4xMTUsLTAuMDY4IC0xMy4wMzQsNS40NTUgLTEzLjEyNiwxMi4yNDhsMCwxNi4yMDVsNC43MzgsMFoiIHN0eWxlPSJmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87Ii8+PHBhdGggZD0iTTIyNi4wNjQsMTYuMjA1YzguNTU0LDAgMTUuNTkzLDYuNzIgMTUuNTkzLDE0Ljg4N2MwLDguMTY2IC03LjAzOSwxNC44ODYgLTE1LjU5MywxNC44ODZjLTguNTU0LDAgLTE1LjU5MiwtNi43MiAtMTUuNTkyLC0xNC44ODZjMC4wMTYsLTguMTYxIDcuMDQ1LC0xNC44NzEgMTUuNTkyLC0xNC44ODdtMCwtNC4xNDVjLTEwLjkzNiwwIC0xOS45MzUsOC41OTEgLTE5LjkzNSwxOS4wMzJjMCwxMC40NCA4Ljk5OSwxOS4wMzIgMTkuOTM1LDE5LjAzMmMxMC45MzcsMCAxOS45MzYsLTguNTkyIDE5LjkzNiwtMTkuMDMyYzAsLTAuMDM4IDAsLTAuMDc2IDAsLTAuMTE0YzAsLTEwLjM3OCAtOC45NDYsLTE4LjkxOSAtMTkuODE3LC0xOC45MTljLTAuMDM5LDAgLTAuMDc5LDAuMDAxIC0wLjExOSwwLjAwMVoiIHN0eWxlPSJmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87Ii8+PHJlY3QgeD0iMTk2LjM1OSIgeT0iMjIuMTQxIiB3aWR0aD0iNC43MzciIGhlaWdodD0iMTguMjc4IiBzdHlsZT0iZmlsbDojZmZmOyIvPjxwYXRoIGQ9Ik0zMiwwbDAuMDE5LDBjMTcuNTQ0LDAgMzEuOTgxLDE0LjQzNyAzMS45ODEsMzEuOTgxYzAsMC4wMDYgMCwwLjAxMyAwLDAuMDE5YzAsMTcuNTU1IC0xNC40NDUsMzIgLTMyLDMyYy0xNy41NTUsMCAtMzIsLTE0LjQ0NSAtMzIsLTMyYzAsLTE3LjU1NSAxNC40NDUsLTMyIDMyLC0zMlptMjAuMTA5LDI3LjU1M2MwLjIzLC0wLjg4NSAwLjM1OSwtMS43OTMgMC4zODYsLTIuNzA3Yy0wLjAzMywtMC45NDUgLTAuMTYzLC0xLjg4NSAtMC4zODYsLTIuODA0bDAsLTkuNjY3bC0xLjE2LDAuMTkzYy0zLjY3NCwwLjM4NyAtNy40NDQsMC42NzcgLTExLjExOCwwLjg3Yy01LjAwMiwtMi4xMjYgLTEwLjY2LC0yLjEyNiAtMTUuNjYyLDBjLTMuNzcsLTAuMTkzIC03LjQ0NCwtMC40ODMgLTExLjExOCwtMC44N2wtMS4xNiwtMC4wOTdsMCw5LjY2OGMtMC4yNzcsMC45MDggLTAuNDA3LDEuODU0IC0wLjM4NiwyLjgwNGMtMC4wMTUsMC45MTcgMC4xMTUsMS44MyAwLjM4NiwyLjcwN2MtMS43NCwwLjk2NiAtMy4wOTMsMy4wOTMgLTMuMDkzLDYuMDljLTAuMTk0LDYuNzY4IDQuNDQ3LDEzLjM0MiA0LjQ0NywxMy4zNDJjMC40OCwtMS40NDQgMS4xNjMsLTIuODExIDIuMDMsLTQuMDYxYzEuNjk3LDIuNjE3IDMuOTgxLDQuODAyIDYuNjcxLDYuMzgxYy0wLjM1NSwtMC4wMDIgLTAuNjg1LDAuMTgyIC0wLjg3LDAuNDgzYy0wLjE4NiwtMC4zMDEgLTAuNTE2LC0wLjQ4NSAtMC44NzEsLTAuNDgzbC0wLjI5LDBjLTAuNTgxLDAuMDA1IC0xLjA1OCwwLjQ4MiAtMS4wNjMsMS4wNjNsMCwzLjQ4MWMtMC4wMDEsMC4wMjIgLTAuMDAyLDAuMDQ1IC0wLjAwMiwwLjA2OGMwLDAuNTg5IDAuNDc2LDEuMDc3IDEuMDY1LDEuMDkybDAuMzg3LDBjMC4zNTQsMC4wMDIgMC42ODUsLTAuMTgyIDAuODcsLTAuNDg0YzAuMTg2LDAuMzAyIDAuNTE2LDAuNDg2IDAuODcsMC40ODRsMC4yOSwwYzAuMzU0LDAuMDAyIDAuNjg1LC0wLjE4MiAwLjg3LC0wLjQ4NGMwLjE4NiwwLjMwMiAwLjUxNiwwLjQ4NiAwLjg3MSwwLjQ4NGwwLjA5NiwwYzAuNTgyLC0wLjAwNSAxLjA1OCwtMC40ODIgMS4wNjQsLTEuMDY0bDAsLTMuMDkzYzQuMzQ1LDEuNTQ2IDkuMDkzLDEuNTQ2IDEzLjQzOCwwbDAsMi45OTdjLTAuMDAyLDAuNjAxIDAuNDY0LDEuMTEgMS4wNjMsMS4xNmwwLjI5LDBjMC4zNTQsMC4wMDIgMC42ODUsLTAuMTgyIDAuODcsLTAuNDg0YzAuMTg2LDAuMzAyIDAuNTE2LDAuNDg2IDAuODcsMC40ODRsMC4yOSwwYzAuMzU1LDAuMDAyIDAuNjg1LC0wLjE4MiAwLjg3LC0wLjQ4NGMwLjE4NiwwLjMwMiAwLjUxNiwwLjQ4NiAwLjg3MSwwLjQ4NGwwLjI5LDBjMC41ODksLTAuMDE1IDEuMDY1LC0wLjUwMyAxLjA2NSwtMS4wOTJjMCwtMC4wMjMgLTAuMDAxLC0wLjA0NiAtMC4wMDIsLTAuMDY4bDAsLTMuNTc3YzAuMDAyLC0wLjYwMiAtMC40NjQsLTEuMTEgLTEuMDYzLC0xLjE2MWwtMC4yOSwwYy0wLjM1NSwtMC4wMDEgLTAuNjg1LDAuMTgyIC0wLjg3MSwwLjQ4NGMtMC4xODUsLTAuMzAyIC0wLjUxNSwtMC40ODUgLTAuODcsLTAuNDg0YzIuNjksLTEuNTc4IDQuOTc0LC0zLjc2MyA2LjY3MSwtNi4zOGMwLjg2NywxLjI1IDEuNTUsMi42MTcgMi4wMyw0LjA2YzAuNDgsMS40NDMgNC42NDEsLTYuNTc0IDQuNDQ3LC0xMy4zNDFjMC4xMzgsLTIuNDA5IC0xLjA1LC00LjcxIC0zLjA5MywtNS45OTRabS0yMC4xMDksMTAuMzQ0bC0zLjk2NCwtMy45NjNjMS43MTEsLTEuMTI1IDMuMDgyLC0yLjY5NiAzLjk2NCwtNC41NDRjMC44NTUsMS44NjUgMi4yMzIsMy40NDMgMy45NjQsNC41NDRsLTMuOTY0LDMuOTYzWm0tOS43NjQsLTQuMjUzYy00Ljc3NCwwIC04LjcwMSwtMy45MjggLTguNzAxLC04LjcwMWMwLC00Ljc3NCAzLjkyNywtOC43MDEgOC43MDEsLTguNzAxYzQuNzczLDAgOC43MDEsMy45MjcgOC43MDEsOC43MDFjMCw0Ljc3MyAtMy45MjgsOC43IC04LjcwMSw4LjcwMVptMTkuNTI4LDBjLTQuNzczLDAgLTguNzAxLC0zLjkyOCAtOC43MDEsLTguNzAxYzAsLTQuNzc0IDMuOTI4LC04LjcwMSA4LjcwMSwtOC43MDFjNC43NzQsMCA4LjcwMSwzLjkyNyA4LjcwMSw4LjcwMWMwLDQuNzczIC0zLjkyNyw4LjcwMSAtOC43MDEsOC43MDFabTAsLTEyLjM3NWMyLjAyOCwwIDMuNjc0LDEuNjQ2IDMuNjc0LDMuNjc0YzAsMi4wMjcgLTEuNjQ2LDMuNjczIC0zLjY3NCwzLjY3M2MtMi4wMjcsMCAtMy42NzMsLTEuNjQ2IC0zLjY3MywtMy42NzNjMCwtMi4wMjggMS42NDYsLTMuNjc0IDMuNjczLC0zLjY3NFptLTE5LjUyOCwwYzIuMDI3LDAgMy42NzMsMS42NDYgMy42NzMsMy42NzRjMCwyLjAyNyAtMS42NDYsMy42NzMgLTMuNjczLDMuNjczYy0yLjAyOCwwIC0zLjY3NCwtMS42NDYgLTMuNjc0LC0zLjY3M2MwLC0yLjAyOCAxLjY0NiwtMy42NzQgMy42NzQsLTMuNjc0WiIgc3R5bGU9ImZpbGw6I2ZmZjsiLz48L2c+PC9zdmc+"
+      "logoURL": "https://dv-website.s3.amazonaws.com/uploads/2018/04/hu.png"
     },
     {
       "id": "economic",
@@ -495,7 +496,7 @@
       "id": "loodse",
       "name": "Loodse",
       "websiteURL": "https://www.loodse.com/",
-      "logoURL": "https://www.loodse.com/images/logo.png"
+      "logoURL": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1494955079/enixspcrblc1cjhvsske.png"
     },
     {
       "id": "jfrog",
@@ -519,7 +520,7 @@
       "id": "elastx",
       "name": "ELASTX",
       "websiteURL": "https://elastx.se/en",
-      "logoURL": "https://elastx.se/sites/default/files/ELASTX_0_1.png"
+      "logoURL": "https://www.datocms-assets.com/2885/1506458377-elastx-dark.png?fit=max\u0026fm=webp\u0026q=80\u0026w=2500"
     },
     {
       "id": "jysk",

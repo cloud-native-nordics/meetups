@@ -212,12 +212,12 @@
   websiteURL: https://www.yolean.com/
   whiteLogo: true
 - id: elastisys
-  logoURL: "https://elastisys.com/wp-content/themes/elastisys-wordpress-theme/src/assets/images/logos/elastisys-logo-with-text-allwhite.svg"
+  logoURL: https://elastisys.com/wp-content/themes/elastisys-wordpress-theme/src/assets/images/logos/elastisys-logo-with-text-allwhite.svg
   name: Elastisys
-  whiteLogo: true
   websiteURL: https://elastisys.com/
+  whiteLogo: true
 - id: codemill
-  logoURL: "https://www.piteasciencepark.se/wp-content/uploads/2016/09/codemill.png"
+  logoURL: https://www.piteasciencepark.se/wp-content/uploads/2016/09/codemill.png
   name: Codemill
   websiteURL: https://codemill.se/
 - id: xlent
