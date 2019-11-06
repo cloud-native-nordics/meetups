@@ -19,55 +19,55 @@
   speakersBureau: ""
 - company: futurice
   email: ""
-  github: ""
+  github: ilkka
   id: poutanen
   name: Ilkka Poutanen
   speakersBureau: ""
 - company: cybercom
   email: ""
-  github: ""
+  github: toddnni
   id: ylenius
   name: Toni Ylenius
   speakersBureau: ""
 - company: eficode
   email: ""
-  github: ""
+  github: chaggeus
   id: hoisko
   name: Sakari Hoisko
   speakersBureau: ""
 - company: emblica
   email: ""
-  github: ""
+  github: theikkila
   id: teemu
   name: Teemu Heikkilä
   speakersBureau: ""
 - company: microsoft
   email: ""
-  github: ""
+  github: Ani000
   id: annie
   name: Annie Talvasto
   speakersBureau: ""
 - company: d2iq
   email: ""
-  github: ""
+  github: joerg84
   id: jörg
   name: Jörg Schad
   speakersBureau: ""
 - company: nokia
   email: ""
-  github: ""
+  github: salkin
   id: niklas
   name: Niklas Wik
   speakersBureau: ""
 - company: accenture
   email: ""
-  github: ""
+  github: oscarrenalias
   id: oscar
   name: Oscar Renalias
   speakersBureau: ""
 - company: microsoft
   email: ""
-  github: ""
+  github: filmgirl
   id: christina
   name: Christina Warren
   speakersBureau: ""
@@ -79,68 +79,68 @@
   speakersBureau: ""
 - company: tuxera
   email: ""
-  github: ""
+  github: maniankara
   id: anoop
   name: Anoop Vijayan
   speakersBureau: ""
 - company: unity
   email: ""
-  github: ""
+  github: rasmus-unity
   id: rasmus
   name: Rasmus Selsmark
   speakersBureau: ""
 - company: elisa
   email: ""
-  github: ""
+  github: Tobatus
   id: tommi
   name: Tommi Berg
   speakersBureau: ""
 - company: qvik
   email: ""
-  github: ""
+  github: jerryjj
   id: jerry
   name: Jerry Jalava
   speakersBureau: ""
 - company: redhat
   email: ""
-  github: ""
+  github: marekjelen
   id: marek
   name: Marek Jelen
   speakersBureau: ""
 - company: eficode
   email: ""
-  github: ""
+  github: severi
   id: severi
   name: Severi Haverila
   speakersBureau: ""
 - company: sshcom
   email: ""
-  github: ""
+  github: markkurossi
   id: markku
   name: Markku Rossi
   speakersBureau: ""
   title: CTO
 - company: intel
   email: ""
-  github: ""
+  github: kad
   id: alexander
   name: Alexander Kanevskiy
   speakersBureau: ""
 - company: kompozure
   email: ""
-  github: ""
+  github: fincooper
   id: karl
   name: Karl Ots
   speakersBureau: ""
 - company: zalando
   email: ""
-  github: ""
+  github: duergner
   id: michael
   name: Michael Duergner
   speakersBureau: ""
 - company: intel
   email: ""
-  github: ""
+  github: mythi
   id: mylinen
   name: Mikko Ylinen
   speakersBureau: ""
@@ -188,32 +188,32 @@
   speakersBureau: ""
 - company: d2iq
   email: ""
-  github: ""
+  github: yankcrime
   id: nickjones
   name: Nick Jones
   speakersBureau: ""
 - company: microsoft
   email: ""
-  github: ""
+  github: sachinkundu
   id: sachinkundu
   name: Sachin Kundu
   speakersBureau: ""
 - company: chaosiq
   email: ""
-  github: ""
+  github: russmiles
   id: russmiles
   name: Russ Miles
   speakersBureau: ""
   title: CEO
 - company: loodse
   email: ""
-  github: ""
+  github: eqrx
   id: alexandersowitzki
   name: Alexander Sowitzki
   speakersBureau: ""
 - company: nokia
   email: ""
-  github: ""
+  github: CsatariGergely
   id: gergelycsatari
   name: Gergely Csatári
   speakersBureau: ""
@@ -225,19 +225,19 @@
   speakersBureau: ""
 - company: meltwater
   email: ""
-  github: ""
+  github: Solisol
   id: jessicaandersson
   name: Jessica Andersson
   speakersBureau: ""
 - company: meltwater
   email: ""
-  github: ""
+  github: recollir
   id: federicohernandez
   name: Federico Hernandez
   speakersBureau: ""
 - company: meltwater
   email: ""
-  github: ""
+  github: dezmodue
   id: simonesciarrati
   name: Simone Sciarrati
   speakersBureau: ""
@@ -255,7 +255,7 @@
   speakersBureau: ""
 - company: pagero
   email: ""
-  github: ""
+  github: peterrosell
   id: peterrosell
   name: Peter Rosell
   speakersBureau: ""
@@ -267,13 +267,13 @@
   speakersBureau: ""
 - company: codemill
   email: ""
-  github: ""
+  github: cartmanume
   id: eriklindskog
   name: Erik Lindskog
   speakersBureau: ""
 - company: elastisys
   email: ""
-  github: ""
+  github: tordsson
   id: tordsson
   name: Johan Tordsson
   speakersBureau: ""
@@ -285,31 +285,31 @@
   speakersBureau: ""
 - company: ""
   email: ""
-  github: ""
+  github: Jacobh2
   id: jacobhagstedtpsuorra
   name: Jacob Hagstedt P Suorra
   speakersBureau: ""
 - company: ""
   email: ""
-  github: ""
+  github: Kalle444
   id: karlbergstrom
   name: Karl Bergström
   speakersBureau: ""
 - company: nordcloud
   email: ""
-  github: ""
+  github: pkieszcz
   id: piotr
   name: Piotr Kieszczyński
   speakersBureau: ""
 - company: praqma
   email: ""
-  github: ""
+  github: hoeghh
   id: henrikhoegh
   name: Henrik Høegh
   speakersBureau: ""
 - company: praqma
   email: ""
-  github: ""
+  github: MichaelVL
   id: michaelvittruplarsen
   name: Michael Vittrup Larsen
   speakersBureau: ""
