@@ -15,6 +15,7 @@
 
 - Date: 6 November, 2019 at 17:30 - 20:00
 - Meetup link: https://www.meetup.com/cloudnative-bergen/events/265768501
+- Attendees (according to meetup.com): 19
 - Venue sponsor: [EVRY](https://www.evry.com/en/)
 
 #### Agenda
