@@ -239,9 +239,9 @@
   logoURL: https://landscape.cncf.io/logos/digital-ocean-kubernetes.svg
   name: Digital Ocean
   websiteURL: https://www.digitalocean.com/
-- id: lunarway
-  logoURL: https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunarway_black.png
-  name: Lunar Way
+- id: lunar
+  logoURL: https://lunarway-public-images-misc.s3-eu-west-1.amazonaws.com/lunar.png
+  name: Lunar
   websiteURL: https://www.lunarway.com
 - id: schneiderelectric
   logoURL: https://www.schneider-electric.com/olssp-resources/images/schneider_electric-logo.png
