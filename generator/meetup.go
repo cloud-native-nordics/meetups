@@ -50,6 +50,7 @@ func GetMeetupInfoFromAPI(humanGen MeetupGroup) (*AutogenMeetupGroup, error) {
 		meetup := AutogenMeetup{}
 		id, _ := strconv.Atoi(ev.ID)
 		meetup.ID = uint64(id)
+		meetup.Photo = ev.Photo.Link
 		meetup.Date = *t
 		meetup.Name = ev.Name
 		meetup.Address = ev.Venue.Address
@@ -78,7 +79,7 @@ func fetchMeetupGroup(meetupGroupID string, mg *meetupGroupAPI) error {
 }
 
 func fetchMeetups(meetupGroupID string, meetups *[]meetupAPI) error {
-	url := fmt.Sprintf("https://api.meetup.com/%s/events?sign=true&photo-host=public&page=100&status=past,upcoming", meetupGroupID)
+	url := fmt.Sprintf("https://api.meetup.com/%s/events?sign=true&photo-host=public&page=100&status=past,upcoming&fields=featured_photo", meetupGroupID)
 	return GetJSON(url, meetups)
 }
 
@@ -110,6 +111,9 @@ type meetupAPI struct {
 	Venue    struct {
 		Address string `json:"address_1"`
 	} `json:"venue"`
+	Photo struct {
+		Link string `json:"highres_link"`
+	} `json:"featured_photo"`
 	Attendance []meetupAttendanceAPI `json:"-"`
 }
 

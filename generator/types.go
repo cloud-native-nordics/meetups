@@ -298,6 +298,7 @@ func (ml MeetupList) Swap(i, j int) {
 
 type AutogenMeetup struct {
 	ID        uint64   `json:"id"`
+	Photo     string   `json:"photo,omitempty"`
 	Name      string   `json:"name"`
 	Date      Time     `json:"date,omitempty"`
 	Duration  Duration `json:"duration,omitempty"`

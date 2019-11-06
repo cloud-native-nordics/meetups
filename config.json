@@ -1676,6 +1676,7 @@
       "meetups": {
         "20190904": {
           "id": 263744803,
+          "photo": "https://secure.meetupstatic.com/photos/event/3/0/b/4/highres_483972468.jpeg",
           "name": "#1 - Initial Meetup in Cloud Native Aalborg",
           "date": "2019-09-04T17:00:00Z",
           "duration": "3h0m0s",
@@ -1759,6 +1760,7 @@
         },
         "20191010": {
           "id": 263744855,
+          "photo": "https://secure.meetupstatic.com/photos/event/8/e/3/3/highres_484836403.jpeg",
           "name": "#2 - Kubernetes Intro, Automated install and Observability",
           "date": "2019-10-10T16:45:00Z",
           "duration": "3h15m0s",
@@ -2362,6 +2364,7 @@
         },
         "20181106": {
           "id": 255632833,
+          "photo": "https://secure.meetupstatic.com/photos/event/f/e/b/highres_475744075.jpeg",
           "name": "10th Meet-up Anniversary Edition: Cloud Native with Zalando and Uber",
           "date": "2018-11-06T17:00:00Z",
           "duration": "3h0m0s",
@@ -2435,6 +2438,7 @@
         },
         "20181211": {
           "id": 256345753,
+          "photo": "https://secure.meetupstatic.com/photos/event/d/7/0/4/highres_476635044.jpeg",
           "name": "From Mainframe to Kubernetes / CloudNativeCon+KubeCon Keynotes Live Stream",
           "date": "2018-12-11T16:30:00Z",
           "duration": "3h30m0s",
@@ -2498,6 +2502,7 @@
         },
         "20190108": {
           "id": 257106811,
+          "photo": "https://secure.meetupstatic.com/photos/event/6/d/c/7/highres_477028103.jpeg",
           "name": "Cloud Native Aarhus #12: Cloud Native Data Platform and CI/CD",
           "date": "2019-01-08T17:00:00Z",
           "duration": "3h0m0s",
@@ -2557,6 +2562,7 @@
         },
         "20190212": {
           "id": 257138158,
+          "photo": "https://secure.meetupstatic.com/photos/event/a/4/0/9/highres_477641993.jpeg",
           "name": "Beyond Kubernetes and Prometheus - A closer look at the other CNCF projects ",
           "date": "2019-02-12T17:00:00Z",
           "duration": "3h0m0s",
@@ -2644,6 +2650,7 @@
         },
         "20190305": {
           "id": 258287765,
+          "photo": "https://secure.meetupstatic.com/photos/event/4/0/5/9/highres_478036473.jpeg",
           "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
           "date": "2019-03-05T17:00:00Z",
           "duration": "3h0m0s",
@@ -2704,6 +2711,7 @@
         },
         "20190328": {
           "id": 259259564,
+          "photo": "https://secure.meetupstatic.com/photos/event/e/5/d/5/highres_479098837.jpeg",
           "name": "Cloud Native Aarhus Hack Nights: Kubernetes 101",
           "date": "2019-03-28T16:30:00Z",
           "duration": "3h30m0s",
@@ -2776,6 +2784,7 @@
         },
         "20190425": {
           "id": 259259651,
+          "photo": "https://secure.meetupstatic.com/photos/event/6/6/6/1/highres_479066209.jpeg",
           "name": "From Mainframe to Cloud Native and State of Windows Containers and Kubernetes",
           "date": "2019-04-25T17:00:00Z",
           "duration": "3h0m0s",
@@ -2838,6 +2847,7 @@
         },
         "20190528": {
           "id": 261130244,
+          "photo": "https://secure.meetupstatic.com/photos/event/5/d/b/e/highres_481163998.jpeg",
           "name": "Cloud Native Hack Nights #2: Prometheus",
           "date": "2019-05-28T16:30:00Z",
           "duration": "4h30m0s",
@@ -2919,6 +2929,7 @@
         },
         "20190603": {
           "id": 261537949,
+          "photo": "https://secure.meetupstatic.com/photos/event/9/4/6/2/highres_481537986.jpeg",
           "name": "Kubernetes Failure Stories \u0026 How to manage Cloud Native secrets with Vault",
           "date": "2019-06-03T16:30:00Z",
           "duration": "3h30m0s",
@@ -2977,6 +2988,7 @@
         },
         "20190625": {
           "id": 261346897,
+          "photo": "https://secure.meetupstatic.com/photos/event/c/a/a/f/highres_481731887.jpeg",
           "name": "Cloud Native Streaming with Apache Flink and a Fairytale of Databases",
           "date": "2019-06-25T17:00:00Z",
           "duration": "4h0m0s",
@@ -3036,6 +3048,7 @@
         },
         "20190808": {
           "id": 262572886,
+          "photo": "https://secure.meetupstatic.com/photos/event/8/2/7/e/highres_482553406.jpeg",
           "name": "Versioning in a Cloud Native landscape",
           "date": "2019-08-08T17:00:00Z",
           "duration": "3h0m0s",
@@ -3052,6 +3065,7 @@
         },
         "20190821": {
           "id": 264122411,
+          "photo": "https://secure.meetupstatic.com/photos/event/1/0/1/f/highres_484144127.jpeg",
           "name": "Cloud Native Aarhus Special: Lucas Käldström aka @kubernetesonarm",
           "date": "2019-08-21T16:30:00Z",
           "duration": "3h30m0s",
@@ -3146,6 +3160,7 @@
         },
         "20190924": {
           "id": 264325804,
+          "photo": "https://secure.meetupstatic.com/photos/event/d/b/f/6/highres_484736310.jpeg",
           "name": "Cloud Native Aarhus: Google Cloud \u0026 Istio",
           "date": "2019-09-24T17:00:00Z",
           "duration": "3h0m0s",
@@ -3189,6 +3204,7 @@
         },
         "20191022": {
           "id": 264744301,
+          "photo": "https://secure.meetupstatic.com/photos/event/5/8/c/4/highres_485002724.jpeg",
           "name": "Chaos Engineering with Russ Miles \u0026 KubeOne with Alexander Sowitzki",
           "date": "2019-10-22T17:00:00Z",
           "duration": "3h0m0s",
@@ -3311,6 +3327,7 @@
         },
         "20180118": {
           "id": 246129996,
+          "photo": "https://secure.meetupstatic.com/photos/event/b/e/4/5/highres_467088709.jpeg",
           "name": "Hands on Kubernetes and Google Cloud",
           "date": "2018-01-18T17:00:00Z",
           "duration": "4h0m0s",
@@ -3337,6 +3354,7 @@
         },
         "20181101": {
           "id": 255241597,
+          "photo": "https://secure.meetupstatic.com/photos/event/c/1/7/9/highres_475129529.jpeg",
           "name": "Helm – The Kubernetes Package Manager",
           "date": "2018-11-01T17:30:00Z",
           "duration": "2h0m0s",
@@ -3362,6 +3380,7 @@
         },
         "20190815": {
           "id": 263860870,
+          "photo": "https://secure.meetupstatic.com/photos/event/2/0/4/8/highres_483848264.jpeg",
           "name": "Infrastructure as Code with Terraform",
           "date": "2019-08-15T18:00:00Z",
           "duration": "2h0m0s",
@@ -3387,6 +3406,7 @@
         },
         "20191016": {
           "id": 265630882,
+          "photo": "https://secure.meetupstatic.com/photos/event/1/c/1/0/highres_485707184.jpeg",
           "name": "Knative - Serverless on your own terms",
           "date": "2019-10-16T17:30:00Z",
           "duration": "3h0m0s",
@@ -3413,6 +3433,7 @@
         },
         "20191106": {
           "id": 265768501,
+          "photo": "https://secure.meetupstatic.com/photos/event/7/1/a/6/highres_485849094.jpeg",
           "name": "Serverless on AWS",
           "date": "2019-11-06T17:30:00Z",
           "duration": "2h30m0s",
@@ -3549,6 +3570,7 @@
         },
         "20180123": {
           "id": 246008132,
+          "photo": "https://secure.meetupstatic.com/photos/event/1/b/4/e/highres_466986990.jpeg",
           "name": "Lab session: How to Kubernetes?",
           "date": "2018-01-23T17:00:00Z",
           "duration": "3h0m0s",
@@ -3608,6 +3630,7 @@
         },
         "20180308": {
           "id": 247310136,
+          "photo": "https://secure.meetupstatic.com/photos/event/d/9/2/b/highres_468655595.jpeg",
           "name": "Expert night: bare metal and chaos engineering",
           "date": "2018-03-08T17:00:00Z",
           "duration": "3h0m0s",
@@ -3665,6 +3688,7 @@
         },
         "20180430": {
           "id": 249226057,
+          "photo": "https://secure.meetupstatic.com/photos/event/b/9/d/4/highres_469667572.jpeg",
           "name": "Let's warm-up before KubeCon-CloudNativeCon!",
           "date": "2018-04-30T17:30:00Z",
           "duration": "3h0m0s",
@@ -3752,6 +3776,7 @@
         },
         "20181106": {
           "id": 255293027,
+          "photo": "https://secure.meetupstatic.com/photos/event/6/3/e/0/highres_475165568.jpeg",
           "name": "Windows containers, Kubernetes in the enterprise",
           "date": "2018-11-06T17:00:00Z",
           "duration": "3h0m0s",
@@ -3809,6 +3834,7 @@
         },
         "20190313": {
           "id": 258900627,
+          "photo": "https://secure.meetupstatic.com/photos/event/5/a/8/e/highres_478643182.jpeg",
           "name": "Cloud Native Solutions and Intelligent Scaling in the Media Industry",
           "date": "2019-03-13T17:00:00Z",
           "duration": "3h0m0s",
@@ -3842,6 +3868,7 @@
         },
         "20190425": {
           "id": 259355667,
+          "photo": "https://secure.meetupstatic.com/photos/event/6/a/a/2/highres_479067298.jpeg",
           "name": "Cloud Native Architecture at scale and a Fairytale of Databases",
           "date": "2019-04-25T17:00:00Z",
           "duration": "3h0m0s",
@@ -3853,6 +3880,7 @@
         },
         "20190611": {
           "id": 261858991,
+          "photo": "https://secure.meetupstatic.com/photos/event/4/8/e/b/highres_481758667.jpeg",
           "name": "Cloud Native Copenhagen Hack Nights: Kubernetes 101",
           "date": "2019-06-11T13:00:00Z",
           "duration": "3h0m0s",
@@ -3864,6 +3892,7 @@
         },
         "20190821": {
           "id": 262635188,
+          "photo": "https://secure.meetupstatic.com/photos/event/4/4/3/f/highres_482597471.jpeg",
           "name": "Cloud Native Stories: TV 2 Play \u0026 Spar Nord Bank",
           "date": "2019-08-21T17:00:00Z",
           "duration": "3h0m0s",
@@ -3875,6 +3904,7 @@
         },
         "20190910": {
           "id": 262668370,
+          "photo": "https://secure.meetupstatic.com/photos/event/4/3/f/b/highres_483557403.jpeg",
           "name": "Cloud Native Logging and Application Performance Management",
           "date": "2019-09-10T17:00:00Z",
           "duration": "3h0m0s",
@@ -3886,6 +3916,7 @@
         },
         "20191021": {
           "id": 264886621,
+          "photo": "https://secure.meetupstatic.com/photos/event/4/6/1/3/highres_484937939.jpeg",
           "name": "Chaos Engineering, Istio \u0026 KubeOne",
           "date": "2019-10-21T17:00:00Z",
           "duration": "3h0m0s",
@@ -4016,6 +4047,7 @@
         },
         "20190509": {
           "id": 260863253,
+          "photo": "https://secure.meetupstatic.com/photos/event/d/3/4/2/highres_480714082.jpeg",
           "name": "18 months of kubernetes in production and learning",
           "date": "2019-05-09T18:00:00Z",
           "duration": "2h0m0s",
@@ -4062,6 +4094,7 @@
         },
         "20190827": {
           "id": 263936791,
+          "photo": "https://secure.meetupstatic.com/photos/event/b/2/7/0/highres_483945680.jpeg",
           "name": "Kubernetes Göteborg \u0026 CloudNativeGbg#4 - Automation in Cloud Native Environments",
           "date": "2019-08-27T17:40:00Z",
           "duration": "3h0m0s",
@@ -4411,6 +4444,7 @@
         },
         "20180606": {
           "id": 250712383,
+          "photo": "https://secure.meetupstatic.com/photos/event/5/e/b/c/highres_471024252.jpeg",
           "name": "Kubernetes Summer Meetup",
           "date": "2018-06-06T18:00:00Z",
           "duration": "2h0m0s",
@@ -4487,6 +4521,7 @@
         },
         "20180828": {
           "id": 252546014,
+          "photo": "https://secure.meetupstatic.com/photos/event/5/e/b/c/highres_471024252.jpeg",
           "name": "Kubernetes Autumn Meetup",
           "date": "2018-08-28T18:00:00Z",
           "duration": "3h0m0s",
@@ -4574,6 +4609,7 @@
         },
         "20181203": {
           "id": 255665681,
+          "photo": "https://secure.meetupstatic.com/photos/event/5/e/b/c/highres_471024252.jpeg",
           "name": "Pre-Slush Kubernetes Meetup",
           "date": "2018-12-03T18:00:00Z",
           "duration": "3h0m0s",
@@ -4663,6 +4699,7 @@
         },
         "20190123": {
           "id": 256936479,
+          "photo": "https://secure.meetupstatic.com/photos/event/4/b/1/c/highres_476839228.jpeg",
           "name": "Winter Kubernetes Meetup",
           "date": "2019-01-23T18:00:00Z",
           "duration": "3h0m0s",
@@ -4740,6 +4777,7 @@
         },
         "20190325": {
           "id": 259072993,
+          "photo": "https://secure.meetupstatic.com/photos/event/4/b/1/c/highres_476839228.jpeg",
           "name": "Kubernetes 101 Hands-On Workshop",
           "date": "2019-03-25T17:00:00Z",
           "duration": "3h30m0s",
@@ -4777,6 +4815,7 @@
         },
         "20190611": {
           "id": 261376372,
+          "photo": "https://secure.meetupstatic.com/photos/event/3/b/d/4/highres_481215316.jpeg",
           "name": "Summer Meetup in Helsinki",
           "date": "2019-06-11T18:00:00Z",
           "duration": "3h0m0s",
@@ -4870,6 +4909,7 @@
         },
         "20190827": {
           "id": 263999844,
+          "photo": "https://secure.meetupstatic.com/photos/event/3/b/d/4/highres_481215316.jpeg",
           "name": "August Meetup in Helsinki",
           "date": "2019-08-27T18:00:00Z",
           "duration": "3h0m0s",
@@ -4957,6 +4997,7 @@
         },
         "20191024": {
           "id": 264646130,
+          "photo": "https://secure.meetupstatic.com/photos/event/b/6/2/a/highres_485206634.jpeg",
           "name": "October: Chaos Engineering \u0026 KubeOne",
           "date": "2019-10-24T18:00:00Z",
           "duration": "3h0m0s",
@@ -5040,6 +5081,7 @@
         },
         "20191128": {
           "id": 265529376,
+          "photo": "https://secure.meetupstatic.com/photos/event/7/8/7/f/highres_485610847.jpeg",
           "name": "Post-KubeCon US Meetup in Helsinki",
           "date": "2019-11-28T18:00:00Z",
           "duration": "3h0m0s",
@@ -5129,6 +5171,7 @@
         },
         "20180319": {
           "id": 247118534,
+          "photo": "https://secure.meetupstatic.com/photos/event/d/8/9/2/highres_467875442.jpeg",
           "name": "Day of Cloud Native warm-up!",
           "date": "2018-03-19T18:30:00Z",
           "duration": "2h30m0s",
@@ -5162,6 +5205,7 @@
         },
         "20181129": {
           "id": 255573496,
+          "photo": "https://secure.meetupstatic.com/photos/event/c/c/a/f/highres_475492399.jpeg",
           "name": "GitOps your kubernetes deployments with Helm and Helmsman",
           "date": "2018-11-29T17:00:00Z",
           "duration": "2h0m0s",
@@ -5313,6 +5357,7 @@
         },
         "20190919": {
           "id": 264366013,
+          "photo": "https://secure.meetupstatic.com/photos/event/2/d/4/e/highres_484391598.jpeg",
           "name": "In the Dangling Conversation ... We Speak of Things That Matter",
           "date": "2019-09-19T16:00:00Z",
           "duration": "2h0m0s",
@@ -5499,6 +5544,7 @@
         },
         "20191023": {
           "id": 265099547,
+          "photo": "https://secure.meetupstatic.com/photos/event/e/8/f/9/highres_485159641.jpeg",
           "name": "Chaos, Storage, and Caching",
           "date": "2019-10-23T17:30:00Z",
           "duration": "3h0m0s",
@@ -5546,6 +5592,7 @@
       "meetups": {
         "20190117": {
           "id": 257164934,
+          "photo": "https://secure.meetupstatic.com/photos/event/3/a/b/c/highres_477675036.jpeg",
           "name": "First Kubernetes and CNCF Tampere Meetup",
           "date": "2019-01-17T18:00:00Z",
           "duration": "3h0m0s",
@@ -5631,6 +5678,7 @@
         },
         "20190404": {
           "id": 258970382,
+          "photo": "https://secure.meetupstatic.com/photos/event/d/6/b/d/highres_478674973.jpeg",
           "name": "April Kubernetes Tampere Meetup",
           "date": "2019-04-04T17:00:00Z",
           "duration": "3h0m0s",
@@ -5716,6 +5764,7 @@
         },
         "20190613": {
           "id": 261344385,
+          "photo": "https://secure.meetupstatic.com/photos/event/d/6/b/d/highres_478674973.jpeg",
           "name": "Summer Kubernetes Tampere Meetup",
           "date": "2019-06-13T17:00:00Z",
           "duration": "3h0m0s",
@@ -5800,6 +5849,7 @@
         },
         "20190828": {
           "id": 263932460,
+          "photo": "https://secure.meetupstatic.com/photos/event/a/1/a/c/highres_483941388.jpeg",
           "name": "August Kubernetes Meetup in Tampere",
           "date": "2019-08-28T17:00:00Z",
           "duration": "3h0m0s",
@@ -5886,6 +5936,7 @@
         },
         "20191029": {
           "id": 265150836,
+          "photo": "https://secure.meetupstatic.com/photos/event/c/0/5/7/highres_485209239.jpeg",
           "name": "Kubernetes 101 Hands-On Workshop",
           "date": "2019-10-29T17:00:00Z",
           "duration": "4h0m0s",
@@ -5952,9 +6003,11 @@
       "meetups": {
         "20191031": {
           "id": 264987939,
+          "photo": "https://secure.meetupstatic.com/photos/event/b/7/7/5/highres_485206965.jpeg",
           "name": "First Kubernetes Turku Meetup!",
           "date": "2019-10-31T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 49,
           "address": "Lemminkäisenkatu 14B",
           "recording": "",
           "sponsors": [
@@ -6038,6 +6091,7 @@
         },
         "20191212": {
           "id": 265794322,
+          "photo": "https://secure.meetupstatic.com/photos/event/c/5/2/6/highres_485870470.jpeg",
           "name": "December Meetup in Turku",
           "date": "2019-12-12T17:00:00Z",
           "duration": "3h0m0s",
@@ -6073,6 +6127,7 @@
       "meetups": {
         "20181120": {
           "id": 255929396,
+          "photo": "https://secure.meetupstatic.com/photos/event/4/f/9/5/highres_475880373.jpeg",
           "name": "Cloud-native, Kubernetes and trends",
           "date": "2018-11-20T17:00:00Z",
           "duration": "2h0m0s",
@@ -6099,6 +6154,7 @@
         },
         "20190228": {
           "id": 257861742,
+          "photo": "https://secure.meetupstatic.com/photos/event/b/1/0/8/highres_477645320.jpeg",
           "name": "Cloud native lightning talks",
           "date": "2019-02-28T17:00:00Z",
           "duration": "2h0m0s",
@@ -6127,6 +6183,7 @@
         },
         "20190507": {
           "id": 260276456,
+          "photo": "https://secure.meetupstatic.com/photos/event/e/6/3/1/highres_480058929.jpeg",
           "name": "What does “production ready” really mean for a Kubernetes cluster?",
           "date": "2019-05-07T17:00:00Z",
           "duration": "2h0m0s",
@@ -6153,6 +6210,7 @@
         },
         "20190528": {
           "id": 261450080,
+          "photo": "https://secure.meetupstatic.com/photos/event/3/2/f/highres_481320815.jpeg",
           "name": "Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona ",
           "date": "2019-05-28T17:00:00Z",
           "duration": "2h0m0s",
