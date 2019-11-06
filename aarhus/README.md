@@ -173,7 +173,7 @@
   - René Rotvig Jensen, [MobilePay](https://mobilpay.dk)
 - 18:00 - 18:30: Food and break 
 - 18:30 - 19:15: The state of Windows & Kubernetes, with an Azure flavor 
-  - Hans Duedal, [E-conomic](https://www.e-conomic.dk/)
+  - Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
 - 19:15 - 20:00: Discussions and networking 
 
 ### Cloud Native Aarhus Hack Nights: Kubernetes 101

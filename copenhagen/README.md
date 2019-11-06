@@ -12,6 +12,7 @@
 - Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
 - Jasmine Crozier, [Praqma](https://www.praqma.com/)
 - Jeppe Johansen, [Whyyy](https://whyyy.dk/)
+- Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
 
 ### Chaos Engineering, Istio & KubeOne
 
@@ -96,7 +97,7 @@
 
 - 17:00 - 17:20: Gates open 
 - 17:20 - 18:00: The state of Windows & Kubernetes, with an Azure flavor 
-  - Hans Duedal, [E-conomic](https://www.e-conomic.dk/)
+  - Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
 - 18:00 - 18:20: Break 
 - 18:20 - 19:00: From mainframe to Kubernetes 
   - Jeppe Johansen, [Whyyy](https://whyyy.dk/)
@@ -140,7 +141,7 @@
 - 17:00 - 17:30: Gates open 
 - 17:30 - 17:35: Welcome 
 - 17:35 - 18:15: Network Services on Kubernetes on-premise 
-  - Hans Duedal, [E-conomic](https://www.e-conomic.dk/)
+  - Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
   - Slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf
 - 18:15 - 18:30: Break 
 - 18:30 - 19:15: Chaos Engineering 
