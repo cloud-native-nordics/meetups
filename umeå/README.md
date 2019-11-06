@@ -1,6 +1,6 @@
 # Meetups organized in Umeå
 
-<img width="50%" align="right" alt="Meetup Group Logo" src="https://secure.meetupstatic.com/photos/event/a/e/4/5/highres_476504613.jpeg">
+<img width="50%" align="right" alt="Meetup Group Logo" src="https://secure.meetupstatic.com/photos/event/1/3/4/5/highres_486424933.jpeg">
 
 ## Description
 

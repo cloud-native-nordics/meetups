@@ -4,10 +4,10 @@
     "sponsors": 114,
     "speakers": 122,
     "meetups": 91,
-    "members": 5600,
+    "members": 5616,
     "totalRSVPs": 4755,
     "averageRSVPs": 52,
-    "uniqueRSVPs": 2647
+    "uniqueRSVPs": 2646
   },
   "perMeetup": {
     "aalborg": {
@@ -18,7 +18,7 @@
       },
       "speakers": 6,
       "meetups": 2,
-      "members": 128,
+      "members": 132,
       "totalRSVPs": 104,
       "averageRSVPs": 52,
       "uniqueRSVPs": 77
@@ -31,7 +31,7 @@
       },
       "speakers": 39,
       "meetups": 24,
-      "members": 932,
+      "members": 933,
       "totalRSVPs": 1356,
       "averageRSVPs": 56,
       "uniqueRSVPs": 533
@@ -43,7 +43,7 @@
       },
       "speakers": 4,
       "meetups": 7,
-      "members": 199,
+      "members": 201,
       "totalRSVPs": 128,
       "averageRSVPs": 18,
       "uniqueRSVPs": 77
@@ -68,7 +68,7 @@
       },
       "speakers": 5,
       "meetups": 9,
-      "members": 519,
+      "members": 520,
       "totalRSVPs": 271,
       "averageRSVPs": 30,
       "uniqueRSVPs": 179
@@ -82,7 +82,7 @@
       },
       "speakers": 26,
       "meetups": 11,
-      "members": 870,
+      "members": 869,
       "totalRSVPs": 888,
       "averageRSVPs": 80,
       "uniqueRSVPs": 452
@@ -94,7 +94,7 @@
       },
       "speakers": 0,
       "meetups": 8,
-      "members": 745,
+      "members": 749,
       "totalRSVPs": 364,
       "averageRSVPs": 45,
       "uniqueRSVPs": 243
@@ -119,7 +119,7 @@
       },
       "speakers": 0,
       "meetups": 4,
-      "members": 767,
+      "members": 771,
       "totalRSVPs": 452,
       "averageRSVPs": 113,
       "uniqueRSVPs": 336
@@ -132,7 +132,7 @@
       },
       "speakers": 14,
       "meetups": 5,
-      "members": 192,
+      "members": 193,
       "totalRSVPs": 200,
       "averageRSVPs": 40,
       "uniqueRSVPs": 114
@@ -158,10 +158,10 @@
       },
       "speakers": 4,
       "meetups": 4,
-      "members": 139,
+      "members": 138,
       "totalRSVPs": 145,
       "averageRSVPs": 36,
-      "uniqueRSVPs": 84
+      "uniqueRSVPs": 83
     }
   }
 }
