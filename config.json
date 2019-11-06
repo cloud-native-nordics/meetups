@@ -1295,9 +1295,9 @@
     {
       "id": "hans",
       "name": "Hans Duedal",
-      "email": "",
-      "company": "economic",
-      "github": "",
+      "email": "hans.duedal@gmail.com",
+      "company": "unity",
+      "github": "duedal",
       "speakersBureau": ""
     },
     {
@@ -1846,7 +1846,6 @@
         "blackbeard": "SpeakerProvider",
         "boligportal": "Meetup",
         "cncf": "SpeakerProvider",
-        "economic": "SpeakerProvider",
         "firstagenda": "Meetup",
         "google": "SpeakerProvider",
         "humio": "SpeakerProvider",
@@ -1868,6 +1867,7 @@
         "trifork": "Meetup",
         "tv2play": "SpeakerProvider",
         "uberaarhus": "Meetup",
+        "unity": "SpeakerProvider",
         "whyyy": "SpeakerProvider",
         "zalando": "SpeakerProvider",
         "zitcom": "Meetup"
@@ -3474,7 +3474,6 @@
       "description": "\u003cp\u003eCloud Native Copenhagen is a new meet-up group focusing on the Cloud Native stack. This means projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd... We are a small group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e",
       "sponsorTiers": {
         "cncf": "SpeakerProvider",
-        "economic": "SpeakerProvider",
         "falconio": "Meetup",
         "humio": "SpeakerProvider",
         "jfrog": "SpeakerProvider",
@@ -3486,13 +3485,15 @@
         "simcorp": "Meetup",
         "trifork": "Meetup",
         "twentythree": "Meetup",
+        "unity": "Meetup",
         "whyyy": "Meetup"
       },
       "meetupID": "Cloud-Native-Copenhagen",
       "organizers": [
         "laszlo",
         "jasmine",
-        "jeppe"
+        "jeppe",
+        "hans"
       ],
       "cfpLink": "",
       "latitude": 55.676111,

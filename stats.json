@@ -4,7 +4,7 @@
     "sponsors": 114,
     "speakers": 122,
     "meetups": 91,
-    "members": 5616,
+    "members": 5617,
     "totalRSVPs": 4755,
     "averageRSVPs": 52,
     "uniqueRSVPs": 2646
@@ -51,8 +51,8 @@
     "copenhagen": {
       "sponsors": 14,
       "sponsorByTier": {
-        "Meetup": 8,
-        "SpeakerProvider": 6
+        "Meetup": 9,
+        "SpeakerProvider": 5
       },
       "speakers": 11,
       "meetups": 13,
@@ -119,7 +119,7 @@
       },
       "speakers": 0,
       "meetups": 4,
-      "members": 771,
+      "members": 772,
       "totalRSVPs": 452,
       "averageRSVPs": 113,
       "uniqueRSVPs": 336

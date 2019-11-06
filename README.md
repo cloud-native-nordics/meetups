@@ -18,6 +18,7 @@ Repository to gather all meetup information and slides from Cloud Native Nordic 
   * Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
   * Jasmine Crozier, [Praqma](https://www.praqma.com/)
   * Jeppe Johansen, [Whyyy](https://whyyy.dk/)
+  * Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
 * [Göteborg](göteborg/README.md)
   * Jessica Andersson, [Meltwater](https://underthehood.meltwater.com/)
   * Staffan Olsson, [Yolean](https://www.yolean.com/)
