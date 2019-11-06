@@ -36,7 +36,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - Date: 24 October, 2019 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264646130
 - Attendees (according to meetup.com): 103
-- Venue sponsor: [Nokia](https://www.nokia.fi/)
+- Venue sponsor: [Nokia](https://www.nokia.com/)
 - Other sponsor: [luxas labs](https://luxaslabs.com)
 - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
@@ -52,7 +52,8 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - 19:30 - 20:00: Building KubeOne: yet another Kubernetes cluster management tool 
   - Alexander Sowitzki, [Loodse](https://www.loodse.com/)
 - 20:10 - 20:40: How to make Kubernetes Real Time for Telcos 
-  - Gergely Csatári, [Nokia](https://www.nokia.fi/)
+  - Gergely Csatári, [Nokia](https://www.nokia.com/)
+  - Slides: https://drive.google.com/open?id=1C9BMsO0-lngcSHSAc219HWBdNHZmeucG
 - 20:45 - 21:00: Networking 
 
 ### August Meetup in Helsinki
@@ -148,7 +149,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
   - Jörg Schad, [D2iQ](https://d2iq.com/)
   - Slides: https://docs.google.com/presentation/d/1_1NpDUiejmEYdpplIqOEtepv7V6Yc0G2uFp4dVaQ70k/edit#slide=id.g4c8185cd42_0_0
 - 19:05 - 19:35: A journey towards Kubernetes at scale on remote unattended sites 
-  - Niklas Wik, [Nokia](https://www.nokia.fi/)
+  - Niklas Wik, [Nokia](https://www.nokia.com/)
   - Slides: https://speakerdeck.com/salkin/kubernetes-at-scale-on-remote-sites
 - 19:40 - 20:10: How to make your company start contributing to open source 
   - Oscar Renalias, [Accenture](https://accenture.com)
