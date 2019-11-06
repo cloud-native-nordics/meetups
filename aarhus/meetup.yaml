@@ -39,7 +39,7 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-    - company: lunarway
+    - company: lunar
       role: Venue
   "20171030":
     presentations:
@@ -507,7 +507,7 @@ meetups:
     sponsors:
     - company: orbitlab
       role: Venue
-    - company: lunarway
+    - company: lunar
       role: Other
   "20190425":
     presentations:
