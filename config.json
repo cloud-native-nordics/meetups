@@ -623,6 +623,12 @@
       "name": "neurospace",
       "websiteURL": "https://neurospace.io",
       "logoURL": "https://neurospace.io/img/brand/logo-1500x1500.png"
+    },
+    {
+      "id": "teamblue",
+      "name": "team.blue",
+      "websiteURL": "https://team.blue/",
+      "logoURL": "https://d21buns5ku92am.cloudfront.net/67862/logo/retina-1567508556.png"
     }
   ],
   "speakers": [
@@ -1822,6 +1828,7 @@
         "bestseller": "Meetup",
         "blackbeard": "SpeakerProvider",
         "boligportal": "Meetup",
+        "chaosiq": "SpeakerProvider",
         "cncf": "SpeakerProvider",
         "firstagenda": "Meetup",
         "google": "SpeakerProvider",
@@ -1830,6 +1837,7 @@
         "jysk": "Meetup",
         "lego": "Meetup",
         "lix": "SpeakerProvider",
+        "loodse": "SpeakerProvider",
         "lunar": "Meetup",
         "microsoft": "SpeakerProvider",
         "mobilepay": "Meetup",
@@ -1839,6 +1847,7 @@
         "schneiderelectric": "SpeakerProvider",
         "sparnordbank": "Meetup",
         "systematic": "Meetup",
+        "teamblue": "Meetup",
         "trackunit": "SpeakerProvider",
         "tradeshift": "Meetup",
         "trifork": "Meetup",
@@ -3188,8 +3197,42 @@
           "attendees": 65,
           "address": "Åbogade 15",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": "praqma"
+            },
+            {
+              "role": "Food",
+              "company": "teamblue"
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "15m0s",
+              "title": "Welcome to Cloud Native Nordics",
+              "slides": "",
+              "speakers": [
+                "kaspernissen"
+              ]
+            },
+            {
+              "duration": "45m0s",
+              "title": "How to be (successful at being) wrong",
+              "slides": "",
+              "speakers": [
+                "russmiles"
+              ]
+            },
+            {
+              "duration": "45m0s",
+              "title": "Building KubeOne: yet another Kubernetes cluster management tool",
+              "slides": "",
+              "speakers": [
+                "alexandersowitzki"
+              ]
+            }
+          ]
         }
       }
     },

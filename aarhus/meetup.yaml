@@ -747,14 +747,15 @@ meetups:
   "20191022":
     presentations:
     - duration: 15m0s
+      slides: ""
       speakers:
       - kaspernissen
-      title: "Welcome to Cloud Native Nordics"
-      slides: ""
+      title: Welcome to Cloud Native Nordics
     - duration: 45m0s
+      slides: ""
       speakers:
       - russmiles
-      title: "How to be (successful at being) wrong"
+      title: How to be (successful at being) wrong
     - duration: 45m0s
       slides: ""
       speakers:

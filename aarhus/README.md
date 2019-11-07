@@ -20,9 +20,17 @@
 - Date: 22 October, 2019 at 17:00 - 20:00
 - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/264744301
 - Attendees (according to meetup.com): 65
+- Venue sponsor: [Praqma](https://www.praqma.com/)
+- Food sponsor: [team.blue](https://team.blue/)
 
 #### Agenda
 
+- 17:00 - 17:15: Welcome to Cloud Native Nordics 
+  - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
+- 17:15 - 18:00: How to be (successful at being) wrong 
+  - Russ Miles [@russmiles](https://github.com/russmiles), CEO, [ChaosIQ](https://chaosiq.io/)
+- 18:00 - 18:45: Building KubeOne: yet another Kubernetes cluster management tool 
+  - Alexander Sowitzki [@eqrx](https://github.com/eqrx), [Loodse](https://www.loodse.com/)
 
 ### Cloud Native Aarhus: Google Cloud & Istio
 
