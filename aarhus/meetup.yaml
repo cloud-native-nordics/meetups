@@ -745,9 +745,28 @@ meetups:
     - company: trifork
       role: Venue
   "20191022":
-    presentations: null
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Nordics
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - russmiles
+      title: How to be (successful at being) wrong
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - alexandersowitzki
+      title: 'Building KubeOne: yet another Kubernetes cluster management tool'
     recording: ""
-    sponsors: null
+    sponsors:
+    - company: praqma
+      role: Venue
+    - company: teamblue
+      role: Food
 organizers:
 - kaspernissen
 - rasmussteiniche
