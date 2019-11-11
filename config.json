@@ -6186,7 +6186,7 @@
             {
               "duration": "30m0s",
               "title": "Managing Kubernetes clusters easily with Rancher",
-              "slides": "",
+              "slides": "https://www.slideshare.net/AntonLindholm2/managing-kubernetes-clusters-easily-with-rancher",
               "speakers": [
                 "antonlindholm"
               ]
@@ -6195,7 +6195,7 @@
               "duration": "30m0s",
               "delay": "10m0s",
               "title": "All Meshed Up - How we use Linkerd",
-              "slides": "https://www.slideshare.net/AntonLindholm2/managing-kubernetes-clusters-easily-with-rancher",
+              "slides": "",
               "speakers": [
                 "sachinkundu"
               ]
