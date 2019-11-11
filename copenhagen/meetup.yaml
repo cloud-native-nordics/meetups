@@ -225,6 +225,10 @@ meetups:
     presentations: null
     recording: ""
     sponsors: null
+  "20191210":
+    presentations: null
+    recording: ""
+    sponsors: null
 organizers:
 - laszlo
 - jasmine

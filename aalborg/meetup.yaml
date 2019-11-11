@@ -94,6 +94,14 @@ meetups:
     sponsors:
     - company: sparnordbank
       role: Venue
+  "20191106":
+    presentations: null
+    recording: ""
+    sponsors: null
+  "20191211":
+    presentations: null
+    recording: ""
+    sponsors: null
 organizers:
 - allanhojgaardjensen
 - arnemejlholm

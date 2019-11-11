@@ -54,6 +54,10 @@ meetups:
     sponsors:
     - company: elastisys
       role: Venue
+  "20191125":
+    presentations: null
+    recording: ""
+    sponsors: null
 organizers:
 - robertwinter
 - eriklindskog

@@ -767,6 +767,14 @@ meetups:
       role: Venue
     - company: teamblue
       role: Food
+  "20191114":
+    presentations: null
+    recording: ""
+    sponsors: null
+  "20191218":
+    presentations: null
+    recording: ""
+    sponsors: null
 organizers:
 - kaspernissen
 - rasmussteiniche
