@@ -109,5 +109,9 @@ meetups:
     sponsors:
     - company: evry
       role: Venue
+  "20200123":
+    presentations: null
+    recording: ""
+    sponsors: null
 organizers:
 - starefossen

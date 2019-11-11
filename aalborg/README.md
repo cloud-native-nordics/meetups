@@ -16,6 +16,23 @@
 - Simon Bengtsson, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
 - Camilla Larsen, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
 
+### #4 Istio in production, Prometheus 101 and Gitops
+
+- Date: 11 December, 2019 at 16:45 - 20:00
+- Meetup link: https://www.meetup.com/Cloud-Native-Aalborg/events/265893647
+
+#### Agenda
+
+
+### #3 Observability II
+
+- Date: 6 November, 2019 at 16:30 - 19:30
+- Meetup link: https://www.meetup.com/Cloud-Native-Aalborg/events/263745012
+- Attendees (according to meetup.com): 33
+
+#### Agenda
+
+
 ### #2 - Kubernetes Intro, Automated install and Observability
 
 - Date: 10 October, 2019 at 16:45 - 20:00

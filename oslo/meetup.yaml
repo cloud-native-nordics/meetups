@@ -36,6 +36,10 @@ meetups:
     presentations: null
     recording: ""
     sponsors: null
+  "20191113":
+    presentations: null
+    recording: ""
+    sponsors: null
 organizers:
 - sami
 - audunstrand

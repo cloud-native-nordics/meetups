@@ -14,6 +14,14 @@
 - Jeppe Johansen [@jepp2078](https://github.com/jepp2078), Head of Software Engineering, [Whyyy](https://whyyy.dk/), [Contact](https://www.cncf.io/speaker/jepp2078)
 - Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
 
+### GitOps & Serverless
+
+- Date: 10 December, 2019 at 17:00 - 20:00
+- Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/266225732
+
+#### Agenda
+
+
 ### Chaos Engineering, Istio & KubeOne
 
 - Date: 21 October, 2019 at 17:00 - 20:00
