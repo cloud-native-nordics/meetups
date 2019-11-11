@@ -224,6 +224,10 @@ meetups:
       role: Other
     - company: digitalocean
       role: Other
+  "20191204":
+    presentations: null
+    recording: ""
+    sponsors: null
 organizers:
 - luxas
 - netumoliver

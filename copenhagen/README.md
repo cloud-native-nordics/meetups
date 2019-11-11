@@ -9,9 +9,18 @@
 
 ## Organizers
 
-- Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
-- Jasmine Crozier, [Praqma](https://www.praqma.com/)
-- Jeppe Johansen, [Whyyy](https://whyyy.dk/)
+- Laszlo Fogas [@laszlocph](https://github.com/laszlocph), [Laszlo Cloud](https://laszlo.cloud)
+- Jasmine Crozier [@JasmineCrozier](https://github.com/JasmineCrozier), [Praqma](https://www.praqma.com/)
+- Jeppe Johansen [@jepp2078](https://github.com/jepp2078), Head of Software Engineering, [Whyyy](https://whyyy.dk/), [Contact](https://www.cncf.io/speaker/jepp2078)
+- Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
+
+### GitOps & Serverless
+
+- Date: 10 December, 2019 at 17:00 - 20:00
+- Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/266225732
+
+#### Agenda
+
 
 ### Chaos Engineering, Istio & KubeOne
 
@@ -96,10 +105,10 @@
 
 - 17:00 - 17:20: Gates open 
 - 17:20 - 18:00: The state of Windows & Kubernetes, with an Azure flavor 
-  - Hans Duedal, [E-conomic](https://www.e-conomic.dk/)
+  - Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
 - 18:00 - 18:20: Break 
 - 18:20 - 19:00: From mainframe to Kubernetes 
-  - Jeppe Johansen, [Whyyy](https://whyyy.dk/)
+  - Jeppe Johansen [@jepp2078](https://github.com/jepp2078), Head of Software Engineering, [Whyyy](https://whyyy.dk/), [Contact](https://www.cncf.io/speaker/jepp2078)
 - 19:00 - 20:00: Networking 
 - 20:00 - 20:00: Goodbye 
 
@@ -114,17 +123,17 @@
 
 - 17:30 - 17:40: Welcome 
 - 17:40 - 17:55: Kubernetes Registry: what it is and why it's important 
-  - Craig Peters, [Jfrog](https://jfrog.com/)
+  - Craig Peters [@craiglpeters](https://github.com/craiglpeters), [Jfrog](https://jfrog.com/)
 - 17:55 - 18:10: Automating Helm deployments to Kubernetes with Helmsman 
-  - Sami Alajrami, [Praqma](https://www.praqma.com/)
+  - Sami Alajrami [@sami](https://github.com/sami), [Praqma](https://www.praqma.com/)
 - 18:10 - 18:40: Break with sandwiches 
 - 18:40 - 18:55: Serverless Containers with Azure Container Instances 
-  - Justin Luk, [Microsoft](https://www.microsoft.com)
+  - Justin Luk [@jluk](https://github.com/jluk), [Microsoft](https://www.microsoft.com)
 - 18:55 - 19:10: Machine API - An easier way to manage nodes in Kubernetes 
-  - Guus van Weelden, [Loodse](https://www.loodse.com/)
+  - Guus van Weelden [@guusvw](https://github.com/guusvw), [Loodse](https://www.loodse.com/)
 - 19:10 - 19:25: Break 
 - 19:25 - 20:00: Panel Discussion moderated by Ihor Dvoretskyi 
-  - Ihor Dvoretskyi, [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+  - Ihor Dvoretskyi [@idvoretskyi](https://github.com/idvoretskyi), [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 - 20:00 - 20:30: Time to mingle 
 - 20:30 - 20:30: Goodbye and see you at KubeCon! 
 
@@ -140,11 +149,11 @@
 - 17:00 - 17:30: Gates open 
 - 17:30 - 17:35: Welcome 
 - 17:35 - 18:15: Network Services on Kubernetes on-premise 
-  - Hans Duedal, [E-conomic](https://www.e-conomic.dk/)
+  - Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
   - Slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2018/cloud-native-copenhagen-3/Network-Services-on-Kubernetes-on-premise.pdf
 - 18:15 - 18:30: Break 
 - 18:30 - 19:15: Chaos Engineering 
-  - Martin Westergaard Lassen, [Humio](https://humio.com/)
+  - Martin Westergaard Lassen [@mwl](https://github.com/mwl), [Humio](https://humio.com/)
 - 19:15 - 20:00: Community chats 
 
 ### Lab session: How to Kubernetes?
@@ -159,12 +168,12 @@
 - 17:00 - 17:30: Doors open 
 - 17:30 - 17:45: Welcome 
 - 17:45 - 18:30: First session: foundations of Kubernetes and its primitives 
-  - Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
-  - David Christensen, [Praqma](https://www.praqma.com/)
+  - Laszlo Fogas [@laszlocph](https://github.com/laszlocph), [Laszlo Cloud](https://laszlo.cloud)
+  - David Christensen [@Sharor](https://github.com/Sharor), [Praqma](https://www.praqma.com/)
 - 18:30 - 19:00: Food break and socializing 
 - 19:00 - 20:00: Second session: let's deploy 
-  - Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
-  - David Christensen, [Praqma](https://www.praqma.com/)
+  - Laszlo Fogas [@laszlocph](https://github.com/laszlocph), [Laszlo Cloud](https://laszlo.cloud)
+  - David Christensen [@Sharor](https://github.com/Sharor), [Praqma](https://www.praqma.com/)
 - 20:00 - 20:00: Goodbye 
 
 ### Let's kick-off Cloud Native Copenhagen!
@@ -180,11 +189,11 @@
 - 17:20 - 17:30: Welcome from Cloud Native Copenhagen 
 - 17:30 - 17:40: Welcome from TwentyThree 
 - 17:40 - 18:10: What is Cloud Native? 
-  - Laszlo Fogas, [Laszlo Cloud](https://laszlo.cloud)
+  - Laszlo Fogas [@laszlocph](https://github.com/laszlocph), [Laszlo Cloud](https://laszlo.cloud)
   - Slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/What-is-Cloud-Native.pdf
 - 18:10 - 18:40: Food break - group discussions 
 - 18:40 - 19:10: Jenkins as Code 
-  - Ewelina Wilkosz, [Praqma](https://www.praqma.com/)
+  - Ewelina Wilkosz [@ewelinawilkosz](https://github.com/ewelinawilkosz), [Praqma](https://www.praqma.com/)
   - Slides: https://github.com/cloud-native-nordics/meetups/blob/add-copenhagen-meetups/copenhagen/2017/cloud-native-copenhagen-1/JenkinsAsCode.pdf
 - 19:10 - 20:00: Group discussions - continued 
 - 20:00 - 20:00: Gates close 

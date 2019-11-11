@@ -11,6 +11,14 @@
 
 - Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
 
+### Cloud Native Nordics Tour
+
+- Date: 23 January, 2020 at 17:30 - 20:30
+- Meetup link: https://www.meetup.com/cloudnative-bergen/events/266338983
+
+#### Agenda
+
+
 ### Serverless on AWS
 
 - Date: 6 November, 2019 at 17:30 - 20:00
@@ -21,7 +29,7 @@
 #### Agenda
 
 - 17:30 - 18:30: Container Orchestration with AWS Fargate 
-  - John Sigvald Skauge, [EVRY](https://www.evry.com/en/)
+  - John Sigvald Skauge [@Modulus](https://github.com/Modulus), [EVRY](https://www.evry.com/en/)
 - 18:30 - 19:30: Serverless Applications with AWS Lambda and API Gateway 
   - Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
 
@@ -36,7 +44,7 @@
 
 - 17:30 - 19:30: Knative - Serverless on your own terms 
   - Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
-  - Øyvind Randa, [EVRY](https://www.evry.com/en/)
+  - Øyvind Randa [@randax](https://github.com/randax), [EVRY](https://www.evry.com/en/)
 
 ### Infrastructure as Code with Terraform
 
@@ -73,7 +81,7 @@
 
 - 17:00 - 19:00: Hands on Kubernetes and Google Cloud 
   - Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
-  - Øyvind Randa, [EVRY](https://www.evry.com/en/)
+  - Øyvind Randa [@randax](https://github.com/randax), [EVRY](https://www.evry.com/en/)
 
 ### Monitoring Cloud Native Applications and Containers with Prometheus
 
@@ -111,6 +119,6 @@
 - 18:00 - 18:30: Experience with containers in productions 
   - Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
 - 18:30 - 19:00: Visual Studio Team Services 
-  - Tom Solem, [EVRY](https://www.evry.com/en/)
+  - Tom Solem [@tomsolem](https://github.com/tomsolem), [EVRY](https://www.evry.com/en/)
 - 19:00 - 19:30: DevOps and Automation in Financial Services. 
-  - David Karlsen, [EVRY](https://www.evry.com/en/)
+  - David Karlsen [@davidkarlsen](https://github.com/davidkarlsen), [EVRY](https://www.evry.com/en/)

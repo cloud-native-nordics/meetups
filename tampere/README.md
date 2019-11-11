@@ -17,7 +17,15 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
 - Oliver Joggerst [@oliverjoggerst](https://github.com/oliverjoggerst), [Netum](https://www.netum.fi/)
 - Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
-- Toni Ylenius, [Cybercom](https://www.cybercom.com/)
+- Toni Ylenius [@toddnni](https://github.com/toddnni), [Cybercom](https://www.cybercom.com/)
+
+### December Kubernetes Meetup in Tampere
+
+- Date: 4 December, 2019 at 17:00 - 20:00
+- Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/266223857
+
+#### Agenda
+
 
 ### Kubernetes 101 Hands-On Workshop
 
@@ -115,10 +123,10 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
   - Slides: https://speakerdeck.com/luxas/update-from-the-cloud-native-world-of-cncf-april-2019
 - 17:30 - 17:55: The BASICs, milk to whale baby, food that is required to growth to true Kubernaught 
-  - Sakari Hoisko, [Eficode](https://www.eficode.com/home)
+  - Sakari Hoisko [@chaggeus](https://github.com/chaggeus), [Eficode](https://www.eficode.com/home)
 - 18:00 - 18:30: Networking, food, drinks 
 - 18:30 - 18:55: Kubernetes and Container Runtime Enablers to Advanced Platform Features 
-  - Mikko Ylinen, [Intel](https://www.intel.com)
+  - Mikko Ylinen [@mythi](https://github.com/mythi), [Intel](https://www.intel.com)
 - 19:00 - 19:25: Introducing new technologies - A grassroots approach 
   - Oliver Joggerst [@oliverjoggerst](https://github.com/oliverjoggerst), [Netum](https://www.netum.fi/)
   - Mika Mattila, [Netum](https://www.netum.fi/)
@@ -147,9 +155,9 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
   - Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
   - Slides: https://speakerdeck.com/jnummelin/geting-started-with-kubernetes
 - 19:35 - 20:00: Moving from Heroku to AKS 
-  - Ilkka Poutanen, [Futurice](https://www.futurice.com/)
+  - Ilkka Poutanen [@ilkka](https://github.com/ilkka), [Futurice](https://www.futurice.com/)
   - Slides: https://docs.google.com/presentation/d/1QbB_gQFg1jqPicYdPIz4dd_Vu4881vXemZaaWbuFw6k/edit?usp=sharing
 - 20:05 - 20:30: Experiences of different Pipelines and Development workflows on Kubernetes 
-  - Toni Ylenius, [Cybercom](https://www.cybercom.com/)
+  - Toni Ylenius [@toddnni](https://github.com/toddnni), [Cybercom](https://www.cybercom.com/)
   - Slides: https://drive.google.com/file/d/1vBjeAC36Pec7fMWQ0AE4mPJ7IPImZevE/view
 - 20:30 - 21:00: Networking 

@@ -13,8 +13,16 @@
 
 ## Organizers
 
-- Sami Alajrami, [Praqma](https://www.praqma.com/)
-- Audun Fauchald Strand, [Nav](https://www.nav.no/Forsiden)
+- Sami Alajrami [@sami](https://github.com/sami), [Praqma](https://www.praqma.com/)
+- Audun Fauchald Strand [@audunstrand](https://github.com/audunstrand), [Nav](https://www.nav.no/Forsiden)
+
+### Storage Operator in Kubernetes - Getting your Feet Wet
+
+- Date: 13 November, 2019 at 17:15 - 19:15
+- Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/265737238
+
+#### Agenda
+
 
 ### GitOps your kubernetes deployments with Helm and Helmsman
 

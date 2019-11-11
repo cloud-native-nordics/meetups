@@ -77,6 +77,10 @@ meetups:
     presentations: null
     recording: ""
     sponsors: null
+  "20191204":
+    presentations: null
+    recording: ""
+    sponsors: null
 organizers:
 - jessicaandersson
 - staffanolsson

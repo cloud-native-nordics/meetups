@@ -58,7 +58,7 @@ meetups:
       slides: ""
       speakers:
       - laszlo
-      - david
+      - davidchristensen
       title: 'First session: foundations of Kubernetes and its primitives'
     - duration: 30m0s
       slides: ""
@@ -68,7 +68,7 @@ meetups:
       slides: ""
       speakers:
       - laszlo
-      - david
+      - davidchristensen
       title: 'Second session: let''s deploy'
     - duration: 0s
       slides: ""
@@ -225,7 +225,12 @@ meetups:
     presentations: null
     recording: ""
     sponsors: null
+  "20191210":
+    presentations: null
+    recording: ""
+    sponsors: null
 organizers:
 - laszlo
 - jasmine
 - jeppe
+- hans

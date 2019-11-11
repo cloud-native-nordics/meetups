@@ -39,7 +39,7 @@ meetups:
       title: Networking
     recording: ""
     sponsors:
-    - company: lunarway
+    - company: lunar
       role: Venue
   "20171030":
     presentations:
@@ -329,7 +329,7 @@ meetups:
     - duration: 45m0s
       slides: ""
       speakers:
-      - jeppejohansen
+      - jeppe
       title: From Mainframe to Kubernetes
     - duration: 15m0s
       slides: ""
@@ -507,7 +507,7 @@ meetups:
     sponsors:
     - company: orbitlab
       role: Venue
-    - company: lunarway
+    - company: lunar
       role: Other
   "20190425":
     presentations:
@@ -745,6 +745,33 @@ meetups:
     - company: trifork
       role: Venue
   "20191022":
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Nordics
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - russmiles
+      title: How to be (successful at being) wrong
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - alexandersowitzki
+      title: 'Building KubeOne: yet another Kubernetes cluster management tool'
+    recording: ""
+    sponsors:
+    - company: praqma
+      role: Venue
+    - company: teamblue
+      role: Food
+  "20191114":
+    presentations: null
+    recording: ""
+    sponsors: null
+  "20191218":
     presentations: null
     recording: ""
     sponsors: null
