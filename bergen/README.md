@@ -1,6 +1,6 @@
 # Meetups organized in Bergen
 
-<img width="50%" align="right" alt="Meetup Group Logo" src="https://secure.meetupstatic.com/photos/event/2/4/0/0/highres_485769216.jpeg">
+<img width="50%" align="right" alt="Meetup Group Logo" src="https://secure.meetupstatic.com/photos/event/c/a/5/f/highres_486471807.jpeg">
 
 ## Description
 
@@ -15,6 +15,7 @@
 
 - Date: 6 November, 2019 at 17:30 - 20:00
 - Meetup link: https://www.meetup.com/cloudnative-bergen/events/265768501
+- Attendees (according to meetup.com): 19
 - Venue sponsor: [EVRY](https://www.evry.com/en/)
 
 #### Agenda

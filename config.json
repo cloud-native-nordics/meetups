@@ -3217,7 +3217,7 @@
       }
     },
     {
-      "photo": "https://secure.meetupstatic.com/photos/event/2/4/0/0/highres_485769216.jpeg",
+      "photo": "https://secure.meetupstatic.com/photos/event/c/a/5/f/highres_486471807.jpeg",
       "name": "DevOps and Cloud Native Bergen",
       "city": "Bergen",
       "country": "norway",
@@ -3437,6 +3437,7 @@
           "name": "Serverless on AWS",
           "date": "2019-11-06T17:30:00Z",
           "duration": "2h30m0s",
+          "attendees": 19,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
           "sponsors": [
@@ -4122,7 +4123,7 @@
       "name": "Kubernetes and CNCF Finland Meetup",
       "city": "Helsinki",
       "country": "finland",
-      "description": "\u003cp\u003eCloud Native tech and Kubernetes goes Helsinki! Cloud Native and Kubernetes Helsinki is the official Cloud Native Computing Foundation Meetup group about the technologies hosted under CNCF umbrella: \u003cbr\u003e- Kubernetes \u003cbr\u003e- Prometheus \u003cbr\u003e- Opentracing \u003cbr\u003e- Fluentd \u003cbr\u003e- CoreDNS \u003cbr\u003e- linkerd \u003cbr\u003e- containerd \u003cbr\u003e- rkt \u003cbr\u003e- gRPC \u003cbr\u003e- CNI\u003c/p\u003e\n\u003cp\u003eWe host talks from anyone doing cool things with Kubernetes, and the other CNCF technologies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do.\u003c/p\u003e\n\u003cp\u003ePresentations will be focused on introduction slides, guides, workshops, adoption stories and demos, but not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out organizing or speaking will be truly welcome.\u003c/p\u003e\n\u003cp\u003eTo become an organizer or speaker, please reach out to us!\u003c/p\u003e\n\u003cp\u003e This meetup's official language is English; the conversations and presentations will be in English.\u003c/p\u003e\n\u003cp\u003eFor more information, check out the blog at \u003ca href=\"https://kubernetesfinland.com\" class=\"linkified\"\u003ehttps://kubernetesfinland.com\u003c/a\u003e\u003c/p\u003e",
+      "description": "\u003cp\u003eCloud Native tech and Kubernetes goes Helsinki! Cloud Native and Kubernetes Helsinki is the official Cloud Native Computing Foundation Meetup group about the technologies hosted under CNCF umbrella: \u0026lt;br\u0026gt;- Kubernetes \u0026lt;br\u0026gt;- Prometheus \u0026lt;br\u0026gt;- Opentracing \u0026lt;br\u0026gt;- Fluentd \u0026lt;br\u0026gt;- CoreDNS \u0026lt;br\u0026gt;- linkerd \u0026lt;br\u0026gt;- containerd \u0026lt;br\u0026gt;- rkt \u0026lt;br\u0026gt;- gRPC \u0026lt;br\u0026gt;- CNI\u003c/p\u003e \n\u003cp\u003eWe host talks from anyone doing cool things with Kubernetes, and the other CNCF technologies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do.\u003c/p\u003e \n\u003cp\u003ePresentations will be focused on introduction slides, guides, workshops, adoption stories and demos, but not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out organizing or speaking will be truly welcome.\u003c/p\u003e \n\u003cp\u003eTo become an organizer or speaker, please reach out to us!\u003c/p\u003e \n\u003cp\u003eThis meetup's official language is English; the conversations and presentations will be in English.\u003c/p\u003e \n\u003cp\u003eFor more information, check out the blog at \u003ca href=\"https://kubernetesfinland.com\" class=\"linkified\"\u003ehttps://kubernetesfinland.com\u003c/a\u003e\u003c/p\u003e",
       "sponsorTiers": {
         "accenture": "Meetup",
         "agileo": "EcosystemMember",
@@ -5034,7 +5035,7 @@
             {
               "duration": "15m0s",
               "title": "Updates from the Cloud Native Nordics Community",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-october-2019",
               "speakers": [
                 "luxas"
               ]
@@ -5966,7 +5967,7 @@
               "duration": "3h30m0s",
               "delay": "15m0s",
               "title": "Kubernetes 101 Hands-On Workshop",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-finland-workshop-october-2019",
               "speakers": [
                 "luxas"
               ]
@@ -6052,7 +6053,7 @@
               "duration": "30m0s",
               "delay": "5m0s",
               "title": "Introduction to the cloud native world",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-turku-october-2019",
               "speakers": [
                 "luxas"
               ]
@@ -6060,7 +6061,7 @@
             {
               "duration": "30m0s",
               "title": "Networking, food, drinks",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-october-2019",
               "speakers": null
             },
             {
@@ -6075,7 +6076,7 @@
               "duration": "30m0s",
               "delay": "10m0s",
               "title": "All Meshed Up - How we use Linkerd",
-              "slides": "",
+              "slides": "https://www.slideshare.net/AntonLindholm2/managing-kubernetes-clusters-easily-with-rancher",
               "speakers": [
                 "sachinkundu"
               ]
@@ -6103,7 +6104,7 @@
       }
     },
     {
-      "photo": "https://secure.meetupstatic.com/photos/event/a/e/4/5/highres_476504613.jpeg",
+      "photo": "https://secure.meetupstatic.com/photos/event/1/3/4/5/highres_486424933.jpeg",
       "name": "Cloud Native Northern Sweden",
       "city": "Umeå",
       "country": "sweden",

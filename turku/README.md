@@ -50,9 +50,12 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
   - Miro Eklund [@Mierpo](https://github.com/Mierpo), [Semantum](https://www.semantum.fi)
 - 17:30 - 18:00: Introduction to the cloud native world 
   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+  - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-turku-october-2019
 - 18:00 - 18:30: Networking, food, drinks 
+  - Slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-october-2019
 - 18:30 - 19:00: Managing Kubernetes clusters easily with Rancher 
   - Anton Lindholm [@LinAnt](https://github.com/LinAnt), [Walkbase](https://www.walkbase.com/)
 - 19:10 - 19:40: All Meshed Up - How we use Linkerd 
   - Sachin Kundu, [Microsoft](https://www.microsoft.com)
+  - Slides: https://www.slideshare.net/AntonLindholm2/managing-kubernetes-clusters-easily-with-rancher
 - 19:45 - 20:00: Networking 
