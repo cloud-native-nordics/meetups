@@ -16,6 +16,14 @@
 - Erik Lindskog [@cartmanume](https://github.com/cartmanume), [Codemill](https://codemill.se/)
 - Johan Tordsson [@tordsson](https://github.com/tordsson), [Elastisys](https://elastisys.com/)
 
+### KubeCon recap & Istio
+
+- Date: 25 November, 2019 at 17:00 - 19:00
+- Meetup link: https://www.meetup.com/Cloud-Native-Northern-Sweden/events/266254756
+
+#### Agenda
+
+
 ### Trends in cloud native - a summary from KubeCon + CloudNativeCon Barcelona 
 
 - Date: 28 May, 2019 at 17:00 - 19:00

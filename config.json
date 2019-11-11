@@ -1814,6 +1814,29 @@
               "speakers": null
             }
           ]
+        },
+        "20191106": {
+          "id": 263745012,
+          "photo": "https://secure.meetupstatic.com/photos/event/8/4/e/e/highres_486394030.jpeg",
+          "name": "#3 Observability II",
+          "date": "2019-11-06T16:30:00Z",
+          "duration": "3h0m0s",
+          "attendees": 33,
+          "address": "Skelagervej 15",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
+        },
+        "20191211": {
+          "id": 265893647,
+          "photo": "https://secure.meetupstatic.com/photos/event/6/a/6/8/highres_486447240.jpeg",
+          "name": "#4 Istio in production, Prometheus 101 and Gitops",
+          "date": "2019-12-11T16:45:00Z",
+          "duration": "3h15m0s",
+          "address": "Skelagervej 1",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
         }
       }
     },
@@ -3233,6 +3256,28 @@
               ]
             }
           ]
+        },
+        "20191114": {
+          "id": 265871741,
+          "photo": "https://secure.meetupstatic.com/photos/event/2/8/2/9/highres_486190281.jpeg",
+          "name": "Istio in Production \u0026 Storage in k8s",
+          "date": "2019-11-14T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Højvangen 4",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
+        },
+        "20191218": {
+          "id": 266225252,
+          "photo": "https://secure.meetupstatic.com/photos/event/7/3/4/1/highres_486569505.jpeg",
+          "name": "Happy Holidays Edition with GitOps and Exploiting the winds of change",
+          "date": "2019-12-18T16:30:00Z",
+          "duration": "3h30m0s",
+          "address": "Finlandsgade 28",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
         }
       }
     },
@@ -3484,6 +3529,17 @@
               ]
             }
           ]
+        },
+        "20200123": {
+          "id": 266338983,
+          "photo": "https://secure.meetupstatic.com/photos/event/2/e/d/c/highres_486491996.jpeg",
+          "name": "Cloud Native Nordics Tour",
+          "date": "2020-01-23T17:30:00Z",
+          "duration": "3h0m0s",
+          "address": "Folke Bernadottes vei 40",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
         }
       }
     },
@@ -3947,6 +4003,17 @@
           "recording": "",
           "sponsors": null,
           "presentations": null
+        },
+        "20191210": {
+          "id": 266225732,
+          "photo": "https://secure.meetupstatic.com/photos/event/8/8/6/2/highres_486394914.jpeg",
+          "name": "GitOps \u0026 Serverless",
+          "date": "2019-12-10T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Kongens Nytorv 18",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
         }
       }
     },
@@ -4133,6 +4200,16 @@
           "duration": "3h0m0s",
           "attendees": 70,
           "address": "Vallgatan 22",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
+        },
+        "20191204": {
+          "id": 265686037,
+          "name": "Local Kubernetes - more details closer to event",
+          "date": "2019-12-04T18:00:00Z",
+          "duration": "3h0m0s",
+          "address": "",
           "recording": "",
           "sponsors": null,
           "presentations": null
@@ -5236,6 +5313,16 @@
           "recording": "",
           "sponsors": null,
           "presentations": null
+        },
+        "20191113": {
+          "id": 265737238,
+          "name": "Storage Operator in Kubernetes - Getting your Feet Wet",
+          "date": "2019-11-13T17:15:00Z",
+          "duration": "2h0m0s",
+          "address": "Pilestredet 56",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
         }
       }
     },
@@ -5994,6 +6081,17 @@
               ]
             }
           ]
+        },
+        "20191204": {
+          "id": 266223857,
+          "photo": "https://secure.meetupstatic.com/photos/event/8/2/6/b/highres_486453387.jpeg",
+          "name": "December Kubernetes Meetup in Tampere",
+          "date": "2019-12-04T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Hatanpään valtatie 30",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
         }
       }
     },
@@ -6256,6 +6354,17 @@
               ]
             }
           ]
+        },
+        "20191125": {
+          "id": 266254756,
+          "photo": "https://secure.meetupstatic.com/photos/event/1/3/8/8/highres_486425000.jpeg",
+          "name": "KubeCon recap \u0026 Istio",
+          "date": "2019-11-25T17:00:00Z",
+          "duration": "2h0m0s",
+          "address": "Kuratorvägen 2A",
+          "recording": "",
+          "sponsors": null,
+          "presentations": null
         }
       }
     }

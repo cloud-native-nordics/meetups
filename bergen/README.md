@@ -11,6 +11,14 @@
 
 - Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
 
+### Cloud Native Nordics Tour
+
+- Date: 23 January, 2020 at 17:30 - 20:30
+- Meetup link: https://www.meetup.com/cloudnative-bergen/events/266338983
+
+#### Agenda
+
+
 ### Serverless on AWS
 
 - Date: 6 November, 2019 at 17:30 - 20:00

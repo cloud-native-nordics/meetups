@@ -15,6 +15,22 @@
 - Henrik Høegh [@hoeghh](https://github.com/hoeghh), [Praqma](https://www.praqma.com/)
 - Daniel Fly [@sazo](https://github.com/sazo), [Zitcom](https://www.zitcom.dk/)
 
+### Happy Holidays Edition with GitOps and Exploiting the winds of change
+
+- Date: 18 December, 2019 at 16:30 - 20:00
+- Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/266225252
+
+#### Agenda
+
+
+### Istio in Production & Storage in k8s
+
+- Date: 14 November, 2019 at 17:00 - 20:00
+- Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/265871741
+
+#### Agenda
+
+
 ### Chaos Engineering with Russ Miles & KubeOne with Alexander Sowitzki
 
 - Date: 22 October, 2019 at 17:00 - 20:00

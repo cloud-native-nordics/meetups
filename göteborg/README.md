@@ -16,6 +16,14 @@
 - Anton Lindgren, [Yolean](https://www.yolean.com/)
 - Jacob Hagstedt P Suorra [@Jacobh2](https://github.com/Jacobh2)
 
+### Local Kubernetes - more details closer to event
+
+- Date: 4 December, 2019 at 18:00 - 21:00
+- Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/265686037
+
+#### Agenda
+
+
 ### September meetup in Gothenburg
 
 - Date: 5 September, 2019 at 18:00 - 21:00
