@@ -4,11 +4,11 @@
 
 ## Description
 
-<p>Cloud Native tech and Kubernetes goes Helsinki! Cloud Native and Kubernetes Helsinki is the official Cloud Native Computing Foundation Meetup group about the technologies hosted under CNCF umbrella: <br>- Kubernetes <br>- Prometheus <br>- Opentracing <br>- Fluentd <br>- CoreDNS <br>- linkerd <br>- containerd <br>- rkt <br>- gRPC <br>- CNI</p>
-<p>We host talks from anyone doing cool things with Kubernetes, and the other CNCF technologies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do.</p>
-<p>Presentations will be focused on introduction slides, guides, workshops, adoption stories and demos, but not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out organizing or speaking will be truly welcome.</p>
-<p>To become an organizer or speaker, please reach out to us!</p>
-<p> This meetup's official language is English; the conversations and presentations will be in English.</p>
+<p>Cloud Native tech and Kubernetes goes Helsinki! Cloud Native and Kubernetes Helsinki is the official Cloud Native Computing Foundation Meetup group about the technologies hosted under CNCF umbrella: &lt;br&gt;- Kubernetes &lt;br&gt;- Prometheus &lt;br&gt;- Opentracing &lt;br&gt;- Fluentd &lt;br&gt;- CoreDNS &lt;br&gt;- linkerd &lt;br&gt;- containerd &lt;br&gt;- rkt &lt;br&gt;- gRPC &lt;br&gt;- CNI</p> 
+<p>We host talks from anyone doing cool things with Kubernetes, and the other CNCF technologies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do.</p> 
+<p>Presentations will be focused on introduction slides, guides, workshops, adoption stories and demos, but not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out organizing or speaking will be truly welcome.</p> 
+<p>To become an organizer or speaker, please reach out to us!</p> 
+<p>This meetup's official language is English; the conversations and presentations will be in English.</p> 
 <p>For more information, check out the blog at <a href="https://kubernetesfinland.com" class="linkified">https://kubernetesfinland.com</a></p>
 
 ## Submit a talk

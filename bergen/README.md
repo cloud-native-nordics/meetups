@@ -1,6 +1,6 @@
 # Meetups organized in Bergen
 
-<img width="50%" align="right" alt="Meetup Group Logo" src="https://secure.meetupstatic.com/photos/event/2/4/0/0/highres_485769216.jpeg">
+<img width="50%" align="right" alt="Meetup Group Logo" src="https://secure.meetupstatic.com/photos/event/c/a/5/f/highres_486471807.jpeg">
 
 ## Description
 
