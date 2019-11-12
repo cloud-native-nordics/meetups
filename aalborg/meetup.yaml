@@ -36,7 +36,7 @@ meetups:
       speakers: null
       title: Food and Networking
     - duration: 15m0s
-      slides: ""
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
       speakers:
       - arnemejlholm
       title: DIY k8s in 10 minutes/how to install kubernetes fast
