@@ -424,3 +424,11 @@
   logoURL: https://d21buns5ku92am.cloudfront.net/67862/logo/retina-1567508556.png
   name: team.blue
   websiteURL: https://team.blue/
+- id: centricaenergytrading
+  logoURL: https://www.centrica.com/image/2228/0/1/500/500/centrica-energy-logo-tile.jpg
+  name: Centrica Energy Trading
+  websiteURL: https://www.centrica.com/
+- id: mhivestas
+  logoURL: http://www.mhivestasoffshore.com/wp-content/uploads/2015/02/MHI_Vestas_Logo_130px.png
+  name: MHI Vestas Offshore Wind
+  websiteURL: http://www.mhivestasoffshore.com//
