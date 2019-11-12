@@ -753,13 +753,15 @@
   name: Lasse Sundman
   speakersBureau: ""
 - company: reaktor
-  email: "andy@andydote.co.uk"
+  email: andy@andydote.co.uk
   github: pondidum
   id: andydavies
   name: Andy Davies
-  twitter: pondidum
   speakersBureau: ""
+  twitter: pondidum
 - company: elastisys
+  email: ""
+  github: ""
   id: lennartjern
   name: Lennart Jern
   speakersBureau: ""

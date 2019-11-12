@@ -629,6 +629,12 @@
       "name": "team.blue",
       "websiteURL": "https://team.blue/",
       "logoURL": "https://d21buns5ku92am.cloudfront.net/67862/logo/retina-1567508556.png"
+    },
+    {
+      "id": "reaktor",
+      "name": "Reaktor",
+      "websiteURL": "https://www.reaktor.com/",
+      "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIyLjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAzNjUuMSA1MDkuNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzY1LjEgNTA5LjQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZD0iTTI0Mi4zLDMwMC4yYzUxLjQtMjUuNCw4Ni40LTY5LjcsODYuNC0xNDAuNkMzMjguNyw2Ny44LDI0NywwLDE1OC42LDBIMTQydjcwLjhIMHY0MzguOGg5Ni41di0xNThoNjAuM2w5My40LDE1Ny43aDExNC45CglMMjQyLjMsMzAwLjJ6IE0xNTUsMjI3LjloLTEzdjM1LjlIOTYuNXYtOTcuMUgxNDJ2LTY2LjRoMTNjNDcuOCwwLDc3LjMsMjkuOSw3Ny4zLDYzLjlDMjMyLjIsMTk4LjIsMjAyLjgsMjI3LjksMTU1LDIyNy45eiIvPgo8L3N2Zz4K"
     }
   ],
   "speakers": [
@@ -1628,6 +1634,23 @@
       "email": "",
       "company": "nextfour",
       "github": "lsundman",
+      "speakersBureau": ""
+    },
+    {
+      "id": "andydavies",
+      "name": "Andy Davies",
+      "email": "andy@andydote.co.uk",
+      "company": "reaktor",
+      "github": "pondidum",
+      "twitter": "pondidum",
+      "speakersBureau": ""
+    },
+    {
+      "id": "lennartjern",
+      "name": "Lennart Jern",
+      "email": "",
+      "company": "elastisys",
+      "github": "",
       "speakersBureau": ""
     }
   ],
@@ -6103,9 +6126,11 @@
       "description": "\u003cp\u003eCloud Native tech and Kubernetes goes Turku! Cloud Native and Kubernetes Turku is the official Cloud Native Computing Foundation Meetup group about the technologies hosted under CNCF umbrella. Furthermore, we're part of the Cloud Native Nordics family, an umbrella for the Cloud Native meetups in the Nordic countries. Join our Slack here: \u003ca href=\"https://cloudnativenordics.com\" class=\"linkified\"\u003ehttps://cloudnativenordics.com\u003c/a\u003e\u003c/p\u003e \n\u003cp\u003eWe host talks from anyone doing cool things with Kubernetes, and the other CNCF technologies, including companies using them in production or vendors who are pushing the boundaries of what the cloud native techs can do.\u003c/p\u003e \n\u003cp\u003ePresentations will be focused on introduction slides, guides, workshops, adoption stories and demos, but not sales pitches. The meetup will be organized in an open and democratic way, where anyone that wants to help out organizing or speaking will be truly welcome.\u003c/p\u003e \n\u003cp\u003eTo become a venue sponsor or speaker, please reach out to us!\u003c/p\u003e \n\u003cp\u003eThis meetup's official language is English; the conversations and presentations will be in English.\u003c/p\u003e \n\u003cp\u003eFor more information, check out \u003ca href=\"https://cloudnativenordics.com\" class=\"linkified\"\u003ehttps://cloudnativenordics.com\u003c/a\u003e / \u003ca href=\"https://github.com/cloud-native-nordics\" class=\"linkified\"\u003ehttps://github.com/cloud-native-nordics\u003c/a\u003e\u003c/p\u003e",
       "sponsorTiers": {
         "cncf": "Meetup",
+        "elastisys": "SpeakerProvider",
         "luxaslabs": "Meetup",
         "microsoft": "SpeakerProvider",
         "nextfour": "Meetup",
+        "reaktor": "Meetup",
         "semantum": "Meetup",
         "walkbase": "Meetup"
       },
@@ -6217,8 +6242,72 @@
           "duration": "3h0m0s",
           "address": "Linnankatu 16",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": "reaktor"
+            },
+            {
+              "role": "Other",
+              "company": "luxaslabs"
+            },
+            {
+              "role": "Other",
+              "company": "cncf"
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "10m0s",
+              "title": "Arrive at the venue, sit down and network with others",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Introductionary words from the venue sponsor for this time, Reaktor!",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "30m0s",
+              "title": "Intro to kubernetes objects",
+              "slides": "",
+              "speakers": [
+                "antonlindholm"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "5m0s",
+              "title": "Nomad: Kubernetes Without the Complexity",
+              "slides": "",
+              "speakers": [
+                "andydavies"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Networking, food, drinks",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "30m0s",
+              "title": "RBAC, NetworkPolicies and PodSecurityPolicies",
+              "slides": "",
+              "speakers": [
+                "lennartjern"
+              ]
+            },
+            {
+              "duration": "15m0s",
+              "delay": "5m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
         }
       }
     },
