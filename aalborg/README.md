@@ -105,5 +105,6 @@
 - 18:20 - 18:40: Food and Networking 
 - 18:40 - 18:55: DIY k8s in 10 minutes/how to install kubernetes fast 
   - Arne Mejlholm [@mejlholm](https://github.com/mejlholm), Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
 - 18:55 - 19:00: Survey 
 - 19:00 - 20:00: Networking 

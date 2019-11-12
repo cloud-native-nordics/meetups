@@ -1754,7 +1754,7 @@
             {
               "duration": "15m0s",
               "title": "DIY k8s in 10 minutes/how to install kubernetes fast",
-              "slides": "",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf",
               "speakers": [
                 "arnemejlholm"
               ]
