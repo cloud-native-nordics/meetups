@@ -43,10 +43,13 @@
 - 17:15 - 18:00: Observability using Elastic Search 
   - Simon Bengtsson, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-3.pdf
-- 18:00 - 18:45: Observability - Exploting the winds of change 
+- 18:00 - 18:30: Food and Networking 
+- 18:30 - 19:15: Observability - Exploting the winds of change 
   - Thor Lange, IT Architect Cloud infrastructure, [MHI Vestas Offshore Wind](http://www.mhivestasoffshore.com//)
   - Anders Keis, IT Architect Cloud infrastructure, [MHI Vestas Offshore Wind](http://www.mhivestasoffshore.com//)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-MHIVestas-Exploiting-the-winds-of-change.pdf
+- 19:15 - 19:30: Networking 
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
 
 ### #2 - Kubernetes Intro, Automated install and Observability
 
@@ -66,9 +69,9 @@
   - Henrik Høegh [@hoeghh](https://github.com/hoeghh), [Praqma](https://www.praqma.com/)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
 - 17:30 - 17:50: Food and Networking 
-  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
 - 17:50 - 18:10: Automating kubernetes installation - and FluxCD 
   - Arne Mejlholm [@mejlholm](https://github.com/mejlholm), Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
 - 18:10 - 18:35: Observability with Prometheus, Grafana and Jaeger 
   - Arne Mejlholm [@mejlholm](https://github.com/mejlholm), Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf

@@ -114,12 +114,20 @@ meetups:
       speakers:
       - simonbengtsson
       title: Observability using Elastic Search
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food and Networking
     - duration: 45m0s
       slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-MHIVestas-Exploiting-the-winds-of-change.pdf
       speakers:
       - thorlange
       - anderskeis
       title: Observability - Exploting the winds of change
+    - duration: 15m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
+      speakers: null
+      title: Networking
     recording: ""
     sponsors:
     - company: sparnordbank

@@ -1820,13 +1820,13 @@
             {
               "duration": "20m0s",
               "title": "Food and Networking",
-              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf",
+              "slides": "",
               "speakers": null
             },
             {
               "duration": "20m0s",
               "title": "Automating kubernetes installation - and FluxCD",
-              "slides": "",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf",
               "speakers": [
                 "arnemejlholm"
               ]
@@ -1892,6 +1892,12 @@
               ]
             },
             {
+              "duration": "30m0s",
+              "title": "Food and Networking",
+              "slides": "",
+              "speakers": null
+            },
+            {
               "duration": "45m0s",
               "title": "Observability - Exploting the winds of change",
               "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-MHIVestas-Exploiting-the-winds-of-change.pdf",
@@ -1899,6 +1905,12 @@
                 "thorlange",
                 "anderskeis"
               ]
+            },
+            {
+              "duration": "15m0s",
+              "title": "Networking",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf",
+              "speakers": null
             }
           ]
         },
