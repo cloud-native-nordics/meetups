@@ -73,11 +73,11 @@ meetups:
       - henrikhoegh
       title: Introduction to kubernetes
     - duration: 20m0s
-      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
+      slides: ""
       speakers: null
       title: Food and Networking
     - duration: 20m0s
-      slides: ""
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
       speakers:
       - arnemejlholm
       title: Automating kubernetes installation - and FluxCD
