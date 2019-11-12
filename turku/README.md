@@ -26,9 +26,22 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 - Date: 12 December, 2019 at 17:00 - 20:00
 - Meetup link: https://www.meetup.com/Kubernetes-Turku/events/265794322
+- Venue sponsor: [Reaktor](https://www.reaktor.com/)
+- Other sponsor: [luxas labs](https://luxaslabs.com)
+- Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
+- 17:00 - 17:10: Arrive at the venue, sit down and network with others 
+- 17:10 - 17:15: Introductionary words from the venue sponsor for this time, Reaktor! 
+- 17:15 - 17:45: Intro to kubernetes objects 
+  - Anton Lindholm [@LinAnt](https://github.com/LinAnt), [Walkbase](https://www.walkbase.com/)
+- 17:50 - 18:20: Nomad: Kubernetes Without the Complexity 
+  - Andy Davies [@pondidum](https://github.com/pondidum), [Reaktor](https://www.reaktor.com/)
+- 18:20 - 18:50: Networking, food, drinks 
+- 18:50 - 19:20: RBAC, NetworkPolicies and PodSecurityPolicies 
+  - Lennart Jern, [Elastisys](https://elastisys.com/)
+- 19:25 - 19:40: Networking 
 
 ### First Kubernetes Turku Meetup!
 
