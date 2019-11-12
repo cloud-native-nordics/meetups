@@ -57,9 +57,48 @@ meetups:
     - company: cncf
       role: Other
   "20191212":
-    presentations: null
-    recording: ""
-    sponsors: null
+      presentations:
+      - duration: 10m0s
+        slides: ""
+        speakers: null
+        title: Arrive at the venue, sit down and network with others
+      - duration: 5m0s
+        slides: ""
+        speakers: null
+        title: Introductionary words from the venue sponsor for this time, Reaktor!
+      - duration: 30m0s
+        slides: ""
+        speakers:
+        - antonlindholm
+        title: Intro to kubernetes objects
+      - delay: 5m0s
+        duration: 30m0s
+        slides:
+        speakers:
+        - andydavies
+        title: "Nomad: Kubernetes Without the Complexity"
+      - duration: 30m0s
+        slides: ""
+        speakers: null
+        title: Networking, food, drinks
+      - duration: 30m0s
+        slides: ""
+        speakers:
+        - lennartjern
+        title: RBAC, NetworkPolicies and PodSecurityPolicies
+      - delay: 5m0s
+        duration: 15m0s
+        slides: ""
+        speakers: null
+        title: Networking
+      recording: ""
+      sponsors:
+      - company: reaktor
+        role: Venue
+      - company: luxaslabs
+        role: Other
+      - company: cncf
+        role: Other
 organizers:
 - luxas
 - antonlindholm
