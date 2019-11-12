@@ -46,6 +46,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - 18:10 - 18:15: Introductionary words from the venue sponsor for this time, Nokia 
 - 18:15 - 18:30: Updates from the Cloud Native Nordics Community 
   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+  - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-october-2019
 - 18:30 - 19:00: How to be (successful at being) wrong 
   - Russ Miles [@russmiles](https://github.com/russmiles), CEO, [ChaosIQ](https://chaosiq.io/)
 - 19:00 - 19:30: Networking, food, drinks 

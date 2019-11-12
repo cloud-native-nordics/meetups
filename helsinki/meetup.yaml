@@ -499,7 +499,7 @@ meetups:
       speakers: null
       title: Introductionary words from the venue sponsor for this time, Nokia
     - duration: 15m0s
-      slides: ""
+      slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-october-2019
       speakers:
       - luxas
       title: Updates from the Cloud Native Nordics Community

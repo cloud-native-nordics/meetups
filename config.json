@@ -5133,7 +5133,7 @@
             {
               "duration": "15m0s",
               "title": "Updates from the Cloud Native Nordics Community",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-october-2019",
               "speakers": [
                 "luxas"
               ]
@@ -6075,7 +6075,7 @@
               "duration": "3h30m0s",
               "delay": "15m0s",
               "title": "Kubernetes 101 Hands-On Workshop",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-finland-workshop-october-2019",
               "speakers": [
                 "luxas"
               ]
@@ -6172,7 +6172,7 @@
               "duration": "30m0s",
               "delay": "5m0s",
               "title": "Introduction to the cloud native world",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-turku-october-2019",
               "speakers": [
                 "luxas"
               ]
@@ -6180,13 +6180,13 @@
             {
               "duration": "30m0s",
               "title": "Networking, food, drinks",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-october-2019",
               "speakers": null
             },
             {
               "duration": "30m0s",
               "title": "Managing Kubernetes clusters easily with Rancher",
-              "slides": "",
+              "slides": "https://www.slideshare.net/AntonLindholm2/managing-kubernetes-clusters-easily-with-rancher",
               "speakers": [
                 "antonlindholm"
               ]

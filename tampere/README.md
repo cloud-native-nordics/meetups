@@ -41,6 +41,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 - 17:15 - 20:45: Kubernetes 101 Hands-On Workshop 
   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+  - Slides: https://speakerdeck.com/luxas/kubernetes-finland-workshop-october-2019
 
 ### August Kubernetes Meetup in Tampere
 

@@ -24,16 +24,16 @@ meetups:
       title: Welcome to this new meetup group!
     - delay: 5m0s
       duration: 30m0s
-      slides: ""
+      slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-turku-october-2019
       speakers:
       - luxas
       title: Introduction to the cloud native world
     - duration: 30m0s
-      slides: ""
+      slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-october-2019
       speakers: null
       title: Networking, food, drinks
     - duration: 30m0s
-      slides: ""
+      slides: https://www.slideshare.net/AntonLindholm2/managing-kubernetes-clusters-easily-with-rancher
       speakers:
       - antonlindholm
       title: Managing Kubernetes clusters easily with Rancher

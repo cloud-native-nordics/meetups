@@ -210,7 +210,7 @@ meetups:
     presentations:
     - delay: 15m0s
       duration: 3h30m0s
-      slides: ""
+      slides: https://speakerdeck.com/luxas/kubernetes-finland-workshop-october-2019
       speakers:
       - luxas
       title: Kubernetes 101 Hands-On Workshop
