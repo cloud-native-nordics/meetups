@@ -29,7 +29,7 @@ Repository to gather all meetup information and slides from Cloud Native Nordic 
   * Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
   * Annie Talvasto [@Ani000](https://github.com/Ani000), [Microsoft](https://www.microsoft.com)
 * [Oslo](oslo/README.md)
-  * Sami Alajrami [@sami](https://github.com/sami), [Praqma](https://www.praqma.com/)
+  * Sami Alajrami [@sami-alajrami](https://github.com/sami-alajrami), [Praqma](https://www.praqma.com/)
   * Audun Fauchald Strand [@audunstrand](https://github.com/audunstrand), [Nav](https://www.nav.no/Forsiden)
 * [Reykjavík](reykjavík/README.md)
   * Stefan Schimanski [@sttts](https://github.com/sttts), [Red Hat](https://www.redhat.com)
