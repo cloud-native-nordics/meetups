@@ -752,6 +752,20 @@
   id: lassesundman
   name: Lasse Sundman
   speakersBureau: ""
+- company: mhivestas
+  email: ""
+  github: ""
+  id: anderskeis
+  name: Anders Keis
+  speakersBureau: ""
+  title: IT Architect Cloud infrastructure
+- company: mhivestas
+  email: ""
+  github: ""
+  id: thorlange
+  name: Thor Lange
+  speakersBureau: ""
+  title: IT Architect Cloud infrastructure
 - company: reaktor
   email: andy@andydote.co.uk
   github: pondidum

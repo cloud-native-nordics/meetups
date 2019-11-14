@@ -36,7 +36,7 @@ meetups:
       speakers: null
       title: Food and Networking
     - duration: 15m0s
-      slides: https://github.com/Cloud-Native-Aalborg/Meetup-1
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
       speakers:
       - arnemejlholm
       title: DIY k8s in 10 minutes/how to install kubernetes fast
@@ -63,31 +63,31 @@ meetups:
       speakers: null
       title: Welcome from Sparnord
     - duration: 10m0s
-      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
       speakers:
       - allanhojgaardjensen
       title: Welcome from the organizers
     - duration: 5m0s
-      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
       speakers:
       - henrikhoegh
       title: Introduction to kubernetes
     - duration: 20m0s
-      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
+      slides: ""
       speakers: null
       title: Food and Networking
     - duration: 20m0s
-      slides: ""
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
       speakers:
       - arnemejlholm
       title: Automating kubernetes installation - and FluxCD
     - duration: 25m0s
-      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
       speakers:
       - arnemejlholm
       title: Observability with Prometheus, Grafana and Jaeger
     - duration: 30m0s
-      slides: https://github.com/Cloud-Native-Aalborg/Meetup-2
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
       speakers: null
       title: Networking
     recording: ""
@@ -95,13 +95,49 @@ meetups:
     - company: sparnordbank
       role: Venue
   "20191106":
-    presentations: null
+    presentations:
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Doors Open
+    - duration: 5m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-3.pdf
+      speakers: null
+      title: Welcome from Sparnord
+    - duration: 10m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-3.pdf
+      speakers:
+      - allanhojgaardjensen
+      title: Welcome from the organizers
+    - duration: 45m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-3.pdf
+      speakers:
+      - simonbengtsson
+      title: Observability using Elastic Search
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food and Networking
+    - duration: 45m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-MHIVestas-Exploiting-the-winds-of-change.pdf
+      speakers:
+      - thorlange
+      - anderskeis
+      title: Observability - Exploting the winds of change
+    - duration: 15m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
+      speakers: null
+      title: Networking
     recording: ""
-    sponsors: null
+    sponsors:
+    - company: sparnordbank
+      role: Venue
   "20191211":
     presentations: null
     recording: ""
-    sponsors: null
+    sponsors:
+    - company: centricaenergytrading
+      role: Venue
 organizers:
 - allanhojgaardjensen
 - arnemejlholm
