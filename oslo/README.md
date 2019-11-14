@@ -20,6 +20,7 @@
 
 - Date: 13 November, 2019 at 17:15 - 19:15
 - Meetup link: https://www.meetup.com/Cloud-Native-and-Kubernetes-Oslo/events/265737238
+- Attendees (according to meetup.com): 28
 
 #### Agenda
 

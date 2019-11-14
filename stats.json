@@ -1,13 +1,13 @@
 {
   "meetupGroups": 12,
   "allMeetups": {
-    "sponsors": 119,
-    "speakers": 125,
-    "meetups": 93,
-    "members": 5674,
-    "totalRSVPs": 4807,
+    "sponsors": 121,
+    "speakers": 128,
+    "meetups": 94,
+    "members": 5678,
+    "totalRSVPs": 4835,
     "averageRSVPs": 51,
-    "uniqueRSVPs": 2668
+    "uniqueRSVPs": 2680
   },
   "perMeetup": {
     "aalborg": {
@@ -31,7 +31,7 @@
       },
       "speakers": 41,
       "meetups": 24,
-      "members": 939,
+      "members": 940,
       "totalRSVPs": 1356,
       "averageRSVPs": 56,
       "uniqueRSVPs": 533
@@ -68,7 +68,7 @@
       },
       "speakers": 5,
       "meetups": 9,
-      "members": 525,
+      "members": 526,
       "totalRSVPs": 271,
       "averageRSVPs": 30,
       "uniqueRSVPs": 179
@@ -82,7 +82,7 @@
       },
       "speakers": 26,
       "meetups": 11,
-      "members": 875,
+      "members": 876,
       "totalRSVPs": 888,
       "averageRSVPs": 80,
       "uniqueRSVPs": 452
@@ -93,11 +93,11 @@
         "Meetup": 2
       },
       "speakers": 0,
-      "meetups": 8,
-      "members": 755,
-      "totalRSVPs": 364,
-      "averageRSVPs": 45,
-      "uniqueRSVPs": 243
+      "meetups": 9,
+      "members": 756,
+      "totalRSVPs": 392,
+      "averageRSVPs": 43,
+      "uniqueRSVPs": 255
     },
     "reykjavík": {
       "sponsors": 6,
@@ -119,7 +119,7 @@
       },
       "speakers": 0,
       "meetups": 4,
-      "members": 774,
+      "members": 775,
       "totalRSVPs": 452,
       "averageRSVPs": 113,
       "uniqueRSVPs": 336
@@ -158,7 +158,7 @@
       },
       "speakers": 4,
       "meetups": 4,
-      "members": 142,
+      "members": 141,
       "totalRSVPs": 145,
       "averageRSVPs": 36,
       "uniqueRSVPs": 83

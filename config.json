@@ -642,6 +642,7 @@
       "websiteURL": "http://www.mhivestasoffshore.com//",
       "logoURL": "http://www.mhivestasoffshore.com/wp-content/uploads/2015/02/MHI_Vestas_Logo_130px.png"
     },
+    {
       "id": "reaktor",
       "name": "Reaktor",
       "websiteURL": "https://www.reaktor.com/",
@@ -1662,7 +1663,10 @@
       "title": "IT Architect Cloud infrastructure",
       "email": "",
       "company": "mhivestas",
+      "github": "",
+      "speakersBureau": ""
     },
+    {
       "id": "andydavies",
       "name": "Andy Davies",
       "email": "andy@andydote.co.uk",
@@ -5430,6 +5434,7 @@
           "name": "Storage Operator in Kubernetes - Getting your Feet Wet",
           "date": "2019-11-13T17:15:00Z",
           "duration": "2h0m0s",
+          "attendees": 28,
           "address": "Pilestredet 56",
           "recording": "",
           "sponsors": null,
