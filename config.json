@@ -631,6 +631,18 @@
       "logoURL": "https://d21buns5ku92am.cloudfront.net/67862/logo/retina-1567508556.png"
     },
     {
+      "id": "centricaenergytrading",
+      "name": "Centrica Energy Trading",
+      "websiteURL": "https://www.centrica.com/",
+      "logoURL": "https://www.centrica.com/image/2228/0/1/500/500/centrica-energy-logo-tile.jpg"
+    },
+    {
+      "id": "mhivestas",
+      "name": "MHI Vestas Offshore Wind",
+      "websiteURL": "http://www.mhivestasoffshore.com//",
+      "logoURL": "http://www.mhivestasoffshore.com/wp-content/uploads/2015/02/MHI_Vestas_Logo_130px.png"
+    },
+    {
       "id": "reaktor",
       "name": "Reaktor",
       "websiteURL": "https://www.reaktor.com/",
@@ -1637,6 +1649,24 @@
       "speakersBureau": ""
     },
     {
+      "id": "anderskeis",
+      "name": "Anders Keis",
+      "title": "IT Architect Cloud infrastructure",
+      "email": "",
+      "company": "mhivestas",
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "thorlange",
+      "name": "Thor Lange",
+      "title": "IT Architect Cloud infrastructure",
+      "email": "",
+      "company": "mhivestas",
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
       "id": "andydavies",
       "name": "Andy Davies",
       "email": "andy@andydote.co.uk",
@@ -1662,8 +1692,10 @@
       "country": "denmark",
       "description": "\u003cp\u003eCloud Native Aalborg is a meetup having focus on Cloud Native technologies. Cloud Native technologies are graduated and incubating projects, such as: Kubernetes, Prometheus, Envoy, fluentd and e.g. OpenTracing, Jaeger, etc. to mention a few. \u003cbr\u003eTechnologies and practices around the platform of platforms will also be on the agenda for the meetup group. \u003cbr\u003eWe are a small group of people passionate about these technologies working together with the Cloud Native Nordics team in an effort to share experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e\n\u003cp\u003eCloud Native Aalborg will apply for being an official Cloud Native Computing Foundation meetup group, and part of the Cloud Native Nordics community as well.\u003c/p\u003e\n\u003cp\u003eYou can join the Cloud Native Nordics Slack Community for further discussions: \u003ca href=\"https://www.cloudnativenordics.com\" class=\"linkified\"\u003ehttps://www.cloudnativenordics.com\u003c/a\u003e and to share your thoughts and ideas with other people sharing the passion for this.\u003c/p\u003e",
       "sponsorTiers": {
+        "centricaenergytrading": "Meetup",
         "cncf": "SpeakerProvider",
         "lunar": "SpeakerProvider",
+        "mhivestas": "SpeakerProvider",
         "oracle": "Meetup",
         "praqma": "SpeakerProvider",
         "sparnordbank": "Meetup"
@@ -1745,7 +1777,7 @@
             {
               "duration": "15m0s",
               "title": "DIY k8s in 10 minutes/how to install kubernetes fast",
-              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-1",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf",
               "speakers": [
                 "arnemejlholm"
               ]
@@ -1795,7 +1827,7 @@
             {
               "duration": "10m0s",
               "title": "Welcome from the organizers",
-              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf",
               "speakers": [
                 "allanhojgaardjensen"
               ]
@@ -1803,7 +1835,7 @@
             {
               "duration": "5m0s",
               "title": "Introduction to kubernetes",
-              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf",
               "speakers": [
                 "henrikhoegh"
               ]
@@ -1811,13 +1843,13 @@
             {
               "duration": "20m0s",
               "title": "Food and Networking",
-              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
+              "slides": "",
               "speakers": null
             },
             {
               "duration": "20m0s",
               "title": "Automating kubernetes installation - and FluxCD",
-              "slides": "",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf",
               "speakers": [
                 "arnemejlholm"
               ]
@@ -1825,7 +1857,7 @@
             {
               "duration": "25m0s",
               "title": "Observability with Prometheus, Grafana and Jaeger",
-              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf",
               "speakers": [
                 "arnemejlholm"
               ]
@@ -1833,7 +1865,7 @@
             {
               "duration": "30m0s",
               "title": "Networking",
-              "slides": "https://github.com/Cloud-Native-Aalborg/Meetup-2",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf",
               "speakers": null
             }
           ]
@@ -1847,8 +1879,63 @@
           "attendees": 33,
           "address": "Skelagervej 15",
           "recording": "",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": "sparnordbank"
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "30m0s",
+              "title": "Doors Open",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Welcome from Sparnord",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-3.pdf",
+              "speakers": null
+            },
+            {
+              "duration": "10m0s",
+              "title": "Welcome from the organizers",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-3.pdf",
+              "speakers": [
+                "allanhojgaardjensen"
+              ]
+            },
+            {
+              "duration": "45m0s",
+              "title": "Observability using Elastic Search",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-3.pdf",
+              "speakers": [
+                "simonbengtsson"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Food and Networking",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "45m0s",
+              "title": "Observability - Exploting the winds of change",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-MHIVestas-Exploiting-the-winds-of-change.pdf",
+              "speakers": [
+                "thorlange",
+                "anderskeis"
+              ]
+            },
+            {
+              "duration": "15m0s",
+              "title": "Networking",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf",
+              "speakers": null
+            }
+          ]
         },
         "20191211": {
           "id": 265893647,
@@ -1858,7 +1945,12 @@
           "duration": "3h15m0s",
           "address": "Skelagervej 1",
           "recording": "",
-          "sponsors": null,
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": "centricaenergytrading"
+            }
+          ],
           "presentations": null
         }
       }

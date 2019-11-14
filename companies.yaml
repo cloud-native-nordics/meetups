@@ -424,6 +424,14 @@
   logoURL: https://d21buns5ku92am.cloudfront.net/67862/logo/retina-1567508556.png
   name: team.blue
   websiteURL: https://team.blue/
+- id: centricaenergytrading
+  logoURL: https://www.centrica.com/image/2228/0/1/500/500/centrica-energy-logo-tile.jpg
+  name: Centrica Energy Trading
+  websiteURL: https://www.centrica.com/
+- id: mhivestas
+  logoURL: http://www.mhivestasoffshore.com/wp-content/uploads/2015/02/MHI_Vestas_Logo_130px.png
+  name: MHI Vestas Offshore Wind
+  websiteURL: http://www.mhivestasoffshore.com//
 - id: reaktor
   logoURL: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIyLjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAzNjUuMSA1MDkuNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzY1LjEgNTA5LjQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZD0iTTI0Mi4zLDMwMC4yYzUxLjQtMjUuNCw4Ni40LTY5LjcsODYuNC0xNDAuNkMzMjguNyw2Ny44LDI0NywwLDE1OC42LDBIMTQydjcwLjhIMHY0MzguOGg5Ni41di0xNThoNjAuM2w5My40LDE1Ny43aDExNC45CglMMjQyLjMsMzAwLjJ6IE0xNTUsMjI3LjloLTEzdjM1LjlIOTYuNXYtOTcuMUgxNDJ2LTY2LjRoMTNjNDcuOCwwLDc3LjMsMjkuOSw3Ny4zLDYzLjlDMjMyLjIsMTk4LjIsMjAyLjgsMjI3LjksMTU1LDIyNy45eiIvPgo8L3N2Zz4K
   name: Reaktor

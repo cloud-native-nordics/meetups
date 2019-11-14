@@ -1,8 +1,8 @@
 {
   "meetupGroups": 12,
   "allMeetups": {
-    "sponsors": 119,
-    "speakers": 125,
+    "sponsors": 121,
+    "speakers": 128,
     "meetups": 94,
     "members": 5678,
     "totalRSVPs": 4835,
@@ -11,12 +11,12 @@
   },
   "perMeetup": {
     "aalborg": {
-      "sponsors": 5,
+      "sponsors": 7,
       "sponsorByTier": {
-        "Meetup": 2,
-        "SpeakerProvider": 3
+        "Meetup": 3,
+        "SpeakerProvider": 4
       },
-      "speakers": 6,
+      "speakers": 9,
       "meetups": 3,
       "members": 133,
       "totalRSVPs": 137,
