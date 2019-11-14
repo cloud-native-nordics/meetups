@@ -515,7 +515,7 @@
   speakersBureau: ""
 - company: praqma
   email: ""
-  github: sami
+  github: sami-alajrami
   id: sami
   name: Sami Alajrami
   speakersBureau: ""
@@ -766,3 +766,16 @@
   name: Thor Lange
   speakersBureau: ""
   title: IT Architect Cloud infrastructure
+- company: reaktor
+  email: andy@andydote.co.uk
+  github: pondidum
+  id: andydavies
+  name: Andy Davies
+  speakersBureau: ""
+  twitter: pondidum
+- company: elastisys
+  email: ""
+  github: ""
+  id: lennartjern
+  name: Lennart Jern
+  speakersBureau: ""

@@ -13,7 +13,7 @@
 
 ## Organizers
 
-- Sami Alajrami [@sami](https://github.com/sami), [Praqma](https://www.praqma.com/)
+- Sami Alajrami [@sami-alajrami](https://github.com/sami-alajrami), [Praqma](https://www.praqma.com/)
 - Audun Fauchald Strand [@audunstrand](https://github.com/audunstrand), [Nav](https://www.nav.no/Forsiden)
 
 ### Storage Operator in Kubernetes - Getting your Feet Wet

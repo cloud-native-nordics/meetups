@@ -125,7 +125,7 @@
 - 17:40 - 17:55: Kubernetes Registry: what it is and why it's important 
   - Craig Peters [@craiglpeters](https://github.com/craiglpeters), [Jfrog](https://jfrog.com/)
 - 17:55 - 18:10: Automating Helm deployments to Kubernetes with Helmsman 
-  - Sami Alajrami [@sami](https://github.com/sami), [Praqma](https://www.praqma.com/)
+  - Sami Alajrami [@sami-alajrami](https://github.com/sami-alajrami), [Praqma](https://www.praqma.com/)
 - 18:10 - 18:40: Break with sandwiches 
 - 18:40 - 18:55: Serverless Containers with Azure Container Instances 
   - Justin Luk [@jluk](https://github.com/jluk), [Microsoft](https://www.microsoft.com)
