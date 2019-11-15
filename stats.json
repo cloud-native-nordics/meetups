@@ -1,7 +1,7 @@
 {
   "meetupGroups": 12,
   "allMeetups": {
-    "sponsors": 121,
+    "sponsors": 122,
     "speakers": 128,
     "meetups": 95,
     "members": 5693,
@@ -74,11 +74,11 @@
       "uniqueRSVPs": 179
     },
     "helsinki": {
-      "sponsors": 27,
+      "sponsors": 28,
       "sponsorByTier": {
         "EcosystemMember": 16,
         "Meetup": 15,
-        "SpeakerProvider": 12
+        "SpeakerProvider": 13
       },
       "speakers": 26,
       "meetups": 11,

@@ -191,6 +191,12 @@
       "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png"
     },
     {
+      "id": "vtt",
+      "name": "VTT",
+      "websiteURL": "https://www.vtt.fi/",
+      "logoURL": "https://www.vttresearch.se/_catalogs/masterpage/vtt/images/vtt_logoX2.png"
+    },
+    {
       "id": "google",
       "name": "Google Cloud",
       "websiteURL": "https://cloud.google.com",
@@ -947,6 +953,38 @@
       "email": "",
       "company": "walkbase",
       "github": "LinAnt",
+      "speakersBureau": ""
+    },
+    {
+      "id": "eerotamminen",
+      "name": "Eero Tamminen",
+      "email": "",
+      "company": "intel",
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "ismopuustinen",
+      "name": "Ismo Puustinen",
+      "email": "",
+      "company": "intel",
+      "github": "ipuustin",
+      "speakersBureau": ""
+    },
+    {
+      "id": "krisztianlitkey",
+      "name": "Krisztian Litkey",
+      "email": "",
+      "company": "intel",
+      "github": "klihub",
+      "speakersBureau": ""
+    },
+    {
+      "id": "zsolthomorodi",
+      "name": "Zsolt Homorodi",
+      "email": "",
+      "company": "vtt",
+      "github": "hazsetata",
       "speakersBureau": ""
     },
     {
@@ -4379,6 +4417,7 @@
         "upcloud": "Meetup",
         "verifa": "EcosystemMember",
         "vincit": "SpeakerProvider",
+        "vtt": "SpeakerProvider",
         "wartsila": "EcosystemMember",
         "weaveworks": "Meetup",
         "wolt": "EcosystemMember",
@@ -4396,6 +4435,7 @@
         "20190828",
         "20191029",
         "20191031",
+        "20191204",
         "20191212"
       ],
       "cfpLink": "https://bit.ly/k8sfin-cfp",
@@ -5298,7 +5338,7 @@
         "20191128": {
           "id": 265529376,
           "photo": "https://secure.meetupstatic.com/photos/event/7/8/7/f/highres_485610847.jpeg",
-          "name": "Post-KubeCon US Meetup in Helsinki",
+          "name": "KubeCon Recap \u0026 Linkerd Deep Dive",
           "date": "2019-11-28T18:00:00Z",
           "duration": "3h0m0s",
           "address": "Westendgatan 7",
@@ -5317,7 +5357,68 @@
               "company": "cncf"
             }
           ],
-          "presentations": null
+          "presentations": [
+            {
+              "duration": "10m0s",
+              "title": "Arrive at the venue, sit down and network with others",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Introductionary words from the venue sponsor for this time, Intel",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "15m0s",
+              "title": "KubeCon Recap and Community Updates",
+              "slides": "",
+              "speakers": [
+                "luxas"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Be smarter, get more out of your clusters",
+              "slides": "",
+              "speakers": [
+                "eerotamminen",
+                "ismopuustinen",
+                "krisztianlitkey"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Networking, food, drinks",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "30m0s",
+              "title": "All Meshed Up - How we use Linkerd",
+              "slides": "",
+              "speakers": [
+                "sachinkundu"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "10m0s",
+              "title": "Cloud Native Components in VTT's Data Pipelines",
+              "slides": "",
+              "speakers": [
+                "zsolthomorodi"
+              ]
+            },
+            {
+              "duration": "15m0s",
+              "delay": "5m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
         }
       }
     },
