@@ -3378,6 +3378,7 @@
           "name": "Istio in Production \u0026 Storage in k8s",
           "date": "2019-11-14T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 56,
           "address": "Højvangen 4",
           "recording": "",
           "sponsors": null,
@@ -4133,7 +4134,7 @@
       }
     },
     {
-      "photo": "https://secure.meetupstatic.com/photos/event/b/9/a/b/highres_482747531.jpeg",
+      "photo": "https://secure.meetupstatic.com/photos/event/1/4/4/highres_486660324.jpeg",
       "name": "Kubernetes Göteborg",
       "city": "Göteborg",
       "country": "sweden",
@@ -4321,10 +4322,11 @@
         },
         "20191204": {
           "id": 265686037,
-          "name": "Local Kubernetes - more details closer to event",
+          "photo": "https://secure.meetupstatic.com/photos/event/1/0/e/highres_486660270.jpeg",
+          "name": "Local Kubernetes",
           "date": "2019-12-04T18:00:00Z",
           "duration": "3h0m0s",
-          "address": "",
+          "address": "Kungsportsavenyen 33",
           "recording": "",
           "sponsors": null,
           "presentations": null
