@@ -41,7 +41,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - 18:20 - 18:50: Networking, food, drinks 
 - 18:50 - 19:35: RBAC, NetworkPolicies and PodSecurityPolicies 
   - Lennart Jern, [Elastisys](https://elastisys.com/)
-- 19:40 - 20:10: Networking 
+- 19:40 - 20:00: Networking 
 
 ### First Kubernetes Turku Meetup!
 
