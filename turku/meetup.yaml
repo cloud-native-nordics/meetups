@@ -87,7 +87,7 @@ meetups:
       - lennartjern
       title: RBAC, NetworkPolicies and PodSecurityPolicies
     - delay: 5m0s
-      duration: 30m0s
+      duration: 20m0s
       slides: ""
       speakers: null
       title: Networking
