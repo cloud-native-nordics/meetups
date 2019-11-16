@@ -20,7 +20,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
 - Annie Talvasto [@Ani000](https://github.com/Ani000), [Microsoft](https://www.microsoft.com)
 
-### Post-KubeCon US Meetup in Helsinki
+### KubeCon Recap & Linkerd Deep Dive
 
 - Date: 28 November, 2019 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/265529376

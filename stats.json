@@ -3,11 +3,11 @@
   "allMeetups": {
     "sponsors": 121,
     "speakers": 128,
-    "meetups": 94,
-    "members": 5678,
-    "totalRSVPs": 4835,
+    "meetups": 95,
+    "members": 5697,
+    "totalRSVPs": 4891,
     "averageRSVPs": 51,
-    "uniqueRSVPs": 2680
+    "uniqueRSVPs": 2700
   },
   "perMeetup": {
     "aalborg": {
@@ -18,7 +18,7 @@
       },
       "speakers": 9,
       "meetups": 3,
-      "members": 133,
+      "members": 135,
       "totalRSVPs": 137,
       "averageRSVPs": 45,
       "uniqueRSVPs": 87
@@ -30,11 +30,11 @@
         "SpeakerProvider": 15
       },
       "speakers": 41,
-      "meetups": 24,
-      "members": 940,
-      "totalRSVPs": 1356,
+      "meetups": 25,
+      "members": 946,
+      "totalRSVPs": 1412,
       "averageRSVPs": 56,
-      "uniqueRSVPs": 533
+      "uniqueRSVPs": 553
     },
     "bergen": {
       "sponsors": 1,
@@ -43,7 +43,7 @@
       },
       "speakers": 5,
       "meetups": 8,
-      "members": 207,
+      "members": 208,
       "totalRSVPs": 147,
       "averageRSVPs": 18,
       "uniqueRSVPs": 89
@@ -56,7 +56,7 @@
       },
       "speakers": 11,
       "meetups": 13,
-      "members": 843,
+      "members": 848,
       "totalRSVPs": 670,
       "averageRSVPs": 51,
       "uniqueRSVPs": 405
@@ -68,7 +68,7 @@
       },
       "speakers": 5,
       "meetups": 9,
-      "members": 526,
+      "members": 527,
       "totalRSVPs": 271,
       "averageRSVPs": 30,
       "uniqueRSVPs": 179
@@ -82,7 +82,7 @@
       },
       "speakers": 26,
       "meetups": 11,
-      "members": 876,
+      "members": 877,
       "totalRSVPs": 888,
       "averageRSVPs": 80,
       "uniqueRSVPs": 452
@@ -94,7 +94,7 @@
       },
       "speakers": 0,
       "meetups": 9,
-      "members": 756,
+      "members": 757,
       "totalRSVPs": 392,
       "averageRSVPs": 43,
       "uniqueRSVPs": 255
@@ -107,7 +107,7 @@
       },
       "speakers": 8,
       "meetups": 3,
-      "members": 213,
+      "members": 215,
       "totalRSVPs": 128,
       "averageRSVPs": 42,
       "uniqueRSVPs": 98

@@ -27,6 +27,7 @@
 
 - Date: 14 November, 2019 at 17:00 - 20:00
 - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/265871741
+- Attendees (according to meetup.com): 56
 
 #### Agenda
 
