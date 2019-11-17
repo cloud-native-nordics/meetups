@@ -1680,7 +1680,7 @@
       "name": "Lennart Jern",
       "email": "",
       "company": "elastisys",
-      "github": "",
+      "github": "lentzi90",
       "speakersBureau": ""
     }
   ],
@@ -3378,6 +3378,7 @@
           "name": "Istio in Production \u0026 Storage in k8s",
           "date": "2019-11-14T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 56,
           "address": "Højvangen 4",
           "recording": "",
           "sponsors": null,
@@ -4133,7 +4134,7 @@
       }
     },
     {
-      "photo": "https://secure.meetupstatic.com/photos/event/b/9/a/b/highres_482747531.jpeg",
+      "photo": "https://secure.meetupstatic.com/photos/event/1/4/4/highres_486660324.jpeg",
       "name": "Kubernetes Göteborg",
       "city": "Göteborg",
       "country": "sweden",
@@ -4321,10 +4322,11 @@
         },
         "20191204": {
           "id": 265686037,
-          "name": "Local Kubernetes - more details closer to event",
+          "photo": "https://secure.meetupstatic.com/photos/event/1/0/e/highres_486660270.jpeg",
+          "name": "Local Kubernetes",
           "date": "2019-12-04T18:00:00Z",
           "duration": "3h0m0s",
-          "address": "",
+          "address": "Kungsportsavenyen 33",
           "recording": "",
           "sponsors": null,
           "presentations": null
@@ -5295,8 +5297,8 @@
         },
         "20191128": {
           "id": 265529376,
-          "photo": "https://secure.meetupstatic.com/photos/event/7/8/7/f/highres_485610847.jpeg",
-          "name": "Post-KubeCon US Meetup in Helsinki",
+          "photo": "https://secure.meetupstatic.com/photos/event/8/6/2/highres_486662146.jpeg",
+          "name": "KubeCon Recap \u0026 Linkerd Deep Dive",
           "date": "2019-11-28T18:00:00Z",
           "duration": "3h0m0s",
           "address": "Westendgatan 7",
@@ -6329,7 +6331,7 @@
         },
         "20191212": {
           "id": 265794322,
-          "photo": "https://secure.meetupstatic.com/photos/event/c/5/2/6/highres_485870470.jpeg",
+          "photo": "https://secure.meetupstatic.com/photos/event/5/3/d/0/highres_486681456.jpeg",
           "name": "December Meetup in Turku",
           "date": "2019-12-12T17:00:00Z",
           "duration": "3h0m0s",
@@ -6364,7 +6366,7 @@
             },
             {
               "duration": "30m0s",
-              "title": "Intro to kubernetes objects",
+              "title": "Intro to Kubernetes objects",
               "slides": "",
               "speakers": [
                 "antonlindholm"
@@ -6386,7 +6388,7 @@
               "speakers": null
             },
             {
-              "duration": "30m0s",
+              "duration": "45m0s",
               "title": "RBAC, NetworkPolicies and PodSecurityPolicies",
               "slides": "",
               "speakers": [
@@ -6394,7 +6396,7 @@
               ]
             },
             {
-              "duration": "15m0s",
+              "duration": "20m0s",
               "delay": "5m0s",
               "title": "Networking",
               "slides": "",
