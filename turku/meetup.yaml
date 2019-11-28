@@ -70,7 +70,7 @@ meetups:
       slides: ""
       speakers:
       - antonlindholm
-      title: Intro to kubernetes objects
+      title: Intro to Kubernetes objects
     - delay: 5m0s
       duration: 30m0s
       slides: ""
@@ -81,13 +81,13 @@ meetups:
       slides: ""
       speakers: null
       title: Networking, food, drinks
-    - duration: 30m0s
+    - duration: 45m0s
       slides: ""
       speakers:
       - lennartjern
       title: RBAC, NetworkPolicies and PodSecurityPolicies
     - delay: 5m0s
-      duration: 15m0s
+      duration: 20m0s
       slides: ""
       speakers: null
       title: Networking

@@ -1718,7 +1718,7 @@
       "name": "Lennart Jern",
       "email": "",
       "company": "elastisys",
-      "github": "",
+      "github": "lentzi90",
       "speakersBureau": ""
     }
   ],
@@ -4360,7 +4360,7 @@
         },
         "20191204": {
           "id": 265686037,
-          "photo": "https://secure.meetupstatic.com/photos/event/1/0/e/highres_486660270.jpeg",
+          "photo": "https://secure.meetupstatic.com/photos/event/8/8/5/7/highres_486754903.jpeg",
           "name": "Local Kubernetes",
           "date": "2019-12-04T18:00:00Z",
           "duration": "3h0m0s",
@@ -6303,10 +6303,10 @@
         },
         "20191204": {
           "id": 266223857,
-          "photo": "https://secure.meetupstatic.com/photos/event/8/2/6/b/highres_486453387.jpeg",
+          "photo": "https://secure.meetupstatic.com/photos/event/6/6/5/1/highres_486986193.jpeg",
           "name": "December Kubernetes Meetup in Tampere",
-          "date": "2019-12-04T17:00:00Z",
-          "duration": "3h0m0s",
+          "date": "2019-12-04T17:45:00Z",
+          "duration": "3h15m0s",
           "address": "Hatanpään valtatie 30",
           "recording": "",
           "sponsors": null,
@@ -6432,7 +6432,7 @@
         },
         "20191212": {
           "id": 265794322,
-          "photo": "https://secure.meetupstatic.com/photos/event/c/5/2/6/highres_485870470.jpeg",
+          "photo": "https://secure.meetupstatic.com/photos/event/5/3/d/0/highres_486681456.jpeg",
           "name": "December Meetup in Turku",
           "date": "2019-12-12T17:00:00Z",
           "duration": "3h0m0s",
@@ -6467,7 +6467,7 @@
             },
             {
               "duration": "30m0s",
-              "title": "Intro to kubernetes objects",
+              "title": "Intro to Kubernetes objects",
               "slides": "",
               "speakers": [
                 "antonlindholm"
@@ -6489,7 +6489,7 @@
               "speakers": null
             },
             {
-              "duration": "30m0s",
+              "duration": "45m0s",
               "title": "RBAC, NetworkPolicies and PodSecurityPolicies",
               "slides": "",
               "speakers": [
@@ -6497,7 +6497,7 @@
               ]
             },
             {
-              "duration": "15m0s",
+              "duration": "20m0s",
               "delay": "5m0s",
               "title": "Networking",
               "slides": "",
@@ -6646,6 +6646,7 @@
           "name": "KubeCon recap \u0026 Istio",
           "date": "2019-11-25T17:00:00Z",
           "duration": "2h0m0s",
+          "attendees": 38,
           "address": "Kuratorvägen 2A",
           "recording": "",
           "sponsors": null,
