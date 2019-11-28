@@ -21,7 +21,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 ### December Kubernetes Meetup in Tampere
 
-- Date: 4 December, 2019 at 17:00 - 20:00
+- Date: 4 December, 2019 at 17:45 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/266223857
 
 #### Agenda

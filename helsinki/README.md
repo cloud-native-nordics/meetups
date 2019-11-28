@@ -30,6 +30,20 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 #### Agenda
 
+- 18:00 - 18:10: Arrive at the venue, sit down and network with others 
+- 18:10 - 18:15: Introductionary words from the venue sponsor for this time, Intel 
+- 18:15 - 18:30: KubeCon Recap and Community Updates 
+  - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+- 18:30 - 19:00: Be smarter, get more out of your clusters 
+  - Eero Tamminen, [Intel](https://www.intel.com)
+  - Ismo Puustinen [@ipuustin](https://github.com/ipuustin), [Intel](https://www.intel.com)
+  - Krisztian Litkey [@klihub](https://github.com/klihub), [Intel](https://www.intel.com)
+- 19:00 - 19:30: Networking, food, drinks 
+- 19:30 - 20:00: All Meshed Up - How we use Linkerd 
+  - Sachin Kundu [@sachinkundu](https://github.com/sachinkundu), [Microsoft](https://www.microsoft.com)
+- 20:10 - 20:40: Cloud Native Components in VTT's Data Pipelines 
+  - Zsolt Homorodi [@hazsetata](https://github.com/hazsetata), [VTT](https://www.vtt.fi/)
+- 20:45 - 21:00: Networking 
 
 ### October: Chaos Engineering & KubeOne
 

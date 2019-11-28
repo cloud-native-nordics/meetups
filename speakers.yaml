@@ -223,6 +223,30 @@
   id: antonlindholm
   name: Anton Lindholm
   speakersBureau: ""
+- company: intel
+  email: ""
+  github: ""
+  id: eerotamminen
+  name: Eero Tamminen
+  speakersBureau: ""
+- company: intel
+  email: ""
+  github: ipuustin
+  id: ismopuustinen
+  name: Ismo Puustinen
+  speakersBureau: ""
+- company: intel
+  email: ""
+  github: klihub
+  id: krisztianlitkey
+  name: Krisztian Litkey
+  speakersBureau: ""
+- company: vtt
+  email: ""
+  github: hazsetata
+  id: zsolthomorodi
+  name: Zsolt Homorodi
+  speakersBureau: ""
 - company: meltwater
   email: ""
   github: Solisol

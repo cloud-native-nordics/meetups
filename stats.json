@@ -1,13 +1,13 @@
 {
   "meetupGroups": 12,
   "allMeetups": {
-    "sponsors": 121,
+    "sponsors": 122,
     "speakers": 128,
-    "meetups": 95,
-    "members": 5698,
-    "totalRSVPs": 4891,
+    "meetups": 96,
+    "members": 5850,
+    "totalRSVPs": 4929,
     "averageRSVPs": 51,
-    "uniqueRSVPs": 2700
+    "uniqueRSVPs": 2719
   },
   "perMeetup": {
     "aalborg": {
@@ -18,7 +18,7 @@
       },
       "speakers": 9,
       "meetups": 3,
-      "members": 135,
+      "members": 148,
       "totalRSVPs": 137,
       "averageRSVPs": 45,
       "uniqueRSVPs": 87
@@ -31,10 +31,10 @@
       },
       "speakers": 41,
       "meetups": 25,
-      "members": 946,
+      "members": 950,
       "totalRSVPs": 1412,
       "averageRSVPs": 56,
-      "uniqueRSVPs": 553
+      "uniqueRSVPs": 552
     },
     "bergen": {
       "sponsors": 1,
@@ -56,7 +56,7 @@
       },
       "speakers": 11,
       "meetups": 13,
-      "members": 848,
+      "members": 870,
       "totalRSVPs": 670,
       "averageRSVPs": 51,
       "uniqueRSVPs": 405
@@ -68,21 +68,21 @@
       },
       "speakers": 5,
       "meetups": 9,
-      "members": 527,
+      "members": 555,
       "totalRSVPs": 271,
       "averageRSVPs": 30,
       "uniqueRSVPs": 179
     },
     "helsinki": {
-      "sponsors": 27,
+      "sponsors": 28,
       "sponsorByTier": {
         "EcosystemMember": 16,
         "Meetup": 15,
-        "SpeakerProvider": 12
+        "SpeakerProvider": 13
       },
       "speakers": 26,
       "meetups": 11,
-      "members": 877,
+      "members": 906,
       "totalRSVPs": 888,
       "averageRSVPs": 80,
       "uniqueRSVPs": 452
@@ -94,7 +94,7 @@
       },
       "speakers": 0,
       "meetups": 9,
-      "members": 757,
+      "members": 763,
       "totalRSVPs": 392,
       "averageRSVPs": 43,
       "uniqueRSVPs": 255
@@ -107,10 +107,10 @@
       },
       "speakers": 8,
       "meetups": 3,
-      "members": 216,
+      "members": 234,
       "totalRSVPs": 128,
       "averageRSVPs": 42,
-      "uniqueRSVPs": 98
+      "uniqueRSVPs": 97
     },
     "stockholm": {
       "sponsors": 2,
@@ -119,7 +119,7 @@
       },
       "speakers": 0,
       "meetups": 4,
-      "members": 775,
+      "members": 785,
       "totalRSVPs": 452,
       "averageRSVPs": 113,
       "uniqueRSVPs": 336
@@ -132,7 +132,7 @@
       },
       "speakers": 14,
       "meetups": 5,
-      "members": 195,
+      "members": 197,
       "totalRSVPs": 200,
       "averageRSVPs": 40,
       "uniqueRSVPs": 114
@@ -145,7 +145,7 @@
       },
       "speakers": 5,
       "meetups": 1,
-      "members": 73,
+      "members": 77,
       "totalRSVPs": 49,
       "averageRSVPs": 49,
       "uniqueRSVPs": 49
@@ -157,11 +157,11 @@
         "SpeakerProvider": 1
       },
       "speakers": 4,
-      "meetups": 4,
-      "members": 141,
-      "totalRSVPs": 145,
+      "meetups": 5,
+      "members": 157,
+      "totalRSVPs": 183,
       "averageRSVPs": 36,
-      "uniqueRSVPs": 83
+      "uniqueRSVPs": 104
     }
   }
 }

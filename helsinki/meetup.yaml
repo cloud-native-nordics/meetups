@@ -23,6 +23,7 @@ ignoreMeetupDates:
 - "20190828"
 - "20191029"
 - "20191031"
+- "20191204"
 - "20191212"
 latitude: 60.164574
 longitude: 24.938838
@@ -537,7 +538,47 @@ meetups:
     - company: cncf
       role: Other
   "20191128":
-    presentations: null
+    presentations:
+    - duration: 10m0s
+      slides: ""
+      speakers: null
+      title: Arrive at the venue, sit down and network with others
+    - duration: 5m0s
+      slides: ""
+      speakers: null
+      title: Introductionary words from the venue sponsor for this time, Intel
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - luxas
+      title: KubeCon Recap and Community Updates
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - eerotamminen
+      - ismopuustinen
+      - krisztianlitkey
+      title: Be smarter, get more out of your clusters
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Networking, food, drinks
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - sachinkundu
+      title: All Meshed Up - How we use Linkerd
+    - delay: 10m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - zsolthomorodi
+      title: Cloud Native Components in VTT's Data Pipelines
+    - delay: 5m0s
+      duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Networking
     recording: ""
     sponsors:
     - company: intel

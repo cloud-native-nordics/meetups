@@ -191,6 +191,12 @@
       "logoURL": "https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png"
     },
     {
+      "id": "vtt",
+      "name": "VTT",
+      "websiteURL": "https://www.vtt.fi/",
+      "logoURL": "https://www.vttresearch.se/_catalogs/masterpage/vtt/images/vtt_logoX2.png"
+    },
+    {
       "id": "google",
       "name": "Google Cloud",
       "websiteURL": "https://cloud.google.com",
@@ -947,6 +953,38 @@
       "email": "",
       "company": "walkbase",
       "github": "LinAnt",
+      "speakersBureau": ""
+    },
+    {
+      "id": "eerotamminen",
+      "name": "Eero Tamminen",
+      "email": "",
+      "company": "intel",
+      "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "ismopuustinen",
+      "name": "Ismo Puustinen",
+      "email": "",
+      "company": "intel",
+      "github": "ipuustin",
+      "speakersBureau": ""
+    },
+    {
+      "id": "krisztianlitkey",
+      "name": "Krisztian Litkey",
+      "email": "",
+      "company": "intel",
+      "github": "klihub",
+      "speakersBureau": ""
+    },
+    {
+      "id": "zsolthomorodi",
+      "name": "Zsolt Homorodi",
+      "email": "",
+      "company": "vtt",
+      "github": "hazsetata",
       "speakersBureau": ""
     },
     {
@@ -4322,7 +4360,7 @@
         },
         "20191204": {
           "id": 265686037,
-          "photo": "https://secure.meetupstatic.com/photos/event/1/0/e/highres_486660270.jpeg",
+          "photo": "https://secure.meetupstatic.com/photos/event/8/8/5/7/highres_486754903.jpeg",
           "name": "Local Kubernetes",
           "date": "2019-12-04T18:00:00Z",
           "duration": "3h0m0s",
@@ -4379,6 +4417,7 @@
         "upcloud": "Meetup",
         "verifa": "EcosystemMember",
         "vincit": "SpeakerProvider",
+        "vtt": "SpeakerProvider",
         "wartsila": "EcosystemMember",
         "weaveworks": "Meetup",
         "wolt": "EcosystemMember",
@@ -4396,6 +4435,7 @@
         "20190828",
         "20191029",
         "20191031",
+        "20191204",
         "20191212"
       ],
       "cfpLink": "https://bit.ly/k8sfin-cfp",
@@ -5317,7 +5357,68 @@
               "company": "cncf"
             }
           ],
-          "presentations": null
+          "presentations": [
+            {
+              "duration": "10m0s",
+              "title": "Arrive at the venue, sit down and network with others",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Introductionary words from the venue sponsor for this time, Intel",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "15m0s",
+              "title": "KubeCon Recap and Community Updates",
+              "slides": "",
+              "speakers": [
+                "luxas"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Be smarter, get more out of your clusters",
+              "slides": "",
+              "speakers": [
+                "eerotamminen",
+                "ismopuustinen",
+                "krisztianlitkey"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Networking, food, drinks",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "30m0s",
+              "title": "All Meshed Up - How we use Linkerd",
+              "slides": "",
+              "speakers": [
+                "sachinkundu"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "10m0s",
+              "title": "Cloud Native Components in VTT's Data Pipelines",
+              "slides": "",
+              "speakers": [
+                "zsolthomorodi"
+              ]
+            },
+            {
+              "duration": "15m0s",
+              "delay": "5m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
         }
       }
     },
@@ -6202,10 +6303,10 @@
         },
         "20191204": {
           "id": 266223857,
-          "photo": "https://secure.meetupstatic.com/photos/event/8/2/6/b/highres_486453387.jpeg",
+          "photo": "https://secure.meetupstatic.com/photos/event/6/6/5/1/highres_486986193.jpeg",
           "name": "December Kubernetes Meetup in Tampere",
-          "date": "2019-12-04T17:00:00Z",
-          "duration": "3h0m0s",
+          "date": "2019-12-04T17:45:00Z",
+          "duration": "3h15m0s",
           "address": "Hatanpään valtatie 30",
           "recording": "",
           "sponsors": null,
@@ -6545,6 +6646,7 @@
           "name": "KubeCon recap \u0026 Istio",
           "date": "2019-11-25T17:00:00Z",
           "duration": "2h0m0s",
+          "attendees": 38,
           "address": "Kuratorvägen 2A",
           "recording": "",
           "sponsors": null,

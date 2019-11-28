@@ -128,6 +128,10 @@
   logoURL: https://www.walkbase.com/wp-content/uploads/2018/08/walkbase_logo_STRATACACHE-small.png
   name: Walkbase
   websiteURL: https://www.walkbase.com/
+- id: vtt
+  logoURL: https://www.vttresearch.se/_catalogs/masterpage/vtt/images/vtt_logoX2.png
+  name: VTT
+  websiteURL: https://www.vtt.fi/
 - id: google
   logoURL: https://cloud.google.com/_static/e4e95039f4/images/cloud/cloud-logo.svg
   name: Google Cloud

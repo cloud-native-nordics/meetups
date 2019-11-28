@@ -20,6 +20,7 @@
 
 - Date: 25 November, 2019 at 17:00 - 19:00
 - Meetup link: https://www.meetup.com/Cloud-Native-Northern-Sweden/events/266254756
+- Attendees (according to meetup.com): 38
 
 #### Agenda
 
