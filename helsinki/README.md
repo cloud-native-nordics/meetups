@@ -24,6 +24,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 - Date: 28 November, 2019 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/265529376
+- Attendees (according to meetup.com): 62
 - Venue sponsor: [Intel](https://www.intel.com)
 - Other sponsor: [luxas labs](https://luxaslabs.com)
 - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)

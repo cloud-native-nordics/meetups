@@ -4364,6 +4364,7 @@
           "name": "Local Kubernetes",
           "date": "2019-12-04T18:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 50,
           "address": "Kungsportsavenyen 33",
           "recording": "",
           "sponsors": null,
@@ -5341,6 +5342,7 @@
           "name": "KubeCon Recap \u0026 Linkerd Deep Dive",
           "date": "2019-11-28T18:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 62,
           "address": "Westendgatan 7",
           "recording": "",
           "sponsors": [
@@ -6307,6 +6309,7 @@
           "name": "December Kubernetes Meetup in Tampere",
           "date": "2019-12-04T17:45:00Z",
           "duration": "3h15m0s",
+          "attendees": 44,
           "address": "Hatanpään valtatie 30",
           "recording": "",
           "sponsors": null,

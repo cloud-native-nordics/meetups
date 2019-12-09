@@ -20,6 +20,7 @@
 
 - Date: 4 December, 2019 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Goteborg/events/265686037
+- Attendees (according to meetup.com): 50
 
 #### Agenda
 
