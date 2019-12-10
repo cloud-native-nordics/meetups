@@ -1,6 +1,6 @@
 # Meetups organized in Copenhagen
 
-<img width="50%" align="right" alt="Meetup Group Logo" src="https://secure.meetupstatic.com/photos/event/5/d/b/8/highres_483803992.jpeg">
+<img width="50%" align="right" alt="Meetup Group Logo" src="https://secure.meetupstatic.com/photos/event/1/b/f/c/highres_487267164.jpeg">
 
 ## Description
 
@@ -18,6 +18,7 @@
 
 - Date: 10 December, 2019 at 17:00 - 20:00
 - Meetup link: https://www.meetup.com/Cloud-Native-Copenhagen/events/266225732
+- Attendees (according to meetup.com): 60
 
 #### Agenda
 

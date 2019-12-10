@@ -1169,10 +1169,10 @@
       "id": "rasmussteiniche",
       "name": "Rasmus Steiniche",
       "title": "CEO",
-      "email": "",
+      "email": "rasmus@steiniche.net",
       "company": "neurospace",
       "github": "Steiniche",
-      "speakersBureau": ""
+      "speakersBureau": "steiniche"
     },
     {
       "id": "camillalarsen",
@@ -3698,7 +3698,7 @@
       }
     },
     {
-      "photo": "https://secure.meetupstatic.com/photos/event/5/d/b/8/highres_483803992.jpeg",
+      "photo": "https://secure.meetupstatic.com/photos/event/1/b/f/c/highres_487267164.jpeg",
       "name": "Cloud Native Copenhagen",
       "city": "Copenhagen",
       "country": "denmark",
@@ -4164,6 +4164,7 @@
           "name": "GitOps \u0026 Serverless",
           "date": "2019-12-10T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 60,
           "address": "Kongens Nytorv 18",
           "recording": "",
           "sponsors": null,

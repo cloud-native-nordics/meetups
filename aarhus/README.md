@@ -11,7 +11,7 @@
 ## Organizers
 
 - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
-- Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io)
+- Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
 - Henrik Høegh [@hoeghh](https://github.com/hoeghh), [Praqma](https://www.praqma.com/)
 - Daniel Fly [@sazo](https://github.com/sazo), [Zitcom](https://www.zitcom.dk/)
 
@@ -90,7 +90,7 @@
   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
   - Slides: https://www.slideshare.net/KasperNissen1/should-developers-care-about-dockerfiles-and-kubernetes-resources
 - 19:15 - 19:30: Intro to cloud-verse 
-  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io)
+  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
   - Slides: https://docs.google.com/presentation/d/1p_KzIq-eMHjB6EAOd44JCH004IRiZzmNfKIjip8qlog/edit?usp=sharing
 - 19:30 - 20:30: LEGO House tour with play agents - Connection between physical bricks and digital experiences 
 - 20:30 - 21:45: Bus transport from LEGO House to Aarhus 
@@ -124,7 +124,7 @@
 #### Agenda
 
 - 17:00 - 17:05: Welcome to Cloud Native Aarhus 
-  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io)
+  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
 - 17:05 - 17:15: Welcome to JYSK 
 - 17:15 - 18:00: Cloud Native Streaming with Apache Flink 
   - Lasse Nedergaard [@lnetrackunit](https://github.com/lnetrackunit), [Trackunit](https://trackunit.com)
@@ -173,7 +173,7 @@
 - 18:30 - 19:00: Workshop 
 - 19:00 - 19:30: Panel and Open Space Discussion about Monitoring 
   - Emil Ingerslev [@emilingerslev](https://github.com/emilingerslev), Cloud Architect/SRE, [Lunar](https://www.lunarway.com)
-  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io)
+  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
   - Mike Rostermund [@SaaldjorMike](https://github.com/SaaldjorMike), [Schneider Electric](https://www.se.com)
   - Steffan Lund, [Schneider Electric](https://www.se.com)
   - Andrei Predoiu [@Andrei-Predoiu](https://github.com/Andrei-Predoiu), [BESTSELLER](https://bestseller.com/)
@@ -219,7 +219,7 @@
   - Henrik Høegh [@hoeghh](https://github.com/hoeghh), [Praqma](https://www.praqma.com/)
   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
   - Daniel Fly [@sazo](https://github.com/sazo), [Zitcom](https://www.zitcom.dk/)
-  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io)
+  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
 - 17:15 - 18:00: Workshop 
 - 18:00 - 18:30: Food and break 
 - 18:30 - 19:00: Workshop 
@@ -285,7 +285,7 @@
 #### Agenda
 
 - 17:00 - 17:05: Welcome to Cloud Native Aarhus 
-  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io)
+  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
 - 17:05 - 17:15: Welcome to BESTSELLER by Paul Skarregaard 
 - 17:15 - 18:00: Cloud Native CI/CD at Lunar Way 
   - Emil Ingerslev [@emilingerslev](https://github.com/emilingerslev), Cloud Architect/SRE, [Lunar](https://www.lunarway.com)
@@ -323,7 +323,7 @@
 #### Agenda
 
 - 17:00 - 17:05: Welcome to Cloud Native Aarhus 
-  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io)
+  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
 - 17:05 - 17:15: Welcome to Uber by Kåre Kjelstrøm 
 - 17:15 - 17:45: How we store blobs at Uber 
   - Magnus Vinther [@magnuschatt](https://github.com/magnuschatt), [Uber](https://uber.com)
@@ -386,7 +386,7 @@
 - 17:00 - 17:05: Welcome to Cloud Native Aarhus 
   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
 - 17:05 - 17:15: Welcome to BESTSELLER 
-  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io)
+  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
 - 17:15 - 18:00: Traditional Ops to Cloud Native 
   - Peter Brøndum, [BESTSELLER](https://bestseller.com/)
 - 18:00 - 18:30: Break and food 
@@ -407,7 +407,7 @@
   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
 - 17:05 - 17:15: Welcome to BoligPortal by Karsten Røjkær Børglum 
 - 17:15 - 18:00: Prometheus 101 - How to get started 
-  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io)
+  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
 - 18:00 - 18:30: Break and food 
 - 18:30 - 19:15: Introduction to Helm - The Kubernetes Package Manager 
   - Nicolai Kobber [@nkobber](https://github.com/nkobber), [Lunar](https://www.lunarway.com)
