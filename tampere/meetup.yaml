@@ -214,7 +214,7 @@ meetups:
       speakers:
       - luxas
       title: Kubernetes 101 Hands-On Workshop
-    recording: ""
+    recording: https://www.youtube.com/watch?v=FcUY7Gv94J8
     sponsors:
     - company: eficode
       role: Venue
@@ -222,7 +222,7 @@ meetups:
       role: Other
     - company: cncf
       role: Other
-    - company: digitalocean
+    - company: weaveworks
       role: Other
   "20191204":
     presentations: null

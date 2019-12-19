@@ -39,7 +39,7 @@ meetups:
       title: Managing Kubernetes clusters easily with Rancher
     - delay: 10m0s
       duration: 30m0s
-      slides: ""
+      slides: https://speakerdeck.com/sachinkundu/linkerd2-at-cncf-finland
       speakers:
       - sachinkundu
       title: All Meshed Up - How we use Linkerd
@@ -48,7 +48,7 @@ meetups:
       slides: ""
       speakers: null
       title: Networking
-    recording: ""
+    recording: https://youtu.be/eyTv2uBL3ag
     sponsors:
     - company: walkbase
       role: Venue
@@ -91,7 +91,7 @@ meetups:
       slides: ""
       speakers: null
       title: Networking
-    recording: ""
+    recording: https://youtu.be/VoQU2uvHY8w
     sponsors:
     - company: reaktor
       role: Venue
