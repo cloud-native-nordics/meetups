@@ -32,11 +32,12 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 - Date: 29 October, 2019 at 17:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/265150836
+- Recording: https://www.youtube.com/watch?v=FcUY7Gv94J8
 - Attendees (according to meetup.com): 4
 - Venue sponsor: [Eficode](https://www.eficode.com/home)
 - Other sponsor: [luxas labs](https://luxaslabs.com)
 - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
-- Other sponsor: [Digital Ocean](https://www.digitalocean.com/)
+- Other sponsor: [Weaveworks](https://www.weave.works)
 
 #### Agenda
 
