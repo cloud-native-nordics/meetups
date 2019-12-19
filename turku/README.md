@@ -26,6 +26,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 - Date: 12 December, 2019 at 17:00 - 20:00
 - Meetup link: https://www.meetup.com/Kubernetes-Turku/events/265794322
+- Attendees (according to meetup.com): 23
 - Venue sponsor: [Reaktor](https://www.reaktor.com/)
 - Other sponsor: [luxas labs](https://luxaslabs.com)
 - Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)

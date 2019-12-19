@@ -1981,6 +1981,7 @@
           "name": "#4 Istio in production, Prometheus 101 and Gitops",
           "date": "2019-12-11T16:45:00Z",
           "duration": "3h15m0s",
+          "attendees": 41,
           "address": "Skelagervej 1",
           "recording": "",
           "sponsors": [
@@ -3428,6 +3429,7 @@
           "name": "Happy Holidays Edition with GitOps and Exploiting the winds of change",
           "date": "2019-12-18T16:30:00Z",
           "duration": "3h30m0s",
+          "attendees": 44,
           "address": "Finlandsgade 28",
           "recording": "",
           "sponsors": null,
@@ -6440,6 +6442,7 @@
           "name": "December Meetup in Turku",
           "date": "2019-12-12T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 23,
           "address": "Linnankatu 16",
           "recording": "",
           "sponsors": [
