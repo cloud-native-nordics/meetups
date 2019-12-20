@@ -1981,6 +1981,7 @@
           "name": "#4 Istio in production, Prometheus 101 and Gitops",
           "date": "2019-12-11T16:45:00Z",
           "duration": "3h15m0s",
+          "attendees": 41,
           "address": "Skelagervej 1",
           "recording": "",
           "sponsors": [
@@ -3428,6 +3429,7 @@
           "name": "Happy Holidays Edition with GitOps and Exploiting the winds of change",
           "date": "2019-12-18T16:30:00Z",
           "duration": "3h30m0s",
+          "attendees": 44,
           "address": "Finlandsgade 28",
           "recording": "",
           "sponsors": null,
@@ -5261,7 +5263,7 @@
           "duration": "3h0m0s",
           "attendees": 103,
           "address": "Karasvängen 7",
-          "recording": "",
+          "recording": "https://youtu.be/Yxk-mY-V3Vk",
           "sponsors": [
             {
               "role": "Venue",
@@ -5345,7 +5347,7 @@
           "duration": "3h0m0s",
           "attendees": 62,
           "address": "Westendgatan 7",
-          "recording": "",
+          "recording": "https://youtu.be/S9WJnhi3moM",
           "sponsors": [
             {
               "role": "Venue",
@@ -5376,7 +5378,7 @@
             {
               "duration": "15m0s",
               "title": "KubeCon Recap and Community Updates",
-              "slides": "",
+              "slides": "https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-november-2019",
               "speakers": [
                 "luxas"
               ]
@@ -5400,7 +5402,7 @@
             {
               "duration": "30m0s",
               "title": "All Meshed Up - How we use Linkerd",
-              "slides": "",
+              "slides": "https://speakerdeck.com/sachinkundu/linkerd2-at-cncf-finland",
               "speakers": [
                 "sachinkundu"
               ]
@@ -5409,7 +5411,7 @@
               "duration": "30m0s",
               "delay": "10m0s",
               "title": "Cloud Native Components in VTT's Data Pipelines",
-              "slides": "",
+              "slides": "https://speakerdeck.com/hazsetata/cloud-native-components-in-vtts-data-pipelines",
               "speakers": [
                 "zsolthomorodi"
               ]
@@ -5422,6 +5424,17 @@
               "speakers": null
             }
           ]
+        },
+        "20200120": {
+          "id": 267110169,
+          "photo": "https://secure.meetupstatic.com/photos/event/4/a/c/highres_487321196.jpeg",
+          "name": "January Meetup in Helsinki",
+          "date": "2020-01-20T18:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Postrutten 7",
+          "recording": "https://youtu.be/3k5EfIQpw-E",
+          "sponsors": null,
+          "presentations": null
         }
       }
     },
@@ -5896,7 +5909,6 @@
       "sponsorTiers": {
         "cncf": "Meetup",
         "cybercom": "Meetup",
-        "digitalocean": "Meetup",
         "eficode": "Meetup",
         "futurice": "Meetup",
         "intel": "SpeakerProvider",
@@ -5907,7 +5919,8 @@
         "polarsquad": "SpeakerProvider",
         "redhat": "SpeakerProvider",
         "storaenso": "SpeakerProvider",
-        "tribe": "Meetup"
+        "tribe": "Meetup",
+        "weaveworks": "Meetup"
       },
       "meetupID": "Kubernetes-Tampere",
       "organizers": [
@@ -6273,7 +6286,7 @@
           "duration": "4h0m0s",
           "attendees": 4,
           "address": "Åkerlundinkatu 11 A",
-          "recording": "",
+          "recording": "https://www.youtube.com/watch?v=FcUY7Gv94J8",
           "sponsors": [
             {
               "role": "Venue",
@@ -6289,7 +6302,7 @@
             },
             {
               "role": "Other",
-              "company": "digitalocean"
+              "company": "weaveworks"
             }
           ],
           "presentations": [
@@ -6354,7 +6367,7 @@
           "duration": "3h0m0s",
           "attendees": 49,
           "address": "Lemminkäisenkatu 14B",
-          "recording": "",
+          "recording": "https://youtu.be/eyTv2uBL3ag",
           "sponsors": [
             {
               "role": "Venue",
@@ -6420,7 +6433,7 @@
               "duration": "30m0s",
               "delay": "10m0s",
               "title": "All Meshed Up - How we use Linkerd",
-              "slides": "",
+              "slides": "https://speakerdeck.com/sachinkundu/linkerd2-at-cncf-finland",
               "speakers": [
                 "sachinkundu"
               ]
@@ -6440,8 +6453,9 @@
           "name": "December Meetup in Turku",
           "date": "2019-12-12T17:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 23,
           "address": "Linnankatu 16",
-          "recording": "",
+          "recording": "https://youtu.be/VoQU2uvHY8w",
           "sponsors": [
             {
               "role": "Venue",

@@ -19,6 +19,7 @@
 
 - Date: 18 December, 2019 at 16:30 - 20:00
 - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/266225252
+- Attendees (according to meetup.com): 44
 
 #### Agenda
 

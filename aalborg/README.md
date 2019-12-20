@@ -20,6 +20,7 @@
 
 - Date: 11 December, 2019 at 16:45 - 20:00
 - Meetup link: https://www.meetup.com/Cloud-Native-Aalborg/events/265893647
+- Attendees (according to meetup.com): 41
 - Venue sponsor: [Centrica Energy Trading](https://www.centrica.com/)
 
 #### Agenda

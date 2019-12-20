@@ -529,7 +529,7 @@ meetups:
       slides: ""
       speakers: null
       title: Networking
-    recording: ""
+    recording: https://youtu.be/Yxk-mY-V3Vk
     sponsors:
     - company: nokia
       role: Venue
@@ -548,7 +548,7 @@ meetups:
       speakers: null
       title: Introductionary words from the venue sponsor for this time, Intel
     - duration: 15m0s
-      slides: ""
+      slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-november-2019
       speakers:
       - luxas
       title: KubeCon Recap and Community Updates
@@ -564,13 +564,13 @@ meetups:
       speakers: null
       title: Networking, food, drinks
     - duration: 30m0s
-      slides: ""
+      slides: https://speakerdeck.com/sachinkundu/linkerd2-at-cncf-finland
       speakers:
       - sachinkundu
       title: All Meshed Up - How we use Linkerd
     - delay: 10m0s
       duration: 30m0s
-      slides: ""
+      slides: https://speakerdeck.com/hazsetata/cloud-native-components-in-vtts-data-pipelines
       speakers:
       - zsolthomorodi
       title: Cloud Native Components in VTT's Data Pipelines
@@ -579,7 +579,7 @@ meetups:
       slides: ""
       speakers: null
       title: Networking
-    recording: ""
+    recording: https://youtu.be/S9WJnhi3moM
     sponsors:
     - company: intel
       role: Venue
@@ -587,6 +587,10 @@ meetups:
       role: Other
     - company: cncf
       role: Other
+  "20200120":
+    presentations: null
+    recording: https://youtu.be/3k5EfIQpw-E
+    sponsors: null
 organizers:
 - luxas
 - annie

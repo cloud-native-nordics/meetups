@@ -20,10 +20,20 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
 - Annie Talvasto [@Ani000](https://github.com/Ani000), [Microsoft](https://www.microsoft.com)
 
+### January Meetup in Helsinki
+
+- Date: 20 January, 2020 at 18:00 - 21:00
+- Meetup link: https://www.meetup.com/Kubernetes-Finland/events/267110169
+- Recording: https://youtu.be/3k5EfIQpw-E
+
+#### Agenda
+
+
 ### KubeCon Recap & Linkerd Deep Dive
 
 - Date: 28 November, 2019 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/265529376
+- Recording: https://youtu.be/S9WJnhi3moM
 - Attendees (according to meetup.com): 62
 - Venue sponsor: [Intel](https://www.intel.com)
 - Other sponsor: [luxas labs](https://luxaslabs.com)
@@ -35,6 +45,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - 18:10 - 18:15: Introductionary words from the venue sponsor for this time, Intel 
 - 18:15 - 18:30: KubeCon Recap and Community Updates 
   - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+  - Slides: https://speakerdeck.com/luxas/kubernetes-and-cncf-meetup-helsinki-november-2019
 - 18:30 - 19:00: Be smarter, get more out of your clusters 
   - Eero Tamminen, [Intel](https://www.intel.com)
   - Ismo Puustinen [@ipuustin](https://github.com/ipuustin), [Intel](https://www.intel.com)
@@ -42,14 +53,17 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - 19:00 - 19:30: Networking, food, drinks 
 - 19:30 - 20:00: All Meshed Up - How we use Linkerd 
   - Sachin Kundu [@sachinkundu](https://github.com/sachinkundu), [Microsoft](https://www.microsoft.com)
+  - Slides: https://speakerdeck.com/sachinkundu/linkerd2-at-cncf-finland
 - 20:10 - 20:40: Cloud Native Components in VTT's Data Pipelines 
   - Zsolt Homorodi [@hazsetata](https://github.com/hazsetata), [VTT](https://www.vtt.fi/)
+  - Slides: https://speakerdeck.com/hazsetata/cloud-native-components-in-vtts-data-pipelines
 - 20:45 - 21:00: Networking 
 
 ### October: Chaos Engineering & KubeOne
 
 - Date: 24 October, 2019 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/264646130
+- Recording: https://youtu.be/Yxk-mY-V3Vk
 - Attendees (according to meetup.com): 103
 - Venue sponsor: [Nokia](https://www.nokia.com/)
 - Other sponsor: [luxas labs](https://luxaslabs.com)
