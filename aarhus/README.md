@@ -20,18 +20,37 @@
 - Date: 18 December, 2019 at 16:30 - 20:00
 - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/266225252
 - Attendees (according to meetup.com): 44
+- Venue sponsor: [Orbit Lab](https://orbitlab.au.dk)
+- Food sponsor: [IT Minds](https://itminds.dk)
 
 #### Agenda
 
+- 16:30 - 16:45: Welcome to Cloud Native Nordics 
+  - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
+- 16:45 - 17:30: Exploiting the winds of change with Cloud Native @MHI Vestas 
+  - Anders Keis, IT Architect Cloud infrastructure, [MHI Vestas Offshore Wind](http://www.mhivestasoffshore.com//)
+  - Thor Lange, IT Architect Cloud infrastructure, [MHI Vestas Offshore Wind](http://www.mhivestasoffshore.com//)
+- 17:30 - 18:15: GitOps – Operations by Pull Request 
+  - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
+  - Slides: https://www.slideshare.net/KasperNissen1/gitops-operation-by-pull-request
 
 ### Istio in Production & Storage in k8s
 
 - Date: 14 November, 2019 at 17:00 - 20:00
 - Meetup link: https://www.meetup.com/Cloud-Native-Aarhus/events/265871741
 - Attendees (according to meetup.com): 56
+- Venue sponsor: [team.blue](https://team.blue/)
+- Food sponsor: [team.blue](https://team.blue/)
 
 #### Agenda
 
+- 17:00 - 17:15: Welcome to Cloud Native Nordics 
+  - Daniel Fly [@sazo](https://github.com/sazo), [Zitcom](https://www.zitcom.dk/)
+- 17:15 - 18:00: Istio In Production 
+  - Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
+  - Slides: https://docs.google.com/presentation/d/1SHhmGqsvnIuOYafEBARpbtfi96VkMavALckpJ_wFiwA/edit?usp=sharing
+- 18:00 - 18:45: Storage Operator in Kubernetes - Getting your Feet Wet 
+  - Henrik Høegh [@hoeghh](https://github.com/hoeghh), [Praqma](https://www.praqma.com/)
 
 ### Chaos Engineering with Russ Miles & KubeOne with Alexander Sowitzki
 
