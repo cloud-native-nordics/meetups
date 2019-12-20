@@ -798,7 +798,7 @@ meetups:
       - kaspernissen
       title: Welcome to Cloud Native Nordics
     - duration: 45m0s
-      slides:
+      slides: ""
       speakers:
       - anderskeis
       - thorlange
