@@ -132,6 +132,10 @@
   logoURL: https://www.vttresearch.se/_catalogs/masterpage/vtt/images/vtt_logoX2.png
   name: VTT
   websiteURL: https://www.vtt.fi/
+- id: relex
+  logoURL: https://s9783.pcdn.co/wp-content/uploads/2015/02/relex-logo-rgb.png
+  name: Relex
+  websiteURL: https://www.relexsolutions.com/
 - id: google
   logoURL: https://cloud.google.com/_static/e4e95039f4/images/cloud/cloud-logo.svg
   name: Google Cloud

@@ -247,6 +247,20 @@
   id: zsolthomorodi
   name: Zsolt Homorodi
   speakersBureau: ""
+- company: relex
+  email: ""
+  github: mebe
+  id: iikkaniinivaara
+  name: Iikka Niinivaara
+  speakersBureau: ""
+  title: Architecture Astronaut
+- company: ericsson
+  email: ""
+  github: maelk
+  id: maelkimmerlin
+  name: Maël Kimmerlin
+  speakersBureau: ""
+  title: Senior Developer
 - company: meltwater
   email: ""
   github: Solisol
