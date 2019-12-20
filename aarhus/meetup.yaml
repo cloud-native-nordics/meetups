@@ -768,13 +768,52 @@ meetups:
     - company: teamblue
       role: Food
   "20191114":
-    presentations: null
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - danielfly
+      title: Welcome to Cloud Native Nordics
+    - duration: 45m0s
+      slides: https://docs.google.com/presentation/d/1SHhmGqsvnIuOYafEBARpbtfi96VkMavALckpJ_wFiwA/edit?usp=sharing
+      speakers:
+      - hans
+      title: Istio In Production
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - henrikhoegh
+      title: Storage Operator in Kubernetes - Getting your Feet Wet
     recording: ""
-    sponsors: null
+    sponsors:
+    - company: teamblue
+      role: Venue
+    - company: teamblue
+      role: Food
   "20191218":
-    presentations: null
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers:
+      - kaspernissen
+      title: Welcome to Cloud Native Nordics
+    - duration: 45m0s
+      slides:
+      speakers:
+      - anderskeis
+      - thorlange
+      title: Exploiting the winds of change with Cloud Native @MHI Vestas
+    - duration: 45m0s
+      slides: https://www.slideshare.net/KasperNissen1/gitops-operation-by-pull-request
+      speakers:
+      - kaspernissen
+      title: GitOps – Operations by Pull Request
     recording: ""
-    sponsors: null
+    sponsors:
+    - company: orbitlab
+      role: Venue
+    - company: itminds
+      role: Food
 organizers:
 - kaspernissen
 - rasmussteiniche
