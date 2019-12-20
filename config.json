@@ -197,6 +197,12 @@
       "logoURL": "https://www.vttresearch.se/_catalogs/masterpage/vtt/images/vtt_logoX2.png"
     },
     {
+      "id": "relex",
+      "name": "Relex",
+      "websiteURL": "https://www.relexsolutions.com/",
+      "logoURL": "https://s9783.pcdn.co/wp-content/uploads/2015/02/relex-logo-rgb.png"
+    },
+    {
       "id": "google",
       "name": "Google Cloud",
       "websiteURL": "https://cloud.google.com",
@@ -985,6 +991,24 @@
       "email": "",
       "company": "vtt",
       "github": "hazsetata",
+      "speakersBureau": ""
+    },
+    {
+      "id": "iikkaniinivaara",
+      "name": "Iikka Niinivaara",
+      "title": "Architecture Astronaut",
+      "email": "",
+      "company": "relex",
+      "github": "mebe",
+      "speakersBureau": ""
+    },
+    {
+      "id": "maelkimmerlin",
+      "name": "Maël Kimmerlin",
+      "title": "Senior Developer",
+      "email": "",
+      "company": "ericsson",
+      "github": "maelk",
       "speakersBureau": ""
     },
     {
@@ -4390,7 +4414,7 @@
         "eficode": "SpeakerProvider",
         "elisa": "Meetup",
         "emblica": "Meetup",
-        "ericsson": "EcosystemMember",
+        "ericsson": "SpeakerProvider",
         "fraktal": "EcosystemMember",
         "google": "EcosystemMember",
         "hostingpalvelu": "EcosystemMember",
@@ -4412,6 +4436,7 @@
         "pilvia": "EcosystemMember",
         "qvik": "SpeakerProvider",
         "redhat": "SpeakerProvider",
+        "relex": "Meetup",
         "selko": "EcosystemMember",
         "speechgrinder": "EcosystemMember",
         "sshcom": "SpeakerProvider",
@@ -5433,8 +5458,81 @@
           "duration": "3h0m0s",
           "address": "Postrutten 7",
           "recording": "https://youtu.be/3k5EfIQpw-E",
-          "sponsors": null,
-          "presentations": null
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": "relex"
+            },
+            {
+              "role": "Other",
+              "company": "luxaslabs"
+            },
+            {
+              "role": "Other",
+              "company": "cncf"
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "10m0s",
+              "title": "Arrive at the venue, sit down and network with others",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Introductionary words from the venue sponsor for this time, Relex",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "15m0s",
+              "title": "Community Updates and a Cloud Native Intro",
+              "slides": "",
+              "speakers": [
+                "luxas",
+                "ihor"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Helm 3: Kubernetes-native package management",
+              "slides": "",
+              "speakers": [
+                "ihor"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Networking, food, drinks",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "30m0s",
+              "title": "Stretching an in-memory beast into a replicated cluster with Linkerd",
+              "slides": "",
+              "speakers": [
+                "iikkaniinivaara"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "10m0s",
+              "title": "Metal³: Kubernetes Native Bare Metal Cluster Management",
+              "slides": "",
+              "speakers": [
+                "maelkimmerlin"
+              ]
+            },
+            {
+              "duration": "15m0s",
+              "delay": "5m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
         }
       }
     },

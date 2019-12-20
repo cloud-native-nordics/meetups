@@ -1,10 +1,10 @@
 {
   "meetupGroups": 12,
   "allMeetups": {
-    "sponsors": 122,
+    "sponsors": 124,
     "speakers": 134,
     "meetups": 103,
-    "members": 5999,
+    "members": 6016,
     "totalRSVPs": 5253,
     "averageRSVPs": 51,
     "uniqueRSVPs": 2828
@@ -18,7 +18,7 @@
       },
       "speakers": 9,
       "meetups": 4,
-      "members": 158,
+      "members": 159,
       "totalRSVPs": 178,
       "averageRSVPs": 44,
       "uniqueRSVPs": 96
@@ -56,7 +56,7 @@
       },
       "speakers": 11,
       "meetups": 14,
-      "members": 909,
+      "members": 911,
       "totalRSVPs": 730,
       "averageRSVPs": 52,
       "uniqueRSVPs": 430
@@ -68,17 +68,17 @@
       },
       "speakers": 5,
       "meetups": 10,
-      "members": 574,
+      "members": 575,
       "totalRSVPs": 321,
       "averageRSVPs": 32,
       "uniqueRSVPs": 204
     },
     "helsinki": {
-      "sponsors": 28,
+      "sponsors": 30,
       "sponsorByTier": {
-        "EcosystemMember": 16,
-        "Meetup": 15,
-        "SpeakerProvider": 13
+        "EcosystemMember": 15,
+        "Meetup": 16,
+        "SpeakerProvider": 14
       },
       "speakers": 30,
       "meetups": 12,
@@ -94,7 +94,7 @@
       },
       "speakers": 0,
       "meetups": 9,
-      "members": 770,
+      "members": 781,
       "totalRSVPs": 392,
       "averageRSVPs": 43,
       "uniqueRSVPs": 255
@@ -119,7 +119,7 @@
       },
       "speakers": 0,
       "meetups": 4,
-      "members": 803,
+      "members": 805,
       "totalRSVPs": 452,
       "averageRSVPs": 113,
       "uniqueRSVPs": 335

@@ -25,9 +25,25 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - Date: 20 January, 2020 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/267110169
 - Recording: https://youtu.be/3k5EfIQpw-E
+- Venue sponsor: [Relex](https://www.relexsolutions.com/)
+- Other sponsor: [luxas labs](https://luxaslabs.com)
+- Other sponsor: [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
 
 #### Agenda
 
+- 18:00 - 18:10: Arrive at the venue, sit down and network with others 
+- 18:10 - 18:15: Introductionary words from the venue sponsor for this time, Relex 
+- 18:15 - 18:30: Community Updates and a Cloud Native Intro 
+  - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
+  - Ihor Dvoretskyi [@idvoretskyi](https://github.com/idvoretskyi), [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+- 18:30 - 19:00: Helm 3: Kubernetes-native package management 
+  - Ihor Dvoretskyi [@idvoretskyi](https://github.com/idvoretskyi), [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)
+- 19:00 - 19:30: Networking, food, drinks 
+- 19:30 - 20:00: Stretching an in-memory beast into a replicated cluster with Linkerd 
+  - Iikka Niinivaara [@mebe](https://github.com/mebe), Architecture Astronaut, [Relex](https://www.relexsolutions.com/)
+- 20:10 - 20:40: Metal³: Kubernetes Native Bare Metal Cluster Management 
+  - Maël Kimmerlin [@maelk](https://github.com/maelk), Senior Developer, [Ericsson](https://www.ericsson.com)
+- 20:45 - 21:00: Networking 
 
 ### KubeCon Recap & Linkerd Deep Dive
 
