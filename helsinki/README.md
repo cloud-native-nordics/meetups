@@ -20,7 +20,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - Lucas Käldström [@luxas](https://github.com/luxas), CNCF Ambassador, [luxas labs](https://luxaslabs.com), [Contact](https://www.cncf.io/speaker/luxas)
 - Annie Talvasto [@Ani000](https://github.com/Ani000), [Microsoft](https://www.microsoft.com)
 
-### January Meetup in Helsinki
+### Helsinki in January: Helm 3, Linkerd & Cluster API
 
 - Date: 20 January, 2020 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/267110169
