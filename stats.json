@@ -1,24 +1,24 @@
 {
   "meetupGroups": 12,
   "allMeetups": {
-    "sponsors": 123,
-    "speakers": 136,
+    "sponsors": 126,
+    "speakers": 138,
     "meetups": 103,
-    "members": 6017,
+    "members": 6019,
     "totalRSVPs": 5253,
     "averageRSVPs": 51,
     "uniqueRSVPs": 2828
   },
   "perMeetup": {
     "aalborg": {
-      "sponsors": 7,
+      "sponsors": 10,
       "sponsorByTier": {
-        "Meetup": 3,
-        "SpeakerProvider": 4
+        "Meetup": 4,
+        "SpeakerProvider": 6
       },
-      "speakers": 9,
+      "speakers": 11,
       "meetups": 4,
-      "members": 159,
+      "members": 160,
       "totalRSVPs": 178,
       "averageRSVPs": 44,
       "uniqueRSVPs": 96
@@ -94,7 +94,7 @@
       },
       "speakers": 0,
       "meetups": 9,
-      "members": 781,
+      "members": 782,
       "totalRSVPs": 392,
       "averageRSVPs": 43,
       "uniqueRSVPs": 255

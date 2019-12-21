@@ -642,13 +642,13 @@
   name: Simon Bengtsson
   speakersBureau: ""
   title: Systems Engineer
-- company: oracle
+- company: netic
   email: ""
   github: AllanHoejgaardJensen
   id: allanhojgaardjensen
   name: Allan Hojgaard Jensen
   speakersBureau: ""
-  title: Cloud Platform Architect
+  title: Platform Development Specialist
 - company: google
   email: ""
   github: ""
@@ -802,4 +802,10 @@
   github: lentzi90
   id: lennartjern
   name: Lennart Jern
+  speakersBureau: ""
+- company: trackunit
+  email: ""
+  github: ""
+  id: nielswittrup
+  name: Niels Wittrup
   speakersBureau: ""

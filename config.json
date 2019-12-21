@@ -653,6 +653,12 @@
       "name": "Reaktor",
       "websiteURL": "https://www.reaktor.com/",
       "logoURL": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDIyLjEuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAzNjUuMSA1MDkuNCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMzY1LjEgNTA5LjQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZD0iTTI0Mi4zLDMwMC4yYzUxLjQtMjUuNCw4Ni40LTY5LjcsODYuNC0xNDAuNkMzMjguNyw2Ny44LDI0NywwLDE1OC42LDBIMTQydjcwLjhIMHY0MzguOGg5Ni41di0xNThoNjAuM2w5My40LDE1Ny43aDExNC45CglMMjQyLjMsMzAwLjJ6IE0xNTUsMjI3LjloLTEzdjM1LjlIOTYuNXYtOTcuMUgxNDJ2LTY2LjRoMTNjNDcuOCwwLDc3LjMsMjkuOSw3Ny4zLDYzLjlDMjMyLjIsMTk4LjIsMjAyLjgsMjI3LjksMTU1LDIyNy45eiIvPgo8L3N2Zz4K"
+    },
+    {
+      "id": "netic",
+      "name": "Netic",
+      "websiteURL": "https://www.netic.dk/",
+      "logoURL": "https://novi.dk/Files/Images/Virksomheder/logo-netic-trifork-blue600.png"
     }
   ],
   "speakers": [
@@ -1513,9 +1519,9 @@
     {
       "id": "allanhojgaardjensen",
       "name": "Allan Hojgaard Jensen",
-      "title": "Cloud Platform Architect",
+      "title": "Platform Development Specialist",
       "email": "",
-      "company": "oracle",
+      "company": "netic",
       "github": "AllanHoejgaardJensen",
       "speakersBureau": ""
     },
@@ -1720,6 +1726,14 @@
       "company": "elastisys",
       "github": "lentzi90",
       "speakersBureau": ""
+    },
+    {
+      "id": "nielswittrup",
+      "name": "Niels Wittrup",
+      "email": "",
+      "company": "trackunit",
+      "github": "",
+      "speakersBureau": ""
     }
   ],
   "meetupGroups": [
@@ -1734,16 +1748,20 @@
         "cncf": "SpeakerProvider",
         "lunar": "SpeakerProvider",
         "mhivestas": "SpeakerProvider",
-        "oracle": "Meetup",
+        "netic": "Meetup",
+        "neurospace": "SpeakerProvider",
         "praqma": "SpeakerProvider",
-        "sparnordbank": "Meetup"
+        "sparnordbank": "Meetup",
+        "trackunit": "Meetup",
+        "unity": "SpeakerProvider"
       },
       "meetupID": "Cloud-Native-Aalborg",
       "organizers": [
         "allanhojgaardjensen",
         "arnemejlholm",
         "simonbengtsson",
-        "camillalarsen"
+        "camillalarsen",
+        "nielswittrup"
       ],
       "cfpLink": "",
       "latitude": 57.055465,
@@ -1990,7 +2008,58 @@
               "company": "centricaenergytrading"
             }
           ],
-          "presentations": null
+          "presentations": [
+            {
+              "duration": "15m0s",
+              "title": "Doors Open",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Welcome from Centrica Energy Trading",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf",
+              "speakers": null
+            },
+            {
+              "duration": "10m0s",
+              "title": "Welcome from the organizers",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf",
+              "speakers": [
+                "allanhojgaardjensen"
+              ]
+            },
+            {
+              "duration": "45m0s",
+              "title": "Istio in Production",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf",
+              "speakers": [
+                "hans"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Food",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "45m0s",
+              "title": "Prometheus 101 - how to get started",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf",
+              "speakers": [
+                "rasmussteiniche"
+              ]
+            },
+            {
+              "duration": "45m0s",
+              "title": "GitOps - operations by pull requests",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf",
+              "speakers": [
+                "kaspernissen"
+              ]
+            }
+          ]
         }
       }
     },

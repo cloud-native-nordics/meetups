@@ -11,10 +11,11 @@
 
 ## Organizers
 
-- Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Cloud Platform Architect, [Oracle](https://www.oracle.com)
+- Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Platform Development Specialist, [Netic](https://www.netic.dk/)
 - Arne Mejlholm [@mejlholm](https://github.com/mejlholm), Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
 - Simon Bengtsson, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
 - Camilla Larsen, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
+- Niels Wittrup, [Trackunit](https://trackunit.com)
 
 ### #4 Istio in production, Prometheus 101 and Gitops
 
@@ -25,6 +26,22 @@
 
 #### Agenda
 
+- 16:45 - 17:00: Doors Open 
+- 17:00 - 17:05: Welcome from Centrica Energy Trading 
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
+- 17:05 - 17:15: Welcome from the organizers 
+  - Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Platform Development Specialist, [Netic](https://www.netic.dk/)
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
+- 17:15 - 18:00: Istio in Production 
+  - Hans Duedal [@duedal](https://github.com/duedal), [Unity](https://www.unity.com)
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
+- 18:00 - 18:30: Food 
+- 18:30 - 19:15: Prometheus 101 - how to get started 
+  - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
+- 19:15 - 20:00: GitOps - operations by pull requests 
+  - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
 
 ### #3 Observability II
 
@@ -39,7 +56,7 @@
 - 17:00 - 17:05: Welcome from Sparnord 
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-3.pdf
 - 17:05 - 17:15: Welcome from the organizers 
-  - Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Cloud Platform Architect, [Oracle](https://www.oracle.com)
+  - Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Platform Development Specialist, [Netic](https://www.netic.dk/)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-3.pdf
 - 17:15 - 18:00: Observability using Elastic Search 
   - Simon Bengtsson, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
@@ -64,7 +81,7 @@
 - 16:45 - 17:05: Doors Open 
 - 17:05 - 17:15: Welcome from Sparnord 
 - 17:15 - 17:25: Welcome from the organizers 
-  - Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Cloud Platform Architect, [Oracle](https://www.oracle.com)
+  - Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Platform Development Specialist, [Netic](https://www.netic.dk/)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-2.pdf
 - 17:25 - 17:30: Introduction to kubernetes 
   - Henrik Høegh [@hoeghh](https://github.com/hoeghh), [Praqma](https://www.praqma.com/)
@@ -92,7 +109,7 @@
   - Camilla Larsen, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
 - 17:15 - 17:25: Welcome from the organizers 
-  - Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Cloud Platform Architect, [Oracle](https://www.oracle.com)
+  - Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Platform Development Specialist, [Netic](https://www.netic.dk/)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-1.pdf
 - 17:25 - 17:35: What is Cloud Native Nordics 
   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
