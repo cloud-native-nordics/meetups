@@ -133,7 +133,39 @@ meetups:
     - company: sparnordbank
       role: Venue
   "20191211":
-    presentations: null
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Doors Open
+    - duration: 5m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
+      speakers: null
+      title: Welcome from Centrica Energy Trading
+    - duration: 10m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
+      speakers:
+      - allanhojgaardjensen
+      title: Welcome from the organizers
+    - duration: 45m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
+      speakers:
+      - hans
+      title: Istio in Production
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food
+    - duration: 45m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
+      speakers:
+      - rasmussteiniche
+      title: Prometheus 101 - how to get started
+    - duration: 45m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-4.pdf
+      speakers:
+      - kaspernissen
+      title: GitOps - operations by pull requests
     recording: ""
     sponsors:
     - company: centricaenergytrading
@@ -143,3 +175,4 @@ organizers:
 - arnemejlholm
 - simonbengtsson
 - camillalarsen
+- nielswittrup
