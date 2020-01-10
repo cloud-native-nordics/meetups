@@ -25,3 +25,20 @@ VENUE_SPONSOR provides the food and venue for the evening, thanks!
 
 Let's have a fun evening and meet at VENUE_SPONSOR on DATE!
 ```
+
+## Open Space
+
+This is an example on how to describe the open space format. Note that you might want to add information about food, sponsors, etc.
+
+```txt
+This meetup will be in the format of Open Space where you are part of setting the agenda!
+We will start out with an introduction to Open Space and then move on to generating topics. Everyone gets to write down their suggested topics, one per post-it, and put them up on the whiteboard/wall. We will then vote on the sessions (each attendee gets a limited number of votes). We have X rooms available at the venue, meaning we can have X sessions in parallel, so once the voting is done we will distribute the topics over these rooms.
+The schedule will be:
+- Introduction to Open Space (~5 minutes)
+- Topic generation (~20 minutes)
+- Voting (~10 minutes)
+- Session Block 1 (~45 minutes)
+- Break (~15 minutes)
+- Session Block 2 (~45 minutes)
+So bring whatever topic you feel passionate about and let's meet for an evening of great discussions!
+```
