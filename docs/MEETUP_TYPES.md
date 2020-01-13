@@ -32,6 +32,8 @@ Ideas:
 
 This meetup type consists of 2 time slots with dedicated time to discuss topics. In the beginning of the meetup, have the participants propose ideas, write them on post-it notes, and put them on a board. Now make all the participants vote on their favorite topics (dot vote). Depending on the number of participants choose 2-3 concurrent subjects to be discussed. Participants form groups and discuss the selected topic. After 45 minute, have a break and continue with the next topics.
 
+Example of meetup description for an Open Space meetup can be found in [MEETUP_DESCRIPTION.md](MEETUP_DESCRIPTION.md#Open-Space)
+
 ## 5. Workshops
 
 Introduce a specific project or concepts. Use already created workshops, `workshopctl` to spin up kubernetes environments, etc. 
