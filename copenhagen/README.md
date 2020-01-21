@@ -4,7 +4,7 @@
 
 ## Description
 
-<p>Cloud Native Copenhagen is a new meet-up group focusing on the Cloud Native stack. This means projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd... We are a small group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.</p>
+<p>Cloud Native Copenhagen is a meetup community focusing on the Cloud Native stack. This means projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd... We are a community of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.</p>
 
 
 ## Organizers
