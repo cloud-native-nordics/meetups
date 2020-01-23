@@ -14,6 +14,7 @@
 - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
 - Henrik Høegh [@hoeghh](https://github.com/hoeghh), [Praqma](https://www.praqma.com/)
 - Daniel Fly [@sazo](https://github.com/sazo), [Zitcom](https://www.zitcom.dk/)
+- Mike Rostermund [@SaaldjorMike](https://github.com/SaaldjorMike), [Humio](https://humio.com/)
 
 ### Happy Holidays Edition with GitOps and Exploiting the winds of change
 
@@ -184,7 +185,7 @@
 - 16:45 - 16:50: Welcome to Cloud Native Aarhus 
   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
 - 16:50 - 17:00: Prometheus experience report from Schneider Electric 
-  - Mike Rostermund [@SaaldjorMike](https://github.com/SaaldjorMike), [Schneider Electric](https://www.se.com)
+  - Mike Rostermund [@SaaldjorMike](https://github.com/SaaldjorMike), [Humio](https://humio.com/)
   - Steffan Lund, [Schneider Electric](https://www.se.com)
 - 17:00 - 17:30: Introduction to Prometheus 
   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
@@ -194,7 +195,7 @@
 - 19:00 - 19:30: Panel and Open Space Discussion about Monitoring 
   - Emil Ingerslev [@emilingerslev](https://github.com/emilingerslev), Cloud Architect/SRE, [Lunar](https://www.lunarway.com)
   - Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
-  - Mike Rostermund [@SaaldjorMike](https://github.com/SaaldjorMike), [Schneider Electric](https://www.se.com)
+  - Mike Rostermund [@SaaldjorMike](https://github.com/SaaldjorMike), [Humio](https://humio.com/)
   - Steffan Lund, [Schneider Electric](https://www.se.com)
   - Andrei Predoiu [@Andrei-Predoiu](https://github.com/Andrei-Predoiu), [BESTSELLER](https://bestseller.com/)
   - Kasper Nissen [@kaspernissen](https://github.com/kaspernissen), Cloud Architect/SRE, CNCF Ambassador, [Lunar](https://www.lunarway.com), [Contact](https://www.cncf.io/speaker/kaspernissen)
@@ -279,7 +280,7 @@
 - 17:05 - 17:15: Welcome from Praqma 
   - Henrik Høegh [@hoeghh](https://github.com/hoeghh), [Praqma](https://www.praqma.com/)
 - 17:15 - 17:30: Virtual Kubelet 
-  - Mike Rostermund [@SaaldjorMike](https://github.com/SaaldjorMike), [Schneider Electric](https://www.se.com)
+  - Mike Rostermund [@SaaldjorMike](https://github.com/SaaldjorMike), [Humio](https://humio.com/)
 - 17:30 - 17:45: NATS 
   - Benjamin Nørgaard [@blacksails](https://github.com/blacksails), [Lix Technologies](https://www.lix.com/en)
   - Slides: https://github.com/cloud-native-nordics/meetups/blob/master/aarhus/2019/cloud-native-aarhus-13/nats.pdf

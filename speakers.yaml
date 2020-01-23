@@ -349,12 +349,13 @@
   id: bjornsorensen
   name: Bjørn Sørensen
   speakersBureau: ""
-- company: schneiderelectric
+- company: humio
   email: ""
   github: SaaldjorMike
   id: mikerostermund
   name: Mike Rostermund
   speakersBureau: ""
+  twitter: SaaldjorMike
 - company: schneiderelectric
   email: ""
   github: ""

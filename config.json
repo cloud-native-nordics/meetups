@@ -1133,8 +1133,9 @@
       "id": "mikerostermund",
       "name": "Mike Rostermund",
       "email": "",
-      "company": "schneiderelectric",
+      "company": "humio",
       "github": "SaaldjorMike",
+      "twitter": "SaaldjorMike",
       "speakersBureau": ""
     },
     {
@@ -2078,7 +2079,7 @@
         "cncf": "SpeakerProvider",
         "firstagenda": "Meetup",
         "google": "SpeakerProvider",
-        "humio": "SpeakerProvider",
+        "humio": "Meetup",
         "itminds": "Meetup",
         "jysk": "Meetup",
         "lego": "Meetup",
@@ -2110,7 +2111,8 @@
         "kaspernissen",
         "rasmussteiniche",
         "henrikhoegh",
-        "danielfly"
+        "danielfly",
+        "mikerostermund"
       ],
       "cfpLink": "",
       "latitude": 56.150222,
@@ -3843,7 +3845,7 @@
       "name": "Cloud Native Copenhagen",
       "city": "Copenhagen",
       "country": "denmark",
-      "description": "\u003cp\u003eCloud Native Copenhagen is a new meet-up group focusing on the Cloud Native stack. This means projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd... We are a small group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e",
+      "description": "\u003cp\u003eCloud Native Copenhagen is a meetup community focusing on the Cloud Native stack. This means projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd... We are a community of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e",
       "sponsorTiers": {
         "cncf": "SpeakerProvider",
         "falconio": "Meetup",
@@ -5570,6 +5572,7 @@
           "name": "Helsinki in January: Helm 3, Linkerd \u0026 Cluster API",
           "date": "2020-01-20T18:00:00Z",
           "duration": "3h0m0s",
+          "attendees": 94,
           "address": "Postrutten 7",
           "recording": "https://youtu.be/3k5EfIQpw-E",
           "sponsors": null,

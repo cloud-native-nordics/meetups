@@ -13,6 +13,7 @@ Repository to gather all meetup information and slides from Cloud Native Nordic 
   * Rasmus Steiniche [@Steiniche](https://github.com/Steiniche), CEO, [neurospace](https://neurospace.io), [Contact](https://www.cncf.io/speaker/steiniche)
   * Henrik Høegh [@hoeghh](https://github.com/hoeghh), [Praqma](https://www.praqma.com/)
   * Daniel Fly [@sazo](https://github.com/sazo), [Zitcom](https://www.zitcom.dk/)
+  * Mike Rostermund [@SaaldjorMike](https://github.com/SaaldjorMike), [Humio](https://humio.com/)
 * [Bergen](bergen/README.md)
   * Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
 * [Copenhagen](copenhagen/README.md)

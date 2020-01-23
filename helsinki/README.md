@@ -25,6 +25,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - Date: 20 January, 2020 at 18:00 - 21:00
 - Meetup link: https://www.meetup.com/Kubernetes-Finland/events/267110169
 - Recording: https://youtu.be/3k5EfIQpw-E
+- Attendees (according to meetup.com): 94
 
 #### Agenda
 
