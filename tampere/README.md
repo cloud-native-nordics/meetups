@@ -19,6 +19,24 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 - Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
 - Toni Ylenius [@toddnni](https://github.com/toddnni), [Cybercom](https://www.cybercom.com/)
 
+### One year celebration Kubernetes Meetup in Tampere
+
+- Date: 30 January, 2020 at 17:00 - 20:00
+- Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/266223881
+
+#### Agenda
+
+- 17:00 - 17:15: Arrive to the venue, sit down and network with others ;) 
+- 17:15 - 17:30: Updates from the Cloud Native Nordics Community 
+- 17:30 - 17:55: All Meshed Up - How we use Linkerd 
+  - Sachin Kundu [@sachinkundu](https://github.com/sachinkundu), [Microsoft](https://www.microsoft.com)
+- 18:00 - 18:30: Networking, food, drinks 
+- 18:30 - 18:55: K3S – "5 less than k8s" 
+  - Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
+- 19:00 - 19:25: Dive into Container Security Scanning 
+  - Toni Ylenius [@toddnni](https://github.com/toddnni), [Cybercom](https://www.cybercom.com/)
+- 19:30 - 20:00: Networking 
+
 ### December Kubernetes Meetup in Tampere
 
 - Date: 4 December, 2019 at 17:45 - 21:00
@@ -27,6 +45,22 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 #### Agenda
 
+- 17:45 - 18:00: Arrive to the venue, sit down and network with others ;) 
+- 18:00 - 18:15: Updates from the Cloud Native Nordics Community 
+  - Oliver Joggerst [@oliverjoggerst](https://github.com/oliverjoggerst), [Netum](https://www.netum.fi/)
+  - Slides: https://docs.google.com/presentation/d/1mJ-KV0sRzk5A6hD-CN4pDWAcpGKmWqcc9OIe_HWbh7I
+- 18:15 - 18:45: How we live migrated thousands of users from Mesos to Kubernetes 
+  - Sampsa Tuokko [@tookko](https://github.com/tookko), [Nokia](https://www.nokia.com/)
+- 18:45 - 19:15: What does Cloud Native mean to you? 
+  - Oliver Joggerst [@oliverjoggerst](https://github.com/oliverjoggerst), [Netum](https://www.netum.fi/)
+  - Jussi Nummelin [@jnummelin](https://github.com/jnummelin), [Kontena](https://kontena.io)
+  - Toni Ylenius [@toddnni](https://github.com/toddnni), [Cybercom](https://www.cybercom.com/)
+  - Slides: https://docs.google.com/presentation/d/1IaHMWlztqmRPUMU8UyWpGTPUxQwzdScUJ-TwuB4zPDc
+- 19:15 - 19:45: Networking, food, drinks 
+- 19:45 - 20:15: CI/CD with Azure DevOps and Azure Kubernetes Service 
+  - Yuri Barseghyan, [Tieto](https://www.tieto.com/)
+  - Slides: https://docs.google.com/presentation/d/1mPScU4vY7mB5-MsYc8q2nkjFrS2xexmZpuJZRczuffM
+- 20:15 - 21:00: Networking 
 
 ### Kubernetes 101 Hands-On Workshop
 
