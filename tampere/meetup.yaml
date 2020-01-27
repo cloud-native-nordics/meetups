@@ -225,7 +225,79 @@ meetups:
     - company: weaveworks
       role: Other
   "20191204":
-    presentations: null
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Arrive to the venue, sit down and network with others ;)
+    - duration: 15m0s
+      slides: https://docs.google.com/presentation/d/1mJ-KV0sRzk5A6hD-CN4pDWAcpGKmWqcc9OIe_HWbh7I
+      speakers:
+      - netumoliver
+      title: Updates from the Cloud Native Nordics Community
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - sampsatuokko
+      title: How we live migrated thousands of users from Mesos to Kubernetes
+    - duration: 30m0s
+      slides: https://docs.google.com/presentation/d/1IaHMWlztqmRPUMU8UyWpGTPUxQwzdScUJ-TwuB4zPDc
+      speakers:
+      - netumoliver
+      - jnummelin
+      - ylenius
+      title: What does Cloud Native mean to you?
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Networking, food, drinks
+    - duration: 30m0s
+      slides: https://docs.google.com/presentation/d/1mPScU4vY7mB5-MsYc8q2nkjFrS2xexmZpuJZRczuffM
+      speakers:
+      - yuribarseghyan
+      title: CI/CD with Azure DevOps and Azure Kubernetes Service
+    - duration: 45m0s
+      slides: ""
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors: null
+  "20200130":
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Arrive to the venue, sit down and network with others ;)
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Updates from the Cloud Native Nordics Community
+    - duration: 25m0s
+      slides: ""
+      speakers:
+      - sachinkundu
+      title: All Meshed Up - How we use Linkerd
+    - delay: 5m0s
+      duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Networking, food, drinks
+    - duration: 25m0s
+      slides: ""
+      speakers:
+      - jnummelin
+      title: K3S – "5 less than k8s"
+    - delay: 5m0s
+      duration: 25m0s
+      slides: ""
+      speakers:
+      - ylenius
+      title: Dive into Container Security Scanning
+    - delay: 5m0s
+      duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Networking
     recording: ""
     sponsors: null
 organizers:

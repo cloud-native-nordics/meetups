@@ -5,7 +5,8 @@
 ## Description
 
 <p>Cloud Native Aarhus is a&nbsp;meetup group focusing on the Cloud Native stack. This means that projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd will be the focal point. We are a small group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.</p>
-<p>Cloud Native Aarhus is an official Cloud Native Computing Foundation meetup group, and part of the Cloud Native Nordics community as well.&nbsp;<br><br>Please join the Cloud Native Nordics Slack Community for further&nbsp;discussions: https://www.cloudnativenordics.com</p>
+<p>Cloud Native Aarhus is an official Cloud Native Computing Foundation meetup group, and part of the Cloud Native Nordics community as well.&nbsp; <br> <br>Please join the Cloud Native Nordics Slack Community for further&nbsp;discussions: <a href="https://www.cloudnativenordics.com" class="linkified">https://www.cloudnativenordics.com</a></p>
+<p>Propose a talk:&nbsp;https://forms.gle/9dtHbc8G1sXH5xza8</p>
 
 
 ## Organizers

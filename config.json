@@ -159,6 +159,12 @@
       "logoURL": "https://www.storaenso.com/-/media/System-images/logo-png.png"
     },
     {
+      "id": "tieto",
+      "name": "Tieto",
+      "websiteURL": "https://www.tieto.com/",
+      "logoURL": "https://campaigns.tieto.com/tieto50/img/tieto_logo.png"
+    },
+    {
       "id": "tribe",
       "name": "P47 Tribe Tampere",
       "websiteURL": "https://tribetampere.com",
@@ -991,6 +997,22 @@
       "email": "",
       "company": "vtt",
       "github": "hazsetata",
+      "speakersBureau": ""
+    },
+    {
+      "id": "sampsatuokko",
+      "name": "Sampsa Tuokko",
+      "email": "",
+      "company": "nokia",
+      "github": "tookko",
+      "speakersBureau": ""
+    },
+    {
+      "id": "yuribarseghyan",
+      "name": "Yuri Barseghyan",
+      "email": "",
+      "company": "tieto",
+      "github": "",
       "speakersBureau": ""
     },
     {
@@ -2069,7 +2091,7 @@
       "name": "Cloud Native Aarhus",
       "city": "Aarhus",
       "country": "denmark",
-      "description": "\u003cp\u003eCloud Native Aarhus is a\u0026nbsp;meetup group focusing on the Cloud Native stack. This means that projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd will be the focal point. We are a small group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e\n\u003cp\u003eCloud Native Aarhus is an official Cloud Native Computing Foundation meetup group, and part of the Cloud Native Nordics community as well.\u0026nbsp;\u003cbr\u003e\u003cbr\u003ePlease join the Cloud Native Nordics Slack Community for further\u0026nbsp;discussions: https://www.cloudnativenordics.com\u003c/p\u003e",
+      "description": "\u003cp\u003eCloud Native Aarhus is a\u0026nbsp;meetup group focusing on the Cloud Native stack. This means that projects such as Kubernetes, Prometheus, OpenTracing, gRPC, fluentd will be the focal point. We are a small group of people passionate about these technologies that would like to share our experiences, and provide a platform for like-minded people to present and discuss these awesome technologies.\u003c/p\u003e\n\u003cp\u003eCloud Native Aarhus is an official Cloud Native Computing Foundation meetup group, and part of the Cloud Native Nordics community as well.\u0026nbsp; \u003cbr\u003e \u003cbr\u003ePlease join the Cloud Native Nordics Slack Community for further\u0026nbsp;discussions: \u003ca href=\"https://www.cloudnativenordics.com\" class=\"linkified\"\u003ehttps://www.cloudnativenordics.com\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePropose a talk:\u0026nbsp;https://forms.gle/9dtHbc8G1sXH5xza8\u003c/p\u003e",
       "sponsorTiers": {
         "berlingskemedia": "SpeakerProvider",
         "bestseller": "Meetup",
@@ -3833,6 +3855,7 @@
           "name": "Cloud Native Nordics Tour",
           "date": "2020-01-23T17:30:00Z",
           "duration": "3h0m0s",
+          "attendees": 39,
           "address": "Folke Bernadottes vei 40",
           "recording": "",
           "sponsors": null,
@@ -6056,11 +6079,14 @@
         "intel": "SpeakerProvider",
         "kontena": "Meetup",
         "luxaslabs": "Meetup",
+        "microsoft": "SpeakerProvider",
         "netum": "Meetup",
+        "nokia": "SpeakerProvider",
         "opentext": "SpeakerProvider",
         "polarsquad": "SpeakerProvider",
         "redhat": "SpeakerProvider",
         "storaenso": "SpeakerProvider",
+        "tieto": "SpeakerProvider",
         "tribe": "Meetup",
         "weaveworks": "Meetup"
       },
@@ -6469,7 +6495,123 @@
           "address": "Hatanpään valtatie 30",
           "recording": "",
           "sponsors": null,
-          "presentations": null
+          "presentations": [
+            {
+              "duration": "15m0s",
+              "title": "Arrive to the venue, sit down and network with others ;)",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "15m0s",
+              "title": "Updates from the Cloud Native Nordics Community",
+              "slides": "https://docs.google.com/presentation/d/1mJ-KV0sRzk5A6hD-CN4pDWAcpGKmWqcc9OIe_HWbh7I",
+              "speakers": [
+                "netumoliver"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "How we live migrated thousands of users from Mesos to Kubernetes",
+              "slides": "",
+              "speakers": [
+                "sampsatuokko"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "What does Cloud Native mean to you?",
+              "slides": "https://docs.google.com/presentation/d/1IaHMWlztqmRPUMU8UyWpGTPUxQwzdScUJ-TwuB4zPDc",
+              "speakers": [
+                "netumoliver",
+                "jnummelin",
+                "ylenius"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Networking, food, drinks",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "30m0s",
+              "title": "CI/CD with Azure DevOps and Azure Kubernetes Service",
+              "slides": "https://docs.google.com/presentation/d/1mPScU4vY7mB5-MsYc8q2nkjFrS2xexmZpuJZRczuffM",
+              "speakers": [
+                "yuribarseghyan"
+              ]
+            },
+            {
+              "duration": "45m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
+        },
+        "20200130": {
+          "id": 266223881,
+          "photo": "https://secure.meetupstatic.com/photos/event/b/e/2/1/highres_488508673.jpeg",
+          "name": "One year celebration Kubernetes Meetup in Tampere",
+          "date": "2020-01-30T17:00:00Z",
+          "duration": "3h0m0s",
+          "address": "Pakkahuoneenaukio 2",
+          "recording": "",
+          "sponsors": null,
+          "presentations": [
+            {
+              "duration": "15m0s",
+              "title": "Arrive to the venue, sit down and network with others ;)",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "15m0s",
+              "title": "Updates from the Cloud Native Nordics Community",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "25m0s",
+              "title": "All Meshed Up - How we use Linkerd",
+              "slides": "",
+              "speakers": [
+                "sachinkundu"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "5m0s",
+              "title": "Networking, food, drinks",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "25m0s",
+              "title": "K3S – \"5 less than k8s\"",
+              "slides": "",
+              "speakers": [
+                "jnummelin"
+              ]
+            },
+            {
+              "duration": "25m0s",
+              "delay": "5m0s",
+              "title": "Dive into Container Security Scanning",
+              "slides": "",
+              "speakers": [
+                "ylenius"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "5m0s",
+              "title": "Networking",
+              "slides": "",
+              "speakers": null
+            }
+          ]
         }
       }
     },

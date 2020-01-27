@@ -106,6 +106,10 @@
   logoURL: https://www.storaenso.com/-/media/System-images/logo-png.png
   name: Stora Enso
   websiteURL: https://www.storaenso.com/
+- id: tieto
+  logoURL: https://campaigns.tieto.com/tieto50/img/tieto_logo.png
+  name: Tieto
+  websiteURL: https://www.tieto.com/
 - id: tribe
   logoURL: https://tribetampere.com/wp-content/themes/tribetampere/img/tribe-logo-nega.svg
   name: P47 Tribe Tampere

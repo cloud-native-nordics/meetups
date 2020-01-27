@@ -15,6 +15,7 @@
 
 - Date: 23 January, 2020 at 17:30 - 20:30
 - Meetup link: https://www.meetup.com/cloudnative-bergen/events/266338983
+- Attendees (according to meetup.com): 39
 
 #### Agenda
 

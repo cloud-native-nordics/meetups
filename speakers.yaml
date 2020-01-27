@@ -247,6 +247,18 @@
   id: zsolthomorodi
   name: Zsolt Homorodi
   speakersBureau: ""
+- company: nokia
+  email: ""
+  github: tookko
+  id: sampsatuokko
+  name: Sampsa Tuokko
+  speakersBureau: ""
+- company: tieto
+  email: ""
+  github: ""
+  id: yuribarseghyan
+  name: Yuri Barseghyan
+  speakersBureau: ""
 - company: meltwater
   email: ""
   github: Solisol
