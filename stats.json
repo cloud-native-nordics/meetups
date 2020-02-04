@@ -2,12 +2,12 @@
   "meetupGroups": 12,
   "allMeetups": {
     "sponsors": 129,
-    "speakers": 140,
-    "meetups": 105,
-    "members": 6385,
-    "totalRSVPs": 5386,
+    "speakers": 141,
+    "meetups": 106,
+    "members": 6448,
+    "totalRSVPs": 5418,
     "averageRSVPs": 51,
-    "uniqueRSVPs": 2891
+    "uniqueRSVPs": 2897
   },
   "perMeetup": {
     "aalborg": {
@@ -18,7 +18,7 @@
       },
       "speakers": 11,
       "meetups": 4,
-      "members": 185,
+      "members": 187,
       "totalRSVPs": 178,
       "averageRSVPs": 44,
       "uniqueRSVPs": 96
@@ -31,7 +31,7 @@
       },
       "speakers": 43,
       "meetups": 26,
-      "members": 979,
+      "members": 980,
       "totalRSVPs": 1456,
       "averageRSVPs": 56,
       "uniqueRSVPs": 559
@@ -43,7 +43,7 @@
       },
       "speakers": 5,
       "meetups": 9,
-      "members": 234,
+      "members": 236,
       "totalRSVPs": 186,
       "averageRSVPs": 20,
       "uniqueRSVPs": 113
@@ -56,7 +56,7 @@
       },
       "speakers": 11,
       "meetups": 14,
-      "members": 951,
+      "members": 957,
       "totalRSVPs": 730,
       "averageRSVPs": 52,
       "uniqueRSVPs": 427
@@ -68,7 +68,7 @@
       },
       "speakers": 5,
       "meetups": 10,
-      "members": 594,
+      "members": 595,
       "totalRSVPs": 321,
       "averageRSVPs": 32,
       "uniqueRSVPs": 204
@@ -82,7 +82,7 @@
       },
       "speakers": 30,
       "meetups": 13,
-      "members": 979,
+      "members": 984,
       "totalRSVPs": 1044,
       "averageRSVPs": 80,
       "uniqueRSVPs": 517
@@ -94,7 +94,7 @@
       },
       "speakers": 0,
       "meetups": 9,
-      "members": 866,
+      "members": 872,
       "totalRSVPs": 392,
       "averageRSVPs": 43,
       "uniqueRSVPs": 255
@@ -107,7 +107,7 @@
       },
       "speakers": 8,
       "meetups": 3,
-      "members": 268,
+      "members": 295,
       "totalRSVPs": 128,
       "averageRSVPs": 42,
       "uniqueRSVPs": 97
@@ -119,10 +119,10 @@
       },
       "speakers": 0,
       "meetups": 4,
-      "members": 879,
+      "members": 888,
       "totalRSVPs": 452,
       "averageRSVPs": 113,
-      "uniqueRSVPs": 335
+      "uniqueRSVPs": 334
     },
     "tampere": {
       "sponsors": 17,
@@ -130,12 +130,12 @@
         "Meetup": 9,
         "SpeakerProvider": 8
       },
-      "speakers": 16,
-      "meetups": 6,
-      "members": 211,
-      "totalRSVPs": 244,
-      "averageRSVPs": 40,
-      "uniqueRSVPs": 131
+      "speakers": 17,
+      "meetups": 7,
+      "members": 214,
+      "totalRSVPs": 276,
+      "averageRSVPs": 39,
+      "uniqueRSVPs": 138
     },
     "turku": {
       "sponsors": 8,
@@ -145,7 +145,7 @@
       },
       "speakers": 7,
       "meetups": 2,
-      "members": 79,
+      "members": 80,
       "totalRSVPs": 72,
       "averageRSVPs": 36,
       "uniqueRSVPs": 53
