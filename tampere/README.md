@@ -23,6 +23,7 @@ If you're interested in speaking in this meetup, fill out this form: https://bit
 
 - Date: 30 January, 2020 at 17:00 - 20:00
 - Meetup link: https://www.meetup.com/Kubernetes-Tampere/events/266223881
+- Attendees (according to meetup.com): 32
 
 #### Agenda
 
