@@ -448,3 +448,15 @@
   logoURL: https://novi.dk/Files/Images/Virksomheder/logo-netic-trifork-blue600.png
   name: Netic
   websiteURL: https://www.netic.dk/
+- id: knowit
+  logoURL: https://www.knowit.no/globalassets/system/icons-and-logotypes/knowit-logotypes/knowit-logo-b.png/Large50
+  name: Knowit
+  websiteURL: https://www.knowit.no/
+- id: tietoevry
+  logoURL: ""
+  name: TietoEVRY
+  websiteURL: ""
+- id: systor
+  logoURL: https://systor.azureedge.net/wp-content/uploads/2017/10/systor-vest-logo.png
+  name: Systor Vest AS
+  websiteURL: https://systorvest.no/

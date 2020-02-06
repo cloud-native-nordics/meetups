@@ -1,0 +1,32 @@
+cfpLink: ""
+ecosystemMembers: null
+latitude: 58.97
+longitude: 5.7331
+meetupID: Cloud-Native-Stavanger
+meetups:
+  "20200205":
+    presentations:
+    - delay: 0s
+      duration: 10m0s
+      slides: ""
+      speakers:
+      - aleksanderpettersen
+      title: Introduction
+    - delay: 0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - endrekarlson
+      title: GitOps with Jenkins & ArgoCD
+    - delay: 5m0s
+      duration: 30m0s
+      slides: ""
+      speakers:
+      - finnespengundersen
+      title: Introduction
+    recording: Introduction to Cloudflare Workers
+    sponsors:
+    - company: knowit
+      role: Food
+organizers:
+- aleksanderpettersen
