@@ -665,6 +665,24 @@
       "name": "Netic",
       "websiteURL": "https://www.netic.dk/",
       "logoURL": "https://novi.dk/Files/Images/Virksomheder/logo-netic-trifork-blue600.png"
+    },
+    {
+      "id": "knowit",
+      "name": "Knowit",
+      "websiteURL": "https://www.knowit.no/",
+      "logoURL": "https://www.knowit.no/globalassets/system/icons-and-logotypes/knowit-logotypes/knowit-logo-b.png/Large50"
+    },
+    {
+      "id": "tietoevry",
+      "name": "TietoEVRY",
+      "websiteURL": "",
+      "logoURL": ""
+    },
+    {
+      "id": "systor",
+      "name": "Systor Vest AS",
+      "websiteURL": "https://systorvest.no/",
+      "logoURL": "https://systor.azureedge.net/wp-content/uploads/2017/10/systor-vest-logo.png"
     }
   ],
   "speakers": [
@@ -1756,6 +1774,30 @@
       "email": "",
       "company": "trackunit",
       "github": "",
+      "speakersBureau": ""
+    },
+    {
+      "id": "aleksanderpettersen",
+      "name": "Aleksander Pettersen",
+      "email": "alekspett@gmail.com",
+      "company": "knowit",
+      "github": "lordalek",
+      "speakersBureau": ""
+    },
+    {
+      "id": "endrekarlson",
+      "name": "Endre Karlson",
+      "email": "",
+      "company": "tietoevry",
+      "github": "ekarlso",
+      "speakersBureau": ""
+    },
+    {
+      "id": "finnespengundersen",
+      "name": "Finn Espen Gundersen",
+      "email": "finn@gundersen.net",
+      "company": "systor",
+      "github": "fegu",
       "speakersBureau": ""
     }
   ],
@@ -5904,6 +5946,71 @@
               "slides": "",
               "speakers": [
                 "krisnova"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Cloud-Native-Stavanger",
+      "city": "Stavanger",
+      "country": "norway",
+      "description": "\u003cp\u003eAll about DevOps, Cloud Native Architecture, Kubernetes, Site Reliability Engineering (SRE), Continuous Integration, Continuous Delivery in Stavanger, Norway.\u003c/p\u003e",
+      "sponsorTiers": {
+        "knowit": "Meetup",
+        "systor": "SpeakerProvider",
+        "tietoevry": "SpeakerProvider"
+      },
+      "meetupID": "Cloud-Native-Stavanger",
+      "organizers": [
+        "aleksanderpettersen"
+      ],
+      "cfpLink": "",
+      "latitude": 58.97,
+      "longitude": 5.7331,
+      "ecosystemMembers": null,
+      "meetups": {
+        "20200205": {
+          "id": 267973291,
+          "name": "Gitops and Cloudflare Workers",
+          "date": "2020-02-05T20:00:00Z",
+          "duration": "2h0m0s",
+          "attendees": 7,
+          "address": "Svanholmen 1",
+          "recording": "Introduction to Cloudflare Workers",
+          "sponsors": [
+            {
+              "role": "Food",
+              "company": "knowit"
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "10m0s",
+              "delay": "0s",
+              "title": "Introduction",
+              "slides": "",
+              "speakers": [
+                "aleksanderpettersen"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "0s",
+              "title": "GitOps with Jenkins \u0026 ArgoCD",
+              "slides": "",
+              "speakers": [
+                "endrekarlson"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "delay": "5m0s",
+              "title": "Introduction",
+              "slides": "",
+              "speakers": [
+                "finnespengundersen"
               ]
             }
           ]

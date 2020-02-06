@@ -822,3 +822,21 @@
   id: nielswittrup
   name: Niels Wittrup
   speakersBureau: ""
+- company: knowit
+  email: alekspett@gmail.com
+  github: lordalek
+  id: aleksanderpettersen
+  name: Aleksander Pettersen
+  speakersBureau: ""
+- company: tietoevry
+  email: ""
+  github: ekarlso
+  id: endrekarlson
+  name: Endre Karlson
+  speakersBureau: ""
+- company: systor
+  email: finn@gundersen.net
+  github: fegu
+  id: finnespengundersen
+  name: Finn Espen Gundersen
+  speakersBureau: ""
