@@ -822,6 +822,7 @@
   id: nielswittrup
   name: Niels Wittrup
   speakersBureau: ""
+  title: Senior Software Engineer and Architect
 - company: knowit
   email: alekspett@gmail.com
   github: lordalek
@@ -840,3 +841,10 @@
   id: finnespengundersen
   name: Finn Espen Gundersen
   speakersBureau: ""
+- company: netic
+  email: kn@netic.dk
+  github: ""
+  id: kimnoergaard
+  name: Kim Nørgaard
+  speakersBureau: ""
+  title: Senior Consultant

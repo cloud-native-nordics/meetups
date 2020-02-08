@@ -170,9 +170,47 @@ meetups:
     sponsors:
     - company: centricaenergytrading
       role: Venue
+  "20200121":
+    presentations:
+    - duration: 15m0s
+      slides: ""
+      speakers: null
+      title: Doors Open
+    - duration: 5m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+      speakers: null
+      title: Welcome from Netic
+    - duration: 10m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+      speakers:
+      - allanhojgaardjensen
+      title: Welcome from the organizers
+    - duration: 45m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+      speakers:
+      - nickjones
+      title: KUDO - Kubernetes Operators, the easy way
+    - duration: 30m0s
+      slides: ""
+      speakers: null
+      title: Food
+    - duration: 45m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+      speakers:
+      - starefossen
+      title: Building a Bank from Scratch in the Cloud on Kubernetes
+    - duration: 45m0s
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+      speakers: null
+      title: Networking
+    recording: ""
+    sponsors:
+    - company: netic
+      role: Venue
 organizers:
 - allanhojgaardjensen
 - arnemejlholm
 - simonbengtsson
 - camillalarsen
 - nielswittrup
+- kimnoergaard
