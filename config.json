@@ -2192,7 +2192,7 @@
             {
               "duration": "45m0s",
               "title": "Building a Bank from Scratch in the Cloud on Kubernetes",
-              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-building-a-bank-onk8s-tietoEVRY.pdf",
               "speakers": [
                 "starefossen"
               ]
@@ -2200,7 +2200,7 @@
             {
               "duration": "45m0s",
               "title": "Networking",
-              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-building-a-bank-onk8s-tietoEVRY.pdf",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf",
               "speakers": null
             }
           ]

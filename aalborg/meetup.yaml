@@ -195,12 +195,12 @@ meetups:
       speakers: null
       title: Food
     - duration: 45m0s
-      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-building-a-bank-onk8s-tietoEVRY.pdf
       speakers:
       - starefossen
       title: Building a Bank from Scratch in the Cloud on Kubernetes
     - duration: 45m0s
-      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-building-a-bank-onk8s-tietoEVRY.pdf
+      slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
       speakers: null
       title: Networking
     recording: ""
