@@ -35,13 +35,13 @@
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
 - 17:15 - 18:00: KUDO - Kubernetes Operators, the easy way 
   - Nick Jones [@yankcrime](https://github.com/yankcrime), [D2iQ](https://d2iq.com/)
-  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-Introducing-KUDO-D2iQ.pdf
 - 18:00 - 18:30: Food 
 - 18:30 - 19:15: Building a Bank from Scratch in the Cloud on Kubernetes 
   - Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
   - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
 - 19:15 - 20:00: Networking 
-  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-building-a-bank-onk8s-tietoEVRY.pdf
 
 ### #4 Istio in production, Prometheus 101 and Gitops
 
