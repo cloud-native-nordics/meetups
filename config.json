@@ -1771,6 +1771,7 @@
     {
       "id": "nielswittrup",
       "name": "Niels Wittrup",
+      "title": "Senior Software Engineer and Architect",
       "email": "",
       "company": "trackunit",
       "github": "",
@@ -1799,6 +1800,15 @@
       "company": "systor",
       "github": "fegu",
       "speakersBureau": ""
+    },
+    {
+      "id": "kimnoergaard",
+      "name": "Kim Nørgaard",
+      "title": "Senior Consultant",
+      "email": "kn@netic.dk",
+      "company": "netic",
+      "github": "",
+      "speakersBureau": ""
     }
   ],
   "meetupGroups": [
@@ -1811,6 +1821,8 @@
       "sponsorTiers": {
         "centricaenergytrading": "Meetup",
         "cncf": "SpeakerProvider",
+        "d2iq": "SpeakerProvider",
+        "evry": "SpeakerProvider",
         "lunar": "SpeakerProvider",
         "mhivestas": "SpeakerProvider",
         "netic": "Meetup",
@@ -1826,7 +1838,8 @@
         "arnemejlholm",
         "simonbengtsson",
         "camillalarsen",
-        "nielswittrup"
+        "nielswittrup",
+        "kimnoergaard"
       ],
       "cfpLink": "",
       "latitude": 57.055465,
@@ -2123,6 +2136,72 @@
               "speakers": [
                 "kaspernissen"
               ]
+            }
+          ]
+        },
+        "20200121": {
+          "id": 263745353,
+          "photo": "https://secure.meetupstatic.com/photos/event/a/a/7/2/highres_487303634.jpeg",
+          "name": "#5 kubernetes operators \u0026 building a bank from scratch in cloud on kubernetes ",
+          "date": "2020-01-21T16:45:00Z",
+          "duration": "3h15m0s",
+          "attendees": 55,
+          "address": "Alfred Nobels Vej 25",
+          "recording": "",
+          "sponsors": [
+            {
+              "role": "Venue",
+              "company": "netic"
+            }
+          ],
+          "presentations": [
+            {
+              "duration": "15m0s",
+              "title": "Doors Open",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "5m0s",
+              "title": "Welcome from Netic",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf",
+              "speakers": null
+            },
+            {
+              "duration": "10m0s",
+              "title": "Welcome from the organizers",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf",
+              "speakers": [
+                "allanhojgaardjensen"
+              ]
+            },
+            {
+              "duration": "45m0s",
+              "title": "KUDO - Kubernetes Operators, the easy way",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-Introducing-KUDO-D2iQ.pdf",
+              "speakers": [
+                "nickjones"
+              ]
+            },
+            {
+              "duration": "30m0s",
+              "title": "Food",
+              "slides": "",
+              "speakers": null
+            },
+            {
+              "duration": "45m0s",
+              "title": "Building a Bank from Scratch in the Cloud on Kubernetes",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-building-a-bank-onk8s-tietoEVRY.pdf",
+              "speakers": [
+                "starefossen"
+              ]
+            },
+            {
+              "duration": "45m0s",
+              "title": "Networking",
+              "slides": "https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf",
+              "speakers": null
             }
           ]
         }

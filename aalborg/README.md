@@ -15,7 +15,33 @@
 - Arne Mejlholm [@mejlholm](https://github.com/mejlholm), Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
 - Simon Bengtsson, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
 - Camilla Larsen, Systems Engineer, [Spar Nord Bank](https://www.sparnord.dk/)
-- Niels Wittrup, [Trackunit](https://trackunit.com)
+- Niels Wittrup, Senior Software Engineer and Architect, [Trackunit](https://trackunit.com)
+- Kim Nørgaard, Senior Consultant, [Netic](https://www.netic.dk/)
+
+### #5 kubernetes operators & building a bank from scratch in cloud on kubernetes 
+
+- Date: 21 January, 2020 at 16:45 - 20:00
+- Meetup link: https://www.meetup.com/Cloud-Native-Aalborg/events/263745353
+- Attendees (according to meetup.com): 55
+- Venue sponsor: [Netic](https://www.netic.dk/)
+
+#### Agenda
+
+- 16:45 - 17:00: Doors Open 
+- 17:00 - 17:05: Welcome from Netic 
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+- 17:05 - 17:15: Welcome from the organizers 
+  - Allan Hojgaard Jensen [@AllanHoejgaardJensen](https://github.com/AllanHoejgaardJensen), Platform Development Specialist, [Netic](https://www.netic.dk/)
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
+- 17:15 - 18:00: KUDO - Kubernetes Operators, the easy way 
+  - Nick Jones [@yankcrime](https://github.com/yankcrime), [D2iQ](https://d2iq.com/)
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-Introducing-KUDO-D2iQ.pdf
+- 18:00 - 18:30: Food 
+- 18:30 - 19:15: Building a Bank from Scratch in the Cloud on Kubernetes 
+  - Hans Kristian Flaatten [@starefossen](https://github.com/starefossen), DevOps Practice Lead, [EVRY](https://www.evry.com/en/)
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5-building-a-bank-onk8s-tietoEVRY.pdf
+- 19:15 - 20:00: Networking 
+  - Slides: https://github.com/Cloud-Native-Aalborg/media/blob/master/slides/CloudNative-Aalborg-5.pdf
 
 ### #4 Istio in production, Prometheus 101 and Gitops
 
