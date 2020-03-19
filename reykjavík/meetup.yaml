@@ -94,6 +94,29 @@ meetups:
     sponsors:
     - company: netapp
       role: Venue
+  "20200206":
+    presentations:
+    - duration: 30m0s
+      slides: ""
+      speakers:
+      - Skeggi
+      title: Introduction to Computation
+    - delay: 5m0s
+      duration: 15m0s
+      slides: ""
+      speakers:
+      - tryggvilarusson
+      title: Introduction to Kubevirt
+    - delay: 5m0s
+      duration: 45m0s
+      slides: ""
+      speakers:
+      - krisnova
+      title: Fixing the Kubernetes Clusterfuck
+    recording: "https://netapp.zoom.us/rec/share/1MtFaOH9_VNOYqvL8BzeXK5mMIW4aaa8gyZLr_UFyUgXztFgfxjBf8ZG6nUL_yOj?startTime=1581006143000"
+    sponsors:
+    - company: netapp
+      role: Venue
 organizers:
 - sttts
 - skeggithormar
