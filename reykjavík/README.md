@@ -16,6 +16,21 @@
 - Stefan Schimanski [@sttts](https://github.com/sttts), [Red Hat](https://www.redhat.com)
 - Skeggi Þormar, [NetApp](https://www.netapp.com/us/index.aspx)
 
+### And all I ask is a tall ship and a star to steer her by
+
+- Date: 6 February, 2020 at 16:00 - 18:00
+- Meetup link: https://www.meetup.com/Reykjavik-Kubernetes-Meetup/events/268082625
+- Attendees (according to meetup.com): 87
+- Venue sponsor: [NetApp](https://www.netapp.com/us/index.aspx)
+
+#### Agenda
+- 16:00 - 16:20: Introduction To Computation
+  - Skeggi Þormar [@skeggi], [NetApp](https://www.netapp.com/us/index.aspx)
+- 16:25 - 17:00: Introduction to Kubevirt
+  - Tryggvi Lárusson [@tryggvil](https://github.com/tryggvil), [NetApp](https://www.netapp.com/us/index.aspx)
+- 17:00 - 18:00: Fixing the Kubernetes Clusterfuck
+  - Kris Nóva [@kris-nova](https://github.com/kris-nova), [Sysdig](https://sysdig.com/)
+
 ### In the Dangling Conversation ... We Speak of Things That Matter
 
 - Date: 19 September, 2019 at 16:00 - 18:00

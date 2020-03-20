@@ -6028,6 +6028,50 @@
               ]
             }
           ]
+        },
+        "20200206": {
+            "id": "264023532",
+            "photo": "https://secure.meetupstatic.com/photos/event/2/d/4/e/highres_484391598.jpeg",
+            "name": "And all I ask is a tall ship and a star to steer her by",
+            "date": "2020-02-06T16:00:00Z",
+            "duration": "2h30m0s",
+            "attendees": 87,
+            "address": "Kringlan 5",
+            "recording": "https://netapp.zoom.us/rec/share/1MtFaOH9_VNOYqvL8BzeXK5mMIW4aaa8gyZLr_UFyUgXztFgfxjBf8ZG6nUL_yOj?startTime=1581006143000",
+            "sponsors": [
+              {
+                "role": "Venue",
+                "company": "netapp"
+              }
+            ],
+            "presentations": [
+              {
+                "duration": "15m0s",
+                "title": "Introduction to Computation",
+                "slides": "",
+                "speakers": [
+                  "Skeggi"
+                ]
+              },
+              {
+                "duration": "45m0s",
+                "delay": "5m0s",
+                "title": "Introduction to Kubevirt",
+                "slides": "",
+                "speakers": [
+                  "tryggvilarusson"
+                ]
+              },
+              {
+                "duration": "1h0m0s",
+                "delay": "15m0s",
+                "title": "Fixing the Kubernetes Clusterfuck",
+                "slides": "",
+                "speakers": [
+                  "krisnova"
+                ]
+              }
+            ]
         }
       }
     },
@@ -6232,7 +6276,7 @@
           "date": "2019-05-08T18:30:00Z",
           "duration": "3h0m0s",
           "attendees": 88,
-          "address": "",
+          "address": "Linnégatan 89C",
           "recording": "",
           "sponsors": null,
           "presentations": null
