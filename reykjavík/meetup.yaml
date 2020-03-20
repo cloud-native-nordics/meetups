@@ -99,7 +99,7 @@ meetups:
     - duration: 30m0s
       slides: ""
       speakers:
-      - Skeggi
+      - skeggithormar
       title: Introduction to Computation
     - delay: 5m0s
       duration: 15m0s
