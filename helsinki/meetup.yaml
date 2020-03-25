@@ -591,6 +591,18 @@ meetups:
     presentations: null
     recording: https://youtu.be/3k5EfIQpw-E
     sponsors: null
+  "20200326":
+    presentations:
+    - duration: 60m0s
+      slides: null
+      speakers:
+        - luxas
+        - hans
+        - kaspernissen
+        - jessicaandersson
+        - laszlo
+      title: Cloud Native Nordics Stories - a virtual Cloud Native sharing session
+    recording: "https://youtu.be/6nniWxL-ss4"
 organizers:
 - luxas
 - annie
