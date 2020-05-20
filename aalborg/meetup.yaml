@@ -207,6 +207,22 @@ meetups:
     sponsors:
     - company: netic
       role: Venue
+  "20200304":
+    presentations:
+    - duration: 45m0s
+      slides: https://www.slideshare.net/FrederikMogensen/cloud-native-nordics-real-world-istio
+      speakers:
+      - frederikmogensen
+      title: Real world Istio - War stories and Gotchas
+    - duration: 45m0s
+      slides: ""
+      speakers:
+      - sorendossing
+      title: Kubernetes Ingress Controllers
+    recording: ""
+    sponsors:
+    - company: telenor
+      role: Venue
 organizers:
 - allanhojgaardjensen
 - arnemejlholm

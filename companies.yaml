@@ -460,3 +460,7 @@
   logoURL: https://systor.azureedge.net/wp-content/uploads/2017/10/systor-vest-logo.png
   name: Systor Vest AS
   websiteURL: https://systorvest.no/
+- id: telenor
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Telenor_Logo.svg/640px-Telenor_Logo.svg.png
+  name: telenor
+  websiteURL: https://www.telenor.dk/
